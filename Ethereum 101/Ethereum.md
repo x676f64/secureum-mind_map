@@ -1,4 +1,4 @@
-# 1 - Ethereum
+# 1 - [[Ethereum]]
 
 Ethereum is “A Next-Generation Smart Contract and Decentralized Application Platform” 
 
