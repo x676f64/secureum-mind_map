@@ -14,7 +14,7 @@ The impetus for this project is both self-edification as well as enabling access
 
 Currently, I have copied over the slide text as well as the relavent section from the blog.
 
-If you open this in [Obsidian](https://obisidian.md) you can graph the notes.
+If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
 ![example.png](./images/example.png)
 
