@@ -6,7 +6,7 @@ A contract account has code and associated storage and every time it receives a 
 ## Slide Text
 - Account -> Nonce, Value, Code, Storage
 - Contract X -> Code
-- Contract X -> Storage
+- Contract X -> [[Storage]]
 - Receive Tx/Message -> Run
 	- Runs Code & Accesses Storage
 - Message Accounts
