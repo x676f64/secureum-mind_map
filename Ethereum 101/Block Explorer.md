@@ -2,7 +2,7 @@
 
 Block explorers are portals that allow anyone to see real-time data on blocks, transactions, accounts, contract interactions etc. A popular Ethereum block explorer is [etherscan.io](http://etherscan.io/).
 
----
+___
 ## Slide Text
 - Application -> Web Portal
 - Real-time on-chain data about blocks & tx's
@@ -14,7 +14,7 @@ Block explorers are portals that allow anyone to see real-time data on blocks, t
 - [Blockchair](https://blockchair.com/)
 - [Blockscout](https://blockscout.com/)
 
----
+___
 ## Other Explorers
 - [EthTx](https://ethtx.info/)
 - [Bloxy.info](https://bloxy.info)

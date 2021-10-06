@@ -4,7 +4,7 @@ Unlike Bitcoin, which has a very limited scripting language, Ethereum is designe
 
 Where Bitcoin’s Script language is, intentionally, constrained to simple true/false evaluation of spending conditions, Ethereum’s language is Turing complete, meaning that Ethereum can straightforwardly function as a general-purpose computer.
 
----
+___
 ## Slide Text
 - Bitcoin Blockchain
 	- Bitcoin -> Ownership
@@ -15,6 +15,6 @@ Where Bitcoin’s Script language is, intentionally, constrained to simple true/
 	- Ethereum Account Balance
 	- State -> Transition
 
----
+___
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

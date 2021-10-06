@@ -2,7 +2,7 @@
 
 An EOA has no code, and one can send messages from an EOA by creating and signing a transaction
 
----
+___
 ## Slide Text
 - Account -> [[Nonce]], [[Value]], Code, [[Storage]]
 - EOA X -> Code
@@ -10,6 +10,6 @@ An EOA has no code, and one can send messages from an EOA by creating and signin
 - Digital Signatures -> Message to other accounts
 	- Transfer value
 	- Trigger smart contracts
----
+___
 ## References
 - [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=234)

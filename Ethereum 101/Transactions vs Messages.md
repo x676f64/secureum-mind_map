@@ -10,7 +10,7 @@ Transactions vs Messages:
 	1.  triggered by a transaction to another EOA or contract account or
 	2.  triggered internally within the EVM by a contract account when it executes the CALL family of opcodes and leads to the recipient contract account running its code or value transfer to the recipient EOA
 
----
+___
 ## Slide Text
 - Tx: Offchain -> Onchain
 - Msg: Onchain -> Onchain

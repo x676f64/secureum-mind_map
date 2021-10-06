@@ -4,7 +4,7 @@ The EVM is a quasi Turing complete machine where the quasi qualification comes f
 
 EVM is the runtime environment for smart contracts.
 
----
+___
 ## Slide Text
 - Ethereum Virtual Machine
 - [[Smart Contracts]] -> Runtime Environment

@@ -8,7 +8,7 @@ Miners are rewarded for blocks accepted into the blockchain with a block reward 
 
 A miner also gets fees which is the ether spent on gas by all the transactions included in the block.
 
----
+___
 ## Slide Text
 - Entities running ethereum nodes
 - [[Transaction]]s -> Validate/Execute/Combine -> Blocks

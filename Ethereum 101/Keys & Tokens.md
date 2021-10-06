@@ -8,12 +8,12 @@ Keys & Tokens: While “crypto” may indeed mean cryptocurrencies to some non-t
 
 3.  The notion of assets in [[Web3]] is fundamentally different. Cryptoassets are borderless digital tokens whose accounting ledger is managed by consensus on the blockchain and ownership is determined by access to corresponding cryptographic keys. If someone gets access to your private keys controlling cryptoassets, they can transfer those assets to blockchain addresses controlled by their keys. In a perfectly decentralized world, no intermediary (e.g. centralized exchange) should exist that can reverse such a loss — transactions are immutable. Because there are limited response options, preventive security measures become more critical in the Web3 space.
 
----
+___
 ## Slide Text
 - Passwords vs Keys
 - Reset/Restore Vs Permanent Loss
 - Data vs. Tokens
 - Fines/Regulations/Reversals Vs. Irreversible/Immutable 
----
+___
 ## Tags
 [[Web2 vs. Web3]]

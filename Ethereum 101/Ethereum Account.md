@@ -6,13 +6,13 @@ Ethereum account contains four fields:
 3.  The account's contract code, if present
 4.  The account's storage (empty by default)
 
----
+___
 ## Slide Text
 - Four Fields
 - [[Nonce]] -> Counter
 - Balance -> Ether
 - Contract Code
 - Contract [[Storage]]
----
+___
 ## References
 - [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=124)

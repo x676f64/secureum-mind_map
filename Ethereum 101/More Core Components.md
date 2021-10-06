@@ -5,7 +5,7 @@
 3.  Economic security: Ethereum currently uses a PoW algorithm called Ethash, but this is being transitioned to a PoS algorithm in [[ETH 2.0]].
 4.  Clients: Ethereum has several interoperable implementations of the client software, the most prominent of which are Go-Ethereum (Geth) and OpenEthereum. The others are Erigon, Nethermind and Turbo-geth. OpenEthereum is being deprecated to transition to Erigon, which is the former Turbo-geth. 
 
----
+___
 ## Slide Text
 - Consensus Algorithm
 - Nakamoto -> PoW
@@ -15,6 +15,6 @@
 - PoW -> Ethash
 - Clients -> Geth, Erigon, Nethermind, OpenEthereum
 
----
+___
 ## References
 - [Ethernodes.org](https://www.ethernodes.org/)

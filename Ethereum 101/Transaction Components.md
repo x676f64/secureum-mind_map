@@ -7,9 +7,9 @@ A transaction is a serialized binary message that contains the following compone
 4.  [[Recipient]]: The destination Ethereum address
 5.  [[Value]]: The amount of ether (in wei) to send to the destination
 6.  [[Data]]: The variable-length binary data payload
-7.  [[v, r, s]]: The three components of an ECDSA digital signature of the originating EOA
+7.  [[v, r, s]]: The three components of an [[ECDSA]] digital signature of the originating [[EOA]]
 
----
+___
 ## Slide Text
 - Serialized Binary Message
 - Nonce -> sequence number
@@ -18,11 +18,11 @@ A transaction is a serialized binary message that contains the following compone
 - recipient -> Dest addr
 - Value -> Wei
 - data -> payload
-- v, r, s -> ECDSA sig 
----
+- v, r, s -> [[ECDSA]] sig 
+___
 ## Code Examples
 `# seth gas-price`
 
----
+___
 ## References
 - [Ethereum Book: Chapter 06 - Transactions](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)

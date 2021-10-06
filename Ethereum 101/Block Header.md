@@ -31,9 +31,9 @@ Blocks contain block header, transactions and ommers’ block headers. Block hea
 14.  _mixHash_: A 256-bit hash which, combined with the nonce, proves that a sufficient amount of computation has been carried out on this block
 
 15.  _[[nonce]]_: A 64-bit value which, combined with the mixhash, proves that a sufficient amount of computation has been carried out on this block
----
+___
 ## Slide Text
----
+___
 - Block -> Header, Txs, Ommers' Headers
 - Block Header -> parentHash, OmmersHash, Beneficiary address, stateRoot, - TransactionsRoot, receiptsRoot, logsBloom, difficulty, number, gasLimit, gasUsed, extraData, timestamp (unix time), mixhash, none
 - root hashes -> modified patricia-tree -> stateRoot, TransactionsRoot, receiptsRoot

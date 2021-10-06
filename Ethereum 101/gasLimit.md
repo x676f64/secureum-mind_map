@@ -2,7 +2,7 @@
 
 The maximum number of gas units the transaction originator is willing to pay in order to complete the transaction
 
----
+___
 ## Slide Text
 - Max Gas units- > Originator willing to pay (EOA)
 - Ether Transfer -> 21000 Gas required

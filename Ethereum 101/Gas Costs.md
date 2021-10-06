@@ -7,8 +7,7 @@ Gas costs for different instructions are different depending on their computatio
 4.  MLOAD/MSTORE/MSTORE8 are 3 gas
 5.  SLOAD is 2,100 gas and SSTORE is 20,000 gas to set a storage slot from 0 to non-0 and 5,000 gas otherwise
 6.  CREATE is 32,000 gas and SELFDESTRUCT is 5,000 gas 
-
----
+___
 ## Slide Text
 - Diff Instructions -> Diff costs
 - Depends on computational/storage load

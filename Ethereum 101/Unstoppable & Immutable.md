@@ -6,7 +6,7 @@ Unstoppable & Immutable: [[Web3]] applications, popularly known as Decentralized
     
 2.  Smart contracts, in general, are expected (by users) to not have kill switches controlled by deployers. They are also expected to not be arbitrarily upgradeable. Both these stem from the [[Web3]] goal of trust-minimization, i.e. lack of need to trust potentially malicious  ÐApp developers. However, this makes fixing security vulnerabilities in deployed code and responding to exploits very challenging.
 
----
+___
 ## Slide Text
 - [[Dapp]]s -> Decentralized Infrastructure & Governance
 - No single entity -> Can stop/change Dapp/Infra/Gov

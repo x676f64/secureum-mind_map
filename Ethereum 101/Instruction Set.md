@@ -14,7 +14,7 @@ There are eleven Types of Instruction Categories:
 10. [[Logging Operations]]
 11. [[System Operations]] 
 
----
+___
 ## Slide Text
 There are eleven Types of Instruction Categories:
 1. Stop and Arithemtic

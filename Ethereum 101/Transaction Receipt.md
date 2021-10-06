@@ -6,7 +6,7 @@ Transaction receipt is a tuple of four items comprising: 
 3.  The Bloom filter composed from information in those logs
 4.  The status code of the transaction
 
----
+___
 ## Slide Text
 - Four Item Tuple (n, n, n, n)
 - Cumulative Gas Used

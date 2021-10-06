@@ -5,7 +5,7 @@ A digital signature serves three purposes in Ethereum:
 2. Guarantees non-repudiation: the proof of authorization is undeniable
 3. Proves that the transaction data has not been and cannot be modified by anyone after the transaction has been signed.
 
----
+___
 ## Slide Text
 - 3 Purpose
 - Authorization -> Proves authority

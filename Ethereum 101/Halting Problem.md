@@ -6,13 +6,13 @@ Turing-complete systems face the challenge of the halting problem i.e. given an 
 
 Ethereum cannot predict if a smart contract will terminate, or how long it will run. Therefore, to constrain the resources used by a smart contract, Ethereum introduces a metering mechanism called gas.
 
----
+___
 ## Slide Text
 - Turing Complete -> Halting Problem
 - Arbitrary Program/Input Predict -> Stop?
 - Smart Contracts Predict -> How Long? Stop?
 - Constrain Resources
 	- Metering -> Gas
----
+___
 ## References 
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

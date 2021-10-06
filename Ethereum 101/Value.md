@@ -10,7 +10,7 @@ The value of ether sent to the transaction recipient.
 
 Depending on the implementation of those functions, the ether value is added to the contract account’s balance or an exception occurs and this ether remains with the originator’s account.
 
----
+___
 ## Slide Text
 - Denominated in Ether
 - Sender -> Recipient

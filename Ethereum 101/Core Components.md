@@ -7,13 +7,13 @@ Ethereum’s core components:
 3.  State machine: Ethereum state transitions are processed by the Ethereum Virtual Machine ([[EVM]]), a stack-based virtual machine that executes bytecode (machine-language instructions). [[EVM]] programs, called "smart contracts," are written in high-level languages (e.g., Solidity or Vyper) and compiled to bytecode for execution on the [[EVM]].
 4.  Data structures: Ethereum’s state is stored locally on each node as a database (usually Google’s LevelDB), which contains the transactions and system state in a serialized hashed data structure called a Merkle Patricia Tree.
 
----
+___
 ## Slide Text
 - Transaction: Sender, [[Recipient]], [[Value]], [[Data]]
 - State Machine -> [[EVM]]
 - HLLs (Solidity) -> Bytecode
 - Data Structures
 - Merkle Patricia Tree
----
+___
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

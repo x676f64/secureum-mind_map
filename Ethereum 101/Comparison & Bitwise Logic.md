@@ -20,6 +20,6 @@
 
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
 
- ---
+___
 ## Tags
 [[Instruction Set]]

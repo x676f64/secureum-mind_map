@@ -12,7 +12,7 @@
 
 [^1]:(Mnemonic, Stack items placed, Stack items removed)
 
----
+___
 ## Slide Text
 - Append Log Record -> Topics
 - Logs -> event
@@ -21,6 +21,6 @@
 - Non-indexed -> Data part of the log
 - Can be critical how contracts communicate some parts of state to off-chain tools 
 
- ---
+___
 ## Tags
 - [[Instruction Set]]

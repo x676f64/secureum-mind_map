@@ -5,7 +5,7 @@ Ethereum’s proof-of-work algorithm is called “Ethash” (previously known as
     
 2.  PoW is the proof-of-work function which evaluates to an array with the first item being the mixHash and the second item being a pseudorandom number cryptographically dependent on H and d.
 
----
+___
 ## Slide Text
 - Provides Sybil consensus resistance 
 - Technically referred to as Ethhash

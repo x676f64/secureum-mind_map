@@ -6,7 +6,7 @@ Ether used to purchase gas used for the transaction is credited to the beneficia
 
 This is the transaction “fees” paid to the miner.
 
----
+___
 ## Slide Text
 - Beneficiary & Refund
 - Beneficiary -> Miner Tx Fees

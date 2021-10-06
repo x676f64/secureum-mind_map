@@ -12,6 +12,6 @@ Places items -> Stack
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
 [^2]: PUSH3, PUSH4, PUSH5…PUSH31 place 3, 4, 5..31-byte items on stack respectively*
 
- ---
+___
 ## Tags
 [[Instruction Set]]

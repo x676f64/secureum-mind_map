@@ -2,7 +2,7 @@
 
 Ethereum’s purpose is not primarily to be a digital currency payment network. While the digital currency ether is both integral to and necessary for the operation of Ethereum, ether is intended as a utility currency to pay for use of the Ethereum platform as the world computer.
 
----
+___
 ## Slide Text
 - Not currency
 - Not Payment Network
@@ -11,7 +11,7 @@ Ethereum’s purpose is not primarily to be a digital currency payment network. 
 - Utility Token
 - Use -> Ethereum
 - Pay -> Ether
----
+___
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
 - [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=1129)

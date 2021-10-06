@@ -8,7 +8,7 @@ Once a contract's code is deployed, it becomes immutable (with exceptions noted 
     
 3.  CREATE2 opcode allows updating in place using init_code
 
----
+___
 ## Slide Text
 Immutable Contracts
 Bugs X ->  Fix

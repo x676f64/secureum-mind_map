@@ -7,7 +7,7 @@ A Merkle tree or trie is a type of binary tree composed of a set of nodes with:
 2.  Intermediate nodes, where each node is the hash of its two child nodes
 3.  A single root node formed from the hash of its two child nodes representing the top of the tree
 
----
+___
 ## Slide Text
 - Address -> Account State
 - Modified Merkle-Patricia Tree

@@ -8,7 +8,7 @@ Etherum Improvement Proposals (EIPs) describe standards for the Ethereum platfor
 5.  **Meta**: Describes a process surrounding Ethereum or proposes a change to (or an event in) a process
 6.  **Informational**: Describes a Ethereum design issue, or provides general guidelines or information to the Ethereum community, but does not propose a new feature
 
----
+___
 ## Slide Text
 Ethereum Imporvement Proposal (EIP)
 
@@ -18,7 +18,7 @@ Standard and Specifications:
 - Interface 
 - ERC (Ethereum Request for Comment)
 - Meta & Informational (governance)
----
+___
 ## References
 -  [Ethereum.org - EIPs]](https://eips.ethereum.org/)
 -  [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=666) 

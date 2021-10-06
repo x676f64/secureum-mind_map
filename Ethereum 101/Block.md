@@ -6,7 +6,7 @@ This prevents fraud, because one change in any block in history would invalidate
 
 To preserve the transaction history, blocks are strictly ordered (every new block created contains a reference to its parent block), and transactions within blocks are strictly ordered as well.
 
----
+___
 ## Slide Text
 - Block -> Grouped [[Transaction]]s
 - Hash -> Previous Block
@@ -14,6 +14,6 @@ To preserve the transaction history, blocks are strictly ordered (every new bloc
 - Each Block -> Refs Parent Block
 - Tx's are strictly ordered in block
 - Integrity Important -> Prevent Fraud 
----
+___
 ## References
 -  [Ethereum.org - Blocks](https://ethereum.org/en/developers/docs/blocks/))

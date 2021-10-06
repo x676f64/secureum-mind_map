@@ -6,7 +6,7 @@ Compressed Timescales: It feels like innovation in the [[Web3]] space moves at w
     
 2.  This compressed timescale has a tangible impact on security considerations during design, development and deployment. Corners are cut and shortcuts taken to ride new waves of hype. The end result is a poorly tested system that holds millions of dollars worth of tokens but is vulnerable to exploits.
 
----
+___
 ## Slide Text
 - Compressed Timescales
 - Open-source & Composable

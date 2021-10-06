@@ -10,6 +10,6 @@
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
 [^2]: SWAP2, SWAP3..SWAP15 swap 3rd, 4th..16th stack item respectively* 
 
----
+___
 ## Tags
 [[Instruction Set]]

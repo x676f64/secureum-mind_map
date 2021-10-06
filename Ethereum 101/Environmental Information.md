@@ -22,9 +22,9 @@
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
 [^2]: The base cost is shown but may vary based on the opcode arguments.
 
----
+___
 ## References
 - [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=480)
----
+___
 ## Tags
 [[Instruction Set]]

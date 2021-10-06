@@ -8,7 +8,7 @@ Pseudonymous Teams & DAOs: Perhaps inspired by Bitcoin’s Satoshi Nakamoto, the
     
 3.  To minimise the role and influence of a few privileged individuals in the lifecycle of projects, there is an increasing trend towards governance by token-holding community members — a Decentralized Autonomous Organization (DAO) of pseudonymous token-holding blockchain addresses making voting-based decisions on project treasury spending and protocol changes. While this reduces centralized points of wetware failure, it potentially slows down decision-making on security-critical aspects and may even lead to project forks.
 
----
+___
 ## Slide Text
 - Regularity Uncertainty & Legal Implications
 - Reputation & Trustworthiness

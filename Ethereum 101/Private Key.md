@@ -2,7 +2,7 @@
 
 An Ethereum private key is a 256-bit random number that uniquely determines a single Ethereum address also known as an account.
 
----
+___
 ## Slide Text
 - Secret -> 256-bit
 - Random Number

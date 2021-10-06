@@ -15,6 +15,6 @@ Information about the Transaction's Block
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
 [^2]:Can have security implications if the block requested is not in the most 256 blocks because it can return 0.* 
 
- ---
+___
 ## Tags
 [[Instruction Set]]

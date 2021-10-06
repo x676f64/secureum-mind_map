@@ -16,7 +16,7 @@
 |         10x0a         |    EXP 2 1     | Exponential operation                            | 10 [^2] |
 |         10x0b         | SIGNEXTEND 2 1 | Extend length of two’s complement signed integer | 5       |
  
- ---
+___
 ## Tags
 [[Instruction Set]]
 

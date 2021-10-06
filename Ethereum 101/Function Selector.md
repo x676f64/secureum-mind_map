@@ -6,18 +6,18 @@ The first four bytes of the call data for a function call specifies the function
 2.  The signature is defined as the canonical expression of the basic prototype without data location specifier, i.e. the function name with the parenthesised list of parameter types. Parameter types are split by a single comma - no spaces are used.
     
 3.  Function Arguments: The encoded arguments follow the function selector from the fifth byte onwards.
----
+___
 ## Slide Screenshot
 [tbd]
 
----
+___
 ## Slide Text
 - Specifics the exact function that needs to be called
 - Selector -> Contract Function
 - First 4 bytes -> Keccak256(fn sig)
 - Function signature -> Name(param1type,param2type)
 - Function Arguments -> Encoded & 5th Byte onwards
----
+___
 ## Example
 Function: ``function deposit(address _from, uint256 _amount) {...}``
 
@@ -27,7 +27,7 @@ Keccak256: `0x47e7ef24b3022e382e65b1298581281f0ae273ac4f76464efcf5b06769264f2f`
 
 Function Selector/Signature: `0x47e7ef24`
 
----
+___
 ## Code Example
 ```
 # seth sig 'deposit(address,uint256)'
@@ -37,6 +37,6 @@ Function Selector/Signature: `0x47e7ef24`
 0x47e7ef24
 ```
 
----
+___
 ## Resources
 - [4byte Directory](https://www.4byte.directory/) 

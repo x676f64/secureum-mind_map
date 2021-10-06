@@ -4,7 +4,7 @@
 
 Blocks therefore are not a fixed size in terms of the number of transactions because different transactions consume different amounts of gas. 
 
----
+___
 ## Slide Text
 - Total Gas Spent by all tx's in that block
 - Txs -> [[Block]]
@@ -14,10 +14,10 @@ Blocks therefore are not a fixed size in terms of the number of transactions bec
 - Controlled by -> Miners
 - Current -> 15 Million gas limit
 - Represents -> Demand for block space 
----
+___
 ## References
 - [Historical block gas limits]](https://etherscan.io/chart/gaslimit)
----
+___
 ## Code Examples
 Get the latest block gasLimit using seth
 ```

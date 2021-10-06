@@ -7,7 +7,7 @@
 3.  **storageRoot**: A 256-bit hash of the root node of a modified Merkle-Patricia tree that encodes the storage contents of the account (a mapping between 256-bit integer values), encoded into the trie as a mapping from the Keccak 256-bit hash of the 256-bit integer keys to the RLP-encoded 256-bit integer values.
 4.  **codeHash**: The hash of the EVM code of this account—this is the code that gets executed should this address receive a message call; it is immutable and thus, unlike all other fields, cannot be changed after construction.
 
----
+___
 ## Slide Text
 - Modified Merkle-Patricia Tree
 - Leaves -> Key-Value Pairs

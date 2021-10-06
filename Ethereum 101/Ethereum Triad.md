@@ -2,7 +2,7 @@
 
 Ethereum blockchain represents the decentralized compute part of Web 3.0. Swarm represents the decentralized storage and Whisper (now Waku) represents the decentralized messaging protocol.
 
----
+___
 ## Slide Text
 - Ethereum -> Compute
 - Swarm -> Storage

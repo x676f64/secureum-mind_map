@@ -11,7 +11,7 @@ The EVM will terminate execution if the amount of gas consumed by computation ex
 Gas is the mechanism Ethereum uses to allow Turing-complete computation while limiting the resources that any program can consume.
 
 
----
+___
 ## Slide Text
 - EVM -> Smart Contract
 - Instruction -> Gas
@@ -22,6 +22,6 @@ Gas is the mechanism Ethereum uses to allow Turing-complete computation while li
 - Turing Compelete
 	- Gas -> Constrains
 
----
+___
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

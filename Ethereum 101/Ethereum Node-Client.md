@@ -8,13 +8,13 @@ The two most common client implementations are Geth and OpenEthereum.
 
 Ethereum transactions are sent to Ethereum nodes to be broadcast across the peer-to-peer network.
 
----
+___
 ## Slide Text
 - Node -> Protocol Implementation Ethereum Specification
 - P2P: Node <-> Node
 - Client -> Specific Implementation
 - Geth, OpenEth, Erigon, Nethermind 
 
----
+___
 ## References
 -  [Ethernodes.org](https://www.ethernodes.org/)

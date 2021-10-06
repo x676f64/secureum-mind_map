@@ -8,7 +8,7 @@ All locations are well-defined initially as zero.
 
 This is accessed with SLOAD/SSTORE instructions.
 
----
+___
 ## Slide Text
 - Non-Volatile (Persistent)
 - Key-Value Store

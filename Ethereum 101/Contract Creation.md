@@ -6,7 +6,7 @@ A contract creation transaction contains a data payload with the compiled byteco
 
 An optional ether amount in the [[Value]] field will create the new contract with a starting balance.
 
----
+___
 ## Slide Text
 - Tx Result -> Creation [[Transaction]]
 - Create tx -> Sent to special 0 address (0x0)

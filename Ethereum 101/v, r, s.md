@@ -4,7 +4,7 @@
 
 **_v_** is the recovery identifier which is calculated as either one of 27 or 28, or as the chain ID (Ethereum mainnet chainID is 1) doubled plus 35 or 36. 
 
----
+___
 ## Slide Text
 - [[ECDSA]] Signature -> 65 Bytes
 - r, s -> signature
@@ -13,7 +13,7 @@
 - v -> 27 or 28 or
 - chainID*2 + 35 or 36
 
----
+___
 ## Code Examples
 ```
 # seth chain
@@ -22,6 +22,6 @@ ethlive
 # seth chain-id
 1
 ```
----
+___
 ## References
 [Ethereum Book: Chapter 06 - Transactions (Digital Signatures)](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc#digital-signatures))
