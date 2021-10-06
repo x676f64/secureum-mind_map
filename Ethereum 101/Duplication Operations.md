@@ -1,4 +1,4 @@
-# 74 - Duplication Operations
+# 74 - [[Duplication Operations]]
 
 
 | OP Code (Hexidecimal) | Operation* | Description | 

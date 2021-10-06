@@ -1,4 +1,4 @@
-# 58 - Ethereum Code
+# 58 - [[Ethereum Code]]
 
 The code in Ethereum contracts is written in a low-level, stack-based bytecode language, referred to as "Ethereum virtual machine code" or "EVM code". 
 

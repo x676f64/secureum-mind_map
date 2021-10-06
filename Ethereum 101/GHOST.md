@@ -1,4 +1,4 @@
-# 49 - GHOST
+# 49 - [[GHOST]]
 
 Blocks take time to propagate through the network and multiple miners are simultaneously producing valid blocks. 
 

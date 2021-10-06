@@ -1,4 +1,4 @@
-# 85 - EIP
+# 85 - [[EIP]]
 
 Etherum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards. Standards Track EIPs are separated into a number of types:
 1.  **Core**: Improvements requiring a consensus fork as well as changes that are not necessarily consensus critical but may be relevant to “core dev” discussions

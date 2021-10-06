@@ -1,4 +1,4 @@
-# 9 - More Core Components
+# 9 - [[More Core Components]]
 
 1.  Consensus algorithm: Ethereum uses Bitcoin’s consensus model, Nakamoto Consensus, which uses sequential single-signature blocks, weighted in importance by Proof-of-Work (PoW) to determine the longest chain and therefore the current state. 
 2.  However, this is being transitioned to a Proof-of-Stake (PoS) algorithm in Ethereum 2.0.

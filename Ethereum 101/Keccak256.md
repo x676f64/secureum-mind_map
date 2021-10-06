@@ -1,4 +1,4 @@
-# 29 - Keccak256
+# 29 - [[Keccak256]]
 
 Ethereum uses Keccak256 as its cryptographic hash function. Keccak256 was the winning candidate for the SHA3 competition held by NIST but is different from the finally adopted [[SHA3]] standard.
 

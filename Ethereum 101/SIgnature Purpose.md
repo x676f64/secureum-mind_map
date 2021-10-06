@@ -1,4 +1,4 @@
-# 41 - SIgnature Purpose
+# 41 - [[Signature Purpose]]
 
 A digital signature serves three purposes in Ethereum: 
 1. Proves that the owner of the private key, who is by implication the owner of an Ethereum account, has authorized the spending of ether, or execution of a contract 

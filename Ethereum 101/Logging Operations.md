@@ -1,4 +1,4 @@
-# 76 - Logging Operations
+# 76 - [[Logging Operations]]
 
 
 Append Log Record -> Topics

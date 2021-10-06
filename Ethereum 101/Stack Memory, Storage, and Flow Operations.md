@@ -1,4 +1,4 @@
-# 72 - Stack Memory, Storage, and Flow Operations
+# 72 - [[Stack Memory, Storage, and Flow Operations]]
 
 
 | OP Code (Hexidecimal) | Operation* | Description | 

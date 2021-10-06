@@ -1,4 +1,4 @@
-# 77 - System Operations
+# 77 - [[System Operations]]
 | OP Code (Hexidecimal) | Operation\* | Description | 
 |:-:|:-:|:-|
 |0xf0|CREATE 3 1|Create a new account with associated code|

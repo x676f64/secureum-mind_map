@@ -1,4 +1,4 @@
-# 15 - Ethereum Triad
+# 15 - [[Ethereum Triad]]
 
 Ethereum blockchain represents the decentralized compute part of Web 3.0. Swarm represents the decentralized storage and Whisper (now Waku) represents the decentralized messaging protocol.
 

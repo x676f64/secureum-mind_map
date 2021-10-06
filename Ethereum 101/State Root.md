@@ -1,4 +1,4 @@
-# 54 - State Root
+# 54 - [[State Root]]
 
 **_stateRoot_**, **_transactionsRoot_**, and **_receiptsRoot_** are 256-bit hashes of the root nodes of modified Merkle-Patricia trees. The leaves of stateRoot are key-value pairs of all Ethereum address-account pairs, where each respective account consists of:
 

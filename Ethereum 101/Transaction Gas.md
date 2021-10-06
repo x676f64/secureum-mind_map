@@ -1,4 +1,4 @@
-# 56 - Transaction Gas
+# 56 - [[Transaction Gas]]
 
 Gas refund and beneficiary: Any unused gas in a transaction (gasLimit minus gas used by the transaction) is refunded to the sender’s account at the same gasPrice. 
 

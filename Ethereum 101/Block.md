@@ -1,4 +1,4 @@
-# 45 - Block
+# 45 - [[Block]]
 
 **Blocks** are batches of transactions with a hash of the previous block in the chain. This links blocks together (in a chain) because hashes are cryptographically derived from the block data. 
 

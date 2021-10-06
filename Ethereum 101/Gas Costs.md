@@ -1,4 +1,4 @@
-# 78 - Gas Costs
+# 78 - [[Gas Costs]]
 
 Gas costs for different instructions are different depending on their computational/storage load on the client. Examples are:
 1.  STOP, INVALID and REVERT are 0 gas

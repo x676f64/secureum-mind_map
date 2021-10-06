@@ -1,4 +1,4 @@
-# 53 - Block Header
+# 53 - [[Block Header]]
 
 Blocks contain block header, transactions and ommers’ block headers. Block header contains
 

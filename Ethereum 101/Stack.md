@@ -1,4 +1,4 @@
-# 60 - Stack
+# 60 - [[Stack]]
 
 Stack is made up of 1024 256-bit elements. EVM instructions can operate with the top 16 stack elements. 
 

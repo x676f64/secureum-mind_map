@@ -1,4 +1,4 @@
-# 22 - Ethereum State
+# 22 - [[Ethereum State]]
 
 Ethereum state is made up of objects called "accounts", with each account having a 20-byte address and state transitions being direct transfers of [[Value]] and information between accounts. 
 

@@ -1,4 +1,4 @@
-# 48 - Block Gas Limit
+# 48 - [[Block Gas Limit]]
 
 [[Block]] gas limit is set by miners and refers to the cap on the total amount of gas expended by all transactions in the block, which ensures that blocks can’t be arbitrarily large. 
 

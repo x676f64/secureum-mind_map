@@ -1,6 +1,6 @@
-# 91 - Open-Source  Transparent
+# 91 - [[Open-Source & Transparent]]
 
-Open-source & Transparent: Given the emphasis on trust-minimization, Web3 software, especially smart contracts, are expected to be open-source by default. 
+Open-source & Transparent: Given the emphasis on trust-minimization, [[Web3]] software, especially smart contracts, are expected to be open-source by default. 
 
 1.  The deployed bytecode is also expected to be source code verified (on a service such as Etherscan). Security by obscurity with proprietary code is not part of Web3's ethos.
 
@@ -16,4 +16,6 @@ Open-source & Transparent: Given the emphasis on trust-minimization, Web3 softwa
 - All tx's -> Blockchain
 - Pending Tx's -> Mempool
 - No security by obscurity 
-
+---
+## Tags
+[[Block Explorer]]

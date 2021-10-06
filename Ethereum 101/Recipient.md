@@ -1,4 +1,4 @@
-# 37 - Recipient
+# 37 - [[Recipient]]
 
 The 20-byte Ethereum address of the transaction’s recipient which can be an [[EOA]] or a [[Contract Account]].
 

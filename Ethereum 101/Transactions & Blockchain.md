@@ -1,4 +1,4 @@
-# 44 - Transactions &  Blockchain
+# 44 - [[Transactions & Blockchain]]
 
 Transactions are grouped together into blocks. A blockchain contains a series of such blocks that are chained together.
 

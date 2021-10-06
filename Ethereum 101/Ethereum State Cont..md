@@ -1,4 +1,4 @@
-# 51 - Ethereum Blockchain State 
+# 51 - [[Ethereum Blockchain State]] 
 
 State is a mapping between addresses and account states implemented as a modified Merkle Patricia tree or trie. 
 

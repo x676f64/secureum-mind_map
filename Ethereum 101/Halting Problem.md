@@ -1,4 +1,4 @@
-# 10 - Halting Problem
+# 10 - [[Halting Problem]]
 
 Ethereum’s ability to execute a stored program, in a state machine called the Ethereum Virtual Machine, while reading and writing data to memory makes it a Turing-complete system.
 

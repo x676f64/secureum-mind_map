@@ -1,4 +1,4 @@
-# 12 - Gas Mechanism
+# 12 - [[Gas Mechanism]]
 
 
 Ether needs to be sent along with a transaction and it needs to be explicitly earmarked for the purchase of gas, along with an acceptable gas price. Just like at the pump, the price of gas is not fixed. 

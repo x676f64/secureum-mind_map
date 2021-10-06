@@ -1,4 +1,4 @@
-# 84 - Mainnet
+# 84 - [[Mainnet]]
 
 Mainnet: Short for "main network," this is the main public Ethereum blockchain. There are other Ethereum “testnets” where protocol or smart contract developers test their protocol upgrades or contracts. While mainnet uses real ETH, testnets use test ETH that can be obtained from faucets. The popular testnets are:
 

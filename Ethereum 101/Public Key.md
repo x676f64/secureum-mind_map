@@ -1,4 +1,4 @@
-# 21 - Public Key
+# 21 - [[Public Key]]
 
 An Ethereum public key is a point on an elliptic curve calculated from the private key using elliptic curve multiplication. One cannot calculate the private key from the public key.
 

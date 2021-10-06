@@ -1,4 +1,4 @@
-# 23 - Ethereum Account
+# 23 - [[Ethereum Account]]
 
 Ethereum account contains four fields:
 1.  The nonce, a counter used to make sure each transaction can only be processed once

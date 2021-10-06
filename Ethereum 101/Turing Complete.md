@@ -1,4 +1,4 @@
-# 2 - Turing Complete
+# 2 - [[Turing Complete]]
 
 Ethereum is a blockchain with a built-in Turing-complete programming language, allowing anyone to write smart contracts and decentralized applications where they can create their own arbitrary rules for ownership, transaction formats and state transition functions.
 

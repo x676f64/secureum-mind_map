@@ -1,4 +1,4 @@
-# 33 - Transaction Components
+# 33 - [[Transaction Components]]
 
 A transaction is a serialized binary message that contains the following components:
 1.  [[Nonce]]: A sequence number, issued by the originating EOA, used to prevent message replay

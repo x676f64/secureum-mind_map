@@ -1,4 +1,4 @@
-# 75 - Exchange Operations
+# 75 - [[Exchange Operations]]
 
 
 | OP Code (Hexidecimal) | Operation* | Description | 

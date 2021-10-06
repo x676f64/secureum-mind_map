@@ -38,7 +38,7 @@
 ![[Value.md]]
 ![[Data.md]]
 ![[v, r, s.md]]
-![[SIgnature Purpose.md]]
+![[Signature Purpose]]
 ![[Contract Creation.md]]
 ![[Transactions vs Messages.md]]
 ![[Transactions & Blockchain.md]]

@@ -1,4 +1,4 @@
-# 94 - Architecture, Language,  Tools
+# 94 - [[Architecture, Language, & Tools]]
 
 New Architecture, Language & Toolchains: Ethereum has a new virtual machine ([[EVM]]) architecture which is a stack-based machine with 256-bit words and associated gas semantics. 
 

@@ -1,4 +1,4 @@
-# 67 - Stop and Arithmetic
+# 67 - [[Stop and Arithmetic]]
 
 
 | OP Code (Hexidecimal) | Operation* | Description | 

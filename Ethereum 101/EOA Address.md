@@ -1,6 +1,6 @@
-# 30 - EOA Address
+# 30 - [[EOA Address]]
 
-Ethereum address of an [[EOA]] account is the last 20 bytes (least significant bytes) of the Keccak256 hash of the [[Public Key]] of the [[EOA]]’s key pair.
+Ethereum address of an [[EOA]] account is the last 20 bytes (least significant bytes) of the [[Keccak256]] hash of the [[Public Key]] of the [[EOA]]’s key pair.
 
 ---
 ## Slide Text

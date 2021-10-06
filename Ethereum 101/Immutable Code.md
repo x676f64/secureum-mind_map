@@ -1,4 +1,4 @@
-# 87 - Immutable Code
+# 87 - [[Immutable Code]]
 
 Once a contract's code is deployed, it becomes immutable (with exceptions noted below). Standard software development practices that rely on being able to fix bugs and add new features to deployed code do not apply here. This represents a significant security challenge for smart contract development. There are three exceptions:
 

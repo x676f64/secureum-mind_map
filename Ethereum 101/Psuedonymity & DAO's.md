@@ -1,6 +1,6 @@
-# 93 - Psuedonymity  DAO's
+# 93 - [[Psuedonymity & DAO's]]
 
-Pseudonymous Teams & DAOs: Perhaps inspired by Bitcoin’s Satoshi Nakamoto, there is a trend among some project teams in Web3 to be pseudonymous and known only by their online handles. 
+Pseudonymous Teams & DAOs: Perhaps inspired by Bitcoin’s Satoshi Nakamoto, there is a trend among some project teams in [[Web3]] to be pseudonymous and known only by their online handles. 
 
 1.  One reason for this could be to avoid any potential legal implications in future, given the regulatory uncertainty in this space. This makes it harder to associate any social reputation as it pertains to perceived security trustworthiness of the product or the processes behind its development. It also makes it tricky to hold anyone legally/socially liable or accountable. 
     

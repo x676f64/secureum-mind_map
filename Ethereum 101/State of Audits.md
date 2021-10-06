@@ -1,6 +1,6 @@
-# 101 - State of Audits
+# 101 - [[State of Audits]]
 
-Web3 projects seem to increasingly rely on external audits as a stamp of security approval. This is typically justified by the lack of sufficient in-house security expertise. While the optics of this approach seems to falsely convince speculators, this approach is untenable for several reasons: 
+[[Web3]] projects seem to increasingly rely on external audits as a stamp of security approval. This is typically justified by the lack of sufficient in-house security expertise. While the optics of this approach seems to falsely convince speculators, this approach is untenable for several reasons: 
 
 1.  Audits currently are very expensive because demand is much greater than supply for top-rated audit teams that have the experience and reputation to analyze complex projects
     

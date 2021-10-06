@@ -1,4 +1,4 @@
-# 32 - Transaction Properties
+# 32 - [[Transaction Properties]]
 
 Transaction properties:
 

@@ -1,4 +1,4 @@
-# 7 - Ethereum vs. Bitcoin Blockchain
+# 7 - [[Ethereum vs. Bitcoin Blockchain]]
 
 Unlike Bitcoin, which has a very limited scripting language, Ethereum is designed to be a general-purpose programmable blockchain that runs a virtual machine capable of executing code of arbitrary and unbounded complexity. 
 

@@ -1,4 +1,4 @@
-# 66 - Instruction Set
+# 66 - [[Instruction Set]]
 
 
 There are eleven Types of Instruction Categories:

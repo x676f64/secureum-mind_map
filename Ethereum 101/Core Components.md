@@ -1,4 +1,4 @@
-# 8 - Core Components
+# 8 - [[Core Components]]
 
 Ethereum’s core components:
   

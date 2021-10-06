@@ -1,4 +1,4 @@
-# 64 - EVM Architecture Differences
+# 64 - [[EVM Architecture Differences]]
 
 EVM does not follow the standard von Neumann architecture. 
 

@@ -1,4 +1,4 @@
-# 16 - Decentralization
+# 16 - [[Decentralization]]
 
 Decentralization can be considered as three types 
 

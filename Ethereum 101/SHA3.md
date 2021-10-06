@@ -1,4 +1,4 @@
-# 69 - SHA3
+# 69 - [[SHA3]]
 
 
 | OP Code (Hexidecimal) | Operation* | Description | 

@@ -1,4 +1,4 @@
-# 40 - v, r, s
+# 40 - [[v, r, s]]
 
 **_r_ and _s_** are the two parts of the [[ECDSA]] signature produced by the transaction originator using the private key. 
 

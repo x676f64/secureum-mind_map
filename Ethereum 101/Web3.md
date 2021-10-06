@@ -1,6 +1,6 @@
-# 88 - Web3
+# 88 - [[Web3]]
 
-Web3: is a permissionless, trust-minimized and censorship-resistant network for transfer of value and information. 
+Web3 is a permissionless, trust-minimized and censorship-resistant network for transfer of value and information. 
 
 1.  The popular approach to realise Web3 is to build it over a foundation of peer-to-peer network of nodes for compute, communication and storage. 
     

@@ -1,4 +1,4 @@
-# 62 - Storage
+# 62 - [[Storage]]
 
 Storage is a 256-bit to 256-bit key-value store. 
 

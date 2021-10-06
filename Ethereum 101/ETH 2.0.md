@@ -1,4 +1,4 @@
-# 86 - ETH 2.0
+# 86 - [[ETH 2.0]]
 
 Eth2 or Ethereum 2.0: refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable.
 

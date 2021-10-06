@@ -1,4 +1,4 @@
-# 8 - Comparison  Bitwise Logic
+# 8 - [[Comparison & Bitwise Logic]]
 
 
 | OP Code (Hexidecimal) | Operation* | Description | 

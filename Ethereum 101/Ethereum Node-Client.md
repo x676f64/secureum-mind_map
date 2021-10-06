@@ -1,4 +1,4 @@
-# 46 - Ethereum Node-Client
+# 46 - [[Ethereum Node-Client]]
 
 A **node** is a software application that implements the Ethereum specification and communicates over the peer-to-peer network with other Ethereum nodes. 
 

@@ -1,4 +1,4 @@
-# 42 - Contract Creation
+# 42 - [[Contract Creation]]
 
 Contract creation transactions are sent to a special destination address called the zero address i.e. `0x0`. 
 

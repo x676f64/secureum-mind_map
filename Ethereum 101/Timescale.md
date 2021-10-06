@@ -1,6 +1,6 @@
-# 98 - Timescale
+# 98 - [[Timescale]]
 
-Compressed Timescales: It feels like innovation in the Web3 space moves at warp speed. Aspects of transparent-development and composability-by-design are strong catalysts to accelerating permissionless and borderless participation which is further incentivized by Internet-native cryptoeconomic tokens — a perfect storm. 
+Compressed Timescales: It feels like innovation in the [[Web3]] space moves at warp speed. Aspects of transparent-development and composability-by-design are strong catalysts to accelerating permissionless and borderless participation which is further incentivized by Internet-native cryptoeconomic tokens — a perfect storm. 
 
 1.  This shrinks innovation timescales by orders of magnitude where new waves of experiments happen over weeks or months instead of the years it typically takes within the walled gardens of Web2. It may seem like the only moat here is the speed of execution.
     

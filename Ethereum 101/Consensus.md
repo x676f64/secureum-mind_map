@@ -1,4 +1,4 @@
-# 50 - Consensus
+# 50 - [[Consensus]]
 
 Decentralized consensus in the context of Ethereum refers to the process of determining which miner’s block should be appended next to the blockchain. 
 

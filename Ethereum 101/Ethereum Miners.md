@@ -1,4 +1,4 @@
-# 47 - Ethereum Miners
+# 47 - [[Ethereum Miners]]
 
 Miners are entities running Ethereum nodes that validate and execute these transactions and combine them into blocks. 
 
@@ -11,8 +11,8 @@ A miner also gets fees which is the ether spent on gas by all the transactions i
 ---
 ## Slide Text
 - Entities running ethereum nodes
-- Transactions -> Validate/Execute/Combine -> Blocks
-- Block Validation -> Proof of Work (PoW)
+- [[Transaction]]s -> Validate/Execute/Combine -> Blocks
+- [[Block]] Validation -> Proof of Work (PoW)
 - Block Reward -> 2 ETH
 - Tx Fees -> All Block Tx's 
 

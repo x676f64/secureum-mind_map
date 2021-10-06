@@ -1,4 +1,4 @@
-# 55 - Transaction Receipt
+# 55 - [[Transaction Receipt]]
 
 Transaction receipt is a tuple of four items comprising: 
 1.  The cumulative gas used in the block containing the transaction receipt as of immediately after the transaction has happened

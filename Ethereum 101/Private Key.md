@@ -1,4 +1,4 @@
-# 20 - Private Key
+# 20 - [[Private Key]]
 
 An Ethereum private key is a 256-bit random number that uniquely determines a single Ethereum address also known as an account.
 

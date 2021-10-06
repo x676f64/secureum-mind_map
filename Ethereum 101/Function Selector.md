@@ -1,4 +1,4 @@
-# 82 - Function Selector
+# 82 - [[Function Selector]]
 The first four bytes of the call data for a function call specifies the function to be called. 
 
 1.  It is the first (left, high-order in big-endian) four bytes of the [[Keccak256]] hash of the signature of the function. 

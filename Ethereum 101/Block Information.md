@@ -1,4 +1,4 @@
-# 71 - Block Information
+# 71 - [[Block Information]]
 
 
 Information about the Transaction's Block

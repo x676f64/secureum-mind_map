@@ -1,4 +1,4 @@
-# 35 - Gas Price
+# 35 - [[Gas Price]]
 
 The price a transaction originator is willing to pay in exchange for gas. The price is measured in wei per gas unit. The higher the gas price, the faster the transaction is likely to be confirmed on the blockchain. The suggested gas price depends on the demand for block space at the time of the transaction.
 

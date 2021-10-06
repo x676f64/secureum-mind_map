@@ -1,4 +1,4 @@
-# 73 - Push Operations
+# 73 - [[Push Operations]]
 
 
 Places items -> Stack 

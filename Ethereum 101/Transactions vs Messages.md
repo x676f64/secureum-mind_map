@@ -1,4 +1,4 @@
-# 43 - Transactions vs. Messages
+# 43 - [[Transactions vs	 Messages]] Messages
 
 Transactions vs Messages:
 

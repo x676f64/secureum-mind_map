@@ -1,4 +1,4 @@
-# 11 - Gas Metering
+# 11 - [[Gas Metering]]
 
 As the EVM executes a smart contract, it carefully accounts for every instruction (computation, data access, etc.). 
 

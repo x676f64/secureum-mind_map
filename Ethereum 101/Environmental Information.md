@@ -1,7 +1,4 @@
-# 70 - Environmental Information
-
-
-https://youtu.be/MFoxW07ICKs?t=480
+# 70 - [[Environmental Information]]
 
 | OP Code (Hexidecimal) | Operation* | Description | 
 |:-:|:-:|:-|
@@ -24,3 +21,6 @@ https://youtu.be/MFoxW07ICKs?t=480
 
 **(Mnemonic, Stack items placed, Stack items removed)* 
 
+---
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=480)

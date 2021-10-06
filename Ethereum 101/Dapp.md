@@ -1,4 +1,4 @@
-# 13 - Dapp
+# 13 - [[Dapp]]
 
 
 A Decentralized Application, abbreviated as ÐApp, is a web application that is built on top of open, decentralized, peer-to-peer infrastructure services and typically combines smart contracts with a web interface.

@@ -1,4 +1,4 @@
-# 5 - Purpose
+# 5 - [[Purpose]]
 
 Ethereum’s purpose is not primarily to be a digital currency payment network. While the digital currency ether is both integral to and necessary for the operation of Ethereum, ether is intended as a utility currency to pay for use of the Ethereum platform as the world computer.
 

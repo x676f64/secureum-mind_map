@@ -1,4 +1,4 @@
-# 27 - Contract Account
+# 27 - [[Contract Account]]
 
 A contract account has code and associated storage and every time it receives a message its code activates, allowing it to read and write to internal storage and send other messages or create contracts in turn.
 
