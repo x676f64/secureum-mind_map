@@ -1,6 +1,6 @@
 # 33 - Transaction Components
 
-A transaction is a serialized binary message that contains the following components (See [here](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)):
+A transaction is a serialized binary message that contains the following components:
 1.  [[Nonce]]: A sequence number, issued by the originating EOA, used to prevent message replay
 2.  [[Gas Price]]: The amount of ether (in wei) that the originator is willing to pay for each unit of gas
 3.  [[gasLimit]]: The maximum amount of gas the originator is willing to pay for this transaction
@@ -22,3 +22,7 @@ A transaction is a serialized binary message that contains the following compone
 ---
 ## Code Examples
 `# seth gas-price`
+
+---
+## References
+- [Ethereum Book: Chapter 06 - Transactions](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)

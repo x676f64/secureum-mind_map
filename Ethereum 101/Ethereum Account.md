@@ -9,9 +9,9 @@ Ethereum account contains four fields:
 ---
 ## Slide Text
 - Four Fields
-- Nonce -> Counter
+- [[Nonce]] -> Counter
 - Balance -> Ether
 - Contract Code
-- Contract Storage
+- Contract [[Storage]]
 
 [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=124)

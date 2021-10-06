@@ -3,7 +3,7 @@
 
 Ether needs to be sent along with a transaction and it needs to be explicitly earmarked for the purchase of gas, along with an acceptable gas price. Just like at the pump, the price of gas is not fixed. 
 
-Gas is purchased for the transaction, the computation is executed, and any unused gas is refunded back to the sender of the transaction. (See [here](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc))
+Gas is purchased for the transaction, the computation is executed, and any unused gas is refunded back to the sender of the transaction. 
 
 ---
 ## Slide Text
@@ -15,3 +15,6 @@ Gas is purchased for the transaction, the computation is executed, and any unuse
 - Transaction -> Execute
 - Gas -> Consumed
 - Remaining -> Refunded
+---
+## References
+- [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

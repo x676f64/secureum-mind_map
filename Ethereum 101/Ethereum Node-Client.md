@@ -6,7 +6,7 @@ A **client** is a specific implementation of Ethereum node.
 
 The two most common client implementations are Geth and OpenEthereum. 
 
-Ethereum transactions are sent to Ethereum nodes to be broadcast across the peer-to-peer network. (See [here](https://www.ethernodes.org/))
+Ethereum transactions are sent to Ethereum nodes to be broadcast across the peer-to-peer network.
 
 ---
 ## Slide Text
@@ -15,3 +15,6 @@ Ethereum transactions are sent to Ethereum nodes to be broadcast across the peer
 - Client -> Specific Implementation
 - Geth, OpenEth, Erigon, Nethermind 
 
+---
+## References
+-  [Ethernodes.org](https://www.ethernodes.org/)

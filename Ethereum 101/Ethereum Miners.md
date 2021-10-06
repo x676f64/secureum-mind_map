@@ -11,8 +11,8 @@ A miner also gets fees which is the ether spent on gas by all the transactions i
 ---
 ## Slide Text
 - Entities running ethereum nodes
--  Transactions -> Validate/Execute/Combine -> Blocks
--  Block Validation -> Proof of Work (PoW)
+- Transactions -> Validate/Execute/Combine -> Blocks
+- Block Validation -> Proof of Work (PoW)
 - Block Reward -> 2 ETH
--  Tx Fees -> All Block Tx's 
+- Tx Fees -> All Block Tx's 
 

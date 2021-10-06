@@ -18,4 +18,4 @@ Depending on the implementation of those functions, the ether value is added to 
 - Send -> Balance decrease
 - if sent to contract, what happens is dictated by [[Calldata]]
 - calldata represents Contract Function and parameters
-- If no calldata sent in tx, but ether is sent receive/fallback exception are triggered
+- If no [[Calldata]] sent in tx, but ether is sent receive/fallback exception are triggered

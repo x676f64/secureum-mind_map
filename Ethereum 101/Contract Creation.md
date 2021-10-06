@@ -4,7 +4,7 @@ Contract creation transactions are sent to a special destination address called 
 
 A contract creation transaction contains a data payload with the compiled bytecode to create the contract. 
 
-An optional ether amount in the value field will create the new contract with a starting balance.
+An optional ether amount in the [[Value]] field will create the new contract with a starting balance.
 
 ---
 ## Slide Text

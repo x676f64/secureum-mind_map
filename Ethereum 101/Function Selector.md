@@ -30,6 +30,9 @@ Function Selector/Signature: `0x47e7ef24`
 ---
 ## Code Example
 ```
+# seth sig 'deposit(address,uint256)'
+0x47e7ef24
+
 # seth keccak 'deposit(address,uint256)'|cut -c -10
 0x47e7ef24
 ```

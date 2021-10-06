@@ -1,6 +1,6 @@
 # 8 - Core Components
 
-Ethereum’s core components (See [here](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)):
+Ethereum’s core components:
   
 1.  P2P network: Ethereum runs on the Ethereum main network, which is addressable on TCP port 30303, and runs a protocol called ÐΞVp2p.
 2.  Transactions: Ethereum transactions are network messages that include (among other things) a sender, recipient, value, and data payload.
@@ -14,3 +14,6 @@ Ethereum’s core components (See [here](https://github.com/ethereumbook/ethereu
 - HLLs (Solidity) -> Bytecode
 - Data Structures
 - Merkle Patricia Tree
+---
+## References
+- [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

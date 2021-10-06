@@ -1,6 +1,6 @@
 # 86 - ETH 2.0
 
-Eth2 or Ethereum 2.0: refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable (See [here](https://ethereum.org/en/eth2/))
+Eth2 or Ethereum 2.0: refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable.
 
 ---
 ## Slide Text
@@ -13,3 +13,6 @@ Manifests three ways:
 - Securability (Transition to Proof of Stake)
 - Sustainability (PoW -> PoS) 
 
+---
+## References
+- [Ethereum.org - ETH2](https://ethereum.org/en/eth2/)

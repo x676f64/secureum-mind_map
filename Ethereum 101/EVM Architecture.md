@@ -6,7 +6,7 @@ The [[EVM]] is a simple stack-based architecture consisting of the stack, volati
 ## Slide Text
 - Stack-Based Architecture
 - Stack Volatile Memory
-- Non-Volatile Storage Calldata
+- Non-Volatile [[Storage]] Calldata
 - Word Size -> 256-bits
 - Helped facilitate Keccak256 & Elliptic Curve Cryptography 
 
