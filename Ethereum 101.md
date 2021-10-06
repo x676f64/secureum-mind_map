@@ -1,4 +1,5 @@
 001. [[Ethereum.md]]
+![[Ethereum]]
 002. [[Turing Complete.md]]
 003. [[Infrastructure.md]]
 004. [[Properties.md]]
