@@ -7,14 +7,14 @@ Gas is purchased for the transaction, the computation is executed, and any unuse
 
 ---
 ## Slide Text
-- Transaction -> Gas
-- Price -> Ether
+- [[Transaction]] -> Gas
+	- Price -> Ether
 - Gas Price -> Not Fixed
-- Varies -> Demand
+	- Varies -> Demand
 - Gas -> Purchase
-- Transaction -> Execute
+	- Transaction -> Execute
 - Gas -> Consumed
-- Remaining -> Refunded
+	- Remaining -> Refunded
 ---
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

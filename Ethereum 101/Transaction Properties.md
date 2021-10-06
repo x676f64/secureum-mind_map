@@ -1,6 +1,6 @@
 # 32 - [[Transaction Properties]]
 
-Transaction properties:
+[[Transaction]] properties:
 
 1.  Atomic: it is all or nothing i.e. cannot be divided or interrupted by other transactions
 2.  Serial: Transactions are processed sequentially one after the other without any overlapping by other transactions
@@ -8,7 +8,7 @@ Transaction properties:
 4.  Order: Transaction order is not guaranteed and depends on network congestion and gasPrice among other things. Miners determine order.
 ---
 ## Slide Text
-- Transactions are:
+Transactions are:
 - Sequential -> No Overlap
 - Serial (One after another)
 - Depends on Inclusion

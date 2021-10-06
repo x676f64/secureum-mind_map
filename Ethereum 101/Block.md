@@ -8,7 +8,7 @@ To preserve the transaction history, blocks are strictly ordered (every new bloc
 
 ---
 ## Slide Text
-- Block -> Grouped Transactions
+- Block -> Grouped [[Transaction]]s
 - Hash -> Previous Block
 - Block Change -> Affects all following blocks
 - Each Block -> Refs Parent Block

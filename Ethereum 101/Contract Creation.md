@@ -8,7 +8,7 @@ An optional ether amount in the [[Value]] field will create the new contract wit
 
 ---
 ## Slide Text
-- Tx Result -> Creation Transaction
+- Tx Result -> Creation [[Transaction]]
 - Create tx -> Sent to special 0 address (0x0)
 - Data Payload -> Contract Bytecode
 - Value -> Optional Starting Contract Ether Balance

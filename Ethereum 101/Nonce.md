@@ -6,7 +6,7 @@ A scalar value equal to the number of transactions sent from the EOA account or,
 ## Slide Text
 - Nonce -> Number used only once
 - Sequence Number -> Prevents replay attacks
-- EOA -> # of Tx's sent
+- [[EOA]] -> # of Tx's sent
 - Contract -> # of Contracts Created by this account
  ---
 ## References
