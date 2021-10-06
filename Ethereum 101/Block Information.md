@@ -1,6 +1,4 @@
 # 71 - [[Block Information]]
-
-
 Information about the Transaction's Block
 
 | OP Code (Hexidecimal) |        Operation[^1]         | Description                                                    | Gas |
@@ -13,7 +11,7 @@ Information about the Transaction's Block
 |         0x45          |        GASLIMIT 0 1         | Get the block’s gas limit                                      |  2  |
 
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
-[^2]:Can have security implications if the block requested is not in the most 256 blocks because it can return 0.
+[^2]:Can have security implications if the block requested is not in the most recent 256 blocks because it can return 0.
 
 ___
 ## Tags

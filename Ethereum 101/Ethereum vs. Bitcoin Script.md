@@ -8,7 +8,7 @@ ___
 - Scripting Language
 - Script -> True/false
 - Spending Conditions
-- EVM -> General-Purpose Programming Language
+- [[EVM]] -> General-Purpose Programming Language
 - Turing Complete
 - Arbitrary Code/Complexity
 ___

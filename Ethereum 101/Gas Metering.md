@@ -1,6 +1,6 @@
 # 11 - [[Gas Metering]]
 
-As the EVM executes a smart contract, it carefully accounts for every instruction (computation, data access, etc.). 
+As the [[EVM]] executes a smart contract, it carefully accounts for every instruction (computation, data access, etc.). 
 
 Each instruction has a predetermined cost in units of gas. 
 
