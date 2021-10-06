@@ -11,5 +11,6 @@ Ethereum has two different types of accounts:
 	- Contract
 	- EOA -> [[Private Key]]
 	- [[Contract Account]] -> Code controlled
-
-[Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=169)
+---
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=169)

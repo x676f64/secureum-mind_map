@@ -8,6 +8,7 @@ A  transaction with a contract address destination has the contract’s function
 - Tx Data -> Target (Function & Arguments)
 - Encoded -> [[ABI]]
 - [[ABI]] -> Application Binary Interface
-
-[Youtube Reference](https://youtu.be/MFoxW07ICKs?t=1838) 
+---
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=1838) 
 

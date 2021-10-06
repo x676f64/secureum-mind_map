@@ -18,9 +18,7 @@ Standard and Specifications:
 - Interface 
 - ERC (Ethereum Request for Comment)
 - Meta & Informational (governance)
-
-[Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=666) 
-
 ---
 ## References
 -  [Ethereum.org - EIPs]](https://eips.ethereum.org/)
+-  [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=666) 

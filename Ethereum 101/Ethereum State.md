@@ -8,9 +8,7 @@ Ethereum state is made up of objects called "accounts", with each account having
 - Account -> 20 Byte Address
 - Acount <-> Account
 - Transfer of Value & Information
-
-[Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=63)
-
 ---
 ## References
 - [Ethereum.org - Whitepaper (Ethereum Accounts)](https://ethereum.org/en/whitepaper/#ethereum-accounts)
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=63)

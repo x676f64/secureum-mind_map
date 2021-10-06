@@ -8,5 +8,6 @@ An Ethereum public key is a point on an elliptic curve calculated from the priva
 - Private Key -> Public Key
 - Elliptic Curve Point -> Multiplication
 - Public Key X -> Private Key
-
-[Youtube Reference](https://www.youtube.com/watch?v=zIeBfuXxuWs)
+---
+## References
+- [Youtube Reference](https://www.youtube.com/watch?v=zIeBfuXxuWs)

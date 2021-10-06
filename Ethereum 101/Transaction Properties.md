@@ -13,6 +13,7 @@ Transaction properties:
 - Serial (One after another)
 - Depends on Inclusion
 - Tx order is decided by miners and dictated by congestion and gas Price
-
-[Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=611)
+---
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=611)
 

@@ -13,5 +13,6 @@ Ethereum account contains four fields:
 - Balance -> Ether
 - Contract Code
 - Contract [[Storage]]
-
-[Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=124)
+---
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=124)

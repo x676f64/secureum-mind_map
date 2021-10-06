@@ -10,9 +10,7 @@ Ethereum is an open source, globally decentralized computing infrastructure that
 - Ether -> Native Currency
 - Meter & Constrain
 - World Computer
-
-[Youtube Reference](https://youtu.be/44qhIBMGMoM?t=479)
-
 ---
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=479)

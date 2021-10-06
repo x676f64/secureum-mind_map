@@ -11,9 +11,7 @@ Ethereum’s purpose is not primarily to be a digital currency payment network. 
 - Utility Token
 - Use -> Ethereum
 - Pay -> Ether
-
-[Youtube Reference](https://youtu.be/44qhIBMGMoM?t=1129)
-
 ---
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=1129)

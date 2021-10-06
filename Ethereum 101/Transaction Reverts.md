@@ -4,11 +4,11 @@ A transaction reverts for different exceptional conditions such as running out o
 
 ---
 ## Slide Text
-[Youtube Reference](https://youtu.be/MFoxW07ICKs?t=1761)
-
 - Different Exception Conditions
 - Out of Gas, Invalid Instructions
 - State Changes -> Discarded
 - Original State -> Restored
 - As if Tx never executed 
-
+---
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=1761)

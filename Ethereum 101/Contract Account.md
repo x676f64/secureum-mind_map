@@ -11,5 +11,6 @@ A contract account has code and associated storage and every time it receives a 
 	- Runs Code & Accesses Storage
 - Message Accounts
 - Create Contracts
-
-[Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=279)
+---
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=279)

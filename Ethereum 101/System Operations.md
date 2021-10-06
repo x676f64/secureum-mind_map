@@ -14,4 +14,6 @@
 
 *\*(Mnemonic, Stack items placed, Stack items removed)*
 
-[Youtube Reference](https://youtu.be/MFoxW07ICKs?t=956)
+--- 
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=956)

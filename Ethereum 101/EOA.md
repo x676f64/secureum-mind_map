@@ -11,6 +11,5 @@ An EOA has no code, and one can send messages from an EOA by creating and signin
 	- Transfer value
 	- Trigger smart contracts
 ---
-##
-References
-[Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=234)
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=234)

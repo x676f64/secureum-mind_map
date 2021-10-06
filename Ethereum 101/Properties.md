@@ -12,9 +12,7 @@ The Ethereum platform enables developers to build powerful decentralized applica
 - Neutrality
 - Censorship Resistant
 - Lower Counter-Party Risk
-
-[Youtube Reference](https://youtu.be/44qhIBMGMoM?t=649)
-
 ---
 ## References
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=649)
