@@ -1,9 +1,13 @@
 # 69 - [[SHA3]]
 
 
-| OP Code (Hexidecimal) | Operation* | Description | 
-|:-:|:-:|:-|
-|0x20|SHA3 2 1|Compute Keccak256 hash|
+| OP Code (Hexidecimal) | Operation[^1]  | Description            |
+|:---------------------:|:-------------:|:---------------------- |
+|         0x20          |   SHA3 2 1    | Compute Keccak256 hash |
+ 
+ ---
+## Tags
+[[Instruction Set]]
 
-**(Mnemonic, Stack items placed, Stack items removed)* 
+[^1]: (Mnemonic, Stack items placed, Stack items removed)
 

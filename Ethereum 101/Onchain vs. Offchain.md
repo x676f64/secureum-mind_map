@@ -7,7 +7,7 @@ On-chain vs Off-chain: Smart contracts are “on-chain” [[Web3]] components an
 - Web2 -> Offchain
 - [[Web3]] -> Onchain + Offchain
 - Security -> Offchain + Onchain
-- Main Difference Onchain vs Offchain-> Smart Contracts  
+- Main Difference Onchain vs Offchain-> [[Smart Contracts]]  
 
 ---
 ## Tags

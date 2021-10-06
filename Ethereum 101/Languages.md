@@ -7,7 +7,7 @@ Languages: Web2 programming languages such as JavaScript, Go, Rust and Nim are u
 - Web2 -> JavaScript, Go, Rust, Nim
 
 - [[Web3]] -> Web + Smart Contracts 
-- Smart Contracts -> Solidity, Vyper
+- [[Smart Contracts]] -> Solidity, Vyper
 - Solidity -> Most popular
 ---
 ## Tags

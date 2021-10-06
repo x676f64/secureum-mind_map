@@ -7,8 +7,8 @@ EVM is the runtime environment for smart contracts.
 ---
 ## Slide Text
 - Ethereum Virtual Machine
-- Smart Contracts -> Runtime Environment
+- [[Smart Contracts]] -> Runtime Environment
 - Quasi Turing Complete (finite computation)
-- Turing Complete -> Gas Bounded Computation
+- [[Turing Complete]] -> Gas Bounded Computation
  
 Tags: [[Ethereum 101]]

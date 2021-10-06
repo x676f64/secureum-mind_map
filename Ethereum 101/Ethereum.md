@@ -1,6 +1,6 @@
 # 1 - [[Ethereum]]
 
-Ethereum is “A Next-Generation Smart Contract and Decentralized Application Platform” 
+Ethereum is “A Next-Generation [[Smart Contract]] and Decentralized Application Platform” 
 
 ---
 ## Slide Text
