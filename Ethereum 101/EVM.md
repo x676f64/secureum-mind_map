@@ -10,5 +10,3 @@ ___
 - [[Smart Contracts]] -> Runtime Environment
 - Quasi Turing Complete (finite computation)
 - [[Turing Complete]] -> Gas Bounded Computation
- 
-Tags: [[Ethereum 101]]

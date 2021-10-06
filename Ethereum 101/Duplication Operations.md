@@ -3,7 +3,7 @@
 
 | OP Code (Hexidecimal) | Operation[^1]  | Description                  | Gas |
 |:---------------------:|:-------------:|:---------------------------- |:---:|
-|         0x80          |   DUP1 1 2    | Duplicate 1st stack item[^2] |  3  |
+|         0x80          |   DUP1 1 2    | Duplicate 1st stack item[^2]  |  3  | 
 |         0x8f          |  DUP16 16 17  | Duplicate 16th stack item    |  3  |
 
 [^1]:(Mnemonic, Stack items placed, Stack items removed)
