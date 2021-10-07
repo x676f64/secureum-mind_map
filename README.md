@@ -3,14 +3,14 @@
 The plan is to grow this over time. Pull requests accepted.
 ___
 Sections/information I would like to add (my wish list): 
-- Screenshots of each slide for each topic.
-- The time in the youtube video that the topic is discussed.
-- Links to the relevant topic on youtube at that specific point in the video.
-- Text to speech of what is said for each topic by Rajeev in the videos
-- Solidity example where applicable
-- Add dapptool examples for relevant sections.
+- [x] Screenshots of each slide for each topic.
+- [ ] The time in the youtube video that the topic is discussed.
+- [ ] Links to the relevant topic on youtube at that specific point in the video.
+- [ ] Text to speech of what is said for each topic by Rajeev in the videos
+- [ ] Solidity example where applicable
+- [ ] Add dapptool examples for relevant sections.
 ___
-The impetus for this project is both self-edification as well as enabling accessibility to the content [0xRajeev](https://twitter.com/0xRajeev) has produced. Also, I really just wanted to make some cool graphs. :)
+The impetus for this project was for self-edification as well as enabling accessibility to the content [0xRajeev](https://twitter.com/0xRajeev) has produced. Also, I really just wanted to make some cool graphs and play with Obsidian. :)
 
 Currently, I have copied over the slide text as well as the relavent section from the blog.
 
