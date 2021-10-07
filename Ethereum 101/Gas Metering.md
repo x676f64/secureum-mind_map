@@ -12,6 +12,9 @@ Gas is the mechanism Ethereum uses to allow Turing-complete computation while li
 
 
 ___
+## Slide Screenshot
+![011.png](../images/ethereum101/011.png)
+___
 ## Slide Text
 - EVM -> Smart Contract
 - Instruction -> Gas

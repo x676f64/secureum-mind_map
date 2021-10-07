@@ -3,6 +3,9 @@
 Ethereum is “A Next-Generation [[Smart Contract]] and Decentralized Application Platform” 
 
 ___
+## Slide Screenshot
+![001.png](../images/ethereum101/001.png)
+___
 ## Slide Text
 Next Gen blockchain
 - Uses smart contracts 

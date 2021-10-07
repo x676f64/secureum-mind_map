@@ -7,6 +7,9 @@ This prevents fraud, because one change in any block in history would invalidate
 To preserve the transaction history, blocks are strictly ordered (every new block created contains a reference to its parent block), and transactions within blocks are strictly ordered as well.
 
 ___
+## Slide Screenshot
+![045.png](../images/ethereum101/045.png)
+___
 ## Slide Text
 - Block -> Grouped [[Transaction]]s
 - Hash -> Previous Block

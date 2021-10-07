@@ -3,6 +3,9 @@
 Ethereum is a blockchain with a built-in Turing-complete programming language, allowing anyone to write smart contracts and decentralized applications where they can create their own arbitrary rules for ownership, transaction formats and state transition functions.
 
 ___
+## Slide Screenshot
+![002.png](../images/ethereum101/002.png)
+___
 ## Slide Text
 - Full expressive programming language
 - [[Smart Contracts]] -> [[Dapp]]s

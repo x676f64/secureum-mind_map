@@ -8,6 +8,9 @@ Ethereum’s core components:
 4.  Data structures: Ethereum’s state is stored locally on each node as a database (usually Google’s LevelDB), which contains the transactions and system state in a serialized hashed data structure called a Merkle Patricia Tree.
 
 ___
+## Slide Screenshot
+![008.png](../images/ethereum101/008.png)
+___
 ## Slide Text
 - Transaction: Sender, [[Recipient]], [[Value]], [[Data]]
 - State Machine -> [[EVM]]

@@ -3,6 +3,9 @@
 A scalar value equal to the number of transactions sent from the EOA account or, in the case of Contract accounts, it is the number of contract-creations made by the account. 
 
 ___
+## Slide Screenshot
+![034.png](../images/ethereum101/034.png)
+___
 ## Slide Text
 - Nonce -> Number used only once
 - Sequence Number -> Prevents replay attacks

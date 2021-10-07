@@ -11,6 +11,9 @@ Composability by Design: Permissionless innovation and censorship-resistance are
 4.  This makes characterizing [[Web3]] vulnerabilities and exploit scenarios very challenging without deep knowledge of all interacting components, constraints and configurations.
 
 ___
+## Slide Screenshot
+![097.png](../images/ethereum101/097.png)
+___
 ## Slide Text
 - Open/Composable by Design
 - Permissionless Access

@@ -7,6 +7,9 @@ New Architecture, Language & Toolchains: Ethereum has a new virtual machine ([[E
 2.  The associated toolchains which include development environments (e.g. Truffle, Brownie, Hardhat), libraries (e.g. OpenZeppelin), security tools (e.g. Slither, MythX, Securify) and wallets (e.g. Metamask) are maturing but still playing catch up to the exponential growth of the space.
 
 ___
+## Slide Screenshot
+![094.png](../images/ethereum101/094.png)
+___
 ## Slide Text
 - Ethereum & EVM
 - Solidity, Vyper, & others

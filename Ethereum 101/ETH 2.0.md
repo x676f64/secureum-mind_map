@@ -3,6 +3,9 @@
 Eth2 or Ethereum 2.0: refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable.
 
 ___
+## Slide Screenshot
+![086.png](../images/ethereum101/086.png)
+___
 ## Slide Text
 Ethereum's Biggest Upgrade
 Set of inter-connected upgrades to the existing Ethereum codebase

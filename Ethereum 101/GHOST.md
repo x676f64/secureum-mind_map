@@ -9,6 +9,9 @@ This choice is dictated by Ethereum’s Greedy Heaviest Observed Subtree (GHOST)
 Stale blocks are called uncles or ommers.
 
 ___
+## Slide Screenshot
+![049.png](../images/ethereum101/049.png)
+___
 ## Slide Text
 - Miners -> Blocks
 - Network -> Propagation

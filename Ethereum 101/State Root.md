@@ -8,6 +8,9 @@
 4.  **codeHash**: The hash of the [[EVM]] code of this account—this is the code that gets executed should this address receive a message call; it is immutable and thus, unlike all other fields, cannot be changed after construction.
 
 ___
+## Slide Screenshot
+![054.png](../images/ethereum101/054.png)
+___
 ## Slide Text
 - Modified Merkle-Patricia Tree
 - Leaves -> Key-Value Pairs

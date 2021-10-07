@@ -8,6 +8,9 @@ Gas costs for different instructions are different depending on their computatio
 5.  SLOAD is 2,100 gas and SSTORE is 20,000 gas to set a storage slot from 0 to non-0 and 5,000 gas otherwise
 6.  CREATE is 32,000 gas and SELFDESTRUCT is 5,000 gas 
 ___
+## Slide Screenshot
+![078.png](../images/ethereum101/078.png)
+___
 ## Slide Text
 - Diff Instructions -> Diff costs
 - Depends on computational/storage load

@@ -3,6 +3,9 @@
 Ethereum state is made up of objects called "accounts", with each account having a 20-byte address and state transitions being direct transfers of [[Value]] and information between accounts. 
 
 ___
+## Slide Screenshot
+![022.png](../images/ethereum101/022.png)
+___
 ## Slide Text
 - State -> Accounts
 - Account -> 20 Byte Address

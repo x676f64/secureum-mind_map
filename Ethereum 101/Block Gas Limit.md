@@ -5,6 +5,9 @@
 Blocks therefore are not a fixed size in terms of the number of transactions because different transactions consume different amounts of gas. 
 
 ___
+## Slide Screenshot
+![048.png](../images/ethereum101/048.png)
+___
 ## Slide Text
 - Total Gas Spent by all tx's in that block
 - Txs -> [[Block]]

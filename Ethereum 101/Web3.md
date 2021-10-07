@@ -11,6 +11,9 @@ Web3 is a permissionless, trust-minimized and censorship-resistant network for t
 4.  Most of the foundational security design principles and development practices from Web2 still apply to Web3. But Web3 security is indeed a paradigm shift along many frontiers.
 
 ___
+## Slide Screenshot
+![088.png](../images/ethereum101/088.png)
+___
 ## Slide Text
 - Permissionless
 - Trust-minimized

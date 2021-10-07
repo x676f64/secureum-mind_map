@@ -6,6 +6,9 @@ Ether needs to be sent along with a transaction and it needs to be explicitly ea
 Gas is purchased for the transaction, the computation is executed, and any unused gas is refunded back to the sender of the transaction. 
 
 ___
+## Slide Screenshot
+![012.png](../images/ethereum101/012.png)
+___
 ## Slide Text
 - [[Transaction]] -> Gas
 	- Price -> Ether

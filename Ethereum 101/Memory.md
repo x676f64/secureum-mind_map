@@ -7,6 +7,9 @@ All locations are well-defined initially as zero.
 This is accessed with MLOAD, MSTORE and MSTORE8 instructions.
 
 ___
+## Slide Screenshot
+![061.png](../images/ethereum101/061.png)
+___
 ## Slide Text
 - [[EVM]] Volatile Memory
 - Linear Byte-array/Byle-level addressable

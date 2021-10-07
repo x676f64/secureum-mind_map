@@ -7,6 +7,9 @@ This involves two key components of Proof-of-Work (PoW) and the Longest-chain Ru
 This is referred to as "Nakamoto Consensus” and is adapted from Bitcoin.
 
 ___
+## Slide Screenshot
+![050.png](../images/ethereum101/050.png)
+___
 ## Slide Text
 - Nakamoto Consensus
 - Next Block -> Which Miner?

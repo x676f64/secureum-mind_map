@@ -5,6 +5,9 @@ Calldata is a read-only byte-addressable space where the data parameter of a tra
 This is accessed with CALLDATASIZE/CALLDATALOAD/CALLDATACOPY instructions.
 
 ___
+## Slide Screenshot
+![063.png](../images/ethereum101/063.png)
+___
 ## Slide Text
 - Data Parameters
 - Txs & Message Calls

@@ -9,6 +9,9 @@ All locations are well-defined initially as zero.
 This is accessed with SLOAD/SSTORE instructions.
 
 ___
+## Slide Screenshot
+![062.png](../images/ethereum101/062.png)
+___
 ## Slide Text
 - Non-Volatile (Persistent)
 - Key-Value Store

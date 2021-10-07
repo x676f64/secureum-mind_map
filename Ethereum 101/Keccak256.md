@@ -3,6 +3,9 @@
 Ethereum uses Keccak256 as its cryptographic hash function. Keccak256 was the winning candidate for the SHA3 competition held by NIST but is different from the finally adopted [[SHA3]] standard.
 
 ___
+## Slide Screenshot
+![029.png](../images/ethereum101/029.png)
+___
 ## Slide Text
 - Cryptographic Hashing Function
 - Derived from SHA3 Competition (NIST-2015)

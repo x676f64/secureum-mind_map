@@ -3,6 +3,9 @@
 Transactions are signed messages originated by an externally owned account ([[EOA]]), transmitted by the Ethereum network, and recorded on the Ethereum blockchain. Only transactions can trigger a change of state. Ethereum is a transaction-based state machine.
 
 ___
+## Slide Screenshot
+![031.png](../images/ethereum101/031.png)
+___
 ## Slide Text
 - Signed Messages
 - Must be triggered by EOA (Origin -> EOA)

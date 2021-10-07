@@ -5,6 +5,9 @@ Stack is made up of 1024 256-bit elements. EVM instructions can operate with the
 Most [[EVM]] instructions operate with the stack (stack-based architecture) and there are also stack-specific operations e.g. PUSH, POP, SWAP, DUP etc.
 
 ___
+## Slide Screenshot
+![060.png](../images/ethereum101/060.png)
+___
 ## Slide Text
 - 1024 Elements 256-Bits
 - Most EVM Operations -> Stack Elements

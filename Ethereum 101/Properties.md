@@ -3,6 +3,9 @@
 The Ethereum platform enables developers to build powerful decentralized applications with built-in economic functions. While providing high availability, auditability, transparency, and neutrality, it also reduces or eliminates censorship and reduces certain counterparty risks.
 
 ___
+## Slide Screenshot
+![004.png](../images/ethereum101/004.png)
+___
 ## Slide Text
 - Permissionless Apps
 - Built-in Economics

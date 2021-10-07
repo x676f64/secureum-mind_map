@@ -11,6 +11,9 @@ Transactions vs Messages:
 	2.  triggered internally within the [[EVM]] by a contract account when it executes the CALL family of opcodes and leads to the recipient contract account running its code or value transfer to the recipient [[EOA]]
 
 ___
+## Slide Screenshot
+![043.png](../images/ethereum101/043.png)
+___
 ## Slide Text
 - Tx: Offchain -> Onchain
 - Msg: Onchain -> Onchain

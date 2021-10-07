@@ -7,6 +7,9 @@ Ethereum account contains four fields:
 4.  The account's storage (empty by default)
 
 ___
+## Slide Screenshot
+![023.png](../images/ethereum101/023.png)
+___
 ## Slide Text
 - Four Fields
 - [[Nonce]] -> Counter

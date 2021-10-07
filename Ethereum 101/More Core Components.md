@@ -6,6 +6,9 @@
 4.  Clients: Ethereum has several interoperable implementations of the client software, the most prominent of which are Go-Ethereum (Geth) and OpenEthereum. The others are Erigon, Nethermind and Turbo-geth. OpenEthereum is being deprecated to transition to Erigon, which is the former Turbo-geth. 
 
 ___
+## Slide Screenshot
+![009.png](../images/ethereum101/009.png)
+___
 ## Slide Text
 - Consensus Algorithm
 - Nakamoto -> PoW

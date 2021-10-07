@@ -7,6 +7,9 @@
 3.  Inclusion: Transaction inclusion is not guaranteed and depends on network congestion and gasPrice among other things. Miners determine inclusion.
 4.  Order: Transaction order is not guaranteed and depends on network congestion and gasPrice among other things. Miners determine order.
 ___
+## Slide Screenshot
+![032.png](../images/ethereum101/032.png)
+___
 ## Slide Text
 Transactions are:
 - Sequential -> No Overlap

@@ -7,6 +7,9 @@ Transaction receipt is a tuple of four items comprising: 
 4.  The status code of the transaction
 
 ___
+## Slide Screenshot
+![055.png](../images/ethereum101/055.png)
+___
 ## Slide Text
 - Four Item Tuple (n, n, n, n)
 - Cumulative Gas Used

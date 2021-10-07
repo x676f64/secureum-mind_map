@@ -15,6 +15,9 @@ There are eleven Types of Instruction Categories:
 11. [[System Operations]] 
 
 ___
+## Slide Screenshot
+![066.png](../images/ethereum101/066.png)
+___
 ## Slide Text
 There are eleven Types of Instruction Categories:
 1. Stop and Arithemtic

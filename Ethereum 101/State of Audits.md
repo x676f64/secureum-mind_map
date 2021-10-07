@@ -11,6 +11,9 @@
 4.  The expectation (from the project team and users) is that audits are a panacea for all vulnerabilities and that the project is “bug-free” after a short audit (typically few weeks)
 
 ___
+## Slide Screenshot
+![101.png](../images/ethereum101/101.png)
+___
 ## Slide Text
 - External Assessment
 - Security Assessment X -> Stamp of approval

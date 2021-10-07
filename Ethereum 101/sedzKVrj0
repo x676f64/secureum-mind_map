@@ -8,9 +8,6 @@ Open-source & Transparent: Given the emphasis on trust-minimization, [[Web3]] so
 
 3.  Furthermore, transactions that are still “in flight” and are yet to be confirmed on the blockchain are also publicly visible in pending transaction queues (i.e. mempools) and lend to front-running attacks.
 ___
-## Slide Screenshot
-![091.png](../images/ethereum101/091.png)
-___
 ## Slide Text
 - Expected to be open source
 - Contract owners must upload source code to block explorers to verify smart contract code

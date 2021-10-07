@@ -9,6 +9,9 @@ Etherum Improvement Proposals (EIPs) describe standards for the Ethereum platfor
 6.  **Informational**: Describes a Ethereum design issue, or provides general guidelines or information to the Ethereum community, but does not propose a new feature
 
 ___
+## Slide Screenshot
+![085.png](../images/ethereum101/085.png)
+___
 ## Slide Text
 Ethereum Imporvement Proposal (EIP)
 

@@ -11,6 +11,9 @@ Mainnet: Short for "main network," this is the main public Ethereum blockchain. 
 4.  Ropsten: A proof-of-work testnet. This means it's the best representation of mainnet Ethereum
 
 ___
+## Slide Screenshot
+![084.png](../images/ethereum101/084.png)
+___
 ## Slide Text
 - Live Production Ethereum Network
 - Mainnet Vs. Testnets

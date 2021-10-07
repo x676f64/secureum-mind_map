@@ -9,6 +9,9 @@ Once a contract's code is deployed, it becomes immutable (with exceptions noted 
 3.  CREATE2 opcode allows updating in place using init_code
 
 ___
+## Slide Screenshot
+![087.png](../images/ethereum101/087.png)
+___
 ## Slide Text
 Immutable Contracts
 Bugs X ->  Fix
