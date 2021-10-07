@@ -4,7 +4,7 @@
 | OP Code (Hexidecimal) | Operation[^1]  | Description                               | Gas |
 |:---------------------:|:-------------:|:----------------------------------------- |:---:|
 |         0x10          |    LT 2 1     | Less-than comparison                      |  3  |
-|         0x20          |    GT 2 1     | Greater-than comparison                   |  3  |
+|         0x11          |    GT 2 1     | Greater-than comparison                   |  3  |
 |         0x12          |    SLT 2 1    | Signed less-than comparison               |  3  |
 |         0x13          |    SGT 2 1    | Signed greater-than comparison            |  3  |
 |         0x14          |    EQ 2 1     | Equality comparison                       |  3  |

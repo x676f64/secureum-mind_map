@@ -1,15 +1,11 @@
 # 82 - [[Function Selector]]
-The first four bytes of the call data for a function call specifies the function to be called. 
+The first four bytes of the call [[Data]] for a function call specifies the function to be called. 
 
 1.  It is the first (left, high-order in big-endian) four bytes of the [[Keccak256]] hash of the signature of the function. 
     
 2.  The signature is defined as the canonical expression of the basic prototype without data location specifier, i.e. the function name with the parenthesised list of parameter types. Parameter types are split by a single comma - no spaces are used.
     
 3.  Function Arguments: The encoded arguments follow the function selector from the fifth byte onwards.
-___
-## Slide Screenshot
-[tbd]
-
 ___
 ## Slide Screenshot
 ![082.png](../images/ethereum101/082.png)

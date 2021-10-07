@@ -12,3 +12,7 @@ ___
 - Web App + P2P infrastructure
 - P2P -> Compute, Storage, or Network
 - Dapp -> Web App + Smart Contract
+
+___
+## Tags
+[[Web3]]

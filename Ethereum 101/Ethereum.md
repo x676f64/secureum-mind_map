@@ -1,6 +1,6 @@
 # 1 - [[Ethereum]]
 
-Ethereum is “A Next-Generation [[Smart Contract]] and Decentralized Application Platform” 
+Ethereum is “A Next-Generation Smart Contract and Decentralized Application Platform” 
 
 ___
 ## Slide Screenshot
@@ -8,7 +8,10 @@ ___
 ___
 ## Slide Text
 Next Gen blockchain
-- Uses smart contracts 
+- Blockchain
+- Next-Generation
+- [[Smart Contracts]]
+- Decentralized Application Platform ([[Dapp]])
 ___
 ## References
 [Ethereum.org - Whitepaper](https://ethereum.org/en/whitepaper/)

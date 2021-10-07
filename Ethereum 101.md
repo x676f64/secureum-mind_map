@@ -48,7 +48,7 @@
 ![[Block Gas Limit.md]]
 ![[GHOST.md]]
 ![[Consensus.md]]
-![[Ethereum State Cont.]]
+![[Ethereum Blockchain State]]
 ![[Ethereum PoW.md]]
 ![[Block Header.md]]
 ![[State Root.md]]
