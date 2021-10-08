@@ -18,6 +18,9 @@ If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
 ![example.png](./images/example.png)
 
+### Mindmap Content
+- [Ethereum101](Ethereum101.md)
+
 ___
 ## Week 1
 
@@ -79,3 +82,7 @@ ___
 ### Youtube Videos
 ### Assignment
 	
+## Program Information
+**Details**: [https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract](https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract)  
+**Funded by**: Ethereum Foundation Grant  
+**Sponsor Partners**: [ConsenSys Diligence](https://consensys.net/diligence/), [Sigma Prime](https://sigmaprime.io/), [Trail of Bits](https://www.trailofbits.com/)
