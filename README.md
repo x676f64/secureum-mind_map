@@ -48,9 +48,28 @@ YouTube videos on "Ethereum 101":
 
 ___
 ## Week 2
+
 ### Blog
+[Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
+
 ### Youtube Videos
+YouTube videos on "Solidity 101":
+1.  [Block 1](https://youtu.be/5eLqFac5Tkg)
+
+2.  [Block 2](https://youtu.be/TCl1IcGl_3I)
+
+3.  [Block 3](https://youtu.be/6VIJpze1jbU)
+
+4.  [Block 4](https://youtu.be/WgU7KKKomMk)
+
+5.  [Block 5](https://youtu.be/_oN7XuyhoZA)
+
 ### Assignment
+1. Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
+2. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
+3. Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
+4. Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
+5. Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 ___
 ## Week 3
 ### Blog
