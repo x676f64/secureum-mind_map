@@ -11,8 +11,8 @@ ___
 ![094.png](../images/ethereum101/094.png)
 ___
 ## Slide Text
-- Ethereum & EVM
-- Solidity, Vyper, & others
+- Ethereum & [EVM](EVM.md)
+- [Solidity](Solidity.md), Vyper, & others
 - Hardhat, Truffle, Brownie, OpenZeppelin, Dapptools, etc
 - Slither, Mythril/MythX, Manticore 
 

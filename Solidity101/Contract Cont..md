@@ -16,7 +16,7 @@ ___
 ## Slide Deck
 - Contracts: Components
 - [Structs](Structs.md)/[Enums](Enums.md)
-- State [Variables](Variables.md)
+- State [State Variables](State%20Variables.md)
 - [Events](Events.md)
 - [Errors](Errors.md)
 - [Modifiers](Modifiers.md)

@@ -19,10 +19,10 @@ If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 ![example.png](./images/example.png)
 
 ### Mindmap Content
-- [Ethereum101](Ethereum101.md)
-
+1. [Ethereum101](1.Ethereum101.md)
+2. [Solidity101](2.Solidity101.md)
 ___
-## Week 1
+## Week 1 - [Ethereum101](1.Ethereum101.md)
 
 ### Blog
 [Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
@@ -47,10 +47,21 @@ YouTube videos on "Ethereum 101":
 5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
 
 ___
-## Week 2
+## Week 2 - [Solidity101](2.Solidity101.md)
 ### Blog
+[Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
 ### Youtube Videos
+1.  [https://youtu.be/5eLqFac5Tkg](https://www.youtube.com/watch?v=5eLqFac5Tkg)
+2.  [Block 2](https://www.youtube.com/watch?v=TCl1IcGl_3I)
+3.  [Block 3](https://www.youtube.com/watch?v=6VIJpze1jbU)
+4.  [Block 4](https://www.youtube.com/watch?v=WgU7KKKomMk)
+5.  [Block 5](https://www.youtube.com/watch?v=_oN7XuyhoZA)
 ### Assignment
+1.  Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
+2.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
+3.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
+4.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
+5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 ___
 ## Week 3
 ### Blog

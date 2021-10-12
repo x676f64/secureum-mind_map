@@ -1,13 +1,14 @@
 # 4 - [Layout](Layout.md)
-The layout of a Solidity source file can contain an arbitrary number of pragma directives, import directives and struct/enum/contract definitions. 
+The layout of a [Solidity](Solidity.md) source file can contain an arbitrary number of [pragma](pragma.md) directives, [import](Imports.md) directives and [structs](Structs.md)/[enums](Enums.md)/[contracts](Contracts.md) definitions. 
 
 The best-practices for layout within a contract is the following order: 
-1. state variables
-2. events
-3. modifiers
-4. constructor
-5. functions
-
+1. [structs](Structs.md)/[enums](Enums.md)
+2. [state variables](State%20Variables.md)
+3. [events](Events.md)
+4. [errors](Errors.md)
+5. [modifiers](Modifiers.md) 
+6. [constructor](Constructor.md)
+7. [functions](Functions.md)
 ___
 ## Slide Screenshot
 ![004.png](../images/solidity101/004.png)
@@ -18,7 +19,7 @@ ___
 	- Struct/Enum
 	- Contract Definitions
 - Contract: 
-	- Strut/Enum
+	- Struct/Enum
 	- State Variables
 	- Events
 	- Errors

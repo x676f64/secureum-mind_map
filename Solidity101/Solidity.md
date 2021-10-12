@@ -1,5 +1,7 @@
 # 1 - [Solidity](Solidity.md)
-Solidity is a high-level language for implementing smart contracts on Ethereum (and the blockchains) targeting the EVM. Solidity was proposed in 2014 by Gavin Wood and was later developed by Ethereum’s Solidity team, led by Christian Reitwiessner, Alex Beregszaszi & others. (See [here](https://en.wikipedia.org/wiki/Solidity))
+Solidity is a high-level language for implementing smart contracts on Ethereum (and the blockchains) targeting the [EVM](EVM.md). 
+
+Solidity was proposed in 2014 by [Gavin Wood](https://en.wikipedia.org/wiki/Gavin_Wood) and was later developed by Ethereum’s Solidity team, led by Christian Reitwiessner, Alex Beregszaszi & others.
 
 ___
 ## Slide Screenshot
@@ -16,6 +18,7 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=84)
+- [Wikipedia - Solidity](https://en.wikipedia.org/wiki/Solidity)
 
 ___
 ## Resources

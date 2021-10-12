@@ -14,3 +14,4 @@ ___
 ___ 
 ## References
 - [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=331)
+- [Mastering Ethereum: Chapter 2: Externally Owned Accounts (EOAs) and Contracts](https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc#externally-owned-accounts-eoas-and-contracts)

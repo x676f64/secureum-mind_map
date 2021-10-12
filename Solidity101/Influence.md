@@ -15,7 +15,7 @@ ___
 - Main: C++
 - Others: Python, JavaScript
 - C++: Syntax, OOP, etc.
-- Python: Modifiers, super, etc.
+- Python: [Modifiers](Modifiers.md), super, etc.
 - JavaScript: Scoping, var Early, Not Anymore
 - Fundamental Pillar
 - Few Alternatives

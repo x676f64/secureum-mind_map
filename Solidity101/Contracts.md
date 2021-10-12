@@ -7,15 +7,16 @@ ___
 ___
 ## Slide Deck
 - Contracts: Similar to Classes in OOP
-- State -> Variables
-- Modifications -> Functions
+- [State](Ethereum%20State.md) -> [State Variables](State%20Variables.md)
+- Modifications -> [Functions](Functions.md)
 - Other Contracts
 	- Inherit & Interact
-- Smart Contractcs -> Fundamental Primitive
+- [Smart Contracts](Smart%20Contracts.md) -> Fundamental Primitive
 ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=1425)
-
 ___
 ## Resources
-- 
+
+## Tags
+[Contract Cont.](Contract%20Cont..md)

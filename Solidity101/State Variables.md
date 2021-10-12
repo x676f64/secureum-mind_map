@@ -1,4 +1,4 @@
-# 15 - [State Variables](Variables.md)
+# 15 - [State Variables](State%20Variables.md)
 They are variables that can be accessed by all functions of the contract and whose values are permanently stored in contract storage
 
 ___
