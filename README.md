@@ -51,7 +51,7 @@ ___
 ### Blog
 [Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
 ### Youtube Videos
-1.  [https://youtu.be/5eLqFac5Tkg](https://www.youtube.com/watch?v=5eLqFac5Tkg)
+1.  [Block 1](https://www.youtube.com/watch?v=5eLqFac5Tkg)
 2.  [Block 2](https://www.youtube.com/watch?v=TCl1IcGl_3I)
 3.  [Block 3](https://www.youtube.com/watch?v=6VIJpze1jbU)
 4.  [Block 4](https://www.youtube.com/watch?v=WgU7KKKomMk)
