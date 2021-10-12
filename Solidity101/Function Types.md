@@ -1,0 +1,26 @@
+# 54 - [Function Types](Function%20Types.md)
+Function types are the types of functions. 
+
+Variables of function type can be assigned from functions and function parameters of function type can be used to pass functions to and return functions from function calls.
+
+They come in two flavours: 
+1. **Internal functions** can only be called inside the current contract.
+2. **External functions** consist of an address and a function signature and they can be passed via and returned from external function calls.
+
+___
+## Slide Screenshot
+![054.png](../images/solidity101/054.png)
+___
+## Slide Deck
+- Variables -> Function Type
+- Assigned <- Functions
+- Parameters/Return Value
+- Internal vs. External
+- Usage: Minimal
+___
+## References
+- [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=1677
+
+___
+## Resources
+- 
