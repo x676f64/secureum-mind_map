@@ -15,17 +15,17 @@ ___
 ___
 ## Slide Deck
 - Solidity Source File Layout
-	- Pragmas/Import Directives
-	- Struct/Enum
-	- Contract Definitions
+	- [Pragma](Pragma.md)/[Import](Imports.md) Directives
+	- [Struct](Structs.md)/[Enum](Enums.md)
+	- [[Contract  Definitions 
 - Contract: 
-	- Struct/Enum
-	- State Variables
-	- Events
-	- Errors
-	- Modifiers
-	- Contructor
-	- Functions
+	- [Structs](Structs.md)/[Enums](Enums.md)
+	- [State Variables](State%20Variables.md)
+	- [Events](Events.md)
+	- [Errors](Errors.md)
+	- [Modifiers](Modifiers.md)
+	- [Constructor](Constructor.md)
+	- [Functions](Functions.md)
 - Arbitrary Number
 - Layout Best-practices
 

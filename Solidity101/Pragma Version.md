@@ -1,5 +1,5 @@
 # 7 - [Pragma Version](Pragma%20Version.md)
-Version Pragma: This indicates the specific Solidity compiler version to be used for that source file and is used as follows: `pragma solidity x.y.z;` where x.y.z indicates the version of the compiler.
+Version [Pragma](Pragma.md): This indicates the specific [Solidity](Solidity.md) compiler version to be used for that source file and is used as follows: `pragma solidity x.y.z;` where x.y.z indicates the version of the compiler.
     
 1.  Using the version pragma does not change the version of the compiler. It also does not enable or disable features of the compiler. It just instructs the compiler to check whether its version matches the one required by the pragma. If it does not match, the compiler issues an error.
 
@@ -21,11 +21,10 @@ ___
 	- `pragma solidity x.y.z`
 - Used vs. Specified
 - Formats: Simple, Complex, Floating
-- 
+- Affects: Features, OPtimizations, Security
 ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=610)
 
 ___
 ## Resources
-- 

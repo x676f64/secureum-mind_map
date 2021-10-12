@@ -13,7 +13,7 @@ ___
 - Receive Tx/Message -> Run
 	- Runs Code & Accesses Storage
 - Message Accounts
-- Create Contracts
+- Create [Contracts](Contracts.md)
 ___
 ## References
 - [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=279)

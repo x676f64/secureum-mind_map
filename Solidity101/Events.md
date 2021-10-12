@@ -12,7 +12,7 @@ ___
 ![027.png](../images/solidity101/027.png)
 ___
 ## Slide Deck
-- EVM Logging Abstraction
+- [EVM](EVM.md) Logging Abstraction
 - Event -> Emit
 - Contract Log -> Blockchain
 - Contracts -> No Access
