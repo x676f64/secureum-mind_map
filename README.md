@@ -2,10 +2,10 @@
 
 The plan is to grow this over time. Pull requests accepted.
 ___
-Sections/information I would like to add (my wish list): 
+Information I would like to add (my wish list): 
 - [x] Screenshots of each slide for each topic.
 - [ ] The time in the youtube video that the topic is discussed.
-- [ ] Links to the relevant topic on youtube at that specific point in the video.
+- [] Links to the relevant topic on youtube at that specific point in the video.
 - [ ] Text to speech of what is said for each topic by Rajeev in the videos
 - [ ] Solidity example where applicable
 - [ ] Add dapptool examples for relevant sections.
@@ -19,16 +19,17 @@ If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 ![example.png](./images/example.png)
 
 ### Mindmap Content
+These pages do not load on Git but when they are loaded in Obsidian, They will all appear in-line making it easy to scroll through them in order.
 1. [Ethereum101](1.Ethereum101.md)
 2. [Solidity101](2.Solidity101.md)
 ___
-## Week 1 - [Ethereum101](1.Ethereum101.md)
-
-### Blog
-[Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
-
-### Youtube Videos
-YouTube videos on "Ethereum 101":
+___
+# ***Week 1*** - [Ethereum101](1.Ethereum101.md)
+___
+## Blog Article
+#### [Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
+___
+### Course Videos
 1.  [Block 1](https://youtu.be/44qhIBMGMoM)
 
 2.  [Block 2](https://youtu.be/zIeBfuXxuWs)
@@ -38,24 +39,26 @@ YouTube videos on "Ethereum 101":
 4.  [Block 4](https://youtu.be/MFoxW07ICKs)
 
 5.  [Block 5](https://youtu.be/I-TjCtjDs1M)
-
+___
 ### Assignment
 1.  Read the Ethereum whitepaper: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
 2.  Read the Ethereum yellow paper: [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
 3.  Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) and other references in Secureum’s “Ethereum 101” article
 4.  Browse through topics at [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
 5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
-
 ___
-## Week 2 - [Solidity101](2.Solidity101.md)
-### Blog
+___
+# ***Week 2*** - [Solidity101](2.Solidity101.md)
+### Blog Article
 [Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
-### Youtube Videos
+___
+### Course Videos
 1.  [Block 1](https://www.youtube.com/watch?v=5eLqFac5Tkg)
 2.  [Block 2](https://www.youtube.com/watch?v=TCl1IcGl_3I)
 3.  [Block 3](https://www.youtube.com/watch?v=6VIJpze1jbU)
 4.  [Block 4](https://www.youtube.com/watch?v=WgU7KKKomMk)
 5.  [Block 5](https://www.youtube.com/watch?v=_oN7XuyhoZA)
+___
 ### Assignment
 1.  Read Chapter 7 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
 2.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
@@ -65,16 +68,29 @@ ___
 ___
 ## Week 3
 ### Blog
+___
 ### Youtube Videos
+1.  [Block 1]()
+2.  [Block 2]()
+3.  [Block 3]()
+4.  [Block 4]()
+5.  [Block 5]()
 ### Assignment
+
 ___
 ## Week 4
 ### Blog
 ### Youtube Videos
+1.  [Block 1]()
+2.  [Block 2]()
+3.  [Block 3]()
+4.  [Block 4]()
+5.  [Block 5]()
 ### Assignment
 ___
 ## Week 5
 ### Blog
+
 ### Youtube Videos
 ### Assignment
 ___
@@ -93,7 +109,3 @@ ___
 ### Youtube Videos
 ### Assignment
 	
-## Program Information
-**Details**: [https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract](https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract)  
-**Funded by**: Ethereum Foundation Grant  
-**Sponsor Partners**: [ConsenSys Diligence](https://consensys.net/diligence/), [Sigma Prime](https://sigmaprime.io/), [Trail of Bits](https://www.trailofbits.com/)
