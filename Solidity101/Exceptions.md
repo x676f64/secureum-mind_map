@@ -5,9 +5,9 @@ Solidity uses state-reverting exceptions to handle errors. Such an exception und
     
 2.  Exceptions in external calls can be caught with the `try/catch` statement
     
-3.  Exceptions can contain data that is passed back to the caller. This data consists of a 4-byte selector and subsequent ABI-encoded data. The selector is computed in the same way as a function selector, i.e., the first four bytes of the keccak256-hash of a function signature - in this case an error signature.
+3.  Exceptions can contain data that is passed back to the caller. This data consists of a 4-byte selector and subsequent [ABI-encoded](ABI%20Encoding-Decoding.md) data. The selector is computed in the same way as a [function selector](../Ethereum101/Function%20Selector.md), i.e., the first four bytes of the keccak256-hash of a function signature - in this case an error signature.
     
-4.  Solidity supports two error signatures: `Error(string)` and `Panic(uint256)`. The first (“error”) is used for “regular” error conditions while the second (“panic”) is used for errors that should not be present in bug-free code.
+4.  Solidity supports two error signatures: `Error(string)` and `Panic(uint256)`. The first (“[error](Errors.md)”) is used for “regular” error conditions while the second (“[panic](Panic.md)”) is used for errors that should not be present in bug-free code.
 ___
 ## Slide Screenshot
 ![086.png](../images/solidity101/086.png)

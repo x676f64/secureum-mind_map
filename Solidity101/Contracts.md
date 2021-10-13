@@ -19,4 +19,4 @@ ___
 ## Resources
 
 ## Tags
-[Contract Cont.](Contract%20Cont..md)
+[Contract Continued](Contract%20Continued.md)

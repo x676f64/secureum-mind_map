@@ -6,7 +6,7 @@
     
 3.  `push(x)`:  appends a given element at the end of the array and returns nothing
     
-4.  `pop`: removes an element from the end of the array and implicitly calls delete on the removed element
+4.  `pop`: removes an element from the end of the array and implicitly calls [delete](delete.md) on the removed element
 
 
 ___

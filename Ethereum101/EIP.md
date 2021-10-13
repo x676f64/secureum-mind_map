@@ -1,7 +1,7 @@
 # 85 - [EIP](EIP.md)
 
 Etherum Improvement Proposals (EIPs) describe standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards. Standards Track EIPs are separated into a number of types:
-1.  **Core**: Improvements requiring a consensus fork as well as changes that are not necessarily consensus critical but may be relevant to “core dev” discussions
+1.  **Core**: Improvements requiring a [consensus](Consensus.md) fork as well as changes that are not necessarily consensus critical but may be relevant to “core dev” discussions
 2.  **Networking**: Includes improvements around devp2p and Light Ethereum Subprotocol, as well as proposed improvements to network protocol specifications of whisper and swarm
 3.  **Interface**: Includes improvements around client API/RPC specifications and standards, and also certain language-level standards like method names and contract [ABI](ABI.md)s. The label “interface” aligns with the interfaces repo and discussion should primarily occur in that repository before an EIP is submitted to the EIPs repository
 4.  **ERC**: Application-level standards and conventions, including contract standards such as token standards (ERC-20), name registries, URI schemes, library/package formats, and wallet formats 

@@ -1,5 +1,5 @@
-# 63 - [Arrays - Slices](Arrays%20-%20Slices.md)
-Array slices are a view on a contiguous portion of an array. 
+	# 63 - [Arrays - Slices](Arrays%20-%20Slices.md)
+[Array](Arrays.md) slices are a view on a contiguous portion of an array. 
 
 They are written as `x[start:end]`, where start and end are expressions resulting in a `uint256` type (or implicitly convertible to it). 
 
@@ -15,9 +15,9 @@ The first element of the slice is `x[start]` and the last element is `x[end - 1]
     
 5. Array slices do not have a type name which means no variable can have an array slices as type and they only exist in intermediate expressions
     
-6. Array slices are only implemented for calldata arrays.
+6. Array slices are only implemented for [calldata](../Ethereum101/Calldata.md) arrays.
     
-7. Array slices are useful to ABI-decode secondary data passed in function parameters
+7. Array slices are useful to [ABI-decode](ABI%20Encoding-Decoding.md) secondary data passed in function parameters
 
 ___
 ## Slide Screenshot
@@ -28,7 +28,7 @@ ___
 - `x[start:end]` -> `x[start]` to `x[end-1]`
 - start & end -> Optional
 - `start <= end` & `end < length`
-- Only Calldata Arrays
+- Only [Calldata](../Ethereum101/Calldata.md) Arrays
 ___
 ## References
 - [Youtube Reference](https://youtu.be/WgU7KKKomMk?t=123)

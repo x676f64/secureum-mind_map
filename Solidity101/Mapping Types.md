@@ -7,7 +7,7 @@ Mappings define key-value pairs and are declared using the syntax `mapping(KeyTy
     
 3.  They do not have a length or a concept of a key or value being set
     
-4.  They can only have a data location of storage and thus are allowed for state variables, as storage reference types in functions, or as parameters for library functions
+4.  They can only have a [data location](Data%20Location.md) of [storage](../Ethereum101/Storage.md) and thus are allowed for state variables, as storage reference types in functions, or as parameters for library functions
     
 5.  They cannot be used as parameters or return parameters of contract functions that are publicly visible. These restrictions are also true for arrays and structs that contain mappings.
     

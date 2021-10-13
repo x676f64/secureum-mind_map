@@ -9,7 +9,7 @@ ___
 ## Slide Text
 - Application -> Web Portal
 - Real-time on-chain data about blocks & tx's
-- Accounts, Interactions, Gas, Balances, Calls, Events
+- Accounts, Interactions, Gas, Balances, Calls, [Events](../Solidity101/Events.md)
 
 - [Etherscan](https://etherscan.com)
 - [Etherchain](https://etherchain.org/)

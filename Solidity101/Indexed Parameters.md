@@ -3,7 +3,7 @@ Adding the attribute `indexed` for up to three parameters adds them to a special
 
 If you use arrays (including `string` and `bytes`) as indexed arguments, its [Keccak256](Keccak256.md)  hash is stored as a topic instead, this is because a topic can only hold a single word (32 bytes). 
 
-All parameters without the `indexed` attribute are ABI-encoded into the data part of the log. Topics allow you to search for events, for example when filtering a sequence of blocks for certain events. 
+All parameters without the `indexed` attribute are [ABI-encoded](ABI%20Encoding-Decoding.md) into the data part of the log. Topics allow you to search for [events](Events.md), for example when filtering a sequence of blocks for certain events. 
 
 You can also filter events by the address of the contract that emitted the event.
 

@@ -11,7 +11,7 @@
     
 6.  Source File Encoding: UTF-8 or ASCII encoding is preferred.
     
-7.  Imports: Import statements should always be placed at the top of the file.
+7.  [Imports](Imports.md): Import statements should always be placed at the top of the file.
     
 8.  Order of Functions: Ordering helps readers identify which functions they can call and to find the constructor and fallback definitions easier. Functions should be grouped according to their visibility and ordered: constructor, receive function (if exists), fallback function (if exists), external, public, internal, private. Within a grouping, place the view and pure functions last.
 

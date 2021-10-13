@@ -1,5 +1,5 @@
 # 77 - [ABI Encoding-Decoding](ABI%20Encoding-Decoding.md)
-ABI Encoding and Decoding Functions:
+[ABI](../Ethereum101/ABI.md) Encoding and Decoding Functions:
 
 1.  `abi.decode(bytes memory encodedData, (...)) returns (...)`: ABI-decodes the given data, while the types are given in parentheses as second argument.
     

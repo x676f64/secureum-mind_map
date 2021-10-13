@@ -1,7 +1,7 @@
 # 13 - [ÐApp](Dapp.md)
 
 
-A Decentralized Application, abbreviated as [ÐApp](Dapp.md), is a web application that is built on top of open, decentralized, peer-to-peer infrastructure services and typically combines smart contracts with a web interface.
+A Decentralized Application, abbreviated as ÐApp, is a web application that is built on top of open, decentralized, peer-to-peer [infrastructure](Infrastructure.md) services and typically combines smart contracts with a web interface.
 
 ___
 ## Slide Screenshot
@@ -11,7 +11,7 @@ ___
 - Decentralized Application
 - Web App + P2P infrastructure
 - P2P -> Compute, Storage, or Network
-- [ÐApp](Dapp.md) -> Web App + Smart Contract
+- [ÐApp](Dapp.md) -> Web App + [Smart Contract](Smart%20Contracts.md)
 
 ___
 ## Tags

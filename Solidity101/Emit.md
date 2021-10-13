@@ -1,5 +1,5 @@
 # 29 - [Emit](Emit.md)
-Events are emitted using `emit`, followed by the name of the event and the arguments e.g. `emit Deposit(msg.sender, _id, msg.value);`
+[Events](Events.md) are emitted using `emit`, followed by the name of the event and the arguments e.g. `emit Deposit(msg.sender, _id, msg.value);`
 
 ___
 ## Slide Screenshot

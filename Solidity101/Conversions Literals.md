@@ -14,7 +14,7 @@ ___
 ![070.png](../images/solidity101/070.png)
 ___
 ## Slide Deck
-- Literals <> Elementary Types
+- [Literals](Literals.md) <> Elementary Types
 - Decimals/Hex -> Integer
 - Decimals X -> Fixed-size byte Arrays
 - Hex -> Fixed-size byte arrays

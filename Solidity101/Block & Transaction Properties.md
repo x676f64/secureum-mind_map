@@ -1,7 +1,7 @@
 # 73 - [Block & Transaction Properties](Block%20&%20Transaction%20Properties.md)
 Block and Transaction Properties:
 
-1.  `blockhash(uint blockNumber)` returns `(bytes32)`: hash of the given block - only works for 256 most recent, excluding current, blocks
+1.  `blockhash(uint blockNumber)` returns `(bytes32)`: hash of the given [block](../Ethereum101/Block.md) - only works for 256 most recent, excluding current, blocks
     
 2.  `block.chainid (uint)`: current chain id
     
@@ -9,7 +9,7 @@ Block and Transaction Properties:
     
 4.  `block.difficulty (uint)`: current block difficulty
     
-5.  `block.gaslimit (uint)`: current block gaslimit
+5.  `block.gaslimit (uint)`: current block [gasLimit](../Ethereum101/gasLimit.md)
     
 6.  `block.number (uint)`: current block number
     
@@ -35,8 +35,8 @@ ___
 ___
 ## Slide Deck
 - Block: Hash, ChainID, Number, Timestamp
-- Block: Coinbase, Difficulty, GasLimit
-- Msg: Value, Data, Sender, Sig
+- Block: Coinbase, Difficulty, [GasLimit](../Ethereum101/gasLimit.md)
+- Msg: [Value](../Ethereum101/Value.md), [Data](../Ethereum101/Data.md), Sender, Sig
 - Tx: Gasprice, Gasleft, Origin
 ___
 ## References

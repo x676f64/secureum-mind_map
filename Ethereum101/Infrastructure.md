@@ -1,6 +1,6 @@
 # 3 - [Infrastructure](Infrastructure.md)
 
-Ethereum is an open source, globally decentralized computing infrastructure that executes programs called smart contracts. It uses a blockchain to synchronize and store the system’s state changes, along with a cryptocurrency called ether to meter and constrain execution resource costs. It is often described as "the world computer.”
+Ethereum is an open source, globally decentralized computing infrastructure that executes programs called smart contracts. It uses a blockchain to synchronize and store the system’s state changes, along with a [Byzantine Threat Model](Byzantine%20Threat%20Model.md)cryptocurrency called ether to meter and constrain execution resource costs. It is often described as "the world computer.”
 
 ___
 ## Slide Screenshot

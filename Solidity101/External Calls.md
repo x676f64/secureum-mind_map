@@ -1,5 +1,5 @@
 # 49 - [External Calls](External%20Calls.md)
-Call/Delegatecall/Staticcall: In order to interface with contracts that do not adhere to the ABI, or to get more direct control over the encoding, the functions `call`, `delegatecall` and `staticcall` are provided. 
+Call/Delegatecall/Staticcall: In order to interface with contracts that do not adhere to the [ABI](../Ethereum101/ABI.md), or to get more direct control over the encoding, the functions `call`, `delegatecall` and `staticcall` are provided. 
 
 They all take a single `bytes` memory parameter and return the success condition (as a bool) and the returned data `(bytes memory)`. 
 

@@ -1,9 +1,9 @@
-# 14 - [Contract Cont.](Contract%20Cont..md)
+# 14 - [Contract Continued](Contract%20Continued.md)
 Contracts can contain declarations of: 
 
-- State [Variables](Variables.md
+- [State Variables](State%20Variables.md)
 - [Functions](Functions.md)
-- Function [Modifiers](Modifiers.md)
+- [Function Modifiers](Modifiers.md)
 - [Events](Events.md)
 - [Errors](Errors.md)
 - [Struct Types](Structs.md)
@@ -16,7 +16,7 @@ ___
 ## Slide Deck
 - Contracts: Components
 - [Structs](Structs.md)/[Enums](Enums.md)
-- State [State Variables](State%20Variables.md)
+- [State Variables](State%20Variables.md)
 - [Events](Events.md)
 - [Errors](Errors.md)
 - [Modifiers](Modifiers.md)

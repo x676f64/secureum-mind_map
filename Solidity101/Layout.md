@@ -17,7 +17,7 @@ ___
 - Solidity Source File Layout
 	- [Pragma](Pragma.md)/[Import](Imports.md) Directives
 	- [Struct](Structs.md)/[Enum](Enums.md)
-	- [[Contract  Definitions 
+	- Contract Definitions 
 - Contract: 
 	- [Structs](Structs.md)/[Enums](Enums.md)
 	- [State Variables](State%20Variables.md)

@@ -1,4 +1,4 @@
-# 101 - [Naming Conventions Continued](Naming%20Conventions%20Cont..md)
+# 101 - [Naming Conventions Continued](Naming%20Conventions%20Continued.md)
 1.  Function arguments should use mixedCase. Examples: initialSupply, account, recipientAddress, senderAddress, newOwner.
     
 2.  Local and state variable names should use mixedCase. Examples: totalSupply, remainingSupply, balancesOf, creatorAddress, isPreSale, tokenExchangeRate.

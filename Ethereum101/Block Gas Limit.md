@@ -27,3 +27,5 @@ Get the latest block gasLimit using seth
 # seth block latest gasLimit
 29970705
 ```
+## Tags
+[gasLimit](gasLimit.md)]
