@@ -14,7 +14,7 @@ Types that are passed by value, i.e. they are always copied when they are used a
 	- Unicode
 	- Hexadecimal
 - [Enums](Enums.md)
-- [Functions](Functions.md).
+- [Functions](Functions.md)
 
 ___
 ## Slide Screenshot

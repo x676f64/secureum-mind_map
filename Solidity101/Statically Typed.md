@@ -1,5 +1,11 @@
 # 35 - [Statically Typed](Statically%20Typed.md)
-Solidity is a statically-typed language, which means that the type of each variable (state and local) needs to be specified in code at compile-time. This is unlike dynamically-typed languages where types are required only with runtime values. Statically-typed languages perform compile-time type-checking according to the language rules. Other examples are C, C++, Java, Rust, Go, Scala.
+[Solidity](Solidity.md) is a statically-typed language, which means that the type of each variable (state and local) needs to be specified in code at compile-time. 
+
+This is unlike dynamically-typed languages where types are required only with runtime values. 
+
+Statically-typed languages perform compile-time type-checking according to the language rules. 
+
+Other examples are C, C++, Java, Rust, Go, Scala.
 
 ___
 ## Slide Screenshot

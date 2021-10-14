@@ -1,6 +1,6 @@
 # 53 - [Enums Continued](Enums%20Cont..md)
 
-Enums are one way to create a user-defined type in Solidity. 
+Enums are one way to create a user-defined type in [Solidity](Solidity.md). 
 
 They require at least one member and its default value when declared is the first member. 
 

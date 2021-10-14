@@ -3,7 +3,7 @@
     
 2. Tabs or Spaces: Spaces are the preferred indentation method. Mixing tabs and spaces should be avoided.
     
-3. Blank Lines: Surround top level declarations in solidity source with two blank lines.
+3. Blank Lines: Surround top level declarations in [Solidity](Solidity.md) source with two blank lines.
     
 4. Maximum Line Length: Keeping lines to a maximum of 79 (or 99) characters helps readers easily parse the code.
     

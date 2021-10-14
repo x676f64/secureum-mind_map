@@ -1,5 +1,5 @@
 # 43 - [Integer Arthimetic](Integer%20Arthimetic.md)
-[Integers](Integers.md) in Solidity are restricted to a certain range. 
+[Integers](Integers.md) in [Solidity](Solidity.md) are restricted to a certain range. 
 
 For example, with `uint32`, this is 0 up to `2**32 - 1`. 
 
@@ -22,5 +22,7 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=278)
-
+___
+## Tags
+[Comparison & Bitwise Logic](../Ethereum101/Comparison%20&%20Bitwise%20Logic.md)
 

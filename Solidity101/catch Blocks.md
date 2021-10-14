@@ -1,5 +1,5 @@
 # 94 - [catch Blocks](catch%20Blocks.md)
-Solidity supports different kinds of catch blocks depending on the type of error:
+[Solidity](Solidity.md) supports different kinds of catch blocks depending on the type of error:
 
 1. `catch Error(string memory reason) { ... }`: This catch clause is executed if the error was caused by revert("reasonString") or require(false, "reasonString") (or an internal error that causes such an exception).
     

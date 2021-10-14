@@ -25,6 +25,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=610)
-
 ___
-## Resources
+## Tags
+[Comparison & Bitwise Logic](../Ethereum101/Comparison%20&%20Bitwise%20Logic.md)

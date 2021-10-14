@@ -1,5 +1,5 @@
 # 85 - [Control Structures](Control%20Structures.md)
-Control Structures: Solidity has `if, else, while, do, for, break, continue, return`, with the usual semantics known from C or JavaScript
+[Solidity](Solidity.md) has `if`, `else`, `while`, `do`, `for`, `break`, `continue`, `return`, with the usual semantics known from C or JavaScript
 
 1. Parentheses can not be omitted for conditionals, but curly braces can be omitted around single-statement bodies
     

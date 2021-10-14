@@ -1,7 +1,8 @@
 # 42 - [Integers](Integers.md)
-`int` / `uint`: Signed and unsigned integers of various sizes. Keywords uint8 to uint256 in steps of 8 (unsigned of 8 up to 256 bits) and int8 to int256. uint and int are aliases for uint256 and int256, respectively. Operators are: 
-    
-1. Comparisons: `<=`, `<`, `==`, `!=`, `>=`, `>` (evaluate to bool)
+`int` / `uint`: Signed and unsigned integers of various sizes. Keywords `uint8` to `uint256` in steps of 8 (unsigned of 8 up to 256 bits) and `int8` to `int256`. `uint` and `int` are aliases for `uint256` and `int256`, respectively. 
+
+Operators are:     
+1. Comparisons: `<=`, `<`, `==`, `!=`, `>=`, `>` (evaluate to `bool`)
 
 2. Bit operators: `&`, `|`, `^` (bitwise exclusive or), `~` (bitwise negation)
 
@@ -25,5 +26,7 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=190)
-
+___
+## Tags
+[Comparison & Bitwise Logic](../Ethereum101/Comparison%20&%20Bitwise%20Logic.md)
 

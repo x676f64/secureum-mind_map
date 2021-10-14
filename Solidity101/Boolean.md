@@ -1,5 +1,5 @@
 # 41 - [Boolean](Boolean.md)
-`bool` Keyword and the possible values are constants true and false. 
+`bool` Keyword and the possible values are constants `true` and `false`. 
 
 1. Operators are:
 	- `!` (logical negation) 

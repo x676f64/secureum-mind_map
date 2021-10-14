@@ -3,11 +3,11 @@ A variable which is declared will have an initial default value whose byte-repre
 
 The “default values” of variables are the typical “zero-state” of whatever the type is. 
 
-For example, the default value for a bool is false. The default value for the uint or int types is 0. 
+For example, the default value for a [bool](Boolean.md) is false. The default value for the uint or int types is 0. 
 
-- For statically-sized arrays and bytes1 to bytes32, each individual element will be initialized to the default value corresponding to its type. 
+- For statically-sized [arrays](Arrays.md) and bytes1 to bytes32, each individual element will be initialized to the default value corresponding to its type. 
 
-- For dynamically-sized arrays, bytes and string, the default value is an empty array or string. For the enum type, the default value is its first member.
+- For dynamically-sized arrays, [bytes and string](bytes%20&%20string.md) string , the default value is an empty array or string. For the [enum](Enums.md) type, the default value is its first member.
 ___
 ## Slide Screenshot
 ![039.png](../images/solidity101/039.png)

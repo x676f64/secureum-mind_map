@@ -5,7 +5,7 @@ Variables of type `bytes` and `string` are special arrays
     
 2. `string` is equal to `bytes` but does not allow length or index access
     
-3. Solidity does not have string manipulation functions, but there are third-party string libraries
+3. [Solidity](Solidity.md) does not have string manipulation functions, but there are third-party string libraries
     
 4. Use `bytes` for arbitrary-length raw byte data and `string` for arbitrary-length string (UTF-8) data
     
