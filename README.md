@@ -16,6 +16,7 @@ Currently, I have copied over the slide text as well as the relavent section fro
 
 If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
+
 ![example.png](./images/example.png)
 
 ### Mindmap Content
