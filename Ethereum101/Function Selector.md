@@ -35,7 +35,6 @@ ___
 # seth keccak 'deposit(address,uint256)'|cut -c -10
 0x47e7ef24
 ```
-
 ___
-## Resources
+## References
 - [4byte Directory](https://www.4byte.directory/) 
