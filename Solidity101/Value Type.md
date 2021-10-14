@@ -4,7 +4,7 @@ Types that are passed by value, i.e. they are always copied when they are used a
 - [Integers](Integers.md)
 - [Fixed Point](Fixed%20Point.md) Numbers
 - [Address Type](Address%20Type.md)
-- [Contracts](Contracts.md)
+- [Contract](Contract.md)
 - Fixed-size [Bytes Arrays](Bytes%20Arrays.md) (bytes1, bytes2, …, bytes32)
 - Literals:
 	- Address
@@ -31,6 +31,4 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/TCl1IcGl_3I?t=1535)
 
-___
-## Resources
-- 
+

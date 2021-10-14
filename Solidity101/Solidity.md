@@ -20,6 +20,4 @@ ___
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=84)
 - [Wikipedia - Solidity](https://en.wikipedia.org/wiki/Solidity)
 
-___
-## Resources
-- 
+

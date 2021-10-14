@@ -7,7 +7,7 @@ If you import another file, the pragma from that file does not automatically app
 
 1. Version: 
 	1.  Compiler version 
-	2.  2. ABI Coder version 
+	2.  ABI Coder version 
 2. Experimental:
 	1. SMTChecker
 ___
@@ -25,6 +25,4 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=525)
 
-___
-## Resources
-- 
+

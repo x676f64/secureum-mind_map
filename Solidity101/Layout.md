@@ -1,5 +1,5 @@
 # 4 - [Layout](Layout.md)
-The layout of a [Solidity](Solidity.md) source file can contain an arbitrary number of [pragma](pragma.md) directives, [import](Imports.md) directives and [structs](Structs.md)/[enums](Enums.md)/[contracts](Contracts.md) definitions. 
+The layout of a [Solidity](Solidity.md) source file can contain an arbitrary number of [pragma](pragma.md) directives, [import](Imports.md) directives and [structs](Structs.md)/[enums](Enums.md)/[contracts](Contract.md) definitions. 
 
 The best-practices for layout within a contract is the following order: 
 1. [structs](Structs.md)/[enums](Enums.md)
@@ -34,6 +34,4 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=346)
 
-___
-## Resources
-- 
+

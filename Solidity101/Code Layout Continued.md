@@ -18,7 +18,7 @@
 	2. [Import](Imports.md) statements 
 	3. Interfaces
 	4. Libraries
-	5. [Contracts](Contracts.md) 
+	5. [Contract](Contract.md) 
 9. Inside each contract, library or interface, use the following order: 
 	1. Type declarations
 	2. [State variables](State%20Variables.md)
@@ -42,6 +42,4 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/_oN7XuyhoZA?t=1594)
 
-___
-## Resources
-- 
+

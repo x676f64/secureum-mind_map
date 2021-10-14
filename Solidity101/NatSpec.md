@@ -1,5 +1,9 @@
 # 12 - [NatSpec](NatSpec.md)
-NatSpec Comments: NatSpec stands for “**E**thereum **N**atural **L**anguage **S**pecification **F**ormat.” These are written with a triple slash (`///`) or a double asterisk block(`/** ... */`) directly above function declarations or statements to generate documentation in JSON format for developers and end-users. It is recommended that Solidity contracts are fully annotated using NatSpec for all public interfaces (everything in the [ABI](../Ethereum101/ABI.md)). These comments contain different types of tags:
+NatSpec [Comments](Comments.md): NatSpec stands for “**E**thereum **N**atural **L**anguage **S**pecification **F**ormat”.
+
+These are written with a triple slash (`///`) or a double asterisk block(`/** ... */`) directly above function declarations or statements to generate documentation in JSON format for developers and end-users. 
+
+It is recommended that Solidity contracts are fully annotated using NatSpec for all public interfaces (everything in the [ABI](../Ethereum101/ABI.md)). These comments contain different types of tags:
 
 1.  `@title`: A title that should describe the contract/interface
     
@@ -31,7 +35,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=1298)
+- [SolidityLang - NatSpec](https://docs.soliditylang.org/en/v0.8.9/natspec-format.html)
 
-___
-## Resources
-- 
+

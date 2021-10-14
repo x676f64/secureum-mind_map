@@ -14,7 +14,7 @@ ___
 - Interface Functions -> Strongly Typed
 - Known -> Compile Time & Static 
 ___
-### References
+## References
 - [Youtube Reference](https://www.youtube.com/watch?v=I-TjCtjDs1M)
-### Tags
+## Tags
 [ABI Encoding-Decoding](../Solidity101/ABI%20Encoding-Decoding.md) [ABI Coder](../Solidity101/ABI%20Coder.md)

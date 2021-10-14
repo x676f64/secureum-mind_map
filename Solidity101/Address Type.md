@@ -15,7 +15,7 @@ ___
 ![045.png](../images/solidity101/045.png)
 ___
 ## Slide Deck
-- Account Address: [EOA](EOA.md)/[Contract](Contracts.md)
+- Account Address: [EOA](EOA.md)/[Contract](Contract.md)
 - Keyword: `account` (payable) 20 Bytes
 - Operators are `<=`, `<`, `==`, `!=`, `>=` and `>`
 - Implicit/Explicit Conversions
@@ -25,6 +25,4 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=631)
 
-___
-## Resources
-- 
+

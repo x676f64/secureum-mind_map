@@ -16,6 +16,4 @@ ___
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=463)
 - [SPDX](https://spdx.org/)
 
-___
-## Resources
-- 
+

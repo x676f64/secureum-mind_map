@@ -24,6 +24,4 @@ ___
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=143)
 - [SolidityLang.org - Language Influences](https://docs.soliditylang.org/en/v0.8.9/language-influences.html)
 
-___
-## Resources
-- 
+

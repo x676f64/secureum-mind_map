@@ -34,6 +34,4 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/_oN7XuyhoZA?t=765)
 
-___
-## Resources
-- 
+

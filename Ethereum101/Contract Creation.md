@@ -16,5 +16,5 @@ ___
 - Data Payload -> Contract Bytecode
 - Value -> Optional Starting Contract Ether Balance
  ___
-## Resources
+## References
 - [EIP-170: Contract code size limit](https://eips.ethereum.org/EIPS/eip-170)
