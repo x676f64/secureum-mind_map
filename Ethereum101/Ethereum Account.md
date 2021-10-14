@@ -1,10 +1,10 @@
 # 23 - [Ethereum Account](Ethereum%20Account.md)
 
 Ethereum account contains four fields:
-1.  The nonce, a counter used to make sure each transaction can only be processed once
-2.  The account's current ether balance
-3.  The account's contract code, if present
-4.  The account's storage (empty by default)
+1. The nonce, a counter used to make sure each transaction can only be processed once
+2. The account's current ether balance
+3. The account's contract code, if present
+4. The account's storage (empty by default)
 
 ___
 ## Slide Screenshot

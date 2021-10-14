@@ -1,13 +1,13 @@
 # 57 - [Arrays](Arrays.md)
 Arrays can have a compile-time fixed size, or they can have a dynamic size
 
-1.  The type of an array of fixed size k and element type T is written as `T[k]`, and an array of dynamic size as `T[]`.
+1. The type of an array of fixed size k and element type T is written as `T[k]`, and an array of dynamic size as `T[]`.
    
-2.  Indices are zero-based
+2. Indices are zero-based
     
-3.  Array elements can be of any type, including mapping or struct. 
+3. Array elements can be of any type, including mapping or struct. 
     
-4.  Accessing an array past its end causes a failing assertion
+4. Accessing an array past its end causes a failing assertion
 ___
 ## Slide Screenshot
 ![057.png](../images/solidity101/057.png)

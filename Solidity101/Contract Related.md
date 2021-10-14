@@ -1,9 +1,9 @@
 # 81 - [Contract Related](Contract%20Related.md)
 Contract Related:
 
-1.  `this` (current contract’s type): the current contract, explicitly convertible to Address
+1. `this` (current contract’s type): the current contract, explicitly convertible to Address
     
-2.  `selfdestruct(address payable recipient)`: Destroy the current contract, sending its funds to the given Address and end execution.
+2. `selfdestruct(address payable recipient)`: Destroy the current contract, sending its funds to the given Address and end execution.
 
 ___
 ## Slide Screenshot

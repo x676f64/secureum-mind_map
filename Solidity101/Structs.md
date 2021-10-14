@@ -1,5 +1,5 @@
 # 30 - [Structs](Structs.md)
-They are custom defined types that can group several variables of same/different types together to create a custom data structure. The struct members are accessed using ‘.’ e.g.: `struct s {address user; uint256 amount}` where `s.user` and `s.amount` access the struct members.
+They are custom defined types that can group several variables of same/different types together to create a custom data structure. The struct members are accessed using `.` e.g.: `struct s {address user; uint256 amount}` where `s.user` and `s.amount` access the struct members.
 
 ___
 ## Slide Screenshot
@@ -9,8 +9,8 @@ ___
 - Custom Data Structure
 - Several Variables
 - Different Types
-- Struct Members -> . Access
-- E.g.: s.user, s.amount
+- Struct Members -> `.` Access
+- E.g.: `s.user`, `s.amount`
 - Aggregate Type
 - Commonly Used
 ___

@@ -1,7 +1,7 @@
 # 32 - [Constructor](Constructor.md)
 Contracts can be created “from outside” via Ethereum transactions or from within [Solidity](Solidity.md) contracts. 
 
-When a contract is created, its constructor (a function declared with the `constructor` keyword) is executed once. 
+When a contract is created, its constructor (a [Function](Functions.md) declared with the `constructor` keyword) is executed once. 
 
 A constructor is optional and only one constructor is allowed. 
 

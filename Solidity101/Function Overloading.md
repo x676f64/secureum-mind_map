@@ -1,9 +1,9 @@
 # 25 - [Function Overloading](Function%20Overloading.md)
-Function Overloading: A contract can have multiple functions of the same name but with different parameter types. This process is called “overloading.”
+Function Overloading: A contract can have multiple [functions](Functions.md) of the same name but with different parameter types. This process is called “overloading.”
 
-1.  Overloaded functions are selected by matching the function declarations in the current scope to the arguments supplied in the function call.
+1. Overloaded functions are selected by matching the function declarations in the current scope to the arguments supplied in the function call.
     
-2.  Return parameters are not taken into account for overload resolution.
+2. Return parameters are not taken into account for overload resolution.
 
 ___
 ## Slide Screenshot

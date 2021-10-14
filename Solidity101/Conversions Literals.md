@@ -1,13 +1,13 @@
 # 70 - [Conversions Literals](Conversions%20Literals.md)
 Conversions between Literals and Elementary Types
 
-1.  Decimal and hexadecimal number literals can be implicitly converted to any integer type that is large enough to represent it without truncation
+1. Decimal and hexadecimal number literals can be implicitly converted to any integer type that is large enough to represent it without truncation
     
-2.  Decimal number literals cannot be implicitly converted to fixed-size byte arrays
+2. Decimal number literals cannot be implicitly converted to fixed-size byte arrays
     
-3.  Hexadecimal number literals can be, but only if the number of hex digits exactly fits the size of the bytes type. As an exception both decimal and hexadecimal literals which have a value of zero can be converted to any fixed-size bytes type
+3. Hexadecimal number literals can be, but only if the number of hex digits exactly fits the size of the bytes type. As an exception both decimal and hexadecimal literals which have a value of zero can be converted to any fixed-size bytes type
     
-4.  String literals and hex string literals can be implicitly converted to fixed-size byte arrays, if their number of characters matches the size of the bytes type
+4. String literals and hex string literals can be implicitly converted to fixed-size byte arrays, if their number of characters matches the size of the bytes type
 
 ___
 ## Slide Screenshot

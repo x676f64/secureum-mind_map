@@ -1,9 +1,9 @@
 # 84 - [Integer Type](Integer%20Type.md)
 For an integer type T, , the following type information is available:
 
-1.  `type(T).min`: The smallest value representable by type T.
+1. `type(T).min`: The smallest value representable by type T.
     
-2.  `type(T).max`: The largest value representable by type T.
+2. `type(T).max`: The largest value representable by type T.
 
 ___
 ## Slide Screenshot

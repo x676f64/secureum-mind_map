@@ -1,15 +1,15 @@
 # 42 - [Integers](Integers.md)
 `int` / `uint`: Signed and unsigned integers of various sizes. Keywords uint8 to uint256 in steps of 8 (unsigned of 8 up to 256 bits) and int8 to int256. uint and int are aliases for uint256 and int256, respectively. Operators are: 
     
-1.  Comparisons: `<=`, `<`, `==`, `!=`, `>=`, `>` (evaluate to bool)
+1. Comparisons: `<=`, `<`, `==`, `!=`, `>=`, `>` (evaluate to bool)
 
-2.  Bit operators: `&`, `|`, `^` (bitwise exclusive or), `~` (bitwise negation)
+2. Bit operators: `&`, `|`, `^` (bitwise exclusive or), `~` (bitwise negation)
 
-3.  Shift operators: 
+3. Shift operators: 
 	- `<<` (left shift)
 	- `>>` (right shift)
 
-4.  Arithmetic operators: `+`, `-`, unary `-` (only for signed integers), `*`, `/`, `%` (modulo), `**` (exponentiation)
+4. Arithmetic operators: `+`, `-`, unary `-` (only for signed integers), `*`, `/`, `%` (modulo), `**` (exponentiation)
 
 ___
 ## Slide Screenshot

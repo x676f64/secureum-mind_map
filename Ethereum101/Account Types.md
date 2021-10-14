@@ -1,8 +1,8 @@
 # 24 - [Account Types](Account%20Types.md)
 
 Ethereum has two different types of accounts:
-1.  Externally Owned Accounts ([EOA](EOA.md)s) controlled by private keys
-2.  [Contract Accounts](Contract%20Account.md) controlled by their contract code
+1. Externally Owned Accounts ([EOA](EOA.md)s) controlled by private keys
+2. [Contract Accounts](Contract%20Account.md) controlled by their contract code
 
 ![](account-types.png)[^1]
 

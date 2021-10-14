@@ -2,13 +2,13 @@
 
 Mainnet: Short for "main network," this is the main public Ethereum blockchain. There are other Ethereum “testnets” where protocol or smart contract developers test their protocol upgrades or contracts. While mainnet uses real ETH, testnets use test ETH that can be obtained from faucets. The popular testnets are:
 
-1.  Görli: A proof-of-authority (a small number of nodes are allowed to validate transactions and create blocks) testnet that works across clients
+1. Görli: A proof-of-authority (a small number of nodes are allowed to validate transactions and create blocks) testnet that works across clients
     
-2.  Kovan: A proof-of-authority testnet for those running OpenEthereum clients
+2. Kovan: A proof-of-authority testnet for those running OpenEthereum clients
     
-3.  Rinkeby: A proof-of-authority testnet for those running Geth client
+3. Rinkeby: A proof-of-authority testnet for those running Geth client
     
-4.  Ropsten: A proof-of-work testnet. This means it's the best representation of mainnet Ethereum
+4. Ropsten: A proof-of-work testnet. This means it's the best representation of mainnet Ethereum
 
 ___
 ## Slide Screenshot

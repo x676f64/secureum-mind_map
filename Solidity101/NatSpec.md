@@ -5,21 +5,21 @@ These are written with a triple slash (`///`) or a double asterisk block(`/** ..
 
 It is recommended that Solidity contracts are fully annotated using NatSpec for all public interfaces (everything in the [ABI](../Ethereum101/ABI.md)). These comments contain different types of tags:
 
-1.  `@title`: A title that should describe the contract/interface
+1. `@title`: A title that should describe the contract/interface
     
-2.  `@author`: The name of the author (for contract, interface)
+2. `@author`: The name of the author (for contract, interface)
     
-3.  `@notice`: Explain to an end user what this does (for contract, interface, function, public state variable, event)
+3. `@notice`: Explain to an end user what this does (for contract, interface, function, public state variable, event)
     
-4.  `@dev`: Explain to a developer any extra details (for contract, interface, function, state variable, event)
+4. `@dev`: Explain to a developer any extra details (for contract, interface, function, state variable, event)
     
-5.  `@param`: Documents a parameter (just like in doxygen) and must be followed by parameter name (for function, event)
+5. `@param`: Documents a parameter (just like in doxygen) and must be followed by parameter name (for function, event)
     
-6.  `@return`: Documents the return variables of a contract’s function (function, public state variable)
+6. `@return`: Documents the return variables of a contract’s function (function, public state variable)
     
-7.  `@inheritdoc`: Copies all missing tags from the base function and must be followed by the contract name (for function, public state variable)
+7. `@inheritdoc`: Copies all missing tags from the base function and must be followed by the contract name (for function, public state variable)
     
-8.  `@custom`…: Custom tag, semantics is application-defined (for everywhere)
+8. `@custom`…: Custom tag, semantics is application-defined (for everywhere)
 
 ___
 ## Slide Screenshot

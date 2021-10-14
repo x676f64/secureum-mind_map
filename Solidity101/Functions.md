@@ -1,5 +1,9 @@
 # 19 - [Functions](Functions.md)
-Functions are the executable units of code. Functions are usually defined inside a contract, but they can also be defined outside of contracts. They have different levels of visibility towards other contracts.
+Functions are the executable units of code. 
+
+Functions are usually defined inside a contract, but they can also be defined outside of contracts.
+
+They have different levels of [visibility](Function%20Visibility.md) towards other contracts.
 ___
 ## Slide Screenshot
 ![019.png](../images/solidity101/019.png)

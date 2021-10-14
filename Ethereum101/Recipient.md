@@ -2,9 +2,9 @@
 
 The 20-byte Ethereum address of the transaction’s recipient which can be an [EOA](EOA.md) or a [Contract Account](Contract%20Account.md).
 
-1.  The Ethereum protocol does not validate recipient addresses in transactions. One can send a transaction to an address that has no corresponding private key or contract. Validation should be done at the user interface level.
+1. The Ethereum protocol does not validate recipient addresses in transactions. One can send a transaction to an address that has no corresponding private key or contract. Validation should be done at the user interface level.
     
-2.  Note that there is no _from_ address in the transaction because the EOA’s public key can be derived from the [v, r, s](v,%20r,%20s.md) components of the [ECDSA](ECDSA.md) signature and the transaction originator’s address can be derived from this public key
+2. Note that there is no _from_ address in the transaction because the EOA’s public key can be derived from the [v, r, s](v,%20r,%20s.md) components of the [ECDSA](ECDSA.md) signature and the transaction originator’s address can be derived from this public key
 
 ___
 ## Slide Screenshot

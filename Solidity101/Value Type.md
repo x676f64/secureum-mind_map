@@ -6,15 +6,15 @@ Types that are passed by value, i.e. they are always copied when they are used a
 - [Address Type](Address%20Type.md)
 - [Contract](Contract.md)
 - Fixed-size [Bytes Arrays](Bytes%20Arrays.md) (bytes1, bytes2, …, bytes32)
-- Literals:
+- [Literals](Literals.md):
 	- Address
 	- Rational
 	- Integer
 	- String
 	- Unicode
 	- Hexadecimal
-- Enums
-- Functions.
+- [Enums](Enums.md)
+- [Functions](Functions.md).
 
 ___
 ## Slide Screenshot

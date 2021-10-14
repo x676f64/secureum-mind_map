@@ -5,7 +5,7 @@ For example, you can use a modifier to automatically check a condition prior to 
 
 The function’s control flow continues after the `_` in the preceding modifier. 
 
-Multiple modifiers are applied to a function by specifying them in a whitespace-separated list and are evaluated in the order presented. 
+Multiple modifiers are applied to a [function](Functions.md) by specifying them in a whitespace-separated list and are evaluated in the order presented. 
 
 The modifier can choose not to execute the function body at all and in that case the return variables are set to their default values just as if the function had an empty body. 
 
