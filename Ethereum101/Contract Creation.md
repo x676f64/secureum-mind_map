@@ -18,3 +18,4 @@ ___
  ___
 ## References
 - [EIP-170: Contract code size limit](https://eips.ethereum.org/EIPS/eip-170)
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=77)
