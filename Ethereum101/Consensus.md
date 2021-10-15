@@ -15,5 +15,6 @@ ___
 - Next Block -> Which Miner?
 - Proof of Work (PoW)
 - Longest Chain Rule
- 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=696)
