@@ -19,4 +19,5 @@ ___
 - Integrity Important -> Prevent Fraud 
 ___
 ## References
--  [Ethereum.org - Blocks](https://ethereum.org/en/developers/docs/blocks/))
+-  [Ethereum.org - Blocks](https://ethereum.org/en/developers/docs/blocks/)
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=281)
