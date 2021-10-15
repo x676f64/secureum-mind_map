@@ -15,5 +15,8 @@ ___
 - Non-Reupdiation
 - Auth -> Undeniable
 - Integrity
-- Tx Data X -> Proves can't be modified 
+- Tx Data X -> Proves can't be modified
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s)
 

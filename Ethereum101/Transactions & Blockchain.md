@@ -10,5 +10,8 @@ ___
 - Transactions grouped together
 - Transactions -> Block
 - Blocks linked together
-- Blocks -> Blockchain 
+- Blocks -> Blockchain
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=250)
 

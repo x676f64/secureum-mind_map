@@ -20,6 +20,7 @@ ___
 ___
 ## References
 - [Historical block gas limits](https://etherscan.io/chart/gaslimit)
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=533)
 ___
 ## Code Examples
 Get the latest block gasLimit using seth
@@ -28,4 +29,4 @@ Get the latest block gasLimit using seth
 29970705
 ```
 ## Tags
-[gasLimit](gasLimit.md)]
+[gasLimit](gasLimit.md)
