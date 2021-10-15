@@ -29,6 +29,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=612)
--[An in Depth Look at the GHOST Protocol: Part 1](https://medium.com/coinmonks/an-in-depth-look-at-the-ghost-protocol-part-1-where-the-longest-chain-rule-breaks-down-628b1aaf76fc)
--[Uncles in Ethereum](https://medium.com/hackergirl/uncles-in-ethereum-901a0ce0cd01)
--[GHOST Protocol Paper](https://eprint.iacr.org/2013/881.pdf#page=8)
+- [An in Depth Look at the GHOST Protocol: Part 1](https://medium.com/coinmonks/an-in-depth-look-at-the-ghost-protocol-part-1-where-the-longest-chain-rule-breaks-down-628b1aaf76fc)
+- [Uncles in Ethereum](https://medium.com/hackergirl/uncles-in-ethereum-901a0ce0cd01)
+- [GHOST Protocol Paper](https://eprint.iacr.org/2013/881.pdf#page=8)
