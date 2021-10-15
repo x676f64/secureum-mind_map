@@ -5,7 +5,7 @@ ___
 Information I would like to add (my wish list): 
 - [x] Screenshots of each slide for each topic.
 - [ ] The time in the youtube video that the topic is discussed.
-- [] Links to the relevant topic on youtube at that specific point in the video.
+- [ ] Links to the relevant topic on youtube at that specific point in the video.
 - [ ] Text to speech of what is said for each topic by Rajeev in the videos
 - [ ] Solidity example where applicable
 - [ ] Add dapptool examples for relevant sections.
@@ -27,7 +27,7 @@ ___
 ___
 # ***Week 1*** - [Ethereum101](1.Ethereum101.md)
 ___
-## Blog Article
+### Blog Article
 #### [Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
 ___
 ### Course Videos
@@ -51,7 +51,7 @@ ___
 ___
 # ***Week 2*** - [Solidity101](2.Solidity101.md)
 ### Blog Article
-[Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
+#### [Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
 ___
 ### Course Videos
 1.  [Block 1](https://www.youtube.com/watch?v=5eLqFac5Tkg)

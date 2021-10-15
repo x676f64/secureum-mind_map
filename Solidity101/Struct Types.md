@@ -1,5 +1,9 @@
 # 64 - [Struct Types](Struct%20Types.md)
-Structs help define new aggregate types by combining other value/reference types into one unit. Struct types can be used inside mappings and arrays and they can themselves contain mappings and arrays. It is not possible for a struct to contain a member of its own type
+Structs help define new aggregate types by combining other value/reference types into one unit. 
+
+Struct types can be used inside [mappings](Mapping%20Types.md) and [arrays](Arrays.md) and they can themselves contain mappings and arrays. 
+
+It is not possible for a [structs](Structs.md) to contain a member of its own type
 
 ___
 ## Slide Screenshot
