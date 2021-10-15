@@ -17,5 +17,8 @@ ___
 - [Transaction](Transaction.md)s -> Validate/Execute/Combine -> Blocks
 - [Block](Block.md) Validation -> Proof of Work (PoW)
 - Block Reward -> 2 ETH
-- Tx Fees -> All Block Tx's 
+- Tx Fees -> All Block Tx's
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=450)
 
