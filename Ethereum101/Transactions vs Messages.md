@@ -23,4 +23,6 @@ ___
 	- EOA -> EOA or Contract
 - Msg -> Triggered by EVM Call
 	- Contract -> Contract 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=143)
