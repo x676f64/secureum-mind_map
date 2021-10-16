@@ -37,5 +37,23 @@ ___
 ___
 ## Tags
 [System Operations](../Ethereum101/System%20Operations.md)
-
-
+[Solidity By Example - View and Pure Functions](https://solidity-by-example.org/view-and-pure-functions/)
+___
+## Solidity by Example
+```
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.3;  
+contract ViewAndPure {
+	uint public x = 1;  
+	
+	// Promise not to modify the state.
+	function addToX(uint y) public view returns (uint) {
+		return x + y;
+	}
+	
+	// Promise not to modify or read from the state.
+	function add(uint i, uint j) public pure returns (uint) {
+		return i + j;
+	}
+}
+```

@@ -15,7 +15,7 @@ Block and Transaction Properties:
     
 7. `block.timestamp (uint)`: current block timestamp as seconds since unix epoch
     
-8. `msg.data (bytes calldata)`: complete calldata
+8. `msg.data (bytes calldata)`: complete [calldata](../Ethereum101/Calldata.md)
     
 9. `msg.sender (address)`: sender of the message (current call)
     

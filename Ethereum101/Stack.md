@@ -2,7 +2,7 @@
 
 Stack is made up of 1024 256-bit elements. EVM instructions can operate with the top 16 stack elements. 
 
-Most [EVM](EVM.md) instructions operate with the stack (stack-based architecture) and there are also stack-specific operations e.g. PUSH, POP, SWAP, DUP etc.
+Most [EVM](EVM.md) [instructions](Instruction%20Set.md) operate with the stack (stack-based architecture) and there are also stack-specific operations e.g. PUSH, POP, SWAP, DUP etc.
 
 ___
 ## Slide Screenshot

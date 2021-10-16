@@ -18,9 +18,29 @@ ___
 - Contracts -> No Access
 - Off-chain -> RPC Access
 - Auditing & Logging
-- Security Monitoring
+- Security Monitoring[^1]
 ___
 ## References
 - [Youtube Reference](https://youtu.be/TCl1IcGl_3I?t=533)
+[^1:] [Solidity by Example - Events](https://solidity-by-example.org/events/)
+## Solidity by Example
+```
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.3;
 
+contract Event {
+    // Event declaration
+    // Up to 3 parameters can be indexed.
+    // Indexed parameters helps you filter the logs by the indexed parameter
+	
+    event Log(address indexed sender, string message);
+    event AnotherLog();
+
+    function test() public {
+        emit Log(msg.sender, "Hello World!");
+        emit Log(msg.sender, "Hello EVM!");
+        emit AnotherLog();
+    }
+}
+```
 

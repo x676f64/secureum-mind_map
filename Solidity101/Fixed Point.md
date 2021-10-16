@@ -5,6 +5,9 @@ They can be declared, but cannot be assigned to or from.
 
 There are fixed-point libraries that are widely used for this such as DSMath, PRBMath, ABDKMath64x64 etc.
 
+Fixed-point numbers, declared with `(u)fixedMxN
+so` where `M` is the size in bits (increments of `8` up to `256`) and `N` is the number of decimals after the point (up to `18`); e.g., `ufixed32x2`.
+
 ___
 ## Slide Screenshot
 ![044.png](../images/solidity101/044.png)

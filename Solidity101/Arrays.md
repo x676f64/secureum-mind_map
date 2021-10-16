@@ -99,3 +99,9 @@ contract CompactArray {
 	}
 }
 ```
+
+
+```
+# Another option
+<iframe src="https://solidity-by-example.org/array/" height="1500" width="100%" />
+```
