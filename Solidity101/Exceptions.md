@@ -25,9 +25,7 @@ ___
 - [Youtube Reference](https://youtu.be/_oN7XuyhoZA?t=404)
 ___
 ## Tags
-[System Operations](../Ethereum101/System%20Operations.md)
-___
-## Tags
-[System Operations](../Ethereum101/System%20Operations.md)
+[System Operations](../Ethereum101/System%20Operations.md),[External Calls](External%20Calls.md)
+
 
 

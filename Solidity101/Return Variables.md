@@ -1,5 +1,5 @@
 # 21 - [Return Variables](Return%20Variables.md)
-Function Return Variables: Function return variables are declared with the same syntax after the `returns` keyword. 
+[Function](Functions.md) return variables are declared with the same syntax after the `returns` keyword. 
 
 1. The names of return variables can be omitted. Return variables can be used as any other local variable and they are initialized with their default value and have that value until they are (re-)assigned.
     

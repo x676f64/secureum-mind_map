@@ -7,7 +7,7 @@ The functions `abi.encode`, `abi.encodePacked`, `abi.encodeWithSelector` and `ab
 
 1. `gas` and `value` modifiers can be used with these functions (`delegatecall` doesn’t support `value`) to specify the amount of gas and Ether value passed to the callee.
     
-2. With `elegatecall`, only the code of the given address is used but all other aspects (storage, balance, `msg.sender` etc.) are taken from the current contract. The purpose of `delegatecall` is to use library/logic code which is stored in callee contract but operate on the state of the caller contract
+2. With `delegatecall`, only the code of the given address is used but all other aspects (storage, balance, `msg.sender` etc.) are taken from the current contract. The purpose of `delegatecall` is to use library/logic code which is stored in callee contract but operate on the state of the caller contract
     
 3. With `staticcall`, the execution will revert if the called function modifies the state in any way
 
