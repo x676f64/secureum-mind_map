@@ -1,4 +1,4 @@
-# 124 - [bytes REPLACE string](bytes%20FILENAME%20string.md)
+# 124 - [bytes REPLACE string](bytes%20&%20string.md)
 
 
 ___

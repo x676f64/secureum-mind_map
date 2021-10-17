@@ -1,4 +1,4 @@
-# 121 - [Mappings REPLACE Dynamic Arrays](Mappings%20FILENAME%20Dynamic%20Arrays.md)
+# 121 - [Mappings REPLACE Dynamic Arrays](Mappings%20&%20Dynamic%20Arrays.md)
 
 
 ___
