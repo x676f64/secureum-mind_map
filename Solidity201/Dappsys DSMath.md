@@ -5,7 +5,7 @@ You can safely add, subtract, multiply, and divide uint numbers without fear of 
 
 You can also find the minimum and maximum of two numbers. 
 
-Additionally, this package provides arithmetic functions for two new higher level numerical concepts called _wad_ (18 decimals) and _ray_ (27 decimals). 
+Additionally, this package provides arithmetic functions for two new higher level numerical concepts called `wad` (18 decimals) and `ray` (27 decimals). 
 
 These are used to represent fixed-point decimal numbers. 
 
@@ -13,19 +13,25 @@ A wad is a decimal number with 18 digits of precision and a ray is a decimal num
 
 These functions are necessary to account for the difference between how integer arithmetic behaves normally, and how decimal arithmetic should actually work.
 
-The standard functions are the uint set, so their function names are not  prefixed: _add_, _sub_, _mul_, _min_, and _max_. 
+The standard functions are the uint set, so their function names are not  prefixed: `add`, `sub`, `mul`, `min`, and `max`. 
 
 There is no div function, as divide-by-zero checking is built into the Solidity compiler. 
 
-The int functions have an _i_ prefix: _imin_ and _imax_. Wad functions have a _w_ prefix: _wmul_, _wdiv_. Ray functions have a _r_ prefix: _rmul_, _rdiv_, _rpow_.
+The int functions have an `i` prefix: `imin` and `imax`. Wad functions have a `w` prefix: `wmul`, `wdiv`. Ray functions have a `r` prefix: `rmul`, `rdiv`, `rpow`.
 ___
 ## Slide Screenshot
 ![194.png](../images/solidity201/194.png)
 ___
 ## Slide Deck
-
+- Arithmetic Functions X -> Overflow/Underflow
+- add, sub, mul, min, max
+- Fixed-point Math
+- Wad -> 18 Decimals
+- Ray -> 27 decimals
+- Wad -> wmul, wdiv
+- Ray -> rmul, rdiv, rpow
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=1138)
 ___
 ## Tags

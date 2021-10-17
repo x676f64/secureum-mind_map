@@ -7,7 +7,7 @@ OpenZeppelin ERC1155: is a novel token standard that aims to take the best from 
     
 3.  This approach leads to massive gas savings for projects that require multiple tokens. Instead of deploying a new contract for each token type, a single ERC1155 token contract can hold the entire system state, reducing deployment costs and complexity.
     
-4.  Because all state is held in a single contract, it is possible to operate over multiple tokens in a single transaction very efficiently. The standard provides two functions, _balanceOfBatch_ and _safeBatchTransferFrom_, that make querying multiple balances and transferring multiple tokens simpler and less gas-intensive.
+4.  Because all state is held in a single contract, it is possible to operate over multiple tokens in a single transaction very efficiently. The standard provides two functions, `balanceOfBatch` and `safeBatchTransferFrom`, that make querying multiple balances and transferring multiple tokens simpler and less gas-intensive.
 
 ___
 ## Slide Screenshot

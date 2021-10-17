@@ -3,7 +3,7 @@ OpenZeppelin Pausable: provides an emergency stop mechanism using functions paus
 
 This module is used through inheritance. 
 
-It will make available the modifiers _whenNotPaused_ and _whenPaused_, which can be applied to the functions of your contract. 
+It will make available the modifiers `whenNotPaused` and `whenPaused`, which can be applied to the functions of your contract. 
 
 Only the functions using the modifiers will be affected when the contract is paused or unpaused.
 ___

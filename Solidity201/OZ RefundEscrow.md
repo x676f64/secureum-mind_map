@@ -8,9 +8,13 @@ ___
 ![172.png](../images/solidity201/172.png)
 ___
 ## Slide Deck
-
+- Escrow -> Beneficiary Multiple Depositors
+- State -> Active/Refunding/Closed
+- Active -> Deposits
+- Refunding -> Refunds
+- Closed -> Beneficiary Withdrawals
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/L_9Fk6HRwpU?t=752)
 ___
 ## Tags

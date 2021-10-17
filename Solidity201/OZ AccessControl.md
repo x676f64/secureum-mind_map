@@ -5,11 +5,11 @@ Multiple hierarchical roles can be created and assigned each to multiple account
 
 Roles can be used to represent a set of permissions. 
 
-_hasRole_ is used to restrict access to a function call. 
+`hasRole` is used to restrict access to a function call. 
 
-Roles can be granted and revoked dynamically via the _grantRole_ and _revokeRole_ functions which can only be called by the role’s associated admin accounts.
+Roles can be granted and revoked dynamically via the `grantRole` and `revokeRole` functions which can only be called by the role’s associated admin accounts.
 
-While the simplicity of _Ownable_ can be useful for simple systems or quick prototyping, different levels of authorization are often needed. 
+While the simplicity of `Ownable` can be useful for simple systems or quick prototyping, different levels of authorization are often needed. 
 
 You may want for an account to have permission to ban users from a system, but not create new tokens. 
 
@@ -17,7 +17,7 @@ Role-Based Access Control (RBAC) offers flexibility in this regard.
 
 We will effectively be defining multiple roles, each allowed to perform different sets of actions. 
 
-An account may have, for example, 'moderator', 'minter' or 'admin' roles, which you will then check for instead of simply using _onlyOwner_. 
+An account may have, for example, 'moderator', 'minter' or 'admin' roles, which you will then check for instead of simply using `onlyOwner`. 
 
 Separately, you will be able to define rules for how accounts can be granted a role, have it revoked, and more.
 

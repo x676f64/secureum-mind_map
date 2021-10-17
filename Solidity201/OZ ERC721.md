@@ -1,21 +1,26 @@
 # 151 - [OZ ERC721](OZ%20ERC721.md)
 OpenZeppelin ERC721: Implements the popular ERC721 Non-Fungible Token Standard. The functions are:
     
-1.  _balanceOf(address owner)_ → _uint256 balance_: Returns the number of tokens in owner's account.
+1.  `balanceOf(address owner)` → `uint256 balance`: Returns the number of tokens in owner's account.
 
-2.  _ownerOf(uint256 tokenId)_ → _address owner_: Returns the owner of the tokenId token. Requirements: tokenId must exist.
+2.  `ownerOf(uint256 tokenId)` → `address owner`: Returns the owner of the tokenId token. Requirements: tokenId must exist.
 
-3.  _transferFrom(address from, address to, uint256 tokenId)_: Transfers tokenId token from from to to. Requirements: from cannot be the zero address. to cannot be the zero address. tokenId token must be owned by from. If the caller is not from, it must be approved to move this token by either approve or setApprovalForAll. Emits a Transfer event. 
+3.  `transferFrom(address from, address to, uint256 tokenId)`: Transfers tokenId token from from to to. Requirements: from cannot be the zero address. to cannot be the zero address. tokenId token must be owned by from. If the caller is not from, it must be approved to move this token by either approve or setApprovalForAll. Emits a Transfer event. 
 
-4.  _safeTransferFrom(address from, address to, uint256 tokenId)_: Safely transfers tokenId token from from to to, checking first that contract recipients are aware of the ERC721 protocol to prevent tokens from being forever locked. Requirements: 1) from cannot be the zero address 2) to cannot be the zero address. 3) tokenId token must exist and be owned by from 4) If the caller is not from, it must be have been allowed to move this token by either approve or setApprovalForAll 5) If to refers to a smart contract, it must implement IERC721Receiver.onERC721Received, which is called upon a safe transfer. Emits a Transfer event. (The use of this function is encouraged over the related but unsafe transferFrom function.)
+4.  `safeTransferFrom(address from, address to, uint256 tokenId)`: Safely transfers tokenId token from from to to, checking first that contract recipients are aware of the ERC721 protocol to prevent tokens from being forever locked. Requirements:
+	1.  From cannot be the zero address 
+	2.  To cannot be the zero address. 
+	3.  tokenId token must exist and be owned by from
+	4.  If the caller is not from, it must be have been allowed to move this token by either approve or setApprovalForAll 
+	5.  If to refers to a smart contract, it must implement `IERC721Receiver.onERC721Received`, which is called upon a safe transfer. Emits a Transfer event. (The use of this function is encouraged over the related but unsafe transferFrom function.)
 
-5.  _approve(address to, uint256 tokenId)_: Gives permission to to to transfer tokenId token to another account. The approval is cleared when the token is transferred. Only a single account can be approved at a time, so approving the zero address clears previous approvals. Requirements: 1) The caller must own the token or be an approved operator 2) tokenId must exist. Emits an Approval event.
+5.  `approve(address to, uint256 tokenId)`: Gives permission to to to transfer tokenId token to another account. The approval is cleared when the token is transferred. Only a single account can be approved at a time, so approving the zero address clears previous approvals. Requirements: 1) The caller must own the token or be an approved operator 2) tokenId must exist. Emits an Approval event.
 
-6.  _getApproved(uint256 tokenId)_ → _address operator_: Returns the account approved for tokenId token. Requirements: tokenId must exist.
+6.  `getApproved(uint256 tokenId)` → `address operator`: Returns the account approved for tokenId token. Requirements: tokenId must exist.
 
-7.  _setApprovalForAll(address operator, bool _approved)_: Approve or remove operator as an operator for the caller. Operators can call transferFrom or safeTransferFrom for any token owned by the caller. Requirements: The operator cannot be the caller. Emits an ApprovalForAll event.
+7.  `setApprovalForAll(address operator, bool _approved)`: Approve or remove operator as an operator for the caller. Operators can call transferFrom or safeTransferFrom for any token owned by the caller. Requirements: The operator cannot be the caller. Emits an ApprovalForAll event.
 
-8.  _isApprovedForAll(address owner, address operator)_ → _bool_: Returns if the operator is allowed to manage all of the assets of owner.
+8.  `isApprovedForAll(address owner, address operator)` → `bool`: Returns if the operator is allowed to manage all of the assets of owner.
 
 
 The different extensions/presets/utilities are:
@@ -28,7 +33,11 @@ The different extensions/presets/utilities are:
 
 4.  OpenZeppelin ERC721URIStorage: ERC721 token with storage based token URI management.
 
-5.  OpenZeppelin ERC721PresetMinterPauserAutoId: ERC721 token, including: 1) ability for holders to burn (destroy) their tokens 2) a minter role that allows for token minting (creation) 3) a pauser role that allows to stop all token transfers 4) token ID and URI autogeneration. This contract uses AccessControl to lock permissioned functions using the different roles. The account that deploys the contract will be granted the minter and pauser roles, as well as the default admin role, which will let it grant both minter and pauser roles to other accounts.
+5.  OpenZeppelin ERC721PresetMinterPauserAutoId: ERC721 token, including: 
+	1. Ability for holders to burn (destroy) their tokens 
+	2. A minter role that allows for token minting (creation) 
+	3. A pauser role that allows to stop all token transfers 
+	4. Token ID and URI autogeneration. This contract uses AccessControl to lock permissioned functions using the different roles. The account that deploys the contract will be granted the minter and pauser roles, as well as the default admin role, which will let it grant both minter and pauser roles to other accounts.
 
 6.  OpenZeppelin ERC721Holder: Implementation of the IERC721Receiver interface. Accepts all token transfers.
 

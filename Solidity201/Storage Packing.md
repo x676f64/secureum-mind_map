@@ -1,5 +1,7 @@
 # 116 - [Storage Packing](Storage%20Packing.md)
-Storage Layout Packing: For each state variable, a size in bytes is determined according to its type. Multiple, contiguous items that need less than 32 bytes are packed into a single storage slot if possible, according to the following rules:
+Storage Layout Packing: For each state variable, a size in bytes is determined according to its type. 
+
+Multiple, contiguous items that need less than 32 bytes are packed into a single storage slot if possible, according to the following rules:
 
 1. The first item in a storage slot is stored lower-order aligned
     

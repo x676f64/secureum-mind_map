@@ -5,7 +5,7 @@ OpenZeppelin ERC2771Context: A Context variant for ERC2771. ERC2771 provides sup
     
 2.  Relayed by an untrusted third party that pays for the gas (the Gas Relay)
 
-The problem is that for a contract that is not natively aware of meta transactions, the _msg.sender_ of the transaction will make it appear to be coming from the Gas Relay and not the Transaction Signer. 
+The problem is that for a contract that is not natively aware of meta transactions, the `msg.sender` of the transaction will make it appear to be coming from the Gas Relay and not the Transaction Signer. 
 
 A secure protocol for a contract to accept meta transactions needs to prevent the Gas Relay from forging, modifying or duplicating requests by the Transaction Signer. 
 
@@ -23,9 +23,15 @@ ___
 ![183.png](../images/solidity201/183.png)
 ___
 ## Slide Deck
-
+- ERC-2771 Meta-transactions
+- Authorized -> Tx Signer
+- Relayer -> Gas Pay
+- Tx Signer -> Gas Relay
+- Gas Relay -> Trusted FWDer
+- Truster FWDer -> Contract
+- Contract -> ERC-2771
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=204)
 ___
 ## Tags

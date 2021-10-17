@@ -3,7 +3,7 @@ Recall that Ethereum has two types of accounts: Externally Owned Account (EOA) a
 
 Transactions can originate only from EOAs. 
 
-In situations where contracts would like to determine if the _msg.sender_ was a contract or not, checking if _msg.sender_ is equal to _tx.origin_ is an effective check.
+In situations where contracts would like to determine if the `msg.sender` was a contract or not, checking if `msg.sender` is equal to `tx.origin` is an effective check.
 
 ___
 ## Slide Screenshot

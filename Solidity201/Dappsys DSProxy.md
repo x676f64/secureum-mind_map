@@ -12,9 +12,13 @@ ___
 ![193.png](../images/solidity201/193.png)
 ___
 ## Slide Deck
-
+- Proxy -> Impl
+- Contract Bytecode
+- Function Calldata
+- Create + Delegatecall
+- DSProxyFactory & DSProxy Cache
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=1054)
 ___
 ## Tags

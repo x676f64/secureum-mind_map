@@ -11,9 +11,15 @@ ___
 ![198.png](../images/solidity201/198.png)
 ___
 ## Slide Deck
-
+- Wrapper Ether
+- Ether Vw. ERC-20
+- Wrapping -> ERC-20
+- Unwrapping -> Ether
+- WETH Contract -> 1:1
+- WETH9 -> 7M Ether
+- WETH10 -> Efficiency & EIP-3156 Flash Loans
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=1381)
 ___
 ## Tags

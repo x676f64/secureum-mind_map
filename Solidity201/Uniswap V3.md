@@ -12,9 +12,13 @@ ___
 ![200.png](../images/solidity201/200.png)
 ___
 ## Slide Deck
-
+- Concentrated Liquidity Custom Price Ranges
+- Capital Efficiency
+- Flexible Fees: 0.05%, 0.30%, and 1.00%
+- Advanced TWAP
+- Cumulative Sums: One -> Array
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=1636)
 ___
 ## Tags

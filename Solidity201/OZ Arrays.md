@@ -1,7 +1,7 @@
 # 160 - [OZ Arrays](OZ%20Arrays.md)
 OpenZeppelin Arrays: Collection of functions related to array types:
 
-_findUpperBound(uint256[] array, uint256 element)_ → _uint256_: Searches a sorted array and returns the first index that contains a value greater or equal to element. 
+`findUpperBound(uint256[] array, uint256 element)` → `uint256`: Searches a sorted array and returns the first index that contains a value greater or equal to element. 
 
 If no such index exists (i.e. all values in the array are strictly less than element), the array length is returned. 
 

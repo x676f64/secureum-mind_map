@@ -13,9 +13,9 @@ OpenZeppelin ERC777: Like ERC20, ERC777 is a standard for fungible tokens with i
     
 6.  It mandates that decimals always returns a fixed value of 18, so there’s no need to set it ourselves
     
-7.  Has a concept of  _defaultOperators_ which are special accounts (usually other smart contracts) that will be able to transfer tokens on behalf of their holders
+7.  Has a concept of  `defaultOperators` which are special accounts (usually other smart contracts) that will be able to transfer tokens on behalf of their holders
     
-8.  Implements _send_ (besides _transfer_) where if the recipient contract has not registered itself as aware of the ERC777 protocol then transfers to it are disabled to prevent tokens from being locked forever. Accounts can be notified of tokens being sent to them by having a contract implement this _IERC777Recipient_ interface and registering it on the ERC1820 global registry.
+8.  Implements `send` (besides `transfer`) where if the recipient contract has not registered itself as aware of the ERC777 protocol then transfers to it are disabled to prevent tokens from being locked forever. Accounts can be notified of tokens being sent to them by having a contract implement this `IERC777Recipient` interface and registering it on the ERC1820 global registry.
 
 ___
 ## Slide Screenshot

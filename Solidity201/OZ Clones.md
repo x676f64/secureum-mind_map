@@ -7,21 +7,25 @@ The library includes functions to deploy a proxy using either create (traditiona
 
 It also includes functions to predict the addresses of clones deployed using the deterministic method.
 
-1.  _clone(address implementation)_ → _address instance_: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create opcode, which should never revert.
+1.  `clone(address implementation)` → `address instance`: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create opcode, which should never revert.
     
-2.  _cloneDeterministic(address implementation, bytes32 salt)_ → _address instance_: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create2 opcode and a salt to deterministically deploy the clone. Using the same implementation and salt multiple times will revert, since the clones cannot be deployed twice at the same address.
+2.  `cloneDeterministic(address implementation, bytes32 salt)` → `address instance`: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create2 opcode and a salt to deterministically deploy the clone. Using the same implementation and salt multiple times will revert, since the clones cannot be deployed twice at the same address.
     
-3.  _predictDeterministicAddress(address implementation, bytes32 salt, address deployer)_ → address predicted: Computes the address of a clone deployed using Clones.cloneDeterministic.
+3.  `predictDeterministicAddress(address implementation, bytes32 salt, address deployer)` → address predicted: Computes the address of a clone deployed using Clones.cloneDeterministic.
     
-4.  _predictDeterministicAddress(address implementation, bytes32 salt)_ → _address predicted_: Computes the address of a clone deployed using Clones.cloneDeterministic.
+4.  `predictDeterministicAddress(address implementation, bytes32 salt)` → `address predicted`: Computes the address of a clone deployed using Clones.cloneDeterministic.
 ___
 ## Slide Screenshot
 ![191.png](../images/solidity201/191.png)
 ___
 ## Slide Deck
-
+- EIP-1167 Minimal Proxy Contracts
+- Delegate -> Fixed Impl
+- Deploy -> Create/Create2
+- clone(implementation) -> instance
+- cloneDetereministic(implementation, salt) -> instance
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=836)
 ___
 ## Tags

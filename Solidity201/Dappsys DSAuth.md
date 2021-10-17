@@ -3,17 +3,22 @@ Dappsys DSAuth: Provides a flexible and updatable auth pattern which is complete
 
 By default, the auth modifier will restrict function-call access to the including contract owner and the including contract itself. 
 
-The auth modifier provided by DSAuth triggers the internal isAuthorized function to require that the msg.sender is authorized ie. the sender is either:
+The auth modifier provided by DSAuth triggers the internal `isAuthorized` function to require that the `msg.sender` is authorized ie. the sender is either:
 
-1. the contract owner 
-2. the contract itself or 
-3. has been granted permission via a specified authority.
+1. The contract owner 
+2. The contract itself or 
+3. Has been granted permission via a specified authority.
 ___
 ## Slide Screenshot
 ![195.png](../images/solidity201/195.png)
 ___
 ## Slide Deck
-
+- Authorization
+- auth Modifier
+	- isAuthorized()
+- msg.sender -> Owner
+- msg.sender -> Contract
+- msg.sender -> authority
 ___
 ## References
 - Youtube Reference

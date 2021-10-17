@@ -1,5 +1,5 @@
 # 128 - [Memory Arrays](Memory%20Arrays.md)
-Memory Layout & Arrays: Elements in memory arrays in Solidity always occupy multiples of 32 bytes (this is even true for `byte[]`, but not for bytes and string). 
+Memory Layout & Arrays: Elements in memory arrays in Solidity always occupy multiples of 32 bytes (this is even true for `byte[]`, but not for `bytes` and `string`). 
 
 1.  Multi-dimensional memory arrays are pointers to memory arrays
     

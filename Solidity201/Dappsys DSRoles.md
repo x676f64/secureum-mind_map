@@ -12,9 +12,15 @@ ___
 ![197.png](../images/solidity201/197.png)
 ___
 ## Slide Deck
-
+- RBAC
+- ACLS -> Roles & Capabilities
+- `canCall()` -> `bool`
+- User -> Fn @ Addr
+- Root Users
+- Public Capabilities
+- Role Capabilities -> Not Root & Not Public
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/0kx8M4u5980?t=1307)
 ___
 ## Tags
