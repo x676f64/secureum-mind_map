@@ -1,14 +1,22 @@
 # 145 - [tx.origin Check](tx.origin%20Check.md)
+Recall that Ethereum has two types of accounts: Externally Owned Account (EOA) and Contract Account. 
 
+Transactions can originate only from EOAs. 
+
+In situations where contracts would like to determine if the _msg.sender_ was a contract or not, checking if _msg.sender_ is equal to _tx.origin_ is an effective check.
 
 ___
 ## Slide Screenshot
 ![145.png](../images/solidity201/145.png)
 ___
 ## Slide Deck
-
+- Ethereum Accounts
+	- EOA vs Contract
+- Tx Origin -> Only EOA
+- `msg.sender == tx.origin`
+- Sender -> Contract or Not
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/C0zBhTgppLQ?t=587)
 ___
 ## Tags

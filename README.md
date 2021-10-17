@@ -67,16 +67,22 @@ ___
 4.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
 5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 ___
-## Week 3
+## Week 3 - [Solidity201](3.Solidity201.md)
 ### Blog
+#### [Article on "Solidity 201"](https://secureum.substack.com/p/solidity-201)
 ___
 ### Youtube Videos
-1.  [Block 1]()
-2.  [Block 2]()
-3.  [Block 3]()
-4.  [Block 4]()
-5.  [Block 5]()
+1.  [Block 1](https://youtu.be/3bFgsmsQXr)
+2.  [Block 2](https://youtu.be/TqMIbouwePE)
+3.  [Block 3](https://youtu.be/C0zBhTgppLQ)
+4.  [Block 4](https://youtu.be/L_9Fk6HRwpU)
+5.  [Block 5](https://youtu.be/0kx8M4u5980)
 ### Assignment
+1. Understand all the OpenZeppelin Library contracts (many of which are widely-used): [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts") 
+2. Understand Solidity syntax and semantics implemented in Uniswap V3 contracts and related dependencies: [https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts](https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts "https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts") 
+3. Understand Solidity syntax and semantics implemented in Fei Protocol contracts and related dependencies: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts "https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts")
+4. Understand Solidity syntax and semantics implemented in Chainlink contracts and related dependencies: [https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4](https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4 "https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4")
+5. Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
 
 ___
 ## Week 4
