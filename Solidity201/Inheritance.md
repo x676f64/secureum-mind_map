@@ -1,7 +1,7 @@
 # 102 - [Inheritance](Inheritance.md)
 Solidity supports multiple inheritance including polymorphism:
 
-1. Polymorphism means that a function call (internal and external) always executes the function of the same name (and parameter types) in the most derived contract in the inheritance hierarchy
+1. Polymorphism means that a [function](../Solidity101/Functions.md) call (internal and external) always executes the function of the same name (and parameter types) in the most derived contract in the inheritance hierarchy
     
 2. When a contract inherits from other contracts, only a single contract is created on the blockchain, and the code from all the base contracts is compiled into the created contract.
     

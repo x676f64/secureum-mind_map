@@ -1,4 +1,4 @@
-	# 63 - [Arrays - Slices](Arrays%20-%20Slices.md)
+# 63 - [Arrays - Slices](Arrays%20-%20Slices.md)
 [Array](Arrays.md) slices are a view on a contiguous portion of an array. 
 
 They are written as `x[start:end]`, where start and end are expressions resulting in a `uint256` type (or implicitly convertible to it). 

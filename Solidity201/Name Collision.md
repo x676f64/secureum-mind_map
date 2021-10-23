@@ -20,3 +20,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=882)
 ___
 ## Tags
+[Functions](../Solidity101/Functions.md)[Events](../Solidity101/Events.md)[Modifiers](../Solidity101/Modifiers.md)

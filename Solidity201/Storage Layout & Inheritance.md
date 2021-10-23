@@ -1,7 +1,7 @@
-# 118 - [Inheritance Continued](Inheritance%20Continued.md)
+# 118 - [Storage Layout & Inheritance](Storage%20Layout%20&%20Inheritance.md)
 Storage Layout & Inheritance: For contracts that use inheritance, the ordering of state variables is determined by the C3-linearized order of contracts starting with the most base-ward contract. 
 
-If allowed by the above rules, state variables from different contracts do share the same storage slot.
+If allowed by the above rules, [state variables](State%20Variables.md) from different contracts do share the same storage slot.
 ___
 ## Slide Screenshot
 ![118.png](../images/solidity201/118.png)
@@ -18,3 +18,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=1298)
 ___
 ## Tags
+[Inheritance](Inheritance.md)[State Variables](../Solidity101/State%20Variables.md)

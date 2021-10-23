@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![048.png](../images/solidity101/048.png)
 ___
-## Slide Deck
+## Slide Text
 - Ether Transfer
 - send -> [receive](Receive%20Function.md)/[fallback](Fallback%20Function.md)
 - 2300 Gas Subsidy
@@ -19,5 +19,8 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=1075)
+___
+## Tags
+[Send](Send.md)[Transfer](Transfer.md)
 
 

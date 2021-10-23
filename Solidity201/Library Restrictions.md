@@ -1,7 +1,7 @@
 # 113 - [Library Restrictions](Library%20Restrictions.md)
 In comparison to contracts, libraries are restricted in the following ways:
 
-1.  They cannot have state variables
+1.  They cannot have [state variables](State%20Variables.md)
 2.  They cannot inherit nor be inherited
 3.  They cannot receive Ether
 4.  They cannot be destroyed
@@ -25,3 +25,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=924)
 ___
 ## Tags
+[OZ Libraries](OZ%20Libraries.md)[selfdestruct](../Solidity101/selfdestruct.md)[Inheritance](Inheritance.md)[Storage Layout & Inheritance](Storage%20Layout%20&%20Inheritance.md)

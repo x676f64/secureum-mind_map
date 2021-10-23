@@ -1,5 +1,5 @@
 # 108 - [Virtual Functions](Virtual%20Functions.md)
-Functions without implementation have to be marked virtual outside of interfaces. 
+[Functions](../Solidity101/Functions.md) without implementation have to be marked virtual outside of interfaces. 
 
 In interfaces, all functions are automatically considered virtual. 
 

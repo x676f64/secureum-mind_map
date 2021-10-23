@@ -1,5 +1,5 @@
 # 111 - [Base Constructor](Base%20Constructor.md)
-The constructors of all the base contracts will be called following the linearization rules. 
+The [constructors](../Solidity101/Constructor.md) of all the base [contracts](../Ethereum101/Smart%20Contracts.md) will be called following the linearization rules. 
 
 If the base constructors have arguments, derived contracts need to specify all of them either in the inheritance list or in the derived constructor.
 ___

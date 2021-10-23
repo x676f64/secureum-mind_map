@@ -18,3 +18,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=687)
 ___
 ## Tags
+[State Variables](../Solidity101/State%20Variables.md)

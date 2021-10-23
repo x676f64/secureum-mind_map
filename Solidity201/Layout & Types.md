@@ -1,4 +1,4 @@
-# 119 - [Layout & Types](Layout%20&%20Types.md)
+# 119 - [Storage Layout & Types](Layout%20&%20Types.md)
 Storage Layout & Types: It might be beneficial to use reduced-size types if you are dealing with storage values because the compiler will pack multiple elements into one storage slot, and thus, combine multiple reads or writes into a single operation.
 
 If you are not reading or writing all the values in a slot at the same time, this can have the opposite effect, though: When one value is written to a multi-value storage slot, the storage slot has to be read first and then combined with the new value such that other data in the same slot is not destroyed.

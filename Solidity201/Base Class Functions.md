@@ -1,4 +1,4 @@
-# 105 - [Base Class Fuctions](Base%20Class%20Fuctions.md)
+# 105 - [Base Class Functions](Base%20Class%20Functions.md)
 It is possible to call functions further up in the inheritance hierarchy internally by explicitly specifying the contract using `ContractName.functionName()` or using `super.functionName()` if you want to call the function one level higher up in the flattened inheritance hierarchy.
 ___
 ## Slide Screenshot

@@ -1,5 +1,5 @@
 # 18 - [Mutability & Gas](Mutability%20&%20Gas.md)
-Compared to regular state variables, the gas costs of constant and immutable variables are much lower:
+Compared to regular [State Variables](State%20Variables.md), the gas costs of constant and immutable variables are much lower:
 
 1. For a constant variable, the expression assigned to it is copied to all the places where it is accessed and also re-evaluated each time. This allows for local optimizations.
     
@@ -9,7 +9,7 @@ ___
 ![018.png](../images/solidity101/018.png)
 ___
 ## Slide Deck
-- State Mutability
+- [State Mutability](State%20Mutability.md)
 - Gas Costs
 - constant: Copied @ Usage
 	- Local Optimizations
@@ -20,4 +20,5 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=1793)
 
-
+___
+## Tags

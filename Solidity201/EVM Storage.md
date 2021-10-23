@@ -18,3 +18,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=988)
 ___
 ## Tags
+[Stack Memory, Storage, and Flow Operations](../Ethereum101/Stack%20Memory,%20Storage,%20and%20Flow%20Operations.md)

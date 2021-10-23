@@ -26,4 +26,15 @@ ___
 ## References
 - [Youtube Reference](https://youtu.be/WgU7KKKomMk?t=1377)
 
+___
+## Code Examples
+```
+addr.call(abi.encodeWithSignature("transfer(address,uint256)", 0xSomeAddress, 123))
+```
+
+```
+bytes4 selector = bytes4(keccak256("someFunc(address,uint256)"));
+abi.encodeWithSelector(selector, _param1, _param2)
+```
+
 

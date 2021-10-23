@@ -12,7 +12,7 @@ ___
 - `1 wei == 1`
 - `1 gwei == 1e9`
 - `1 ether == 1e18`
-- Suffix Mupltiplication by Power of 10
+- Suffix Multiplication by Power of 10
 
 ___
 ## References

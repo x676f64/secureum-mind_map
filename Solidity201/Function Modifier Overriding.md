@@ -1,4 +1,4 @@
-# 110 - [Function Modifiers](Function%20Modifiers.md)
+# 110 - [Modifier Overriding](Function%20Modifier%20Overriding.md)
 Modifier Overriding: Function modifiers can override each other. 
 
 This works in the same way as function overriding (except that there is no overloading for modifiers). 
@@ -20,3 +20,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=768)
 ___
 ## Tags
+[Modifiers](../Solidity101/Modifiers.md)

@@ -14,7 +14,7 @@ ___
 ![116.png](../images/solidity201/116.png)
 ___
 ## Slide Deck
-- State Variables
+- [State Variables](State%20Variables.md)
 - Type -> Size in Bytes
 - Contiguous & Size Fits
 	- Same Storage Slot
@@ -26,3 +26,4 @@ ___
 - [Youtube Reference](https://youtu.be/3bFgsmsQXrE?t=1162)
 ___
 ## Tags
+[State Variables](../Solidity101/State%20Variables.md)

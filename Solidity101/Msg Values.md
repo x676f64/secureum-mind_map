@@ -13,5 +13,7 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/WgU7KKKomMk?t=1232)
-
+___
+## Tags
+[Value](../Ethereum101/Value.md)
 
