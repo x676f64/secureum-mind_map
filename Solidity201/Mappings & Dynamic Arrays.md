@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![121.png](../images/solidity201/121.png)
 ___
-## Slide Deck
+## Slide Text
 - Storage Layout
 - Unpredictable Size
 - Cannot be Stored In-Between Others

@@ -13,7 +13,7 @@ ___
 ## Slide Screenshot
 ![116.png](../images/solidity201/116.png)
 ___
-## Slide Deck
+## Slide Text
 - [State Variables](State%20Variables.md)
 - Type -> Size in Bytes
 - Contiguous & Size Fits

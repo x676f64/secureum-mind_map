@@ -14,7 +14,7 @@ ___
 ## Slide Screenshot
 ![123.png](../images/solidity201/123.png)
 ___
-## Slide Deck
+## Slide Text
 - Mapping -> Slot p
 	- Stores -> Nothing
 - `Mapping[Key k]` -> `keccak256(h(k).p)`

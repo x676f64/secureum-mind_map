@@ -15,7 +15,7 @@ ___
 ## Slide Screenshot
 ![124.png](../images/solidity201/124.png)
 ___
-## Slide Deck
+## Slide Text
 - Storage Layout
 	- Similar to Arrays
 - Short Values

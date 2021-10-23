@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![170.png](../images/solidity201/170.png)
 ___
-## Slide Deck
+## Slide Text
 - Escrow Funds for Payee Ownable
 - `depositsOf(payee)` -> uint256
 - `deposit(payee)` -> onlyOwner

@@ -14,7 +14,7 @@ ___
 ## Slide Screenshot
 ![188.png](../images/solidity201/188.png)
 ___
-## Slide Deck
+## Slide Text
 - Admin Contract -> TransparentUpgradeableProxy
 - `getProxyImplementation()`
 - `getProxyAdmin()`

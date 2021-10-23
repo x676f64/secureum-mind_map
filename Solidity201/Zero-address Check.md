@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![144.png](../images/solidity201/144.png)
 ___
-## Slide Deck
+## Slide Text
 - address(0) X -> Private Key
 - Transfer Ether/Token -> Burn
 - Access Control

@@ -15,7 +15,7 @@ ___
 ## Slide Screenshot
 ![137.png](../images/solidity201/137.png)
 ___
-## Slide Deck
+## Slide Text
 - external Fn X -> address
 - address Member
 - Dyn Storage Arrays

@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![112.png](../images/solidity201/112.png)
 ___
-## Slide Deck
+## Slide Text
 - Pairs -> Same Name
 - Inheritance -> Errors
 - Function & Modifier

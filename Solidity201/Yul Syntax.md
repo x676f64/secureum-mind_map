@@ -25,7 +25,7 @@ ___
 ## Slide Screenshot
 ![134.png](../images/solidity201/134.png)
 ___
-## Slide Deck
+## Slide Text
 - Literals & Calls
 - Variable Declarations
 - Assignments

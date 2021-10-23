@@ -6,7 +6,7 @@ ___
 ## Slide Screenshot
 ![157.png](../images/solidity201/157.png)
 ___
-## Slide Deck
+## Slide Text
 - Reentrancy Vulnerabilities
 	- Unique & Dangerous
 - External & Untrusted

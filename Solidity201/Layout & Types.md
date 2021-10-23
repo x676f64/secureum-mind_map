@@ -6,7 +6,7 @@ ___
 ## Slide Screenshot
 ![119.png](../images/solidity201/119.png)
 ___
-## Slide Deck
+## Slide Text
 - Reduced-size Types Combined Slot
 - Combine Multiple R/Ws
 	- Same Operation

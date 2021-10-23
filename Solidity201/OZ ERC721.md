@@ -45,7 +45,7 @@ ___
 ## Slide Screenshot
 ![151.png](../images/solidity201/151.png)
 ___
-## Slide Deck
+## Slide Text
 - ERC721 Token Standard -> NFTs
 - All Required Functions
 - Diffs with ERC20

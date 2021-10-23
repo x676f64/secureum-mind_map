@@ -19,7 +19,7 @@ ___
 ## Slide Screenshot
 ![199.png](../images/solidity201/199.png)
 ___
-## Slide Deck
+## Slide Text
 - AMM
 - `x*y=k` (x,y=token balance)
 - Pools, Token Pair

@@ -16,7 +16,7 @@ ___
 ## Slide Screenshot
 ![181.png](../images/solidity201/181.png)
 ___
-## Slide Deck
+## Slide Text
 - Split Ether Payments -> Group of Accounts
 - Sender Agnostic
 - Split -> Equal/Arbitrary

@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![125.png](../images/solidity201/125.png)
 ___
-## Slide Deck
+## Slide Text
 - EVM Memory
 	- Linear Layout
 - Addressed -> Byte Level

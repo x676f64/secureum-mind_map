@@ -13,7 +13,7 @@ ___
 ## Slide Screenshot
 ![102.png](../images/solidity201/102.png)
 ___
-## Slide Deck
+## Slide Text
 - Multiple Inheritance
 - Polymorphism
 - Base -> Derived

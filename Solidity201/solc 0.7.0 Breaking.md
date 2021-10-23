@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![139.png](../images/solidity201/139.png)
 ___
-## Slide Deck
+## Slide Text
 - Breaking Semantic Changes
 - Exponentation & Shfits
 - Literals by Non-literals

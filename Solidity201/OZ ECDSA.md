@@ -15,7 +15,7 @@ ___
 ## Slide Screenshot
 ![166.png](../images/solidity201/166.png)
 ___
-## Slide Deck
+## Slide Text
 - ECDSA Signatures
 - Signature -> (v, r, s)
 - v=1B, r=32B, s=32B

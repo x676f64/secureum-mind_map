@@ -19,7 +19,7 @@ ___
 ## Slide Screenshot
 ![133.png](../images/solidity201/133.png)
 ___
-## Slide Deck
+## Slide Text
 - External Variables, Functions & Libraries
 - Local Vars -> Value Type
 	- Value vs. Addr

@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![169.png](../images/solidity201/169.png)
 ___
-## Slide Deck
+## Slide Text
 - Hashing & Signing Typed Structured Data
 - EIP-712 Domain Separator
 - block.chainID & address(this)

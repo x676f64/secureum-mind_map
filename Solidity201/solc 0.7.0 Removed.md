@@ -23,7 +23,7 @@ ___
 ## Slide Screenshot
 ![141.png](../images/solidity201/141.png)
 ___
-## Slide Deck
+## Slide Text
 - Struct/Array -> Mapping
 - Constructor Visibility
 - Virtual Library Functions

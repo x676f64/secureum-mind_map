@@ -12,7 +12,7 @@ ___
 ## Slide Screenshot
 ![162.png](../images/solidity201/162.png)
 ___
-## Slide Deck
+## Slide Text
 - Counters
 	- Increment & Decrement
 - Mapping Elements, ERC721 IDs, Request IDs

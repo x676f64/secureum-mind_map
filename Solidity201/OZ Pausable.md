@@ -10,7 +10,7 @@ ___
 ## Slide Screenshot
 ![156.png](../images/solidity201/156.png)
 ___
-## Slide Deck
+## Slide Text
 - Guarded Launch
 	- Emergency -> Remediate
 - `pause()` & `unpause()`

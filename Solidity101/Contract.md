@@ -19,4 +19,5 @@ ___
 - [Youtube Reference](https://youtu.be/5eLqFac5Tkg?t=1425)
 ___
 ## Tags
-[Contract Continued](Contract%20Continued.md), [State Variables](State%20Variables.md)[Functions](Functions.md), [Function Modifiers](Modifiers.md), [Events](Events.md), [Errors](Errors.md), [Struct Types](Structs.md), [Enum Types](Enums.md)
+[Contract Continued](Contract%20Continued.md), [State Variables](State%20Variables.
+Functions](Functions.md), [Function Modifiers](Modifiers.md), [Events](Events.md), [Errors](Errors.md), [Struct Types](Structs.md), [Enum Types](Enums.md)

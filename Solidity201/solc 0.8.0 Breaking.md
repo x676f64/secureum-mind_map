@@ -19,7 +19,7 @@ ___
 ## Slide Screenshot
 ![142.png](../images/solidity201/142.png)
 ___
-## Slide Deck
+## Slide Text
 - Checked Arithmetic
 	- `unchecked {...}`
 - Default ABI coder v2

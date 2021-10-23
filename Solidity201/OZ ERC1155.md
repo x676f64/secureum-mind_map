@@ -13,7 +13,7 @@ ___
 ## Slide Screenshot
 ![153.png](../images/solidity201/153.png)
 ___
-## Slide Deck
+## Slide Text
 - ERC1155 Token Standard
 	- Fungibility-agnostic
 - Single Contract -> Multiple Tokens

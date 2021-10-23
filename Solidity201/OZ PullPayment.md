@@ -8,7 +8,7 @@ ___
 ## Slide Screenshot
 ![158.png](../images/solidity201/158.png)
 ___
-## Slide Deck
+## Slide Text
 - Payment: Pull Vs. Push
 - Avoid Reentrancy Attacks
 - Paying Contract

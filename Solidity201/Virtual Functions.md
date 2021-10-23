@@ -8,7 +8,7 @@ ___
 ## Slide Screenshot
 ![108.png](../images/solidity201/108.png)
 ___
-## Slide Deck
+## Slide Text
 - Virtual Function Rules
 - No Implementation -> virtual
 - interface -> All Functions Considered virtual

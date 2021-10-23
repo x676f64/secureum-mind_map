@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![115.png](../images/solidity201/115.png)
 ___
-## Slide Deck
+## Slide Text
 - Storage Variables
 - Storage Slots
 - Multiple Vars

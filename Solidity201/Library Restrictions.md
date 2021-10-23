@@ -12,7 +12,7 @@ ___
 ## Slide Screenshot
 ![113.png](../images/solidity201/113.png)
 ___
-## Slide Deck
+## Slide Text
 - No State Variables
 - X -> Inherit or Inheritied
 - X -> Receive Ether

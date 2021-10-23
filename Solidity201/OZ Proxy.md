@@ -22,7 +22,7 @@ ___
 ## Slide Screenshot
 ![185.png](../images/solidity201/185.png)
 ___
-## Slide Deck
+## Slide Text
 - Proxy -> Implementation delegateCall
 - `_fallback()` ->  `_implementation()`
 - `_delegate(address implementation)`

@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![122.png](../images/solidity201/122.png)
 ___
-## Slide Deck
+## Slide Text
 - Array -> Slot p
 - Stores -> # Array Elements
 - Elements -> keccak256(p)

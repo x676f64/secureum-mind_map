@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![201.png](../images/solidity201/201.png)
 ___
-## Slide Deck
+## Slide Text
 - Oracles & Price Feeds
 - Offchain Data Providers -> Onchain Feeds
 - Oracles -> Chainlink N/W Aggregated Data

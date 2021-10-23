@@ -22,7 +22,7 @@ ___
 ## Slide Screenshot
 ![183.png](../images/solidity201/183.png)
 ___
-## Slide Deck
+## Slide Text
 - ERC-2771 Meta-transactions
 - Authorized -> Tx Signer
 - Relayer -> Gas Pay

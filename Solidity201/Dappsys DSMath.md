@@ -22,7 +22,7 @@ ___
 ## Slide Screenshot
 ![194.png](../images/solidity201/194.png)
 ___
-## Slide Deck
+## Slide Text
 - Arithmetic Functions X -> Overflow/Underflow
 - add, sub, mul, min, max
 - Fixed-point Math

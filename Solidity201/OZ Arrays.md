@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![160.png](../images/solidity201/160.png)
 ___
-## Slide Deck
+## Slide Text
 - Array-related Functions
 - findUpperBound()
 - Params: Array & Element

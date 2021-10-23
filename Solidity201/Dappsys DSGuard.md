@@ -10,7 +10,7 @@ ___
 ## Slide Screenshot
 ![196.png](../images/solidity201/196.png)
 ___
-## Slide Deck
+## Slide Text
 - ACL
 - srcAddr, dstAddr -> fnSig
 - DSAuth authority

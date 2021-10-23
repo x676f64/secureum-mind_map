@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![165.png](../images/solidity201/165.png)
 ___
-## Slide Deck
+## Slide Text
 - String Operations
 - toString(value)
 	- uint256 -> ASCII String Dec

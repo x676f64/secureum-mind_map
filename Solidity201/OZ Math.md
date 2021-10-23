@@ -10,7 +10,7 @@ ___
 ## Slide Screenshot
 ![174.png](../images/solidity201/174.png)
 ___
-## Slide Deck
+## Slide Text
 - Math Utilities Missing in Solidity
 - `max(uint256 a, uint256 b)`
 - `min(uint256 a, uint256 b)`

@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![147.png](../images/solidity201/147.png)
 ___
-## Slide Deck
+## Slide Text
 - OpenZeppelin Smart Contract Libraries
 - Widely Used
 - Time-tested & Optimized

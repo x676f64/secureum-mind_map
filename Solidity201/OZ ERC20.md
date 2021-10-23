@@ -50,7 +50,7 @@ ___
 ## Slide Screenshot
 ![148.png](../images/solidity201/148.png)
 ___
-## Slide Deck
+## Slide Text
 - ERC20 Token Standard
 - All Required Functions
 - Increase/Decrease Allowance

@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![150.png](../images/solidity201/150.png)
 ___
-## Slide Deck
+## Slide Text
 - Token Holder Contract
 - Token Beneficiary -> Timed Release
 - Token Vesting -> Advisors/Team etc.

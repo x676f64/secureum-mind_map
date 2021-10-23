@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![107.png](../images/solidity201/107.png)
 ___
-## Slide Deck
+## Slide Text
 - Function Overriding virtual -> override
 - Visibility: external -> public
 - non payable -> view/pure

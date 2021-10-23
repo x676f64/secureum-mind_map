@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![110.png](../images/solidity201/110.png)
 ___
-## Slide Deck
+## Slide Text
 - Modifier Overriding
 - Overriding Possible
 - Similar to Functions

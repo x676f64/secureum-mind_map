@@ -18,7 +18,7 @@ ___
 ## Slide Screenshot
 ![189.png](../images/solidity201/189.png)
 ___
-## Slide Deck
+## Slide Text
 - Implementation Addr -> UpgradeableBeacon
 - Beacon Address -> Slot
 - `uint256(keccak256('eip1967.proxy.beach')) - 1`

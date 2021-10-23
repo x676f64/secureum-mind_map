@@ -19,6 +19,6 @@ ___
 - Usage: Minimal
 ___
 ## References
-- [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=1677
+- [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=1677)
 
 

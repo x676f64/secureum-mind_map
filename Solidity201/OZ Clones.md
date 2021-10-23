@@ -18,7 +18,7 @@ ___
 ## Slide Screenshot
 ![191.png](../images/solidity201/191.png)
 ___
-## Slide Deck
+## Slide Text
 - EIP-1167 Minimal Proxy Contracts
 - Delegate -> Fixed Impl
 - Deploy -> Create/Create2

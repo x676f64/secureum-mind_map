@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![128.png](../images/solidity201/128.png)
 ___
-## Slide Deck
+## Slide Text
 - Elements -> 32B Multiples
 	- Even `byte[]`
 - Not bytes & string

@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![193.png](../images/solidity201/193.png)
 ___
-## Slide Deck
+## Slide Text
 - Proxy -> Impl
 - Contract Bytecode
 - Function Calldata

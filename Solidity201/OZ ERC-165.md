@@ -8,7 +8,7 @@ ___
 ## Slide Screenshot
 ![173.png](../images/solidity201/173.png)
 ___
-## Slide Deck
+## Slide Text
 - Contract -> Interface Determine Support
 - Runtime Detection Lookup Table
 - Register Interface -> `_registerInterface(bytes4)`

@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![117.png](../images/solidity201/117.png)
 ___
-## Slide Deck
+## Slide Text
 - Structs & Arrays [Storage](../Ethereum101/Storage.md) Rules
 - Structs & Arrays -> Start New Storage Slot
 - Following Items -> Start New Storage Slot

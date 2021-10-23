@@ -15,7 +15,7 @@ ___
 ## Slide Screenshot
 ![180.png](../images/solidity201/180.png)
 ___
-## Slide Deck
+## Slide Text
 - Managing Bitmaps
 	- `uint256` -> `bool`
 - `get(bitmap, index)` -> `bool`

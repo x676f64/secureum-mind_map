@@ -10,7 +10,7 @@ ___
 ## Slide Screenshot
 ![127.png](../images/solidity201/127.png)
 ___
-## Slide Deck
+## Slide Text
 - Solidity -> 4 32 Byte Slots
 - 0x00-0x3f (64B)
 	- Hashing -> Scratch Space

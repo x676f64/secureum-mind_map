@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![197.png](../images/solidity201/197.png)
 ___
-## Slide Deck
+## Slide Text
 - RBAC
 - ACLS -> Roles & Capabilities
 - `canCall()` -> `bool`

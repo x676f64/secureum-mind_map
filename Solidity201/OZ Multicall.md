@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![164.png](../images/solidity201/164.png)
 ___
-## Slide Deck
+## Slide Text
 - Batch Calls
 - Single External Call
 - `multicall(bytes[] calldata data) external` -> `bytes[]`

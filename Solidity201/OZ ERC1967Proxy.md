@@ -10,7 +10,7 @@ ___
 ## Slide Screenshot
 ![186.png](../images/solidity201/186.png)
 ___
-## Slide Deck
+## Slide Text
 - Upgradeable Proxy 
 - Implementation -> Changed
 - Data(Proxy) -> Logic(Impl)

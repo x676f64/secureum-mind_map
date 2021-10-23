@@ -14,7 +14,7 @@ ___
 ## Slide Screenshot
 ![177.png](../images/solidity201/177.png)
 ___
-## Slide Deck
+## Slide Text
 - Downcasting -> Overflow Safe Downcasting
 - uint256 -> uint224/uint128/uint96/uint64/uint32/uint16/uint8
 - int256 -> int224/int128/int96/int64/int32/int16/int8

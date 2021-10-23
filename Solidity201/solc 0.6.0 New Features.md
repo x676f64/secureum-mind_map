@@ -16,7 +16,7 @@ ___
 ## Slide Screenshot
 ![138.png](../images/solidity201/138.png)
 ___
-## Slide Deck
+## Slide Text
 - try/catch
 	- Handle Failed External Calls
 - struct/enum -> File-level

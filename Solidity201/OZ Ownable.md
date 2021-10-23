@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![154.png](../images/solidity201/154.png)
 ___
-## Slide Deck
+## Slide Text
 - Basic Access Control
 	- Contract -> Owner
 - Default Owner -> Contract Deployer

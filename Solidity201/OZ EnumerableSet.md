@@ -33,7 +33,7 @@ ___
 ## Slide Screenshot
 ![179.png](../images/solidity201/179.png)
 ___
-## Slide Deck
+## Slide Text
 - Managing Sets
 - Added/Removed/Checked -> o(1)
 - Enumerated -> o(n)

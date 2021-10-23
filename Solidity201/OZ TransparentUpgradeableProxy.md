@@ -33,7 +33,7 @@ ___
 ## Slide Screenshot
 ![187.png](../images/solidity201/187.png)
 ___
-## Slide Deck
+## Slide Text
 - Upgradeable -> Admin
 - Selector Clash -> Attack
 - Non-Admin -> Implementation

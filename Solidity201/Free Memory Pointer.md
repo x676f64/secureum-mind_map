@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![129.png](../images/solidity201/129.png)
 ___
-## Slide Deck
+## Slide Text
 - Position `0x40`
 - Initial Value -> `0x80`
 - Beyond Reserved Slots

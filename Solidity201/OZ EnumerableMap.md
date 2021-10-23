@@ -26,7 +26,7 @@ ___
 ## Slide Screenshot
 ![178.png](../images/solidity201/178.png)
 ___
-## Slide Deck
+## Slide Text
 - Mapping -> Enumerable
 - Added/Removed/Checked -> o(1)
 - Enumerated -> o(n)

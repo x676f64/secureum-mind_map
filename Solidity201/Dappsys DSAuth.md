@@ -12,7 +12,7 @@ ___
 ## Slide Screenshot
 ![195.png](../images/solidity201/195.png)
 ___
-## Slide Deck
+## Slide Text
 - Authorization
 - auth Modifier
 	- isAuthorized()

@@ -5,7 +5,7 @@ ___
 ## Slide Screenshot
 ![171.png](../images/solidity201/171.png)
 ___
-## Slide Deck
+## Slide Text
 - Escrow Funds for Payee
 - Conditional Withdrawal
 - `withdrawalAllowed()` -> Check Condition

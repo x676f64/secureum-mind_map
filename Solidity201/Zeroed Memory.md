@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![130.png](../images/solidity201/130.png)
 ___
-## Slide Deck
+## Slide Text
 - Memory Not Used -> No Guarantee
 - Zeroed Contents -> Cannot Assume
 - Release/Free Memory

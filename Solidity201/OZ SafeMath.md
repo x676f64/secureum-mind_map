@@ -16,7 +16,7 @@ ___
 ## Slide Screenshot
 ![175.png](../images/solidity201/175.png)
 ___
-## Slide Deck
+## Slide Text
 - Math Functions
 - Safe -> Overflow/Underflow
 - add & sub & mul & div & mod

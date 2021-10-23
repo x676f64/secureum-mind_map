@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![106.png](../images/solidity201/106.png)
 ___
-## Slide Deck
+## Slide Text
 - State Variable Shadowing
 - Base -> State Var x
 - Derived X -> State Var x

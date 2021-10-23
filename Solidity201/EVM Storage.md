@@ -5,7 +5,7 @@ ___
 ## Slide Screenshot
 ![114.png](../images/solidity201/114.png)
 ___
-## Slide Deck
+## Slide Text
 - Storage -> Key/Value Store
 - Key -> Value
 - 256-bit -> 256-bit

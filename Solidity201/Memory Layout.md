@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![126.png](../images/solidity201/126.png)
 ___
-## Slide Deck
+## Slide Text
 - New Memory Objects
 	- Free Pointer
 - Memory -> Never Freed

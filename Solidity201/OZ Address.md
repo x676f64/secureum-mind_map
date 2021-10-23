@@ -23,7 +23,7 @@ ___
 ## Slide Screenshot
 ![159.png](../images/solidity201/159.png)
 ___
-## Slide Deck
+## Slide Text
 - Address-related Functions
 	- `isContract()`
 	- `sendValue()`

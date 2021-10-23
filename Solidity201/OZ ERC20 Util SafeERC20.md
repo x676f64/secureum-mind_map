@@ -5,7 +5,7 @@ ___
 ## Slide Screenshot
 ![149.png](../images/solidity201/149.png)
 ___
-## Slide Deck
+## Slide Text
 - transfer/transferFrom/approve/increaseAllowance/decreaseAllowance
 - `bool` vs. `revert` vs. Nothing
 - safe* Wrappers -> Revert on Failure

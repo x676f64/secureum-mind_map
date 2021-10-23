@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![168.png](../images/solidity201/168.png)
 ___
-## Slide Deck
+## Slide Text
 - ECDSA & ERC-1271 Signatures
 - ECDSA -> EOA Signatures
 - ERC-1271 -> Contract Signatures

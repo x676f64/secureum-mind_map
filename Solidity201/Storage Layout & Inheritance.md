@@ -6,7 +6,7 @@ ___
 ## Slide Screenshot
 ![118.png](../images/solidity201/118.png)
 ___
-## Slide Deck
+## Slide Text
 - Contract Inheritance -> Storage Layout
 - Base(s) -> Derived State Vars Layout
 - C3-Linearized Order

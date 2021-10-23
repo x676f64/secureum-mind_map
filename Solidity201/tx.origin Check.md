@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![145.png](../images/solidity201/145.png)
 ___
-## Slide Deck
+## Slide Text
 - Ethereum Accounts
 	- EOA vs Contract
 - Tx Origin -> Only EOA

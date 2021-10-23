@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![167.png](../images/solidity201/167.png)
 ___
-## Slide Deck
+## Slide Text
 - Merkle Tree Proof Verificiation
 - Merkle Tree Leaf -> Root
 - verify(proof, root, leaf) -> bool

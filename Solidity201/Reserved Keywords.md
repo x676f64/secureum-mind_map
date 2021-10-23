@@ -5,7 +5,7 @@ ___
 ## Slide Screenshot
 ![131.png](../images/solidity201/131.png)
 ___
-## Slide Deck
+## Slide Text
 - Keywords -> Reserved for Future
 - Current Syntax -> No
 - Future Syntax -> Maybe

@@ -6,7 +6,7 @@ ___
 ## Slide Screenshot
 ![120.png](../images/solidity201/120.png)
 ___
-## Slide Deck
+## Slide Text
 - State Vars Ordering
 - Declaration -> Packing
 - Packing -> Gas Costs

@@ -26,7 +26,7 @@ ___
 ## Slide Screenshot
 ![155.png](../images/solidity201/155.png)
 ___
-## Slide Deck
+## Slide Text
 - Generalized RBAC
 	- Role-Based Access Control
 - Roles -> Permission Set

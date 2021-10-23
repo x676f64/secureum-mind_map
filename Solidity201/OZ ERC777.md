@@ -21,7 +21,7 @@ ___
 ## Slide Screenshot
 ![152.png](../images/solidity201/152.png)
 ___
-## Slide Deck
+## Slide Text
 - ERC777 Token Standard
 - ERC20 Improvements
 - Key Feature: Hooks

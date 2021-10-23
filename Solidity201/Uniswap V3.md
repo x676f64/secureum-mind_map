@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![200.png](../images/solidity201/200.png)
 ___
-## Slide Deck
+## Slide Text
 - Concentrated Liquidity Custom Price Ranges
 - Capital Efficiency
 - Flexible Fees: 0.05%, 0.30%, and 1.00%

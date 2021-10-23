@@ -17,7 +17,7 @@ ___
 ## Slide Screenshot
 ![163.png](../images/solidity201/163.png)
 ___
-## Slide Deck
+## Slide Text
 - `CREATE2` EVM Opcode
 	- Easier & Safer
 - `deploy(uint256 amount, bytes32 salt, bytes bytecode)`

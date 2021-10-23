@@ -47,7 +47,7 @@ ___
 ## Slide Screenshot
 ![182.png](../images/solidity201/182.png)
 ___
-## Slide Deck
+## Slide Text
 - Enforces Timelock
 - onlyOwner Operations
 - Users -> Exit

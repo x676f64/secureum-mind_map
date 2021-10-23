@@ -11,7 +11,7 @@ ___
 ## Slide Screenshot
 ![135.png](../images/solidity201/135.png)
 ___
-## Slide Deck
+## Slide Text
 - Breaking Semantic Changes
 - Existing Code
 - Changes Behavior

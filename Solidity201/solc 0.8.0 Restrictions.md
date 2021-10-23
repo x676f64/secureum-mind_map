@@ -29,7 +29,7 @@ ___
 ## Slide Screenshot
 ![143.png](../images/solidity201/143.png)
 ___
-## Slide Deck
+## Slide Text
 - Explicit Conversions
 - Addr Literals -> address
 - Fn Call Options -> Once 

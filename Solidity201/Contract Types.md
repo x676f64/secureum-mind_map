@@ -13,7 +13,7 @@ ___
 ## Slide Screenshot
 ![103.png](../images/solidity201/103.png)
 ___
-## Slide Deck
+## Slide Text
 - Base -> Derived
 - Constructors
 - Constructors Called -> Linearization Rules

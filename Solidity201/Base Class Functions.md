@@ -4,7 +4,7 @@ ___
 ## Slide Screenshot
 ![105.png](../images/solidity201/105.png)
 ___
-## Slide Deck
+## Slide Text
 - Inheritance Hierachy
 - Derived -> Base
 - Explicit

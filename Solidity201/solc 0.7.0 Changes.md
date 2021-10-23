@@ -23,7 +23,7 @@ ___
 ## Slide Screenshot
 ![140.png](../images/solidity201/140.png)
 ___
-## Slide Deck
+## Slide Text
 - Calls -> gas & value
 - now -> block.timestamp
 - Natspec -> Vars

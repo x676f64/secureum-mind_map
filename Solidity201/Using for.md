@@ -9,7 +9,7 @@ ___
 ## Slide Screenshot
 ![104.png](../images/solidity201/104.png)
 ___
-## Slide Deck
+## Slide Text
 - Directive using A for B
 - Attach Functions
 - Library A -> Type B

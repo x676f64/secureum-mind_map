@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![146.png](../images/solidity201/146.png)
 ___
-## Slide Deck
+## Slide Text
 - Arithmetic Overflow/Underflow -> Wrapping
 - Balance & Accounting
 - Critical Vulnerabilities

@@ -19,7 +19,7 @@ ___
 ## Slide Screenshot
 ![136.png](../images/solidity201/136.png)
 ___
-## Slide Deck
+## Slide Text
 - virtual -> override
 - Array Length -> Read-only
 - `abstract` Keyword

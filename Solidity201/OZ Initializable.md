@@ -16,7 +16,7 @@ ___
 ## Slide Screenshot
 ![192.png](../images/solidity201/192.png)
 ___
-## Slide Deck
+## Slide Text
 - Proxy -> Impl
 - Data -> Logic
 - Constructor -> Initialize

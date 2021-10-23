@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![172.png](../images/solidity201/172.png)
 ___
-## Slide Deck
+## Slide Text
 - Escrow -> Beneficiary Multiple Depositors
 - State -> Active/Refunding/Closed
 - Active -> Deposits

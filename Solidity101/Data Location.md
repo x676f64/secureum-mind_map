@@ -23,4 +23,4 @@ ___
 - [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=1738)
 ___
 ## Tags
-[Calldata](../Ethereum101/Calldata.md)[Memory](../Ethereum101/Memory.md)[Storage](../Ethereum101/Storage.md)
+[Calldata](../Ethereum101/Calldata.md), [Memory](../Ethereum101/Memory.md), [Storage](../Ethereum101/Storage.md)

@@ -13,7 +13,7 @@ ___
 ## Slide Screenshot
 ![132.png](../images/solidity201/132.png)
 ___
-## Slide Deck
+## Slide Text
 - Access EVM Low-level Features
 - Bypasses Safety Features
 - E.g.: Type Safety

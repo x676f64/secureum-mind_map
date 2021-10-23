@@ -7,7 +7,7 @@ ___
 ## Slide Screenshot
 ![109.png](../images/solidity201/109.png)
 ___
-## Slide Deck
+## Slide Text
 - Public State Variables
 - Automatic Getters
 - externals Functions -> Parameters & Return Types

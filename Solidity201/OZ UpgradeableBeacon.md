@@ -17,7 +17,7 @@ ___
 ## Slide Screenshot
 ![190.png](../images/solidity201/190.png)
 ___
-## Slide Deck
+## Slide Text
 - UpgradeableBeacon -> BeaconProxy
 - Owner -> Change Impl
 - Constructor -> Impl Init
