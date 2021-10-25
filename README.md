@@ -88,15 +88,21 @@ ___
 ### Quiz Writeups
 ___
 ___
-## Week 4
+## Week 4 - [Security Pitfalls & Best Practices 101](4.Pitfalls-BestPractices)
 ### Blog
+#### [Article on "Security Pitfalls & Best Practices 101"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 ### Youtube Videos
-1.  [Block 1]()
-2.  [Block 2]()
-3.  [Block 3]()
-4.  [Block 4]()
-5.  [Block 5]()
+1.  [Block 1](https://youtu.be/OOzyoaYIw2k)
+2.  [Block 2](https://youtu.be/fgXuHaZDenU)
+3.  [Block 3](https://youtu.be/YVewx1xVROE)
+4.  [Block 4](https://youtu.be/byA3MLLiKMM)
+5.  [Block 5](https://youtu.be/vyWLO5Dlg50)
 ### Assignment
+1. Explore the SWC Registry list and test cases: [https://swcregistry.io/](https://swcregistry.io/ "https://swcregistry.io/")
+2. Watch “Intro to Security First Development” by Gonçalo Sá @GNSPS, ConsenSys Diligence: [https://www.youtube.com/watch?v=72K57I9yvyI](https://www.youtube.com/watch?v=72K57I9yvyI "https://www.youtube.com/watch?v=72K57I9yvyI") 
+3. Watch “Protect your Crypto and Avoid Getting Hacked” by Mehdi Zerouali @ethzed, Sigma Prime: [https://www.youtube.com/watch?v=L2DRC6PjTgk](https://www.youtube.com/watch?v=L2DRC6PjTgk "https://www.youtube.com/watch?v=L2DRC6PjTgk")
+4. Watch “DeFi Security: With So Many Hacks, Will It Ever Be Safe?” on Unchained Podcast with Dan Guido @dguido (Trail of Bits) and Taylor Monahan (MyCrypto): [https://www.youtube.com/watch?v=Sc5fZ-Wprx8](https://www.youtube.com/watch?v=Sc5fZ-Wprx8 "https://www.youtube.com/watch?v=Sc5fZ-Wprx8") 
+5. Attempt CTF: [https://capturetheether.com/](https://capturetheether.com/ "https://capturetheether.com/")
 ___
 ### Quiz
 ___
