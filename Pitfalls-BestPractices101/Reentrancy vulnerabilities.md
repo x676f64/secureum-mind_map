@@ -6,9 +6,14 @@ ___
 ![013.png](../images/pitfalls_and_best_practices101/013.png)
 ___
 ## Slide Text
-- 
+- External Contract Calls -> Reentrancy
+- Contract Callbacks 
+	- C1 -> C2 -> C3
+- Multiple Withdrawals -> 000 Events
+- CEI Patterns
+- Reentrancy Guards
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1102)
 ___
 ## Tags

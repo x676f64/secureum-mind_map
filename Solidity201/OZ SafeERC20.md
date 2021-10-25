@@ -1,4 +1,4 @@
-# 149 - [OZ ERC20 Util SafeERC20](OZ%20ERC20%20Util%20SafeERC20.md)
+# 149 - [OZ SafeERC20](OZ%20SafeERC20.md)
 OpenZeppelin SafeERC20: Wrappers around ERC20 operations that throw on failure when the token contract implementation returns false. Tokens that return no value and instead revert or throw on failure are also supported with non-reverting calls assumed to be successful. Adds `safeTransfer`, `safeTransferFrom`, `safeApprove`, `safeDecreaseAllowance`, and `safeIncreaseAllowance`.
 
 ___

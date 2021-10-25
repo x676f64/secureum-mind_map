@@ -6,9 +6,13 @@ ___
 ![031.png](../images/pitfalls_and_best_practices101/031.png)
 ___
 ## Slide Text
-- 
+- Contract vs EOA
+- excodesize > 0
+- msg.sender == tx.origin
+- Pros & Cons -> Applications
+- Risk Awareness -> Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=916)
 ___
 ## Tags

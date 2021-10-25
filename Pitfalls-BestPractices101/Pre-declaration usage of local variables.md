@@ -6,9 +6,13 @@ ___
 ![041.png](../images/pitfalls_and_best_practices101/041.png)
 ___
 ## Slide Text
-- 
+- Local Variables Pre-declaration Usage
+- Declared Later
+- Declared Another Scope
+- `solc < 0.5.0` -> Undefined Behavior
+- `solc >= 0.5.0` -> C99-Style Scoping Rules
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://www.youtube.com/watch?v=YVewx1xVROE)
 ___
 ## Tags

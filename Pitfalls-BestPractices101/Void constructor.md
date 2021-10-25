@@ -6,9 +6,12 @@ ___
 ![010.png](../images/pitfalls_and_best_practices101/010.png)
 ___
 ## Slide Text
-- 
+- Base Constructor
+- Calling Unimplemented Constructors
+- Misplaced Assumptions
+- Checks Implementation -> Call or Not
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=932)
 ___
 ## Tags

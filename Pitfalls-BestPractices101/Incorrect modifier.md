@@ -6,9 +6,12 @@ ___
 ![08.png](../images/pitfalls_and_best_practices101/008.png)
 ___
 ## Slide Text
-- 
+- Incorrect Modifier
+- Checks -> Execute `_` or Revert
+- Default Value Returned -> Unexpected
+- All Modifier Paths -> Execute `_` or Revert
 ___
 ## References
-- Youtube Reference
+- Y[outube Reference](https://youtu.be/OOzyoaYIw2k?t=778)
 ___
 ## Tags

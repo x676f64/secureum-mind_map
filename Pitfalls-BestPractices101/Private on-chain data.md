@@ -6,9 +6,13 @@ ___
 ![016.png](../images/pitfalls_and_best_practices101/016.png)
 ___
 ## Slide Text
-- 
+- Privacy of On-chain Data
+- private Variables != Cannot Read
+- Blockchain Txs & State
+- On-chain vs Off-chain
+- Private Data -> Encrypted Off-chain
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1466)
 ___
 ## Tags

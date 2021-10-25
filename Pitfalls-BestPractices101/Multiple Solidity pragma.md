@@ -6,9 +6,13 @@ ___
 ![03.png](../images/pitfalls_and_best_practices101/003.png)
 ___
 ## Slide Text
-- 
+- Solidity Pragma
+- Different Pragmas
+- Different Contracts
+- Different Bugs -> Different Features/Checks
+- Same Pragma -> Same Bugs/Features/Checks
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=331)
 ___
 ## Tags

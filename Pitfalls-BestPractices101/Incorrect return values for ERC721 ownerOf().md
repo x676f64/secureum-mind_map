@@ -6,9 +6,13 @@ ___
 ![025.png](../images/pitfalls_and_best_practices101/025.png)
 ___
 ## Slide Text
-- 
+- ERC721 `ownerOf()`
+- Specification -> Address Return Value
+- Bool Return Value -> Revert
+	- solc `>=0.4.22`
+- [OZ ERC721](../Solidity201/OZ%20ERC721.md) Contract
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=426)
 ___
 ## Tags

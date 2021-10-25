@@ -6,9 +6,13 @@ ___
 ![034.png](../images/pitfalls_and_best_practices101/034.png)
 ___
 ## Slide Text
-- 
+- Boolean Constants -> `true` or `false`
+- Use in Conditionals -> Unnecessary
+- Flawed Logic -> Redundant Use
+- Verify Usage
+- Remove -> Simplify
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1144)
 ___
 ## Tags

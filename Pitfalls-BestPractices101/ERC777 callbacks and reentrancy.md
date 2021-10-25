@@ -6,9 +6,14 @@ ___
 ![014.png](../images/pitfalls_and_best_practices101/014.png)
 ___
 ## Slide Text
-- 
+- ERC777 Token Standard
+- Callbacks -> Reentrancy
+- Hooks -> Reentrancy
+- C1 -> ERC777 -> Hook -> C1
+- CEI Pattern
+- Reentrancy Guards
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1282)
 ___
 ## Tags

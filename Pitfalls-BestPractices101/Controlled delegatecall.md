@@ -6,9 +6,12 @@ ___
 ![012.png](../images/pitfalls_and_best_practices101/012.png)
 ___
 ## Slide Text
-- 
+- Controlled delegateCall -> User-controlled Address
+- Malicious Contracts
+- Contract State -> Unauthorized Modification
+- delegateCall -> Trusted Addresses
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1040)
 ___
 ## Tags

@@ -6,9 +6,16 @@ ___
 ![017.png](../images/pitfalls_and_best_practices101/017.png)
 ___
 ## Slide Text
-- 
+- PRNG in Contracts
+- Randomness Applications
+- block.timestamp
+- blockhash
+- High Stakes
+- Miner Influence
+- Rick Awareness
+- Alternatives: VRF
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1546)
 ___
 ## Tags

@@ -6,9 +6,14 @@ ___
 ![011.png](../images/pitfalls_and_best_practices101/011.png)
 ___
 ## Slide Text
-- 
+- Implicit Constructor
+- callValue Check
+- Not Explicitly Payable
+- Constructor -> Revert
+- Base Constructor `!=0 callValue` -> No Revert
+- Compiler Bug -> `v0.4.5 - v0.6.8`
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=974)
 ___
 ## Tags

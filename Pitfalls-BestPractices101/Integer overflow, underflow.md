@@ -6,9 +6,15 @@ ___
 ![019.png](../images/pitfalls_and_best_practices101/019.png)
 ___
 ## Slide Text
-- 
+- Integer Arithmetic
+- Overflows & Underflows
+- Wrapped Values -> Invalid
+- Data -> High/Low
+- Unexpected Behavior & Vulnerabilities
+- OZ SafeMath
+- Default Checks -> `>= 0.8.0`
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1663)
 ___
 ## Tags

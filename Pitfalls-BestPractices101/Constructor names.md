@@ -6,9 +6,13 @@ ___
 ![09.png](../images/pitfalls_and_best_practices101/009.png)
 ___
 ## Slide Text
-- 
+- Constructor Names
+- `< 0.4.22` -> Contract Name
+-`< 0.5.0 `-> or constructor
+- `>= 0.5.0` -> Only constructor
+- Naming Confusion -> Bugs
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=843)
 ___
 ## Tags

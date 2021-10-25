@@ -12,9 +12,15 @@ ___
 ![01.png](../images/pitfalls_and_best_practices101/001.png)
 ___
 ## Slide Text
-- 
+- Old vs New Versions
+- Old: Bugs, Time-Tested
+- New: Bug-fixes, New Bugs
+- Old: Less Features
+- New: More Features
+- Optimal Version
+- Security vs Functionality
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=22)
 ___
 ## Tags

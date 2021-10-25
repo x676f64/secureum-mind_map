@@ -5,9 +5,13 @@ ___
 ![040.png](../images/pitfalls_and_best_practices101/040.png)
 ___
 ## Slide Text
-- 
+- State Variables Shadowing
+- Contracts: Base vs Derived
+- Base Variables -> Shadowed Variables
+- Wrong Variable Usage
+- Dangerous/Unexpected
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1477)
 ___
 ## Tags

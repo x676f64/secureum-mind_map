@@ -6,9 +6,13 @@ ___
 ![015.png](../images/pitfalls_and_best_practices101/015.png)
 ___
 ## Slide Text
-- 
+- ETH `transfer()` & `send()` Reentrancy Mitigations
+- Gas Subsidy 2300
+- Reentrancy -> No Gas
+- Opcode Gas Repricing -> Break Contracts
+- `call()` & CEI Pattern & Reentrancy Guards
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1359)
 ___
 ## Tags

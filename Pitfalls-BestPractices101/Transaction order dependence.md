@@ -6,9 +6,13 @@ ___
 ![021.png](../images/pitfalls_and_best_practices101/021.png)
 ___
 ## Slide Text
-- 
+- Transaction Order Dependence
+- Mempool Transactions
+- Transaction Inclusion
+- Front-running & Back-running
+- Don't Make Assumptions -> Transaction Order
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?)
 ___
 ## Tags

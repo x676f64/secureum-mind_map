@@ -6,9 +6,15 @@ ___
 ![020.png](../images/pitfalls_and_best_practices101/020.png)
 ___
 ## Slide Text
-- 
+- Integer Arithmetic
+- Divide Before Multiply
+- Solidity Integer Division
+- Truncation
+- Division -> Multiplication
+- Loss of precision
+- Multiplication -> Division
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1783)
 ___
 ## Tags

@@ -10,9 +10,14 @@ ___
 ![02.png](../images/pitfalls_and_best_practices101/002.png)
 ___
 ## Slide Text
-- 
+- Solidity Pragma
+- Use of `^` -> Unlocked
+- Testing vs Deployment
+- Different Versions
+- Lock Pragma
+- Test -> Deploy
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=167)
 ___
 ## Tags

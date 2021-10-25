@@ -6,9 +6,13 @@ ___
 ![026.png](../images/pitfalls_and_best_practices101/026.png)
 ___
 ## Slide Text
-- 
+- Unexpected Ether
+- Creation Payable Functions
+- Coinbase Tx
+- `selfdestruct()`
+- Assumptions on `this.balance`
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=471)
 ___
 ## Tags

@@ -5,9 +5,12 @@ ___
 ![042.png](../images/pitfalls_and_best_practices101/042.png)
 ___
 ## Slide Text
-- 
+- Costly Operations Inside Loops
+- State Variable Updates
+- Out-of-Gas Error
+- Use Local Variables Prevent DoS
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=36)
 ___
 ## Tags

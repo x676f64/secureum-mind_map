@@ -6,9 +6,12 @@ ___
 ![030.png](../images/pitfalls_and_best_practices101/030.png)
 ___
 ## Slide Text
-- 
+- Use of `tx.origin` Dangerous
+- `tx.origin` -> EOA
+- Authorization MITM Replay Attack
+- `tx.origin` -> `msg.sender`
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=815)
 ___
 ## Tags

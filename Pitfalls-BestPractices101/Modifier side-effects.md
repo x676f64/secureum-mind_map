@@ -10,9 +10,15 @@ ___
 ![07.png](../images/pitfalls_and_best_practices101/007.png)
 ___
 ## Slide Text
-- 
+- Modifier Side-Effects
+- Modifiers -> Checks
+- No Side-Effects
+- Unnoticed Side-effects
+- Readability & Auditability
+- No Side-effects
+- Only Checks
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=691)
 ___
 ## Tags

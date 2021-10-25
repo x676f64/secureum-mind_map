@@ -6,9 +6,12 @@ ___
 ![032.png](../images/pitfalls_and_best_practices101/032.png)
 ___
 ## Slide Text
-- 
+- delete Mapping within Struct
+- delete Struct -> Mapping Intact
+- Unintended Consequences
+- Use Alternatives -> Lock vs Delete
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1013)
 ___
 ## Tags

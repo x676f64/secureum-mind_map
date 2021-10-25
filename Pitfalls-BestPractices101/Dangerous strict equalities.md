@@ -6,9 +6,12 @@ ___
 ![028.png](../images/pitfalls_and_best_practices101/028.png)
 ___
 ## Slide Text
-- 
+- Strict Equalities -> Dangerous
+- `==` vs `<= or >=`
+- ETH/Token Transfers & Balances
+- Check Constraints -> Safe Defaults
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=662)
 ___
 ## Tags

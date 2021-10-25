@@ -8,9 +8,12 @@ ___
 ![05.png](../images/pitfalls_and_best_practices101/005.png)
 ___
 ## Slide Text
-- 
+- Unprotected Withdraw Functions
+- Public/External -> Withdraw ETH/Tokens
+- Unauthorized Withdraws -> Loss of Funds
+- Access Control -> Withdraw Functions
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=506)
 ___
 ## Tags

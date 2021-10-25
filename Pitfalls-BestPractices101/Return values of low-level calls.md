@@ -5,9 +5,13 @@ ___
 ![037.png](../images/pitfalls_and_best_practices101/037.png)
 ___
 ## Slide Text
-- 
+- Function Return Values Low-Level Calls
+- call/delegateCall/send
+- Check Return Value -> Success/Failure
+- Unexpected Failures
+
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1329)
 ___
 ## Tags

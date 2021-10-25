@@ -6,9 +6,13 @@ ___
 ![036.png](../images/pitfalls_and_best_practices101/036.png)
 ___
 ## Slide Text
-- 
+- Contract State Modifications
+- Functions: `view` or `pure`
+- `solc >= 0.5.0`
+- STATICCALL -> Revert
+- Function Mutability -> Check & Apply
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1274)
 ___
 ## Tags

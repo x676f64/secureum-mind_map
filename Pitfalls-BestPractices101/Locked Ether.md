@@ -6,9 +6,12 @@ ___
 ![029.png](../images/pitfalls_and_best_practices101/029.png)
 ___
 ## Slide Text
-- 
+- Contract Balance -> Locaked Ether
+- Payable Functions -> No Withdraw
+- Can Deposit -> Can't Withdraw
+- Remove Payable -> Add Withdraw
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=745)
 ___
 ## Tags

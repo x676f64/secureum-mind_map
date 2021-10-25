@@ -5,9 +5,12 @@ ___
 ![038.png](../images/pitfalls_and_best_practices101/038.png)
 ___
 ## Slide Text
-- 
+- Account Existence Low-level Calls
+- call/delegateCall/staticCall
+- No Account -> Return `true`
+- Check Existence -> Before Call
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1381)
 ___
 ## Tags

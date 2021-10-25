@@ -5,9 +5,12 @@ ___
 ![039.png](../images/pitfalls_and_best_practices101/039.png)
 ___
 ## Slide Text
-- 
+- Solidity Built-in Shadowing
+- Built-in: now, assert, etc.
+- Names: Variables/Functions/Modifiers
+- Override Behavior -> Dangerous/Unexpected
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=1449)
 ___
 ## Tags

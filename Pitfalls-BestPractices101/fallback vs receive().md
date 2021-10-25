@@ -6,9 +6,13 @@ ___
 ![027.png](../images/pitfalls_and_best_practices101/027.png)
 ___
 ## Slide Text
-- 
+- `fallback()` 
+- `receive()`
+- Differences - Similarities
+- Visibility, Mutability, Ether Transfers
+- Check Assumptions & Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=624)
 ___
 ## Tags
