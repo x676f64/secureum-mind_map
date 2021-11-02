@@ -1,8 +1,8 @@
 # 178 - [OZ EnumerableMap](OZ%20EnumerableMap.md)
 OpenZeppelin EnumerableMap: Library for managing an enumerable variant of Solidity’s mapping type. Maps have the following properties: 
 
-1. Entries are added, removed, and checked for existence in constant time (O(1)) 
-2. Entries are enumerated in O(n). 
+1. Entries are added, removed, and checked for existence in constant time (`O(1)`) 
+2. Entries are enumerated in `O(n)`. 
 
 No guarantees are made on the ordering. 
 

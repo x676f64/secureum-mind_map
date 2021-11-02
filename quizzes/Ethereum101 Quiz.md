@@ -1,11 +1,11 @@
 #### Q1 Ethereum Virtual Machine is a
-A. Register-based virtual machine
+- [ ] A) Register-based virtual machine
 
-B. Stack-based virtual machine
+- [ ] B) Stack-based virtual machine
 
-C. Heap-based virtual machine
+- [ ] C) Heap-based virtual machine
 
-D. Stackless virtual machine
+- [ ] D) Stackless virtual machine
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -14,13 +14,13 @@ B
 
 ___
 #### Q2 The length of addresses on Ethereum is
-A. 256 bits
+- [ ] A) 256 bits
 
-B. 20 bytes
+- [ ] B) 20 bytes
 
-C. Depends on Externally-Owned-Account or Contract address
+- [ ] C) Depends on Externally-Owned-Account or Contract address
 
-D. Configurable
+- [ ] D) Configurable
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -29,13 +29,13 @@ B
 
 ___
 #### Q3 The types of accounts on Ethereum are
-A. All Accounts are the same
+- [ ] A) All Accounts are the same
 
-B. Permissioned Accounts and Permissionless Accounts
+- [ ] B) Permissioned Accounts and Permissionless Accounts
 
-C. Externally-Owned-Accounts and Contract Accounts
+- [ ] C) Externally-Owned-Accounts and Contract Accounts
 
-D. User Accounts and Admin Accounts
+- [ ] D) User Accounts and Admin Accounts
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -44,13 +44,13 @@ C
 
 ___
 #### Q4 The difference(s) between Bitcoin and Ethereum is/are
-A. The underlying tokens: Bitcoin vs Ether
+- [ ] A) The underlying tokens: Bitcoin vs Ether
 
-B. Smart contract support
+- [ ] B) Smart contract support
 
-C. UTXO vs Accounts
+- [ ] C) UTXO vs Accounts
 
-D. Nakamoto Consensus
+- [ ] D) Nakamoto Consensus
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -59,13 +59,13 @@ A,B,C
 
 ___
 #### Q5 Ethereum smart contracts do not run into halting problem because
-A. EVM is not Turing Complete
+- [ ] A) EVM is not Turing Complete
 
-B. EVM is Turing Complete
+- [ ] B) EVM is Turing Complete
 
-C. EVM is Turing Complete but is bounded by gas sent in transaction
+- [ ] C) EVM is Turing Complete but is bounded by gas sent in transaction
 
-D. EVM is Turing Complete but is bounded by the stack depth
+- [ ] D) EVM is Turing Complete but is bounded by the stack depth
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -74,13 +74,13 @@ C
 
 ___
 #### Q6 Ethereum nodes talk to each other via
-A. Peer-to-Peer network
+- [ ] A) Peer-to-Peer network
 
-B. Client-Server network
+- [ ] B) Client-Server network
 
-C. Satellite network
+- [ ] C) Satellite network
 
-D. None of the above
+- [ ] D) None of the above
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -89,13 +89,13 @@ A
 
 ___
 #### Q7 A nonce is present in
-A. Ethereum transaction
+- [ ] A) Ethereum transaction
 
-B. Ethereum account
+- [ ] B) Ethereum account
 
-C. Both A & B
+- [ ] C) Both A & B
 
-D. Neither A nor B
+- [ ] D) Neither A nor B
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -104,13 +104,13 @@ C
 
 ___
 #### Q8 The gas tracking website [https://etherscan.io/gastracker](https://etherscan.io/gastracker) says that Low gas cost is 40 wei This affects
-A. The transaction gasPrice
+- [ ] A) The transaction gasPrice
 
-B. The transaction gasLimit
+- [ ] B) The transaction gasLimit
 
-C. The transaction value
+- [ ] C) The transaction value
 
-D. Both B & C
+- [ ] D) Both B & C
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -119,13 +119,13 @@ A
 
 ___
 #### Q9 The number of transactions in a Ethereum block depend on
-A. Nothing. It is a constant.
+- [ ] A) Nothing. It is a constant.
 
-B. Gas used by transactions
+- [ ] B) Gas used by transactions
 
-C. Block gas limit
+- [ ] C) Block gas limit
 
-D. Block difficulty
+- [ ] D) Block difficulty
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -134,13 +134,13 @@ B,C
 
 ___
 #### Q10 Miners are responsible for setting
-A. Transaction gas price
+- [ ] A) Transaction gas price
 
-B. Block gas limit
+- [ ] B) Block gas limit
 
-C. Both A & B
+- [ ] C) Both A & B
 
-D. Neither A nor B
+- [ ] D) Neither A nor B
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -149,13 +149,13 @@ B
 
 ___
 #### Q11 User A sends transaction T1 from address A1 with gasPrice G1 and later transaction T2 from address A2 with gasPrice G2
-A. T1 will be always included in an earlier block than T2
+- [ ] A) T1 will be always included in an earlier block than T2
 
-B. Inclusion/Ordering of these transactions depends only on gas prices G1 and G2
+- [ ] B) Inclusion/Ordering of these transactions depends only on gas prices G1 and G2
 
-C. Inclusion/Ordering of these transactions depends only on network congestion
+- [ ] C) Inclusion/Ordering of these transactions depends only on network congestion
 
-D. Inclusion/Ordering of these transactions depends on miners
+- [ ] D) Inclusion/Ordering of these transactions depends on miners
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -164,13 +164,13 @@ D
 
 ___
 #### Q12 Which of the following statements is/are true about gas?
-A. Unused gas is returned to the transaction destination account
+- [ ] A) Unused gas is returned to the transaction destination account
 
-B. Gas used by the transaction is credited to the beneficiary address in block header
+- [ ] B) Gas used by the transaction is credited to the beneficiary address in block header
 
-C. Unused gas is credited to the beneficiary address in block header
+- [ ] C) Unused gas is credited to the beneficiary address in block header
 
-D. Both A & B
+- [ ] D) Both A & B
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -179,13 +179,13 @@ B
 
 ___
 #### Q13 Which of the following EVM components is/are non-volatile across transactions?
-A. Stack
+- [ ] A) Stack
 
-B. Memory
+- [ ] B) Memory
 
-C. Storage
+- [ ] C) Storage
 
-D. Calldata
+- [ ] D) Calldata
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -194,13 +194,13 @@ C
 
 ___
 #### Q14 Which of the following operation(s) touch(es) storage?
-A. SWAP
+- [ ] A) SWAP
 
-B. SLOAD
+- [ ] B) SLOAD
 
-C. DUP
+- [ ] C) DUP
 
-D. PUSH
+- [ ] D) PUSH
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -209,13 +209,13 @@ B
 
 ___
 #### Q15 Which of the following statement(s) is/are false?
-A. EVM can get the block number only of the current block
+- [ ] A) EVM can get the block number only of the current block
 
-B. EVM can get the block hash only of the current block
+- [ ] B) EVM can get the block hash only of the current block
 
-C. EVM can get the account balance only of the current account
+- [ ] C) EVM can get the account balance only of the current account
 
-D. EVM can get the code hash only of the current account
+- [ ] D) EVM can get the code hash only of the current account
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -224,13 +224,13 @@ B,C,D
 
 ___
 #### Q16 Which of the following information cannot be obtained in the EVM?
-A. Block difficulty
+- [ ] A) Block difficulty
 
-B. Transaction logs
+- [ ] B) Transaction logs
 
-C. Balance of an account
+- [ ] C) Balance of an account
 
-D. Block hash of any block
+- [ ] D) Block hash of any block
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -239,13 +239,13 @@ B,D
 
 ___
 #### Q17 Which call instruction could be used to allow modifying the caller account’s state?
-A. CALL
+- [ ] A) CALL
 
-B. CALLCODE
+- [ ] B) CALLCODE
 
-C. DELEGATECALL
+- [ ] C) DELEGATECALL
 
-D. STATICALL
+- [ ] D) STATICALL
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -254,13 +254,13 @@ B, C
 
 ___
 #### Q18 The most gas-expensive operation is
-A. SLOAD
+- [ ] A) SLOAD
 
-B. SSTORE
+- [ ] B) SSTORE
 
-C. CREATE
+- [ ] C) CREATE
 
-D. SELFDESTRUCT
+- [ ] D) SELFDESTRUCT
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -269,13 +269,13 @@ C
 
 ___
 #### Q19 Transaction T1 attempts to write to storage values S1 and S2 of contract C. Transaction 2attempts to read the same storage values S1 and S2. However, T1 reverts due an exception fterwriting S1 but before writing S2. Which of the following is/are true?
-A. T2 reads the value of S1 updated by T1
+- [ ] A) T2 reads the value of S1 updated by T1
 
-B. T2 reads the value of S1 prior to T1’s attempted update
+- [ ] B) T2 reads the value of S1 prior to T1’s attempted update
 
-C. T2 also reverts because of the dependency on T1
+- [ ] C) T2 also reverts because of the dependency on T1
 
-D. This scenario is not possible
+- [ ] D) This scenario is not possible
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -284,13 +284,13 @@ B
 
 ___
 #### Q20 Ethereum’s threat model is characterised by
-A. Trusted miners and users
+- [ ] A) Trusted miners and users
 
-B. Trusted users, untrusted miners
+- [ ] B) Trusted users, untrusted miners
 
-C. Trusted miners, untrusted users
+- [ ] C) Trusted miners, untrusted users
 
-D. Everyone is untrusted
+- [ ] D) Everyone is untrusted
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -299,13 +299,13 @@ D
 
 ___
 #### Q21 The number of modified Merkle-Patricia trees in an Ethereum block is
-A. One
+- [ ] A) One
 
-B. Three
+- [ ] B) Three
 
-C. Three plus number of contract accounts
+- [ ] C) Three plus number of contract accounts
 
-D. Three plus number of transactions included in the block
+- [ ] D) Three plus number of transactions included in the block
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -314,13 +314,13 @@ C
 
 ___
 #### Q22 EVM is not a von Neumann architecture because
-A. It was co-founded by Vitalik Buterin, not John von Neumann
+- [ ] A) It was co-founded by Vitalik Buterin, not John von Neumann
 
-B. Program instructions are stored separately from data
+- [ ] B) Program instructions are stored separately from data
 
-C. Program instructions are stored in a ROM not RAM
+- [ ] C) Program instructions are stored in a ROM not RAM
 
-D. It is quasi Turing complete
+- [ ] D) It is quasi Turing complete
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -329,13 +329,13 @@ B
 
 ___
 #### Q23 EVM stores
-A. Most significant byte in the smallest memory address
+- [ ] A) Most significant byte in the smallest memory address
 
-B. Most significant byte in the largest memory address
+- [ ] B) Most significant byte in the largest memory address
 
-C. In Big-endian order
+- [ ] C) In Big-endian order
 
-D. In Little-endian order
+- [ ] D) In Little-endian order
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -344,13 +344,13 @@ A,C
 
 ___
 #### Q24 Miners are incentivized to validate and create new blocks by
-A. Block rewards
+- [ ] A) Block rewards
 
-B. Altruism
+- [ ] B) Altruism
 
-C. Transaction fees
+- [ ] C) Transaction fees
 
-D. Their belief in decentralization
+- [ ] D) Their belief in decentralization
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -359,13 +359,13 @@ A, C
 
 ___
 #### Q25 Hardfork on Ethereum
-A. Has never happened
+- [ ] A) Has never happened
 
-B. Happened only once after the DAO attack
+- [ ] B) Happened only once after the DAO attack
 
-C. Happens with backwards-incompatible protocol changes
+- [ ] C) Happens with backwards-incompatible protocol changes
 
-D. Happens when developers and miners disagree on changes
+- [ ] D) Happens when developers and miners disagree on changes
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -374,13 +374,13 @@ C
 
 ___
 #### Q26 Gas for EVM opcodes
-A. Is constant and the same for all opcodes
+- [ ] A) Is constant and the same for all opcodes
 
-B. May be changed over time to prevent DoS attacks
+- [ ] B) May be changed over time to prevent DoS attacks
 
-C. Depend on the gas price
+- [ ] C) Depend on the gas price
 
-D. Depend on the miners
+- [ ] D) Depend on the miners
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -389,13 +389,13 @@ B
 
 ___
 #### Q27 Smart contracts on Ethereum
-A. May be deployed by anyone
+- [ ] A) May be deployed by anyone
 
-B. May be deployed only through the DApp store
+- [ ] B) May be deployed only through the DApp store
 
-C. May have some form of access control
+- [ ] C) May have some form of access control
 
-D. Are guaranteed to be secure
+- [ ] D) Are guaranteed to be secure
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -404,13 +404,13 @@ A,C
 
 ___
 #### Q28 EVM opcodes
-A. Are multi-byte instructions
+- [ ] A) Are multi-byte instructions
 
-B. Are single byte instructions
+- [ ] B) Are single byte instructions
 
-C. Take operands in registers
+- [ ] C) Take operands in registers
 
-D. Take operands on stack
+- [ ] D) Take operands on stack
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -419,13 +419,13 @@ B,D
 
 ___
 #### Q29 Security of Ethereum DApps depend on
-A. Security of their smart contracts
+- [ ] A) Security of their smart contracts
 
-B. Security of their off-chain components
+- [ ] B) Security of their off-chain components
 
-C. Security of Ethereum
+- [ ] C) Security of Ethereum
 
-D. None of the above
+- [ ] D) None of the above
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -434,13 +434,13 @@ A,B,C
 
 ___
 #### Q30 Security Audits for smart contracts are performed because
-A. They are required for listing DApp on the DApp store
+- [ ] A) They are required for listing DApp on the DApp store
 
-B. They are required for deployment on Ethereum
+- [ ] B) They are required for deployment on Ethereum
 
-C. They help remove vulnerabilities and reduce risk
+- [ ] C) They help remove vulnerabilities and reduce risk
 
-D. They are required by exchanges to list tokens
+- [ ] D) They are required by exchanges to list tokens
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -449,13 +449,13 @@ C
 
 ___
 #### Q31 The high-level languages typically used for writing Ethereum smart contracts are
-A. Go
+- [ ] A) Go
 
-B. C++
+- [ ] B) C++
 
-C. Vyper
+- [ ] C) Vyper
 
-D. Solidity
+- [ ] D) Solidity
 
 <details>
 	<summary>Click the reveal the answer</summary>
@@ -464,13 +464,13 @@ C,D
 
 ___
 #### Q32 The number of decimals in Ether is
-A. 0
+- [ ] A) 0
 
-B. 1
+- [ ] B) 1
 
-C. 18
+- [ ] C) 18
 
-D. Configurable
+- [ ] D) Configurable
 
 <details>
 	<summary>Click the reveal the answer</summary>

@@ -1,5 +1,5 @@
 # 35 - [Boolean equality](Boolean%20equality.md)
-Boolean variables can be checked within conditionals directly without the use of equality operators to _true_/_false_. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#boolean-equality))
+Boolean variables can be checked within conditionals directly without the use of equality operators to `true`/`false`. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#boolean-equality))
 
 ___
 ## Slide Screenshot

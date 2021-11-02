@@ -1,5 +1,5 @@
 # 17 - [Weak PRNG](Weak%20PRNG.md)
-PRNG relying on _block.timestamp_, _now_ or _blockhash_ can be influenced by miners to some extent and should be avoided. (see [here](https://swcregistry.io/docs/SWC-120))
+PRNG relying on `block.timestamp`, `now` or `blockhash` can be influenced by miners to some extent and should be avoided. (see [here](https://swcregistry.io/docs/SWC-120))
 
 ___
 ## Slide Screenshot

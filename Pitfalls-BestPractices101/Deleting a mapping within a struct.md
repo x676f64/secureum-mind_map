@@ -1,5 +1,5 @@
 # 32 - [Deleting a mapping within a struct](Deleting%20a%20mapping%20within%20a%20struct.md)
-Deleting a _struct_ that contains a _mapping_ will not delete the _mapping_ contents which may lead to unintended consequences. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#deletion-on-mapping-containing-a-structure))
+Deleting a `struct` that contains a `mapping` will not delete the `mapping` contents which may lead to unintended consequences. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#deletion-on-mapping-containing-a-structure))
 
 ___
 ## Slide Screenshot

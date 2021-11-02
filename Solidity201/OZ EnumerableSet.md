@@ -1,11 +1,13 @@
 # 179 - [OZ EnumerableSet](OZ%20EnumerableSet.md)
-OpenZeppelin EnumerableSet: Library for managing sets of primitive types. Sets have the following properties: 1) Elements are added, removed, and checked for existence in constant time (O(1)) 2) Elements are enumerated in O(n). No guarantees are made on the ordering. As of v3.3.0, sets of type bytes32 (Bytes32Set), address (AddressSet) and uint256 (UintSet) are supported.
+OpenZeppelin EnumerableSet: Library for managing sets of primitive types. Sets have the following properties: 
+1. Elements are added, removed, and checked for existence in constant time (`O(1)`) 
+2. Elements are enumerated in `O(n)`. No guarantees are made on the ordering. As of v3.3.0, sets of type `bytes32` (`Bytes32Set`), `address` (`AddressSet`) and `uint256` (`UintSet`) are supported.
 
-1.  `add(struct EnumerableSet.Bytes32Set set, bytes32 value)` → `bool`: Add a value to a set. Returns true if the value was added to the set, that is if it was not already present.
+1.  `add(struct EnumerableSet.Bytes32Set set, bytes32 value)` → `bool`: Add a value to a set. Returns `true` if the value was added to the set, that is if it was not already present.
     
-2.  `remove(struct EnumerableSet.Bytes32Set set, bytes32 value)` → `bool`: Removes a value from a set. Returns true if the value was removed from the set, that is if it was present.
+2.  `remove(struct EnumerableSet.Bytes32Set set, bytes32 value)` → `bool`: Removes a value from a set. Returns `true` if the value was removed from the set, that is if it was present.
     
-3.  `contains(struct EnumerableSet.Bytes32Set set, bytes32 value)` → `bool`: Returns true if the value is in the set.
+3.  `contains(struct EnumerableSet.Bytes32Set set, bytes32 value)` → `bool`: Returns `true` if the value is in the set.
     
 4.  `length(struct EnumerableSet.Bytes32Set set)` → `uint256`: Returns the number of values in the set.
     

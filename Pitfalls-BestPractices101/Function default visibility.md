@@ -1,5 +1,5 @@
 # 54 - [Function default visibility](Function%20default%20visibility.md)
-Functions without a visibility type specifier are _public_ by default in _solc < 0.5.0_. This can lead to a vulnerability where a malicious user may make unauthorized state changes. _solc >= 0.5.0_ requires explicit function visibility specifiers. (see [here](https://swcregistry.io/docs/SWC-100))
+Functions without a visibility type specifier are `public` by default in `solc < 0.5.0`. This can lead to a vulnerability where a malicious user may make unauthorized state changes. `solc >= 0.5.0` requires explicit function visibility specifiers. (see [here](https://swcregistry.io/docs/SWC-100))
 
 ___
 ## Slide Screenshot

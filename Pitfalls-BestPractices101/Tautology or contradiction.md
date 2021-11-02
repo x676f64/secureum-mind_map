@@ -1,5 +1,5 @@
 # 33 - [Tautology or contradiction](Tautology%20or%20contradiction.md)
-Tautologies (always true) or contradictions (always false) indicate potential flawed logic or redundant checks. e.g. _x >= 0_ which is always true if _x_ is _uint_. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#tautology-or-contradiction))
+Tautologies (always true) or contradictions (always false) indicate potential flawed logic or redundant checks. e.g. `x >= 0` which is always true if `x` is `uint`. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#tautology-or-contradiction))
 
 ___
 ## Slide Screenshot

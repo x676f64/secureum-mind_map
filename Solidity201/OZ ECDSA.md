@@ -1,7 +1,7 @@
 # 166 - [OZ ECDSA](OZ%20ECDSA.md)
 OpenZeppelin ECDSA: provides functions for recovering and managing Ethereum account ECDSA signatures. 
 
-These are often generated via `web3.eth.sign`, and are a 65 byte array (of type bytes in Solidity) arranged the following way: `[[v (1)], [r (32)], [s (32)]]`. 
+These are often generated via `web3.eth.sign`, and are a 65 byte array (of type `bytes` in Solidity) arranged the following way: `[v (1), r (32), s (32)]`. 
 
 The data signer can be recovered with `ECDSA.recover`, and its address compared to verify the signature.
 

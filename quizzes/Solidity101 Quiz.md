@@ -1,0 +1,511 @@
+#### Q1 Solidity language is
+
+- [ ] A) Statically typed
+
+- [ ] B) Object-oriented
+
+- [ ] C) Supports inheritance
+
+- [ ] D) Supports inline assembly
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C,D
+</details>
+
+
+____
+#### Q2 Which of the following is/are correct?
+
+- [ ] A) A Solidity file with pragma solidity ^0.6.5; can be compiled with compiler version 0.6.6
+
+- [ ] B) A Solidity file with pragma solidity 0.6.5; can only be compiled with compiler version 0.6.5
+
+- [ ] C) A Solidity file with pragma solidity ^0.6.5; can be compiled with compiler version 0.7.0
+
+- [ ] D) A Solidity file with pragma solidity >0.6.5 <0.7.0; can be compiled with compiler version 0.7.0
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B
+</details>
+
+___
+#### Q3 Which of the following is/are true?
+
+- [ ] A) Constant state variables can be initialized within a constructor
+
+- [ ] B) Immutable state variables are allocated a storage slot
+
+- [ ] C) Gas costs for constant and immutable variables is lower
+
+- [ ] D) Only value types can be immutable
+
+<details>
+	<summary>Click the reveal the answer</summary>
+C,D
+</details>
+
+___
+#### Q4 Solidity functions
+
+- [ ] A) Can be declared only inside contracts
+
+- [ ] B) Can have named return variables
+
+- [ ] C) Can have unnamed parameters
+
+- [ ] D) Can be recursive
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B,C,D
+</details>
+
+___
+#### Q5 Function visibility
+
+- [ ] A) Goes from private-internal-external-public in decreasing restrictive order (i.e. private being the most restrictive)
+
+- [ ] B) Goes from internal-private-external-public in decreasing restrictive order (i.e. internal being the most restrictive)
+
+- [ ] C) May be omitted to default to internal in the latest 0.8.0+ compiler versions
+
+- [ ] D) None of the above
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A
+</details>
+
+___
+#### Q6 Function foo() uses block.number. Which of the following is/are always true about foo()?
+
+- [ ] A) It should be marked as pure
+
+- [ ] B) It should be marked as view
+
+- [ ] C) It should be marked as payable
+
+- [ ] D) Cannot determine mutability based only on this information
+
+<details>
+	<summary>Click the reveal the answer</summary>
+D
+</details>
+
+___
+#### Q7 Which of the following is/are true above events?
+
+- [ ] A) Events are meant for off-chain applications
+
+- [ ] B) Events can be accessed only by the emitting contract
+
+- [ ] C) Indexing event parameters creates searchable topics
+
+- [ ] D) A maximum of three events can have indexed parameters
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,C
+</details>
+
+___
+#### Q8 A contract can receive Ether via
+
+- [ ] A) msg.value to payable functions
+
+- [ ] B) selfdestruct destination
+
+- [ ] C) coinbase transaction
+
+- [ ] D) receive() or fallback() functions
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C,D
+</details>
+
+___
+#### Q9 receive() and fallback() functions
+
+- [ ] A) Can rely only on 2300 gas in the worst case
+
+- [ ] B) May receive Ether with payable mutability
+
+- [ ] C) Are mandatory for all contracts
+
+- [ ] D) Must have external visibility
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,D
+</details>
+
+___
+#### Q10 Which of the below are value types?
+
+- [ ] A) Address
+
+- [ ] B) Enum
+
+- [ ] C) Struct
+
+- [ ] D) Contract
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,D
+</details>
+
+___
+#### Q11 The default value of
+
+- [ ] A) Bool is false
+
+- [ ] B) Address is 0
+
+- [ ] C) Statically-sized array depends on the underlying type
+
+- [ ] D) Enum is its first member
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C,D
+</details>
+
+___
+#### Q12 Address types
+
+- [ ] A) Can always receive Ether
+
+- [ ] B) Have members for balance, call, code
+
+- [ ] C) Can be converted to uint160 or contract types
+
+- [ ] D) Can be added and subtracted
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B,C
+</details>
+
+___
+#### Q13 transfer and send primitives
+
+- [ ] A) Are used for Ether transfers
+
+- [ ] B) Trigger the receive() or fallback() functions of address
+
+- [ ] C) Always return a value to be checked
+
+- [ ] D) Provide only 2300 gas
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,D
+</details>
+
+___
+#### Q14 Which of the following is/are true for call/delegatecall/staticcall primitives?
+
+- [ ] A) They are used to call contracts
+
+- [ ] B) They only revert without returning success/failure
+
+- [ ] C) Delegatecall retains the msg.sender and msg.value of caller contract
+
+- [ ] D) Staticcall reverts if the called contract reads contract state of caller
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,C
+</details>
+
+___
+#### Q15 If we have an array then its data location can be
+
+- [ ] A) memory and its persistence/scope will be the function of declaration
+
+- [ ] B) storage and its persistence/scope will be the entire contract
+
+- [ ] C) calldata and it will only be readable
+
+- [ ] D) None of the above
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C
+</details>
+
+___
+#### Q16 The impact of data location of reference types on assignments is
+
+- [ ] A) storage assigned to storage (local variable) makes a copy
+
+- [ ] B) memory assigned to memory makes a copy
+
+- [ ] C) memory assigned to storage creates a reference
+
+- [ ] D) None of the above
+
+<details>
+	<summary>Click the reveal the answer</summary>
+D
+</details>
+
+___
+#### Q17 Which of the following is/are valid control structure(s) in Solidity (excluding YUL)?
+
+- [ ] A) if
+
+- [ ] B) else
+
+- [ ] C) elif
+
+- [ ] D) switch
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B
+</details>
+
+___
+#### Q18 The gas left in the current transaction can be obtained with
+
+- [ ] A) tx.gas()
+
+- [ ] B) gasleft()
+
+- [ ] C) msg.gas()
+
+- [ ] D) block.gaslimit()
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B
+</details>
+
+___
+#### Q19 Which of the following is/are valid function specifier(s)?
+
+- [ ] A) internal
+
+- [ ] B) pure
+
+- [ ] C) payable
+
+- [ ] D) immutable
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C
+</details>
+
+___
+#### Q20 Integer overflows/underflows in Solidity
+
+- [ ] A) Are never possible because of the language design
+
+- [ ] B) Are possible but prevented by compiler added checks (version dependent)
+
+- [ ] C) Are possible but prevented by correctly using certain safe math libraries
+
+- [ ] D) Are possible without any mitigation whatsoever
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B,C
+</details>
+
+___
+#### Q21 Arrays in Solidity
+
+- [ ] A) Can be fixed size or dynamic
+
+- [ ] B) Are zero indexed
+
+- [ ] C) Have push, pop and length members
+
+- [ ] D) None of the above
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C
+</details>
+
+___
+#### Q22 Structs in Solidity
+
+- [ ] A) Are user-defined type
+
+- [ ] B) Are reference types
+
+- [ ] C) Can contain or be contained in arrays and mappings
+
+- [ ] D) None of the above
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C
+</details>
+
+___
+#### Q23 Which of the following is true about mapping types in mapping(_KeyType => _ValueType)?
+
+- [ ] A) _KeyType can be any value or reference type
+
+- [ ] B) _ValueType can be any value or reference type
+
+- [ ] C) Can only have storage (not memory) as data location
+
+- [ ] D) Can be iterated over natively (i.e. without implementing another data structure)
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B,C
+</details>
+
+___
+#### Q24 if a = 1 then which of the following is/are true?
+
+- [ ] A) a += 1 makes the value of a = 2
+
+- [ ] B) b = ++a makes the value of b = 1
+
+- [ ] C) a -= 1 makes the value of a = 1
+
+- [ ] D) b = a-- makes the value of b = 1
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,D
+</details>
+
+___
+#### Q25 delete varName; has which of the following effects?
+
+- [ ] A) varName becomes 0 if varName is an integer
+
+- [ ] B) varName becomes true if varName is a boolean
+
+- [ ] C) No effect if varName is a mapping
+
+- [ ] D) Resets all struct members to their default values irrespective of their types
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,C
+</details>
+
+___
+#### Q26 Conversions in Solidity have the following behavior
+
+- [ ] A) Implicit conversions are never allowed
+
+- [ ] B) Explicit conversion of uint16 to uint8 removes higher-order bits
+
+- [ ] C) Explicit conversion of uint16 to uint32 adds lower-order padding
+
+- [ ] D) Explicit conversions are checked by compiler for safety
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B
+</details>
+
+___
+#### Q27 If the previous block number was 1000 on Ethereum mainnet, which of the following is/are true?
+
+- [ ] A) block.number is 1001
+
+- [ ] B) blockhash(1) returns 0
+
+- [ ] C) block.chainID returns 1
+
+- [ ] D) block.timestamp returns the number of seconds since last block
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,B,C
+</details>
+
+___
+#### Q28 User from EOA A calls Contract C1 which makes an external call (CALL opcode) to Contract C2. Which of the following is/are true?
+
+- [ ] A) tx.origin in C2 returns A’s address
+
+- [ ] B) msg.sender in C2 returns A’s address
+
+- [ ] C) msg.sender in C1 returns A’s address
+
+- [ ] D) msg.value in C2 returns amount of Wei sent from A
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,C
+</details>
+
+___
+#### Q29 For error handling
+
+- [ ] A) require() is meant to be used for input validation
+
+- [ ] B) require() has a mandatory error message string
+
+- [ ] C) assert() is meant to be used to check invariants
+
+- [ ] D) revert() will abort and revert state changes
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,C,D
+</details>
+
+___
+#### Q30 The following is/are true about ecrecover primitive
+
+- [ ] A) Takes a message hash and ECDSA signature values as inputs
+
+- [ ] B) Recovers and returns the public key of the signature
+
+- [ ] C) Is susceptible to malleable signatures
+
+- [ ] D) None of the above
+
+<details>
+	<summary>Click the reveal the answer</summary>
+A,C
+</details>
+
+___
+#### Q31 When Contract A attempts to make a delegatecall to Contract B but a prior transaction to Contract B has executed a selfdestruct
+
+- [ ] A) The delegatecall reverts
+
+- [ ] B) The delegatecall returns a failure
+
+- [ ] C) The delegatecall returns a success
+
+- [ ] D) This scenario is not practically possible
+
+<details>
+	<summary>Click the reveal the answer</summary>
+C
+</details>
+
+___
+#### Q32 In Solidity, selfdestruct(address)
+
+- [ ] A) Destroys the contract whose address is given as argument
+
+- [ ] B) Destroys the contract executing the selfdestruct
+
+- [ ] C) Sends address’s balance to the calling contract
+
+- [ ] D) Sends executing contract’s balance to the address
+
+<details>
+	<summary>Click the reveal the answer</summary>
+B,D
+</details>

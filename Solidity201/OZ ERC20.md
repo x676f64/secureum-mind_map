@@ -29,20 +29,20 @@ OpenZeppelin ERC20: Implements the popular ERC20 token standard. The functions a
 
 The different extensions/presets are:
 
-1.  OpenZeppelin ERC20Burnable: Extension of ERC20 that allows token holders to destroy both their own tokens and those that they have an allowance for, in a way that can be recognized off-chain (via event analysis).
+1.  [OpenZeppelin ERC20Burnable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC20Burnable.sol): Extension of ERC20 that allows token holders to destroy both their own tokens and those that they have an allowance for, in a way that can be recognized off-chain (via event analysis).
     
-2.  OpenZeppelin ERC20Capped: Extension of ERC20 that adds a cap to the supply of tokens and enforces it in the mint function.
+2.  [OpenZeppelin ERC20Capped](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC20Capped.sol): Extension of ERC20 that adds a cap to the supply of tokens and enforces it in the mint function.
     
-3.  OpenZeppelin ERC20Pausable: ERC20 token with pausable token transfers, minting and burning. Useful for scenarios such as preventing trades until the end of an evaluation period, or having an emergency switch for freezing all token transfers in the event of a large bug. The `_beforeTokenTransfer()` internal function enforces the not paused condition. 
+3.  [OpenZeppelin ERC20Pausable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC20Pausable.sol): ERC20 token with pausable token transfers, minting and burning. Useful for scenarios such as preventing trades until the end of an evaluation period, or having an emergency switch for freezing all token transfers in the event of a large bug. The `_beforeTokenTransfer()` internal function enforces the not paused condition. 
     
-4.  OpenZeppelin ERC20Snapshot: This contract extends an ERC20 token with a snapshot mechanism. When a snapshot is created, the balances and total supply at the time are recorded for later access. This can be used to safely create mechanisms based on token balances such as trustless dividends or weighted voting. Snapshots are created by the internal `_snapshot` function, which will emit the Snapshot event and return a snapshot id. To get the total supply at the time of a snapshot, call the function `totalSupplyAt` with the snapshot id. To get the balance of an account at the time of a snapshot, call the `balanceOfAt` function with the snapshot id and the account address.
+4.  [OpenZeppelin ERC20Snapshot](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/extensions/ERC20Snapshot.sol): This contract extends an ERC20 token with a snapshot mechanism. When a snapshot is created, the balances and total supply at the time are recorded for later access. This can be used to safely create mechanisms based on token balances such as trustless dividends or weighted voting. Snapshots are created by the internal `_snapshot` function, which will emit the Snapshot event and return a snapshot id. To get the total supply at the time of a snapshot, call the function `totalSupplyAt` with the snapshot id. To get the balance of an account at the time of a snapshot, call the `balanceOfAt` function with the snapshot id and the account address.
     
-5.  OpenZeppelin ERC20PresetFixedSupply: ERC20 token, including: 
+5.  [OpenZeppelin ERC20PresetFixedSupply](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol): ERC20 token, including: 
 	1.  Preminted initial supply 
 	2.  Ability for holders to burn (destroy) their tokens 
 	3.  No access control mechanism (for minting/pausing) and hence no governance. This contract uses `ERC20Burnable` contract to include burn capabilities
     
-6.  OpenZeppelin ERC20PresetMinterPauser: ERC20 token, including: 
+6.  [OpenZeppelin ERC20PresetMinterPauser](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol): ERC20 token, including: 
 	1. Ability for holders to burn (destroy) their tokens 
 	2. A minter role that allows for token minting (creation)
 	3. A pauser role that allows to stop all token transfers. This contract uses `AccessControl` contract to lock permissioned functions using the different roles. The account that deploys the contract will be granted the minter and pauser roles, as well as the default admin role, which will let it grant both minter and pauser roles to other accounts.
@@ -58,5 +58,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/C0zBhTgppLQ?t=1024)
+- [Github: Open Zeppelin - ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol)
 ___
 ## Tags

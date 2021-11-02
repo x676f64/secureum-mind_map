@@ -1,5 +1,5 @@
 # 126 - [Memory Layout](Memory%20Layout.md)
-Solidity places new memory objects at the free memory pointer and memory is never freed. 
+[Solidity](../Solidity101/Solidity.md) places new memory objects at the free memory pointer and memory is never freed. 
 
 The free memory pointer points to `0x80` initially.
 

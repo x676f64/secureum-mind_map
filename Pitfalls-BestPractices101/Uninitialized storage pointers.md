@@ -1,5 +1,5 @@
 # 68 - [Uninitialized storage pointers](Uninitialized%20storage%20pointers.md)
-Uninitialized local storage variables can point to unexpected storage locations in the contract, which can lead to vulnerabilities. _Solc 0.5.0_ and above disallow such pointers. (see [here](https://swcregistry.io/docs/SWC-109))
+Uninitialized local storage variables can point to unexpected storage locations in the contract, which can lead to vulnerabilities. `Solc 0.5.0` and above disallow such pointers. (see [here](https://swcregistry.io/docs/SWC-109))
 
 ___
 ## Slide Screenshot

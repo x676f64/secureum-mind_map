@@ -1,5 +1,5 @@
 # 29 - [Locked Ether](Locked%20Ether.md)
-Contracts that accept Ether via _payable_ functions but without withdrawal mechanisms will lock up that Ether. Remove _payable_ attribute or add withdraw function. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#contracts-that-lock-ether))
+Contracts that accept Ether via `payable` functions but without withdrawal mechanisms will lock up that Ether. Remove `payable` attribute or add withdraw function. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#contracts-that-lock-ether))
 
 ___
 ## Slide Screenshot

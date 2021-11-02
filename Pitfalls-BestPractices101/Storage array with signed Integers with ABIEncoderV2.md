@@ -1,5 +1,5 @@
 # 77 - [Storage array with signed Integers with ABIEncoderV2](Storage%20array%20with%20signed%20Integers%20with%20ABIEncoderV2.md)
-Assigning an array of signed integers to a storage array of different type can lead to data corruption in that array. This is due to a compiler bug introduced in _v0.4.7_ and fixed in _v0.5.10_. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
+Assigning an array of signed integers to a storage array of different type can lead to data corruption in that array. This is due to a compiler bug introduced in `v0.4.7` and fixed in `v0.5.10`. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
 
 ___
 ## Slide Screenshot
