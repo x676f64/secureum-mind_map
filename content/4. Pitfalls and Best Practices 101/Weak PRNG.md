@@ -12,10 +12,11 @@ ___
 - blockhash
 - High Stakes
 - Miner Influence
-- Rick Awareness
+- Risk Awareness
 - Alternatives: VRF
 ___
 ## References
 - [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1546)
+- [VRF - Chainlink](https://docs.chain.link/docs/chainlink-vrf/)
 ___
 ## Tags
