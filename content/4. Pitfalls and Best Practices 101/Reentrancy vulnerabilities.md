@@ -15,5 +15,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1102)
+- [CEI - Checks Effects Interactions](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
 ___
 ## Tags
