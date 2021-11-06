@@ -10,7 +10,7 @@ ___
 - Specification -> Boolean Return Value
 - No Return Value -> Revert
 	- solc `>= 0.4.22`
-- [OZ SafeERC20](../Solidity%20201/OZ%20SafeERC20.md) Wrappers
+- [OZ SafeERC20](../3.%20Solidity%20201/OZ%20SafeERC20.md) Wrappers
 ___
 ## References
 - [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=369)

@@ -17,5 +17,5 @@ ___
 ___
 ## Tags
 [Contract Type Cont.](Contract%20Type%20Cont..md), 
-[Contract Types](../Solidity%20201/Contract%20Types.md)
+[Contract Types](../3.%20Solidity%20201/Contract%20Types.md)
 

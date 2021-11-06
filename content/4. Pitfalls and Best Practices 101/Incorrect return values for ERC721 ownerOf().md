@@ -10,7 +10,7 @@ ___
 - Specification -> Address Return Value
 - Bool Return Value -> Revert
 	- solc `>=0.4.22`
-- [OZ ERC721](../Solidity%20201/OZ%20ERC721.md) Contract
+- [OZ ERC721](../3.%20Solidity%20201/OZ%20ERC721.md) Contract
 ___
 ## References
 - [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=426)

@@ -1,5 +1,5 @@
 # 83 - [Contract Type Continued](Contract%20Type%20Cont..md)
-Every contract defines its own type. Contracts can be explicitly converted to and from the `address` type. [Contract types](../Solidity%20201/Contract%20Types.md) do not support any operators. The members of contract types are the `external` functions of the contract including any state variables marked as public.
+Every contract defines its own type. Contracts can be explicitly converted to and from the `address` type. [Contract types](../3.%20Solidity%20201/Contract%20Types.md) do not support any operators. The members of contract types are the `external` functions of the contract including any state variables marked as public.
 
 ___
 ## Slide Screenshot

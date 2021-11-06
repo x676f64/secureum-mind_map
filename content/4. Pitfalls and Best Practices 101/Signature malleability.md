@@ -12,7 +12,7 @@ ___
 - Sig -> (v, r, s)
 - Checks s -> Lower Range
 - Replay Attacks
-- Use [OZ ECDSA](../Solidity%20201/OZ%20ECDSA.md)
+- Use [OZ ECDSA](../3.%20Solidity%20201/OZ%20ECDSA.md)
 ___
 ## References
 - [Youtube Reference](https://youtu.be/fgXuHaZDenU?t=260)

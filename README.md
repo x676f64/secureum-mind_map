@@ -13,13 +13,10 @@ The impetus for this project was self-edification as well as providing better ac
 If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
 ![example.png](./images/example.png)
-### Mindmap Content
-These pages do not load on Git but when they are loaded in Obsidian, They will all appear in-line making it easy to scroll through them in order.
-1. [Ethereum101](1.Ethereum101.md)
-2. [Solidity101](2.Solidity101.md)
+
 ___
 ___
-# ***Week 1*** - [Ethereum101](1.Ethereum101.md)
+# ***Week 1*** - [Ethereum101](1.%20Ethereum%20101.md)
 ___
 ### Blog Article
 #### [Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
@@ -39,13 +36,13 @@ ___
 5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
 ___
 ### Quiz
-- [Week 1 quiz](quizzes/Ethereum101%20Quiz.md)
+- [Week 1 quiz](quizzes/1.%20Ethereum101%20Quiz.md)
   
 ### Quiz Writeups
 - [https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz](https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz)
 ___
 ___
-# ***Week 2*** - [Solidity101](2.Solidity101.md)
+# ***Week 2*** - [Solidity101](2.%20Solidity%20101.md)
 ### Blog Article
 #### [Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
 ___
@@ -64,7 +61,7 @@ ___
 5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 ___
 ___
-## Week 3 - [Solidity201](3.Solidity201.md)
+## Week 3 - [Solidity201](3.%20Solidity%20201.md)
 ___
 ### Blog
 #### [Article on "Solidity 201"](https://secureum.substack.com/p/solidity-201)
@@ -88,7 +85,7 @@ ___
 ### Quiz Writeups
 ___
 ___
-## Week 4 - [Security Pitfalls & Best Practices 101](4.Pitfalls-BestPractices)
+## Week 4 - [4. Pitfalls and Best Practices 101](4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 ### Blog
 #### [Article on "Security Pitfalls & Best Practices 101"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 ### Youtube Videos
@@ -112,19 +109,24 @@ ___
 - 
 ___
 ___
-## Week 5
+## Week 5 - [5. Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 ___
 ### Blog
-- 
+#### [Article on "Security Pitfalls & Best Practices 201"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
 ___
 ### Youtube Videos
-1.  [Block 1]()
-2.  [Block 2]()
-3.  [Block 3]()
-4.  [Block 4]()
-5.  [Block 5]()
+1.  [Block 1](https://youtu.be/WGM1SF8twmw)
+2.  [Block 2](https://youtu.be/HqHo1jKUnmU)
+3.  [Block 3](https://youtu.be/pXoEIjHupXk)
+4.  [Block 4](https://youtu.be/IVbEIbIpWUY)
+5.  [Block 5](https://youtu.be/QSsfkmcdbPw)
 ___
 ### Assignment
+1. Read [https://samczsun.com/so-you-want-to-use-a-price-oracle/](https://samczsun.com/so-you-want-to-use-a-price-oracle/ "https://samczsun.com/so-you-want-to-use-a-price-oracle/") and [https://samczsun.com/the-dangers-of-surprising-code/](https://samczsun.com/the-dangers-of-surprising-code/ "https://samczsun.com/the-dangers-of-surprising-code/") 
+2. Watch “Security By Design & Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: [https://www.youtube.com/watch?v=gfD1KBtLWZI](https://www.youtube.com/watch?v=gfD1KBtLWZI "https://www.youtube.com/watch?v=gfD1KBtLWZI") 
+3. Watch “How to Build Secure Smart Contracts” by Josselin Feist (@Josselin Feist - Trail of Bits), Trail of Bits: [https://www.youtube.com/watch?v=yP01yH4plT8](https://www.youtube.com/watch?v=yP01yH4plT8 "https://www.youtube.com/watch?v=yP01yH4plT8")
+4. Watch “White Hat Panel: DeFi Exploits”: [https://www.youtube.com/watch?v=Df2zzfoTfMc](https://www.youtube.com/watch?v=Df2zzfoTfMc "https://www.youtube.com/watch?v=Df2zzfoTfMc") 
+5. Attempt CTF: [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/ "https://www.damnvulnerabledefi.xyz/")
 ___
 ### Quiz
 ___
