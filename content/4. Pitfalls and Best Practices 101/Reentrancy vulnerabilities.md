@@ -8,7 +8,7 @@ ___
 ## Slide Text
 - External Contract Calls -> Reentrancy
 - Contract Callbacks 
-	- C1 -> C2 -> C3
+	- C1 -> C2 -> C1
 - Multiple Withdrawals -> 000 Events
 - CEI Patterns
 - Reentrancy Guards
