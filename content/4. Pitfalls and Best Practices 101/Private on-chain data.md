@@ -14,5 +14,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/OOzyoaYIw2k?t=1466)
+- [Private Visibility](https://docs.soliditylang.org/en/v0.8.9/contracts.html#visibility-and-getters)
 ___
 ## Tags
