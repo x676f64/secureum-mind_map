@@ -6,9 +6,13 @@ ___
 ![070.png](../../images/pitfalls_and_best_practices101/070.png)
 ___
 ## Slide Text
-- 
+- Long Number Literals
+- Too Many Digits -> Error-prone
+- E.g.: `uint 1_ether = 10000000000000000000` 
+- Use Ether/Time Suffix
+- Use Scientifice Notation
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=479)
 ___
 ## Tags

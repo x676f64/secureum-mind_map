@@ -5,9 +5,15 @@ ___
 ![090.png](../../images/pitfalls_and_best_practices101/090.png)
 ___
 ## Slide Text
-- 
+- Dynamic Arrays Cleanup
+- Dynamic Arrays
+- Types <= 16 Bytes
+- Assigned Array Shrinks
+- Deleted Slots -> Not Cleaned
+- Compiler Bug 
+- Fixed -> 0.7.3
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=404)
 ___
 ## Tags

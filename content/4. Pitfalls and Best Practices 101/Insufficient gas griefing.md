@@ -6,9 +6,13 @@ ___
 ![057.png](../../images/pitfalls_and_best_practices101/057.png)
 ___
 ## Slide Text
-- 
+- Transaction Relayers
+- Users -> Forward Txs -> Blockchain
+- Tx -> Sufficient Gas
+- Tx Success/Fail
+- Trust in Relayers
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1515)
 ___
 ## Tags

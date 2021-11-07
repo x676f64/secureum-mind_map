@@ -5,9 +5,15 @@ ___
 ![088.png](../../images/pitfalls_and_best_practices101/088.png)
 ___
 ## Slide Text
-- 
+- Private Functions Base -> Derived
+- Not Visible -> Derived
+- Function -> Same Name/Type
+- Base Private Function
+- Change Behavior
+- Compiler Bug -> Fixed
+- `solc 0.3.0` -> 0.5.17
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=265)
 ___
 ## Tags

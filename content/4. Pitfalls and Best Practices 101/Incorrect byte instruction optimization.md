@@ -5,7 +5,11 @@ ___
 ![086.png](../../images/pitfalls_and_best_practices101/086.png)
 ___
 ## Slide Text
-- 
+- byte Opcodes Second Arg = 31
+- Optimizer `bytesNN Index` or `byte`
+- Unexpected Value
+- Compiler Bug -> Fixed
+- `solc 0.5.5` -> 0.5.7
 ___
 ## References
 - Youtube Reference

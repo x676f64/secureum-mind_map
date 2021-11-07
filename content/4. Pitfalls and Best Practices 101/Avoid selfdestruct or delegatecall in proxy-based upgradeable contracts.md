@@ -5,9 +5,12 @@ ___
 ![098.png](../../images/pitfalls_and_best_practices101/098.png)
 ___
 ## Slide Text
-- 
+- seldestruct()
+- delegatecall()
+- Proxy-based Contracts
+- Data Proxy -> Logic Impl.
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=1052)
 ___
 ## Tags

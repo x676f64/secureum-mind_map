@@ -6,9 +6,14 @@ ___
 ![073.png](../../images/pitfalls_and_best_practices101/073.png)
 ___
 ## Slide Text
-- 
+- Contract Code Dead or Unreachable
+- Programmer Error
+- Missing Logic
+- Optimization
+	- Code Size -> Deploy Cost
+- Use Dead Code or Remove Dead Code
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=681)
 ___
 ## Tags

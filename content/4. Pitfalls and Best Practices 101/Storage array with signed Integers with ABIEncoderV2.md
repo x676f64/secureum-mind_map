@@ -6,9 +6,15 @@ ___
 ![077.png](../../images/pitfalls_and_best_practices101/077.png)
 ___
 ## Slide Text
-- 
+- Storage Array
+- Signed Integers
+- ABIEncoderV2
+- `Type[] int[]`
+- Assignment -> Data Corruption
+- Compiler Bug -> Fixed
+- `solc 0.4.7` -> 0.5.10
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=1205)
 ___
 ## Tags

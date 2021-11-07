@@ -6,9 +6,12 @@ ___
 ![044.png](../../images/pitfalls_and_best_practices101/044.png)
 ___
 ## Slide Text
-- 
+- Block Gas Limit -> 15M Currently
+- Loop Index -> User Controlled
+- Expensive Operations -> Out-of-Gas Error
+- Evaluate Loops -> Prevent DoS
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=238)
 ___
 ## Tags

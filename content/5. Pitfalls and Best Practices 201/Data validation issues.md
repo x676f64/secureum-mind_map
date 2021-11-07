@@ -1,7 +1,5 @@
 # 169 - [Data validation issues](Data%20validation%20issues.md)
-
-HERE_HERE
-
+Missing validation of data or incorrectly/insufficiently validating data, especially tainted data from untrusted users, will cause untrustworthy system behavior which may lead to security issues.
 ___
 ## Slide Screenshot
 ![0169.png](../../images/pitfalls_and_best_practices201/169.png)

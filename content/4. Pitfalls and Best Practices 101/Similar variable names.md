@@ -6,9 +6,13 @@ ___
 ![066.png](../../images/pitfalls_and_best_practices101/066.png)
 ___
 ## Slide Text
-- 
+- Variable Names
+- Similar -> Confusing
+- Replaced Usages 
+- Readability
+- Distinct Names -> Avoid Errors
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=307)
 ___
 ## Tags

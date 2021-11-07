@@ -5,9 +5,13 @@ ___
 ![0101.png](../../images/pitfalls_and_best_practices101/101.png)
 ___
 ## Slide Text
-- 
+- Function Shadowing
+- Proxy-based Contracts
+- Data Proxy -> Logic Impl.
+- Proxy -> Function Shadow -> Intercept Call
+- Proxy Functions Names & Shadowing
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=1271)
 ___
 ## Tags

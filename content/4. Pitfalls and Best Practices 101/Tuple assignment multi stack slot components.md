@@ -5,9 +5,14 @@ ___
 ![089.png](../../images/pitfalls_and_best_practices101/089.png)
 ___
 ## Slide Text
-- 
+- Tuple Assignments
+- Multiple Stack Slots
+- E.g.: Nested Tuples
+- Invalid Values
+- Compiler Bug -> Fixed
+- `solc 0.1.6` -> 0.6.6
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=347)
 ___
 ## Tags

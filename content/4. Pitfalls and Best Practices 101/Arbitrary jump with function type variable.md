@@ -6,9 +6,15 @@ ___
 ![059.png](../../images/pitfalls_and_best_practices101/059.png)
 ___
 ## Slide Text
-- 
+- Function Type
+- Arbitrary Jump
+- Variable Assignment
+- Assembly Code
+- Function Variable -> Arbitrary Code
+- Avoid Assembly
+- Arbitrary Function Values
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1661)
 ___
 ## Tags

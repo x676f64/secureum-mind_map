@@ -1,14 +1,18 @@
 # 71 - [Out-of-range enum](Out-of-range%20enum.md)
 
-`Solc < 0.4.5` produced unexpected behavior with out-of-range enums_._ Check enum conversion or use a newer compiler. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#dangerous-enum-conversion))
+`solc < 0.4.5` produced unexpected behavior with out-of-range enums. Check enum conversion or use a newer compiler. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#dangerous-enum-conversion))
 ___
 ## Slide Screenshot
 ![071.png](../../images/pitfalls_and_best_practices101/071.png)
 ___
 ## Slide Text
-- 
+- Out-of-range Enums
+- `enum E{2}`
+- `E(1)` -> Out-of-range
+- `solc < 0.4.5` Unexpected Behavior
+- Compiler Bug -> Fixed Check Enums
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=539)
 ___
 ## Tags

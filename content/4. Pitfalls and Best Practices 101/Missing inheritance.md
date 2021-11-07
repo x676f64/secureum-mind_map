@@ -6,9 +6,13 @@ ___
 ![056.png](../../images/pitfalls_and_best_practices101/056.png)
 ___
 ## Slide Text
-- 
+- Missing Inheritance
+- Contract Name
+- Contract Functions
+- Appear -> Interface or Abstract Contract
+- Inherit Appropriately
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1423)
 ___
 ## Tags

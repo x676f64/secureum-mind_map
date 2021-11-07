@@ -6,9 +6,13 @@ ___
 ![074.png](../../images/pitfalls_and_best_practices101/074.png)
 ___
 ## Slide Text
-- 
+- Function Return Values
+- Call Sites -> Unused
+- Missed Error Checking
+- Unexpected Behavior
+- Return Values -> Check or Remove
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=882)
 ___
 ## Tags

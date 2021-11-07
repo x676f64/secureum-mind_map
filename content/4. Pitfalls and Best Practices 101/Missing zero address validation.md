@@ -5,9 +5,14 @@ ___
 ![049.png](../../images/pitfalls_and_best_practices101/049.png)
 ___
 ## Slide Text
-- 
+- Zero Addresses -> Special Consideration
+- Default Value -> Burn Address
+- Tokens Burnt
+- Contract Locked
+- Zero-address Checks
+- Address Parameters
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=682)
 ___
 ## Tags

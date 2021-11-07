@@ -5,9 +5,13 @@ ___
 ![092.png](../../images/pitfalls_and_best_practices101/092.png)
 ___
 ## Slide Text
-- 
+- Memory Array Creation Overflow
+- Very Large Memory Arrays
+- Overlapping Memory -> Corruption 
+- Compiler bug -> Fixed
+- `solc 0.2.0` -> solc 0.6.5
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=489)
 ___
 ## Tags

@@ -5,9 +5,16 @@ ___
 ![058.png](../../images/pitfalls_and_best_practices101/058.png)
 ___
 ## Slide Text
-- 
+- Function Parameters
+- Reference Types
+- Pass by Value
+- Pass by Reference
+- Structs/Arrays/Mappings
+- Memory vs. Storage
+- Unexpected Changes
+- Aware: Value/Reference
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1578)
 ___
 ## Tags

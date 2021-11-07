@@ -9,8 +9,10 @@ ___
 - External Calls Inside Loops
 - Loop Index User Controlled
 - Reverts -> Out-of-Gas Error
+- Avoid Calls in Loops
+- Prevent DoS
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=172)
 ___
 ## Tags

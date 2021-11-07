@@ -6,9 +6,14 @@ ___
 ![046.png](../../images/pitfalls_and_best_practices101/046.png)
 ___
 ## Slide Text
-- 
+- Event Parameters -> Not Indexed
+- Indexed -> Topics
+- Not Indexed -> Data
+- ERC20 Specification
+- Faster Lookup
+- Add `Indexed` -> Critical Parameters
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=433)
 ___
 ## Tags

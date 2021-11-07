@@ -1,18 +1,22 @@
 **All information was original created by** [0xRajeev](https://twitter.com/0xRajeev) that he has developed from other public sources. This content is for the Secureum Epoch0 Bootcamp for Smart Contract auditng. The plan is to grow this over time. Pull requests accepted.
 ___
 Information I would like to add (my wish list): 
-- [x] Screenshots of each slide for each topic.
-- [ ] The time in the youtube video that the topic is discussed.
-- [ ] Links to the relevant topic on youtube at that specific point in the video.
+- [ ] Links to the relevant topic on youtube at that specific point in the video. -- This is now complete in all sections except for Ethereum 101
 - [ ] Text to speech of what is said for each topic by Rajeev in the videos
 - [ ] Solidity example where applicable
-- [ ] Add dapptool examples for relevant sections.
+- [ ] Add dapptool examples for relevant topics
 ___
 The impetus for this project was self-edification as well as providing better accessibility to the content [0xRajeev](https://twitter.com/0xRajeev) has produced. Plus, I really wanted to make some cool graphs and play with Obsidian. :)
 
 If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
 ![example.png](./images/example.png)
+___
+
+Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0. 
+
+This is a set of contracts that demonstrate the topics covered with exceptional documentation. This is meant to be placed in the Contracts folder on [remix.ethereum.org]: [Link to patrickd's gist](<https://remix.ethereum.org): https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54>).
+
 
 ___
 ___
@@ -61,7 +65,7 @@ ___
 5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 ___
 ___
-## Week 3 - [Solidity201](3.%20Solidity%20201.md)
+# Week 3 - [Solidity201](3.%20Solidity%20201.md)
 ___
 ### Blog
 #### [Article on "Solidity 201"](https://secureum.substack.com/p/solidity-201)
@@ -80,7 +84,7 @@ ___
 5. Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
 ### Quiz
 ___
-- Week 4 quiz
+- Week 3 quiz
 
 ### Quiz Writeups
 ___
@@ -109,7 +113,7 @@ ___
 - 
 ___
 ___
-## Week 5 - [5. Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+# Week 5 - [5. Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 ___
 ### Blog
 #### [Article on "Security Pitfalls & Best Practices 201"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
@@ -136,7 +140,7 @@ ___
 - 
 ___
 ___
-## Week 6
+# Week 6
 ### Blog
 - 
 ### Youtube Videos
@@ -155,7 +159,7 @@ ___
 - 
 ___
 ___
-## Week 7
+# Week 7
 ### Blog
 - 
 ### Youtube Videos
@@ -174,7 +178,7 @@ ___
 - 
 ___
 ___
-## Week 8
+# Week 8
 ### Blog
 - 
 ### Youtube Videos

@@ -6,9 +6,14 @@ ___
 ![096.png](../../images/pitfalls_and_best_practices101/096.png)
 ___
 ## Slide Text
-- 
+- State Variables Initialized
+- Proxy-based Contracts
+- Constructors -> Initialize()
+- State Variables Declare -> Initialize
+- Initialize -> Initialize()
+- Not Set Otherwise
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=933)
 ___
 ## Tags

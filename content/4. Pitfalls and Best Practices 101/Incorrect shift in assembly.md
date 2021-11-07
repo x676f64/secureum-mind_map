@@ -5,9 +5,10 @@ ___
 ![062.png](../../images/pitfalls_and_best_practices101/062.png)
 ___
 ## Slide Text
-- 
+- Shift Operators
+- `shl(x,y)`, `shr(x,y)`, `sar(x,y)`
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=68)
 ___
 ## Tags

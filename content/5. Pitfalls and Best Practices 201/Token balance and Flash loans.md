@@ -1,7 +1,5 @@
 # 120 - [Token balance and Flash loans](Token%20balance%20and%20Flash%20loans.md)
-
-HERE_HERE
-
+Users understand the associated risks of large funds or flash loans. Contracts relying on the token balance must carefully take in consideration attackers with large funds or attacks through flash loans. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#token-scarcity))
 ___
 ## Slide Screenshot
 ![0120.png](../../images/pitfalls_and_best_practices201/120.png)

@@ -6,9 +6,12 @@ ___
 ![097.png](../../images/pitfalls_and_best_practices101/097.png)
 ___
 ## Slide Text
-- 
+- Imported Contracts
+- Proxy-based Contracts -> Proxy-based Imports
+- Constructor -> Initialize()
+- Ensure Imports -> Proxy-based
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=987)
 ___
 ## Tags

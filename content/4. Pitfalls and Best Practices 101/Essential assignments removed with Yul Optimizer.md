@@ -5,9 +5,13 @@ ___
 ![087.png](../../images/pitfalls_and_best_practices101/087.png)
 ___
 ## Slide Text
-- 
+- Essential Assignments Removed
+- YUL Optimizer Variable -> for Loops
+- continue/break Assignments -> Removed
+- Compiler Bug -> Fixed
+- `solc 0.5.8/0.6.0` -> 0.5.16/0.6.1
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=235)
 ___
 ## Tags
