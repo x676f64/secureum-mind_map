@@ -1,7 +1,5 @@
 # 130 - [Guarded launch via user limits](Guarded%20launch%20via%20user%20limits.md)
-
-HERE_HERE
-
+Limiting the total number of users that can interact with a system initially upon launch and gradually increasing it over time may reduce impact due to initial vulnerabilities or exploits. Initial users may also be whitelisted to limit to trusted actors before opening the system to everyone. (See [here](https://medium.com/electric-capital/derisking-defi-guarded-launches-2600ce730e0a))
 ___
 ## Slide Screenshot
 ![0130.png](../../images/pitfalls_and_best_practices201/130.png)

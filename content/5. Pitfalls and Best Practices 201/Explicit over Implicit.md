@@ -1,7 +1,5 @@
 # 164 - [Explicit over Implicit](Explicit%20over%20Implicit.md)
-
-HERE_HERE
-
+While Solidity has progressively adopted explicit declarations of intent for e.g. with function visibility and variable storage, it is recommended to do the same at the application level where all requirements should be explicitly validated (e.g. input parameters) and assumptions should be documented and checked. Implicit requirements and assumptions should be flagged as dangerous.
 ___
 ## Slide Screenshot
 ![0164.png](../../images/pitfalls_and_best_practices201/164.png)

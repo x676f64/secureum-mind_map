@@ -1,7 +1,5 @@
 # 196 - [Principle of Complete Mediation](Principle%20of%20Complete%20Mediation.md)
-
-HERE_HERE
-
+ “Every access to every object must be checked for authority.” — Ensure that any required access control is enforced along all access paths to the object or function being protected. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
 ![0196.png](../../images/pitfalls_and_best_practices201/196.png)
