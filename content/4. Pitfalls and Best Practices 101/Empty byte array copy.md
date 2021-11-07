@@ -5,9 +5,12 @@ ___
 ![091.png](../../images/pitfalls_and_best_practices101/091.png)
 ___
 ## Slide Text
-- 
+- Empty Byte Array Copy
+- Memory/Calldata -> Storage
+- Increase Length -> No New Data -> Corruption
+- Compiler Bug Fixed 0.7.4
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=450)
 ___
 ## Tags

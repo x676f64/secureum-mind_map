@@ -5,9 +5,13 @@ ___
 ![084.png](../../images/pitfalls_and_best_practices101/084.png)
 ___
 ## Slide Text
-- 
+- Missed Escaping
+- ABIEncoderV2 String Literals
+- `\\` -> Different String
+- Compiler Bug -> Fixed
+- `solc 0.5.14` -> 0.6.8
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=100)
 ___
 ## Tags

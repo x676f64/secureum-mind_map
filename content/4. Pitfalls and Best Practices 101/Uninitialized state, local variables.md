@@ -6,9 +6,13 @@ ___
 ![067.png](../../images/pitfalls_and_best_practices101/067.png)
 ___
 ## Slide Text
-- 
+- Uninitialized State/Local Variables
+- Default Values -> Zero
+- Address -> Zero
+- Bool -> False
+- Initialize Variables -> Avoid Errors
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=372)
 ___
 ## Tags

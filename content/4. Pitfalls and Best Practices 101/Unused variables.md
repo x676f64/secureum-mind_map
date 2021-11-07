@@ -5,9 +5,12 @@ ___
 ![075.png](../../images/pitfalls_and_best_practices101/075.png)
 ___
 ## Slide Text
-- 
+- State/Local Variables
+- Declared & Unused
+- Error -> Missing Logic or Optimization
+- Variables -> Use or Remove
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=1037)
 ___
 ## Tags

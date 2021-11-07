@@ -6,9 +6,13 @@ ___
 ![054.png](../../images/pitfalls_and_best_practices101/054.png)
 ___
 ## Slide Text
-- 
+- Function: public/external/internal/private
+- solc < 0.6.0
+- Default: Public
+- Unauthorized Access Removed -> `solc 0.5.0`
+- Explicit Function Visibility
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1298)
 ___
 ## Tags

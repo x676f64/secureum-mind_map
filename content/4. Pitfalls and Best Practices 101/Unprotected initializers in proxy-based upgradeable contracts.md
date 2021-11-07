@@ -6,9 +6,14 @@ ___
 ![095.png](../../images/pitfalls_and_best_practices101/095.png)
 ___
 ## Slide Text
+- Unprotected Initializers
+- Proxy-based Contracts 
+- Constructors -> Initialize()
+- Multiple Invocations -> Reinitialize Contract
+- OZ Initializable Library
 - 
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=756)
 ___
 ## Tags

@@ -5,9 +5,14 @@ ___
 ![099.png](../../images/pitfalls_and_best_practices101/099.png)
 ___
 ## Slide Text
-- 
+- State Variables Order/Layout/Type/Mutability
+- Proxy-based Contracts
+- Data Proxy -> Logic Impl.
+- Proxy <-> Impl
+- Note Same -> Critical Errors
+- Same -> Order/Layout/Type/Mutability
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=1109)
 ___
 ## Tags

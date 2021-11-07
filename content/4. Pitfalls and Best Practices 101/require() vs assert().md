@@ -6,9 +6,13 @@ ___
 ![052.png](../../images/pitfalls_and_best_practices101/052.png)
 ___
 ## Slide Text
-- 
+- assert() vs require() -> Different Usages
+- assert() -> Invariants
+- No Failures Expected
+- require() -> Validation Failures Expected
+- Use Appropriately
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1088)
 ___
 ## Tags

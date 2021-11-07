@@ -6,9 +6,14 @@ ___
 ![082.png](../../images/pitfalls_and_best_practices101/082.png)
 ___
 ## Slide Text
-- 
+- Incorrect Loads YUL Optimizer
+- ABIEncoderV2 <- YUL
+- MLOAD/SLOAD Calls
+- Calls Replaced -> State Values
+- Compiler Bug -> Fixed
+- `solc 0.5.14` -> 0.5.15
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=24)
 ___
 ## Tags

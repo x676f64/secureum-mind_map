@@ -6,9 +6,12 @@ ___
 ![076.png](../../images/pitfalls_and_best_practices101/076.png)
 ___
 ## Slide Text
-- 
+- Function Statements
+- Present & No Effects
+- Error -> Missing Logic or Optimization
+- Redundant Statements -> Effect or Remove
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=1115)
 ___
 ## Tags

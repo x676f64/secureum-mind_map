@@ -6,9 +6,13 @@ ___
 ![085.png](../../images/pitfalls_and_best_practices101/085.png)
 ___
 ## Slide Text
-- 
+- Double Shift Size Overflow
+- Optimizer Double Bitwise Shifts
+- Shift > `2**256` -> Overflow
+- Compiler Bug -> Fixed
+- `solc 0.5.5` -> 0.5.6
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=144)
 ___
 ## Tags

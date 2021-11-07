@@ -5,9 +5,13 @@ ___
 ![093.png](../../images/pitfalls_and_best_practices101/093.png)
 ___
 ## Slide Text
-- 
+- Calldata Parameters `using for`
+- Function Calls -> Internal Library Functions
+- Read -> Invalid Data
+- Compiler Bug -> Fixed
+- `solc 0.6.9` -> 0.6.10
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=523)
 ___
 ## Tags

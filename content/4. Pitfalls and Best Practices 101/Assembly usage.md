@@ -5,9 +5,13 @@ ___
 ![063.png](../../images/pitfalls_and_best_practices101/063.png)
 ___
 ## Slide Text
-- 
+- Solidity Assembly
+- Optimized -> efficient Gas Savings
+- Error-prone
+- Semantics & Readability
+- Avoid or Double-check
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=117)
 ___
 ## Tags

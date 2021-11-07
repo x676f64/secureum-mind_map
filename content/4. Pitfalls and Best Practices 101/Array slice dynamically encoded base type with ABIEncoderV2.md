@@ -6,9 +6,14 @@ ___
 ![083.png](../../images/pitfalls_and_best_practices101/083.png)
 ___
 ## Slide Text
-- 
+- Array Slices
+- ABIEncoderV2
+- Dynamically Encoded Base Types
+- Read -> Invalid Data
+- Compiler Bug -> Fixed
+- `solc 0.6.0` -> 0.6.8
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=70)
 ___
 ## Tags

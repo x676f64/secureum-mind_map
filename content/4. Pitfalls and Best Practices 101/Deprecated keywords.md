@@ -6,9 +6,12 @@ ___
 ![053.png](../../images/pitfalls_and_best_practices101/053.png)
 ___
 ## Slide Text
-- 
+- Deprecated Keywords
+- E.g.: msg.gas, throw, sha3, constant, var etc.
+- Compiler Warnings -> Errors
+- Avoid Deprecated Keywords
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1225)
 ___
 ## Tags

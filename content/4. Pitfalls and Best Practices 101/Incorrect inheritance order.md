@@ -6,9 +6,12 @@ ___
 ![055.png](../../images/pitfalls_and_best_practices101/055.png)
 ___
 ## Slide Text
-- 
+- Inheritiance Order
+- Multiple Contracts -> Indentical Function
+- ORder -> Implementation
+- More General -> More Specific
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1389)
 ___
 ## Tags

@@ -6,9 +6,13 @@ ___
 ![060.png](../../images/pitfalls_and_best_practices101/060.png)
 ___
 ## Slide Text
-- 
+- abi.encodePack() -> Variable Length Arguments
+- No Zero-padding
+- No Length
+- Packed Encoding -> Collisions Possible
+- abi.encode()
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1732)
 ___
 ## Tags

@@ -6,9 +6,13 @@ ___
 ![045.png](../../images/pitfalls_and_best_practices101/045.png)
 ___
 ## Slide Text
-- 
+- Missing Events
+- Critical Operations
+- Off-Chain Monitoring
+- Transparency & UX
+- Add Events -> Critical Operations
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=343)
 ___
 ## Tags

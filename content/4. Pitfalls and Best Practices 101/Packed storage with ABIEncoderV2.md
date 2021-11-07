@@ -5,9 +5,14 @@ ___
 ![081.png](../../images/pitfalls_and_best_practices101/081.png)
 ___
 ## Slide Text
-- 
+- Packed Storage
+- ABIEncoderV2
+- Structs/Arrays -> Type > 32B
+- Storage Encode -> Data Corruption
+- Compiler Bug -> Fixed
+- `solc 0.5.0` -> 0.5.7
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://www.youtube.com/watch?v=vyWLO5Dlg50)
 ___
 ## Tags

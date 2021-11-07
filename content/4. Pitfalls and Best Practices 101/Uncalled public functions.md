@@ -6,9 +6,13 @@ ___
 ![072.png](../../images/pitfalls_and_best_practices101/072.png)
 ___
 ## Slide Text
-- 
+- Function Visibility
+- Public vs External
+- Public -> More Gas
+- Function -> No Calls Within Contract
+- Public -> External Save Gas
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=591)
 ___
 ## Tags

@@ -6,9 +6,13 @@ ___
 ![061.png](../../images/pitfalls_and_best_practices101/061.png)
 ___
 ## Slide Text
-- 
+- Types < 32 Bytes
+- Dirty High Order Bits
+- Type Operations -> Ok
+- msg.data -> Not Ok
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://www.youtube.com/watch?v=byA3MLLiKMM)
 ___
 ## Tags

@@ -6,9 +6,13 @@ ___
 ![047.png](../../images/pitfalls_and_best_practices101/047.png)
 ___
 ## Slide Text
-- 
+- Event Signatures -> Contract Type
+- Contract Parameter -> Address vs. Name
+- Wrong Hash
+	- solc Bug: `0.5.0` - `0.5.8`
+- Use `Address` Type
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=531)
 ___
 ## Tags

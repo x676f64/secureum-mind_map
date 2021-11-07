@@ -6,9 +6,13 @@ ___
 ![094.png](../../images/pitfalls_and_best_practices101/094.png)
 ___
 ## Slide Text
-- 
+- Free Functions Redefinition
+- Free Functions -> Outside Contract
+- Same Name/Parameters -> No Compiler Error
+- Compiler Bug -> Fixed
+- `solc 0.7.1` -> 0.7.2
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=565)
 ___
 ## Tags

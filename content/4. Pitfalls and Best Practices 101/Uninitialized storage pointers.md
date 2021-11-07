@@ -6,9 +6,12 @@ ___
 ![068.png](../../images/pitfalls_and_best_practices101/068.png)
 ___
 ## Slide Text
-- 
+- Uninitialized Storage Pointers
+- Local Storage Variables Uninitialized
+- Pointers -> Unexpected Storage Locations
+- Error-prone `solc >= 0.5.0` Disallowed
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=425)
 ___
 ## Tags

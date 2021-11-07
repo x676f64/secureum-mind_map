@@ -5,9 +5,14 @@ ___
 ![0100.png](../../images/pitfalls_and_best_practices101/100.png)
 ___
 ## Slide Text
-- 
+- Function ID Collision
+- Proxy-based Contracts
+- Data Proxy -> Logic Impl.
+- Malicious Proxy -> Same
+- Function ID -> Hijack Call
+- Untrusted Proxy Function ID Collision
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/vyWLO5Dlg50?t=1167)
 ___
 ## Tags

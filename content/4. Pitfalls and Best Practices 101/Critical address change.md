@@ -7,9 +7,15 @@ ___
 ![050.png](../../images/pitfalls_and_best_practices101/050.png)
 ___
 ## Slide Text
-- 
+- Critical Addresses Change Value
+- Single-Step Change
+- Error -> Contract Locked
+- Two-step Change
+- Grant/Approve + Claim
+- Error Recovery
+- Risk Mitigation
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/YVewx1xVROE?t=790)
 ___
 ## Tags

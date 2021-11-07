@@ -6,9 +6,12 @@ ___
 ![065.png](../../images/pitfalls_and_best_practices101/065.png)
 ___
 ## Slide Text
-- 
+- Constant State Variables
+- Declare Constant -> Save Gas
+- Compile-time Replacement -> No SLOADs
+- Identify & Declare
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/byA3MLLiKMM?t=244)
 ___
 ## Tags
