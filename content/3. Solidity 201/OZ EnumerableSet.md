@@ -33,7 +33,7 @@ OpenZeppelin EnumerableSet: Library for managing sets of primitive types. Sets h
 
 ___
 ## Slide Screenshot
-![179.png](../../images/solidity201/179.png)
+![179.png](../../images/3.Solidity%20201/179.png)
 ___
 ## Slide Text
 - Managing Sets

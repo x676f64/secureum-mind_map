@@ -9,7 +9,7 @@ You can also filter events by the address of the contract that emitted the event
 
 ___
 ## Slide Screenshot
-![028.png](../../images/solidity101/028.png)
+![028.png](../../images/2.Solidity%20101/028.png)
 ___
 ## Slide Deck
 - Event Parameters -> Indexed or Not

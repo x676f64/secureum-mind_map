@@ -18,7 +18,7 @@ Types that are passed by value, i.e. they are always copied when they are used a
 
 ___
 ## Slide Screenshot
-![037.png](../../images/solidity101/037.png)
+![037.png](../../images/2.Solidity%20101/037.png)
 ___
 ## Slide Deck
 - Types: Value & Reference

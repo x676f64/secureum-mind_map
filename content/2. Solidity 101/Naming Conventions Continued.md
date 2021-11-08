@@ -13,7 +13,7 @@
 
 ___
 ## Slide Screenshot
-![101.png](../../images/solidity101/101.png)
+![101.png](../../images/2.Solidity%20101/101.png)
 ___
 ## Slide Deck
 - Function Arg -> mC

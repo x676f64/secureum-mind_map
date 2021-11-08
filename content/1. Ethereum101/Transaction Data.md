@@ -4,7 +4,7 @@ A  transaction with a contract address destination has the contract’s function
 
 ___
 ## Slide Screenshot
-![080.png](../../images/ethereum101/080.png)
+![080.png](../../images/1.Ethereum%20101/080.png)
 ___
 ## Slide Text
 - [Recipient](Recipient.md) -> Contract Address

@@ -7,7 +7,7 @@ The virtual keyword must be used on the overridden modifier and the override key
 
 ___
 ## Slide Screenshot
-![110.png](../../images/solidity201/110.png)
+![110.png](../../images/3.Solidity%20201/110.png)
 ___
 ## Slide Text
 - Modifier Overriding

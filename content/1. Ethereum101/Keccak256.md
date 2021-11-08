@@ -4,7 +4,7 @@ Ethereum uses Keccak256 as its cryptographic hash function. Keccak256 was the wi
 
 ___
 ## Slide Screenshot
-![029.png](../../images/ethereum101/029.png)
+![029.png](../../images/1.Ethereum%20101/029.png)
 ___
 ## Slide Text
 - Cryptographic Hashing Function

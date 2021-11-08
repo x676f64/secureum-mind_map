@@ -8,7 +8,7 @@ Compressed Timescales: It feels like innovation in the [Web3](Web3.md) space mov
 
 ___
 ## Slide Screenshot
-![098.png](../../images/ethereum101/098.png)
+![098.png](../../images/1.Ethereum%20101/098.png)
 ___
 ## Slide Text
 - Compressed Timescales

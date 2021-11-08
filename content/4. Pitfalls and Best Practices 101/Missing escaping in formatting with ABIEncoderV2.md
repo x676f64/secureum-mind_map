@@ -2,7 +2,7 @@
 String literals containing double backslash characters passed directly to external or encoding function calls can lead to a different string being used when ABIEncoderV2 is enabled. This is due to a compiler bug introduced in `v0.5.14` and fixed in `v0.6.8`. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
 ___
 ## Slide Screenshot
-![084.png](../../images/pitfalls_and_best_practices101/084.png)
+![084.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/084.png)
 ___
 ## Slide Text
 - Missed Escaping

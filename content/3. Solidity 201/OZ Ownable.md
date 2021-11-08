@@ -9,7 +9,7 @@ It will make available the modifier `onlyOwner`, which can be applied to your fu
 
 ___
 ## Slide Screenshot
-![154.png](../../images/solidity201/154.png)
+![154.png](../../images/3.Solidity%20201/154.png)
 ___
 ## Slide Text
 - Basic Access Control

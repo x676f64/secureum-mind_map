@@ -3,7 +3,7 @@ They are variables that can be accessed by all functions of the contract and who
 
 ___
 ## Slide Screenshot
-![015.png](../../images/solidity101/015.png)
+![015.png](../../images/2.Solidity%20101/015.png)
 ___
 ## Slide Deck
 - State Variables

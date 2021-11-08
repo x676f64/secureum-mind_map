@@ -3,7 +3,7 @@ Unary expressions such as `x =+ 1` are likely errors where the programmer really
 
 ___
 ## Slide Screenshot
-![048.png](../../images/pitfalls_and_best_practices101/048.png)
+![048.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/048.png)
 ___
 ## Slide Text
 - Unary Expressions -> Typo Susceptibility

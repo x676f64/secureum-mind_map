@@ -7,7 +7,7 @@
 
 ___
 ## Slide Screenshot
-![009.png](../../images/ethereum101/009.png)
+![009.png](../../images/1.Ethereum%20101/009.png)
 ___
 ## Slide Text
 - Consensus Algorithm

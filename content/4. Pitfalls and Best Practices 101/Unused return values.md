@@ -3,7 +3,7 @@ Unused return values of function calls are indicative of programmer errors which
 
 ___
 ## Slide Screenshot
-![074.png](../../images/pitfalls_and_best_practices101/074.png)
+![074.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/074.png)
 ___
 ## Slide Text
 - Function Return Values

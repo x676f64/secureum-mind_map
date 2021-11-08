@@ -5,7 +5,7 @@ This is due to a compiler bug introduced in `v0.4.16` and fixed in `v0.5.10`. (s
 
 ___
 ## Slide Screenshot
-![079.png](../../images/pitfalls_and_best_practices101/079.png)
+![079.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/079.png)
 ___
 ## Slide Text
 - Storage Arrays

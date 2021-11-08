@@ -3,7 +3,7 @@ If a modifier does not execute `_` or `revert`, the function using that modifier
 
 ___
 ## Slide Screenshot
-![08.png](../../images/pitfalls_and_best_practices101/008.png)
+![08.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/008.png)
 ___
 ## Slide Text
 - Incorrect Modifier

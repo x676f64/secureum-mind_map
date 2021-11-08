@@ -3,7 +3,7 @@ Types that do not occupy the full 32 bytes might contain “dirty higher order b
 
 ___
 ## Slide Screenshot
-![061.png](../../images/pitfalls_and_best_practices101/061.png)
+![061.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/061.png)
 ___
 ## Slide Text
 - Types < 32 Bytes

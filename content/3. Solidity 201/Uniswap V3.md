@@ -9,7 +9,7 @@ Uniswap V3: [Introduces](https://uniswap.org/blog/uniswap-v3/)
 
 ___
 ## Slide Screenshot
-![200.png](../../images/solidity201/200.png)
+![200.png](../../images/3.Solidity%20201/200.png)
 ___
 ## Slide Text
 - Concentrated Liquidity Custom Price Ranges

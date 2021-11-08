@@ -5,7 +5,7 @@ Unprotected (`external`/`public`) function calls sending Ether/tokens to user-co
 
 ___
 ## Slide Screenshot
-![05.png](../../images/pitfalls_and_best_practices101/005.png)
+![05.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/005.png)
 ___
 ## Slide Text
 - Unprotected Withdraw Functions

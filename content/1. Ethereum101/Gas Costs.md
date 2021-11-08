@@ -9,7 +9,7 @@ Gas costs for different instructions are different depending on their computatio
 6. CREATE is 32,000 gas and SELFDESTRUCT is 5,000 gas 
 ___
 ## Slide Screenshot
-![078.png](../../images/ethereum101/078.png)
+![078.png](../../images/1.Ethereum%20101/078.png)
 ___
 ## Slide Text
 - Diff Instructions -> Diff costs

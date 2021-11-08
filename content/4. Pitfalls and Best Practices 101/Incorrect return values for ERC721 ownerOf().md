@@ -3,7 +3,7 @@ Contracts compiled with `solc >= 0.4.22` interacting with ERC721 `ownerOf()` tha
 
 ___
 ## Slide Screenshot
-![025.png](../../images/pitfalls_and_best_practices101/025.png)
+![025.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/025.png)
 ___
 ## Slide Text
 - ERC721 `ownerOf()`

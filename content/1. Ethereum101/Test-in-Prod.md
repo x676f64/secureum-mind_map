@@ -4,7 +4,7 @@ Test-in-Prod: A combination of compressed [timescale](Timescale.md), unrestricte
 
 ___
 ## Slide Screenshot
-![099.png](../../images/ethereum101/099.png)
+![099.png](../../images/1.Ethereum%20101/099.png)
 ___
 ## Slide Text
 - Compressed Timescale

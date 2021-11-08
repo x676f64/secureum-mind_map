@@ -2,7 +2,7 @@
 Use of EVM assembly is error-prone and should be avoided or double-checked for correctness. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#assembly-usage))
 ___
 ## Slide Screenshot
-![063.png](../../images/pitfalls_and_best_practices101/063.png)
+![063.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/063.png)
 ___
 ## Slide Text
 - Solidity Assembly

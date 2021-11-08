@@ -2,7 +2,7 @@
 Setters of address type parameters should include a zero-address check otherwise contract functionality may become inaccessible or tokens burnt forever. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#missing-zero-address-validation))
 ___
 ## Slide Screenshot
-![049.png](../../images/pitfalls_and_best_practices101/049.png)
+![049.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/049.png)
 ___
 ## Slide Text
 - Zero Addresses -> Special Consideration

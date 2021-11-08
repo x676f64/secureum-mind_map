@@ -4,7 +4,7 @@ Contracts that accept/manage/transfer ETH should ensure that functions handling 
 Functions handling ETH should be checked extra carefully for access control, input validation and error handling.
 ___
 ## Slide Screenshot
-![0158.png](../../images/pitfalls_and_best_practices201/158.png)
+![0158.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/158.png)
 ___
 ## Slide Text
 - 

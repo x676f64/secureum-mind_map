@@ -7,7 +7,7 @@ If the effects have been reverted, then execution either continues in a catch bl
 
 ___
 ## Slide Screenshot
-![095.png](../../images/solidity101/095.png)
+![095.png](../../images/2.Solidity%20101/095.png)
 ___
 ## Slide Deck
 - Success Block vs. Error Block

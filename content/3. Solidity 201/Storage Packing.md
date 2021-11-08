@@ -11,7 +11,7 @@ Multiple, contiguous items that need less than 32 bytes are packed into a single
 
 ___
 ## Slide Screenshot
-![116.png](../../images/solidity201/116.png)
+![116.png](../../images/3.Solidity%20201/116.png)
 ___
 ## Slide Text
 - [State Variables](State%20Variables.md)

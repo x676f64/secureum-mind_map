@@ -33,7 +33,7 @@ Blocks contain block header, transactions and ommers’ block headers. Block hea
 15. _[Nonce](Nonce.md)_: A 64-bit value which, combined with the mixhash, proves that a sufficient amount of computation has been carried out on this block
 ___
 ## Slide Screenshot
-![053.png](../../images/ethereum101/053.png)
+![053.png](../../images/1.Ethereum%20101/053.png)
 ___
 ## Slide Text
 ___

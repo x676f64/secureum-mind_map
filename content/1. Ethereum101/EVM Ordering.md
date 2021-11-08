@@ -4,7 +4,7 @@
 
 ___
 ## Slide Screenshot
-![065.png](../../images/ethereum101/065.png)
+![065.png](../../images/1.Ethereum%20101/065.png)
 ___
 ## Slide Text
 - Big-Endian vs Little-Endian

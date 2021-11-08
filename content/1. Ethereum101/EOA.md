@@ -4,7 +4,7 @@ An EOA has no code, and one can send messages from an EOA by creating and signin
 
 ___
 ## Slide Screenshot
-![026.png](../../images/ethereum101/026.png)
+![026.png](../../images/1.Ethereum%20101/026.png)
 ___
 ## Slide Text
 - Account -> [Nonce](Nonce.md), [Value](Value.md), Code, [Storage](Storage.md)

@@ -13,7 +13,7 @@ Version [Pragma](Pragma.md): This indicates the specific [Solidity](Solidity.md)
 
 ___
 ## Slide Screenshot
-![007.png](../../images/solidity101/007.png)
+![007.png](../../images/2.Solidity%20101/007.png)
 ___
 ## Slide Deck
 - Version Pragma

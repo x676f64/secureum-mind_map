@@ -6,7 +6,7 @@ Functions are usually defined inside a contract, but they can also be defined ou
 They have different levels of [visibility](Function%20Visibility.md) towards other contracts.
 ___
 ## Slide Screenshot
-![019.png](../../images/solidity101/019.png)
+![019.png](../../images/2.Solidity%20101/019.png)
 ___
 ## Slide Deck
 - Contract Functions

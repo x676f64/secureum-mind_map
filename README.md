@@ -10,12 +10,12 @@ The impetus for this project was self-edification as well as providing better ac
 
 If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
-![example.png](./images/example.png)
+![](images/example.png.png)
 ___
 
 Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0. 
 
-This is a set of contracts that demonstrate the topics covered with exceptional documentation. This is meant to be placed in the Contracts folder on [remix.ethereum.org]: [Link to patrickd's gist](<https://remix.ethereum.org): https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54>).
+This is a set of contracts that demonstrate the topics covered with exceptional documentation. This is meant to be placed in the Contracts folder on [remix.ethereum.org](https://remix.ethereum.org): [Link to patrickd's gist](<https://remix.ethereum.org): https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54>).
 
 
 ___
@@ -89,7 +89,7 @@ ___
 ### Quiz Writeups
 ___
 ___
-## Week 4 - [4. Pitfalls and Best Practices 101](4.%20Pitfalls%20and%20Best%20Practices%20101.md)
+# Week 4 - [Pitfalls and Best Practices 101](4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 ### Blog
 #### [Article on "Security Pitfalls & Best Practices 101"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 ### Youtube Videos
@@ -113,7 +113,7 @@ ___
 - 
 ___
 ___
-# Week 5 - [5. Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+# Week 5 - [Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 ___
 ### Blog
 #### [Article on "Security Pitfalls & Best Practices 201"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
@@ -140,16 +140,24 @@ ___
 - 
 ___
 ___
-# Week 6
+# Week 6 - Audit Techniques & Tools 101
 ### Blog
-- 
+#### [Article on "Audit Techniques & Tools 101"](https://secureum.substack.com/p/audit-techniques-and-tools-101)
 ### Youtube Videos
-1.  [Block 1]()
-2.  [Block 2]()
-3.  [Block 3]()
-4.  [Block 4]()
-5.  [Block 5]()
+1.  [Block 1](https://youtu.be/M0C7z3TE5Go)
+2.  [Block 2](https://youtu.be/QstpNY1IuqM)
+3.  [Block 3](https://youtu.be/QmD2bJUe140)
+4.  [Block 4](https://youtu.be/jZ81ebDJVe0)
+5.  [Block 5](https://youtu.be/dgITqd3mkDk)
 ### Assignment
+1. Read the following:
+	1. How to Prepare for a Smart Contract Audit: [https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/](https://consensys.net/diligence/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/)
+	2. What is a Security Audit, When You Should Get One, and How to Prepare (by @petty) : [https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/](https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/)
+	3. 246 Findings From our Smart Contract Audits: An Executive Summary: [https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) 
+2. Run MythX on Fei Protocol contracts and analyze the reported findings: [https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts](https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts)
+3. Run Slither on Uniswap V3 contracts and analyze the reported findings: [https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts](https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts)
+4. Watch “The Evolution of Smart Contract Security” by Dan Guido, Trail of Bits: [https://www.youtube.com/watch?v=fOkQuNzVn_Q](https://www.youtube.com/watch?v=fOkQuNzVn_Q)
+5. Attempt Paradigm CTF: [https://github.com/paradigm-operations/paradigm-ctf-2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
 ___
 ### Quiz
 ___

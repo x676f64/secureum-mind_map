@@ -3,7 +3,7 @@ OpenZeppelin SafeERC20: Wrappers around ERC20 operations that throw on failure w
 
 ___
 ## Slide Screenshot
-![149.png](../../images/solidity201/149.png)
+![149.png](../../images/3.Solidity%20201/149.png)
 ___
 ## Slide Text
 - transfer/transferFrom/approve/increaseAllowance/decreaseAllowance

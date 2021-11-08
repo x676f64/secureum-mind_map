@@ -4,7 +4,7 @@
 
 ___
 ## Slide Screenshot
-![014.png](../../images/ethereum101/014.png)
+![014.png](../../images/1.Ethereum%20101/014.png)
 ___
 ## Slide Text
 - Web2.0 -> Client-Server model

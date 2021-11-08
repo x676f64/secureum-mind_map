@@ -13,7 +13,7 @@ Can be of 5 types: 
 5. Hexadecimal Literals: Hexadecimal literals are hexadecimal digits prefixed with the keyword hex and are enclosed in double or single-quotes e.g. `hex”001122FF”`, `hex'001122FF'`.
 ___
 ## Slide Screenshot
-![052.png](../../images/solidity101/052.png)
+![052.png](../../images/2.Solidity%20101/052.png)
 ___
 ## Slide Deck
 - Five Types: Address, Rational/Integers, String, Unicode, Hexadecimals

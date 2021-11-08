@@ -21,7 +21,7 @@ Function Mutability Specifiers: [Functions](Functions.md) can be specified as be
 
 ___
 ## Slide Screenshot
-![024.png](../../images/solidity101/024.png)
+![024.png](../../images/2.Solidity%20101/024.png)
 ___
 ## Slide Deck
 - View or Pure

@@ -7,7 +7,7 @@ Memory arrays with dynamic length can be created using the `new` operator
 
 ___
 ## Slide Screenshot
-![060.png](../../images/solidity101/060.png)
+![060.png](../../images/2.Solidity%20101/060.png)
 ___
 ## Slide Deck
 - Memory Arrays

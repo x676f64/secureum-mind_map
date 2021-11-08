@@ -12,7 +12,7 @@ The modifier can choose not to execute the function body at all and in that case
 The `_` symbol can appear in the modifier multiple times. Each occurrence is replaced with the function body.
 ___
 ## Slide Screenshot
-![022.png](../../images/solidity101/022.png)
+![022.png](../../images/2.Solidity%20101/022.png)
 ___
 ## Slide Deck
 - Function Modifiers

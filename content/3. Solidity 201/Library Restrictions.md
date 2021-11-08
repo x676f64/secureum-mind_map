@@ -10,7 +10,7 @@ In comparison to contracts, libraries are restricted in the following ways:
 
 ___
 ## Slide Screenshot
-![113.png](../../images/solidity201/113.png)
+![113.png](../../images/3.Solidity%20201/113.png)
 ___
 ## Slide Text
 - No State Variables

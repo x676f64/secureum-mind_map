@@ -3,7 +3,7 @@ Not using OpenZeppelin’s SafeMath (or similar libraries) that check for overfl
 
 ___
 ## Slide Screenshot
-![019.png](../../images/pitfalls_and_best_practices101/019.png)
+![019.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/019.png)
 ___
 ## Slide Text
 - Integer Arithmetic

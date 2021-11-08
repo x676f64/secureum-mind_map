@@ -8,7 +8,7 @@ Unstoppable & Immutable: [Web3](Web3.md) applications, popularly known as Decent
 
 ___
 ## Slide Screenshot
-![092.png](../../images/ethereum101/092.png)
+![092.png](../../images/1.Ethereum%20101/092.png)
 ___
 ## Slide Text
 - [ÐApps](Dapp.md) -> Decentralized Infrastructure & Governance

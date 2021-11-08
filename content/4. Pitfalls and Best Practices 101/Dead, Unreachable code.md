@@ -3,7 +3,7 @@ Dead code may be indicative of programmer error, missing logic or potential opti
 
 ___
 ## Slide Screenshot
-![073.png](../../images/pitfalls_and_best_practices101/073.png)
+![073.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/073.png)
 ___
 ## Slide Text
 - Contract Code Dead or Unreachable

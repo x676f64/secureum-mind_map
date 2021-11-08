@@ -15,7 +15,7 @@ An owner is able to change the implementation the beacon points to, thus upgradi
 
 ___
 ## Slide Screenshot
-![190.png](../../images/solidity201/190.png)
+![190.png](../../images/3.Solidity%20201/190.png)
 ___
 ## Slide Text
 - UpgradeableBeacon -> BeaconProxy

@@ -12,7 +12,7 @@
 
 ___
 ## Slide Screenshot
-![101.png](../../images/ethereum101/101.png)
+![101.png](../../images/1.Ethereum%20101/101.png)
 ___
 ## Slide Text
 - External Assessment

@@ -1,9 +1,9 @@
 # 51 - [assert(), require() state change](assert(),%20require()%20state%20change.md)
-Invariants in _assert()_ and _require()_ statements should not modify the state per best practices. (see [here](https://swcregistry.io/docs/SWC-110))
+Invariants in `assert()` and `require()` statements should not modify the state per best practices. (see [here](https://swcregistry.io/docs/SWC-110))
 
 ___
 ## Slide Screenshot
-![051.png](../../images/pitfalls_and_best_practices101/051.png)
+![051.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/051.png)
 ___
 ## Slide Text
 - Use of `assert()`

@@ -3,7 +3,7 @@ Contracts inheriting from multiple contracts with identical functions should spe
 
 ___
 ## Slide Screenshot
-![055.png](../../images/pitfalls_and_best_practices101/055.png)
+![055.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/055.png)
 ___
 ## Slide Text
 - Inheritiance Order
@@ -13,5 +13,7 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/YVewx1xVROE?t=1389)
+- [soliditylang.org - Multiple Inheritance and Linearization](https://docs.soliditylang.org/en/develop/contracts.html#multiple-inheritance-and-linearization)
 ___
 ## Tags
+[Inheritance](../3.%20Solidity%20201/Inheritance.md)

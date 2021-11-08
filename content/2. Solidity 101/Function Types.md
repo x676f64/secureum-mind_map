@@ -9,7 +9,7 @@ They come in two flavours:
 
 ___
 ## Slide Screenshot
-![054.png](../../images/solidity101/054.png)
+![054.png](../../images/2.Solidity%20101/054.png)
 ___
 ## Slide Deck
 - Variables -> Function Type

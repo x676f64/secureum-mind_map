@@ -3,7 +3,7 @@ Contract types used in events in libraries cause an incorrect event signature ha
 
 ___
 ## Slide Screenshot
-![047.png](../../images/pitfalls_and_best_practices101/047.png)
+![047.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/047.png)
 ___
 ## Slide Text
 - Event Signatures -> Contract Type

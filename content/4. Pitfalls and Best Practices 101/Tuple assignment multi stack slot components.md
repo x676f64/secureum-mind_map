@@ -2,7 +2,7 @@
 Tuple assignments with components that occupy several stack slots, i.e. nested tuples, pointers to external functions or references to dynamically sized calldata arrays, can result in invalid values. This is due to a compiler bug introduced in `v0.1.6` and fixed in `v0.6.6`. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
 ___
 ## Slide Screenshot
-![089.png](../../images/pitfalls_and_best_practices101/089.png)
+![089.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/089.png)
 ___
 ## Slide Text
 - Tuple Assignments

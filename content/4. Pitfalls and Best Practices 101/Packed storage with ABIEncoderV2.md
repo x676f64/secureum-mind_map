@@ -2,7 +2,7 @@
 Storage structs and arrays with types shorter than 32 bytes can cause data corruption if encoded directly from storage using ABIEncoderV2. This is due to a compiler bug introduced in `v0.5.0` and fixed in `v0.5.7`. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
 ___
 ## Slide Screenshot
-![081.png](../../images/pitfalls_and_best_practices101/081.png)
+![081.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/081.png)
 ___
 ## Slide Text
 - Packed Storage

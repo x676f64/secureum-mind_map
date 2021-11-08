@@ -11,7 +11,7 @@ Also, it could be due to an out-of-gas situation and not a deliberate error cond
 
 ___
 ## Slide Screenshot
-![096.png](../../images/solidity101/096.png)
+![096.png](../../images/2.Solidity%20101/096.png)
 ___
 ## Slide Deck
 - Many Reasons

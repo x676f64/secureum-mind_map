@@ -10,7 +10,7 @@ so` where `M` is the size in bits (increments of `8` up to `256`) and `N` is the
 
 ___
 ## Slide Screenshot
-![044.png](../../images/solidity101/044.png)
+![044.png](../../images/2.Solidity%20101/044.png)
 ___
 ## Slide Deck
 - Fixed vs. Floating

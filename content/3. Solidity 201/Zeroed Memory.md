@@ -5,7 +5,7 @@ There is no built-in mechanism to release or free allocated memory.
 
 ___
 ## Slide Screenshot
-![130.png](../../images/solidity201/130.png)
+![130.png](../../images/3.Solidity%20201/130.png)
 ___
 ## Slide Text
 - Memory Not Used -> No Guarantee

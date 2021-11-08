@@ -9,7 +9,7 @@ perators Involving LValues (i.e. a variable or something that can be assigned to
 
 ___
 ## Slide Screenshot
-![066.png](../../images/solidity101/066.png)
+![066.png](../../images/2.Solidity%20101/066.png)
 ___
 ## Slide Deck
 - LValues -> Assigned To

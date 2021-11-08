@@ -10,7 +10,7 @@ Solidity uses state-reverting exceptions to handle errors. Such an exception und
 4. Solidity supports two error signatures: `Error(string)` and `Panic(uint256)`. The first (“[error](Errors.md)”) is used for “regular” error conditions while the second (“[panic](Panic.md)”) is used for errors that should not be present in bug-free code.
 ___
 ## Slide Screenshot
-![086.png](../../images/solidity101/086.png)
+![086.png](../../images/2.Solidity%20101/086.png)
 ___
 ## Slide Deck
 - State-reverting Exceptions

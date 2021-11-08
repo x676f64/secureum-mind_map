@@ -15,7 +15,7 @@ Mappings define key-value pairs and are declared using the syntax `mapping(KeyTy
 
 ___
 ## Slide Screenshot
-![065.png](../../images/solidity101/065.png)
+![065.png](../../images/2.Solidity%20101/065.png)
 ___
 ## Slide Deck
 - Key-Value Pairs

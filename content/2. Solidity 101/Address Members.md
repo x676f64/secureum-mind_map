@@ -19,7 +19,7 @@ Members of Address Type:
 
 ___
 ## Slide Screenshot
-![046.png](../../images/solidity101/046.png)
+![046.png](../../images/2.Solidity%20101/046.png)
 ___
 ## Slide Deck
 

@@ -2,7 +2,7 @@
 Incorrect assumptions about system actors, entities or parameters being constant may lead to security issues if/when such factors change unexpectedly.
 ___
 ## Slide Screenshot
-![0184.png](../../images/pitfalls_and_best_practices201/184.png)
+![0184.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/184.png)
 ___
 ## Slide Text
 - 

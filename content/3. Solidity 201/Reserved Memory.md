@@ -8,7 +8,7 @@ Solidity reserves four 32-byte slots, with specific byte ranges (inclusive of en
 3.  `0x60` - `0x7f` (32 bytes): zero slot (The zero slot is used as initial value for dynamic memory arrays and should never be written to)
 ___
 ## Slide Screenshot
-![127.png](../../images/solidity201/127.png)
+![127.png](../../images/3.Solidity%20201/127.png)
 ___
 ## Slide Text
 - Solidity -> 4 32 Byte Slots

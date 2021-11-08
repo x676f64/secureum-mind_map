@@ -9,7 +9,7 @@ Other examples are C, C++, Java, Rust, Go, Scala.
 
 ___
 ## Slide Screenshot
-![035.png](../../images/solidity101/035.png)
+![035.png](../../images/2.Solidity%20101/035.png)
 ___
 ## Slide Deck
 - Variable Type -> Specified

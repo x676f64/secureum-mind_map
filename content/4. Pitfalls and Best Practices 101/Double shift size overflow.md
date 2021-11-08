@@ -3,7 +3,7 @@ Double bitwise shifts by large constants whose sum overflows 256 bits can result
 
 ___
 ## Slide Screenshot
-![085.png](../../images/pitfalls_and_best_practices101/085.png)
+![085.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/085.png)
 ___
 ## Slide Text
 - Double Shift Size Overflow

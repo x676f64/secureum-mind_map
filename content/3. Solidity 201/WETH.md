@@ -8,7 +8,7 @@ This WETH can be sent back to the same smart contract to be “unwrapped” i.e.
 The most widely used WETH contract is [WETH9](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code) which holds more than 7 million Ether for now.
 ___
 ## Slide Screenshot
-![198.png](../../images/solidity201/198.png)
+![198.png](../../images/3.Solidity%20201/198.png)
 ___
 ## Slide Text
 - Wrapper Ether

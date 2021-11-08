@@ -2,7 +2,7 @@
 Incorrect assumptions about gas requirements especially for loops or external calls will lead to out-of-gas exceptions which may lead to security issues such as failed transfers or locked funds.
 ___
 ## Slide Screenshot
-![0182.png](../../images/pitfalls_and_best_practices201/182.png)
+![0182.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/182.png)
 ___
 ## Slide Text
 - 
