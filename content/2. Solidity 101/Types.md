@@ -6,7 +6,7 @@ Solidity has two categories of types: [Value Types](Value%20Type.md) and [Refere
 - In contrast, [Reference Types](Reference%20Type.md) can be modified through multiple different names i.e. references to the same underlying variable.
 ___
 ## Slide Screenshot
-![036.png](../../images/solidity101/036.png)
+![036.png](../../images/2.Solidity%20101/036.png)
 ___
 ## Slide Deck
 - Value & Reference

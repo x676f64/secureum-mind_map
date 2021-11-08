@@ -3,13 +3,13 @@
 
 ___
 ## Slide Screenshot
-![052.png](../../images/pitfalls_and_best_practices101/052.png)
+![052.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/052.png)
 ___
 ## Slide Text
-- assert() vs require() -> Different Usages
-- assert() -> Invariants
+- `assert()` vs `require()` -> Different Usages
+- `assert()` -> Invariants
 - No Failures Expected
-- require() -> Validation Failures Expected
+- `require()` -> Validation Failures Expected
 - Use Appropriately
 ___
 ## References

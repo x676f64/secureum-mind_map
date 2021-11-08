@@ -9,7 +9,7 @@ State variables have to be specified as being public, internal or private:
 
 ___
 ## Slide Screenshot
-![016.png](../../images/solidity101/016.png)
+![016.png](../../images/2.Solidity%20101/016.png)
 ___
 ## Slide Deck
 - State Visibility Specifiers

@@ -11,7 +11,7 @@ OpenZeppelin EIP712: EIP 712 is a standard for hashing and signing of typed stru
 
 ___
 ## Slide Screenshot
-![169.png](../../images/solidity201/169.png)
+![169.png](../../images/3.Solidity%20201/169.png)
 ___
 ## Slide Text
 - Hashing & Signing Typed Structured Data

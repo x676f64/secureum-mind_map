@@ -3,7 +3,7 @@ Contracts imported from proxy-based upgradeable contracts should also be upgrade
 
 ___
 ## Slide Screenshot
-![097.png](../../images/pitfalls_and_best_practices101/097.png)
+![097.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/097.png)
 ___
 ## Slide Text
 - Imported Contracts

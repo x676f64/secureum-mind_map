@@ -6,7 +6,7 @@ This is to allow system users to be aware of such critical changes and give them
 For e.g. reducing the rewards or increasing the fees in a system might not be acceptable to some users who may wish to withdraw their funds and exit.
 ___
 ## Slide Screenshot
-![0163.png](../../images/pitfalls_and_best_practices201/163.png)
+![0163.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/163.png)
 ___
 ## Slide Text
 - 

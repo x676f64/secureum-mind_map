@@ -5,7 +5,7 @@ If that element is an array, it can be very costly, because it includes explicit
 
 ___
 ## Slide Screenshot
-![062.png](../../images/solidity101/062.png)
+![062.png](../../images/2.Solidity%20101/062.png)
 ___
 ## Slide Deck
 - `push()` & `pop()`

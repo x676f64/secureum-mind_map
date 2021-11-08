@@ -10,7 +10,7 @@ Pseudonymous Teams & DAOs: Perhaps inspired by Bitcoin’s Satoshi Nakamoto, the
 
 ___
 ## Slide Screenshot
-![093.png](../../images/ethereum101/093.png)
+![093.png](../../images/1.Ethereum%20101/093.png)
 ___
 ## Slide Text
 - Regularity Uncertainty & Legal Implications

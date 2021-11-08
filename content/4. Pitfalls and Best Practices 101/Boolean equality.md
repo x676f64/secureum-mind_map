@@ -3,11 +3,11 @@ Boolean variables can be checked within conditionals directly without the use of
 
 ___
 ## Slide Screenshot
-![035.png](../../images/pitfalls_and_best_practices101/035.png)
+![035.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/035.png)
 ___
 ## Slide Text
 - Boolean Equality -> `true` or `false`
-- USe in Conditionals `if (x == true)`
+- Use in Conditionals `if (x == true)`
 - Redundant Use -> Unnecessary
 - Use Directly `if(x)`
 ___

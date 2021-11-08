@@ -6,7 +6,7 @@ If you are not reading or writing all the values in a slot at the same time, thi
 When one value is written to a multi-value storage slot, the storage slot has to be read first and then combined with the new value such that other data in the same slot is not destroyed.
 ___
 ## Slide Screenshot
-![119.png](../../images/solidity201/119.png)
+![119.png](../../images/3.Solidity%20201/119.png)
 ___
 ## Slide Text
 - Reduced-size Types Combined Slot

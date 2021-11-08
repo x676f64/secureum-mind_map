@@ -2,7 +2,7 @@
 While Solidity has progressively adopted explicit declarations of intent for e.g. with function visibility and variable storage, it is recommended to do the same at the application level where all requirements should be explicitly validated (e.g. input parameters) and assumptions should be documented and checked. Implicit requirements and assumptions should be flagged as dangerous.
 ___
 ## Slide Screenshot
-![0164.png](../../images/pitfalls_and_best_practices201/164.png)
+![0164.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/164.png)
 ___
 ## Slide Text
 - 

@@ -12,7 +12,7 @@ OpenZeppelin SafeCast: Wrappers over Solidity's uintXX/intXX casting operators w
 5.  Similar functions downcasting to 224/96/64/32/16/8 bits for both unsigned and signed.
 ___
 ## Slide Screenshot
-![177.png](../../images/solidity201/177.png)
+![177.png](../../images/3.Solidity%20201/177.png)
 ___
 ## Slide Text
 - Downcasting -> Overflow Safe Downcasting

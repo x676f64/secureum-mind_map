@@ -2,7 +2,7 @@
 Incorrect or insufficient detecting, reporting and handling of error conditions will cause exceptional behavior to go unnoticed which may lead to security issues.
 ___
 ## Slide Screenshot
-![0175.png](../../images/pitfalls_and_best_practices201/175.png)
+![0175.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/175.png)
 ___
 ## Slide Text
 - 

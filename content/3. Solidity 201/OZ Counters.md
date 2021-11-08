@@ -10,7 +10,7 @@ This can be used e.g. to track the number of elements in a mapping, issuing ERC7
 3.  `decrement(struct Counters.Counter counter)`
 ___
 ## Slide Screenshot
-![162.png](../../images/solidity201/162.png)
+![162.png](../../images/3.Solidity%20201/162.png)
 ___
 ## Slide Text
 - Counters

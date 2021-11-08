@@ -3,7 +3,7 @@ Solidity source files are recommended to start with a comment indicating its lic
 
 ___
 ## Slide Screenshot
-![005.png](../../images/solidity101/005.png)
+![005.png](../../images/2.Solidity%20101/005.png)
 ___
 ## Slide Deck
 - SPDX License Identifier

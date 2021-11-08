@@ -10,7 +10,7 @@
 4. When a function has multiple return types, the statement return (v0, v1, ..., vn) can be used to return multiple values. The number of components must be the same as the number of return variables and their types have to match, potentially after an implicit conversion
 ___
 ## Slide Screenshot
-![021.png](../../images/solidity101/021.png)
+![021.png](../../images/2.Solidity%20101/021.png)
 ___
 ## Slide Deck
 - After `returns` Keyword

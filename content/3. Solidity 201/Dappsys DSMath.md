@@ -20,7 +20,7 @@ There is no div function, as divide-by-zero checking is built into the Solidity 
 The int functions have an `i` prefix: `imin` and `imax`. Wad functions have a `w` prefix: `wmul`, `wdiv`. Ray functions have a `r` prefix: `rmul`, `rdiv`, `rpow`.
 ___
 ## Slide Screenshot
-![194.png](../../images/solidity201/194.png)
+![194.png](../../images/3.Solidity%20201/194.png)
 ___
 ## Slide Text
 - Arithmetic Functions X -> Overflow/Underflow

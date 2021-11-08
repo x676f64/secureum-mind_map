@@ -9,7 +9,7 @@
 
 ___
 ## Slide Screenshot
-![054.png](../../images/ethereum101/054.png)
+![054.png](../../images/1.Ethereum%20101/054.png)
 ___
 ## Slide Text
 - Modified Merkle-Patricia Tree

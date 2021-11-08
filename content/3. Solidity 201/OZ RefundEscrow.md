@@ -5,7 +5,7 @@ The owner account (that is, the contract that instantiates this contract) may de
 
 ___
 ## Slide Screenshot
-![172.png](../../images/solidity201/172.png)
+![172.png](../../images/3.Solidity%20201/172.png)
 ___
 ## Slide Text
 - Escrow -> Beneficiary Multiple Depositors

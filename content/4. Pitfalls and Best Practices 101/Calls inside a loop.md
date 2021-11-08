@@ -3,7 +3,7 @@ Calls to external contracts inside a loop are dangerous (especially if the loop 
 
 ___
 ## Slide Screenshot
-![043.png](../../images/pitfalls_and_best_practices101/043.png)
+![043.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/043.png)
 ___
 ## Slide Text
 - External Calls Inside Loops

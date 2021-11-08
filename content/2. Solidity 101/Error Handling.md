@@ -13,7 +13,7 @@ Error Handling:
 
 ___
 ## Slide Screenshot
-![078.png](../../images/solidity101/078.png)
+![078.png](../../images/2.Solidity%20101/078.png)
 ___
 ## Slide Deck
 - `assert(bool condition)` -> Panic/revert

@@ -8,7 +8,7 @@ To preserve the transaction history, blocks are strictly ordered (every new bloc
 
 ___
 ## Slide Screenshot
-![045.png](../../images/ethereum101/045.png)
+![045.png](../../images/1.Ethereum%20101/045.png)
 ___
 ## Slide Text
 - Block -> Grouped [Transaction](Transaction.md)s

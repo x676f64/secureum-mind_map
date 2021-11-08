@@ -4,7 +4,7 @@ Storage Layout & Inheritance: For contracts that use inheritance, the ordering o
 If allowed by the above rules, [state variables](State%20Variables.md) from different contracts do share the same storage slot.
 ___
 ## Slide Screenshot
-![118.png](../../images/solidity201/118.png)
+![118.png](../../images/3.Solidity%20201/118.png)
 ___
 ## Slide Text
 - Contract Inheritance -> Storage Layout

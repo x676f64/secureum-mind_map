@@ -11,7 +11,7 @@ The default value is the first member.
 
 ___
 ## Slide Screenshot
-![031.png](../../images/solidity101/031.png)
+![031.png](../../images/2.Solidity%20101/031.png)
 ___
 ## Slide Deck
 - User-defined Type

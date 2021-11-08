@@ -11,7 +11,7 @@ A transaction is a serialized binary message that contains the following compone
 
 ___
 ## Slide Screenshot
-![033.png](../../images/ethereum101/033.png)
+![033.png](../../images/1.Ethereum%20101/033.png)
 ___
 ## Slide Text
 - Serialized Binary Message

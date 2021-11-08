@@ -9,7 +9,7 @@ Consider using one of these versions: `0.7.5`, `0.7.6` or `0.8.4`.
 
 ___
 ## Slide Screenshot
-![01.png](../../images/pitfalls_and_best_practices101/001.png)
+![01.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/001.png)
 ___
 ## Slide Text
 - Old vs New Versions

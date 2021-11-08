@@ -7,7 +7,7 @@ The code consists of a series of bytes (hence called bytecode), where each byte 
 
 ___
 ## Slide Screenshot
-![058.png](../../images/ethereum101/058.png)
+![058.png](../../images/1.Ethereum%20101/058.png)
 ___
 ## Slide Text
 - Ethereum Virtual Machine ([EVM](EVM.md))

@@ -45,7 +45,7 @@ The different extensions/presets/utilities are:
 
 ___
 ## Slide Screenshot
-![151.png](../../images/solidity201/151.png)
+![151.png](../../images/3.Solidity%20201/151.png)
 ___
 ## Slide Text
 - ERC721 Token Standard -> NFTs

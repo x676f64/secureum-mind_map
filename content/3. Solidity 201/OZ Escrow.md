@@ -9,7 +9,7 @@ OpenZeppelin Escrow: holds funds designated for a payee until they withdraw them
 
 ___
 ## Slide Screenshot
-![170.png](../../images/solidity201/170.png)
+![170.png](../../images/3.Solidity%20201/170.png)
 ___
 ## Slide Text
 - Escrow Funds for Payee Ownable

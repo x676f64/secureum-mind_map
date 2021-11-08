@@ -14,7 +14,7 @@
 
 ___
 ## Slide Screenshot
-![076.png](../../images/ethereum101/076.png)
+![076.png](../../images/1.Ethereum%20101/076.png)
 ___
 ## Slide Text
 - Append Log Record -> Topics

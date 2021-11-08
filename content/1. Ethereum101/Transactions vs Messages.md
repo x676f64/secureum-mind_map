@@ -12,7 +12,7 @@ Transactions vs Messages:
 
 ___
 ## Slide Screenshot
-![043.png](../../images/ethereum101/043.png)
+![043.png](../../images/1.Ethereum%20101/043.png)
 ___
 ## Slide Text
 - Tx: Offchain -> Onchain

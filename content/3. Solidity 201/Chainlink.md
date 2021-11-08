@@ -5,7 +5,7 @@ To get price data into smart contracts for an asset that isn’t covered by an e
 
 ___
 ## Slide Screenshot
-![201.png](../../images/solidity201/201.png)
+![201.png](../../images/3.Solidity%20201/201.png)
 ___
 ## Slide Text
 - Oracles & Price Feeds

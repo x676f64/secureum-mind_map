@@ -11,7 +11,7 @@ The best-practices for layout within a contract is the following order:
 7. [functions](Functions.md)
 ___
 ## Slide Screenshot
-![004.png](../../images/solidity101/004.png)
+![004.png](../../images/2.Solidity%20101/004.png)
 ___
 ## Slide Deck
 - Solidity Source File Layout

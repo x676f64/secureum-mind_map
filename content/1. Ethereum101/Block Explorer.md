@@ -4,7 +4,7 @@
 
 ___
 ## Slide Screenshot
-![083.png](../../images/ethereum101/083.png)
+![083.png](../../images/1.Ethereum%20101/083.png)
 ___
 ## Slide Text
 - Application -> Web Portal

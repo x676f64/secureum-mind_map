@@ -45,7 +45,7 @@ A common use case is to position this TimelockController as the owner of a smart
 
 ___
 ## Slide Screenshot
-![182.png](../../images/solidity201/182.png)
+![182.png](../../images/3.Solidity%20201/182.png)
 ___
 ## Slide Text
 - Enforces Timelock

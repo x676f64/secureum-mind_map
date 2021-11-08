@@ -15,7 +15,7 @@
 
 ___
 ## Slide Screenshot
-![067.png](../../images/solidity101/067.png)
+![067.png](../../images/2.Solidity%20101/067.png)
 ___
 ## Slide Deck
 - `delete a` -> Assigns Initial Value to `a`

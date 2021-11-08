@@ -4,7 +4,7 @@ Non–token-related functions increase the likelihood of an issue in the contrac
 
 ___
 ## Slide Screenshot
-![0110.png](../../images/pitfalls_and_best_practices201/110.png)
+![0110.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/110.png)
 ___
 ## Slide Text
 - 

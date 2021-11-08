@@ -3,7 +3,7 @@
 `solc < 0.4.5` produced unexpected behavior with out-of-range enums. Check enum conversion or use a newer compiler. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#dangerous-enum-conversion))
 ___
 ## Slide Screenshot
-![071.png](../../images/pitfalls_and_best_practices101/071.png)
+![071.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/071.png)
 ___
 ## Slide Text
 - Out-of-range Enums

@@ -4,7 +4,7 @@ On-chain vs Off-chain: Smart contracts are “on-chain” [Web3](Web3.md) compon
 
 ___
 ## Slide Screenshot
-![090.png](../../images/ethereum101/090.png)
+![090.png](../../images/1.Ethereum%20101/090.png)
 ___
 ## Slide Text
 - Web2 -> Offchain

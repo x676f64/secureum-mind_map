@@ -12,7 +12,7 @@ Web3 is a permissionless, trust-minimized and censorship-resistant network for t
 
 ___
 ## Slide Screenshot
-![088.png](../../images/ethereum101/088.png)
+![088.png](../../images/1.Ethereum%20101/088.png)
 ___
 ## Slide Text
 - Permissionless

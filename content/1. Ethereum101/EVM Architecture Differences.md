@@ -6,7 +6,7 @@ Rather than storing program code in generally accessible memory or storage, it i
 
 ___
 ## Slide Screenshot
-![064.png](../../images/ethereum101/064.png)
+![064.png](../../images/1.Ethereum%20101/064.png)
 ___
 ## Slide Text
 - Von Neumann vs. Harvard

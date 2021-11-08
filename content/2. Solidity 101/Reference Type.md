@@ -5,7 +5,7 @@ Types that can be modified through multiple different names.
 
 ___
 ## Slide Screenshot
-![038.png](../../images/solidity101/038.png)
+![038.png](../../images/2.Solidity%20101/038.png)
 ___
 ## Slide Deck
 - Types: Values & Reference

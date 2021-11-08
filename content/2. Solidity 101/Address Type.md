@@ -12,7 +12,7 @@ The address type comes in two types:
 
 ___
 ## Slide Screenshot
-![045.png](../../images/solidity101/045.png)
+![045.png](../../images/2.Solidity%20101/045.png)
 ___
 ## Slide Deck
 - Account Address: [EOA](../1.%20Ethereum101/EOA.md)/[Contract](Contract.md)

@@ -10,7 +10,7 @@ For example, the default value for a [bool](Boolean.md) is false. The default va
 - For dynamically-sized arrays, [bytes and string](bytes%20&%20string.md) string , the default value is an empty array or string. For the [enum](Enums.md) type, the default value is its first member.
 ___
 ## Slide Screenshot
-![039.png](../../images/solidity101/039.png)
+![039.png](../../images/2.Solidity%20101/039.png)
 ___
 ## Slide Deck
 - Variable: Declared, Not Initialized

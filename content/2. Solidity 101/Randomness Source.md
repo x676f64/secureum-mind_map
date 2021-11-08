@@ -7,7 +7,7 @@ The current block timestamp must be strictly larger than the timestamp of the la
 
 ___
 ## Slide Screenshot
-![075.png](../../images/solidity101/075.png)
+![075.png](../../images/2.Solidity%20101/075.png)
 ___
 ## Slide Deck
 - block.timestamp

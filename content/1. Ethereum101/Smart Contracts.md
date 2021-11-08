@@ -4,7 +4,7 @@ Smart contracts can be thought of as "autonomous agents" that live inside of the
 
 ___
 ## Slide Screenshot
-![028.png](../../images/ethereum101/028.png)
+![028.png](../../images/1.Ethereum%20101/028.png)
 ___
 ## Slide Text
 - Autonomous Agents

@@ -7,7 +7,7 @@ Memory Layout & Arrays: Elements in memory arrays in Solidity always occupy mult
 
 ___
 ## Slide Screenshot
-![128.png](../../images/solidity201/128.png)
+![128.png](../../images/3.Solidity%20201/128.png)
 ___
 ## Slide Text
 - Elements -> 32B Multiples

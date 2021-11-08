@@ -13,7 +13,7 @@ The deployed code does not include the constructor code or internal functions on
 
 ___
 ## Slide Screenshot
-![032.png](../../images/solidity101/032.png)
+![032.png](../../images/2.Solidity%20101/032.png)
 ___
 ## Slide Deck
 - Contract Creation -> Constructor Function

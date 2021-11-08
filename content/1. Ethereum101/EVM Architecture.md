@@ -4,7 +4,7 @@ The [EVM](EVM.md) is a simple stack-based architecture consisting of the stack, 
 
 ___
 ## Slide Screenshot
-![059.png](../../images/ethereum101/059.png)
+![059.png](../../images/1.Ethereum%20101/059.png)
 ___
 ## Slide Text
 - Stack-Based Architecture

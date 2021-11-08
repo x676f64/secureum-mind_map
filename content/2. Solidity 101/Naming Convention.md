@@ -13,7 +13,7 @@
 
 ___
 ## Slide Screenshot
-![100.png](../../images/solidity101/100.png)
+![100.png](../../images/2.Solidity%20101/100.png)
 ___
 ## Slide Deck
 - Types: lc/l_c/UC/U_C/CW/C_W/mC

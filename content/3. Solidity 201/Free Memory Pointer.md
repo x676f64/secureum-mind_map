@@ -7,7 +7,7 @@ Considering the reserved memory, allocatable memory starts at `0x80`, which is t
 
 ___
 ## Slide Screenshot
-![129.png](../../images/solidity201/129.png)
+![129.png](../../images/3.Solidity%20201/129.png)
 ___
 ## Slide Text
 - Position `0x40`

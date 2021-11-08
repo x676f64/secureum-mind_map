@@ -3,7 +3,7 @@ This should be done in initializer functions and not as part of the state variab
 
 ___
 ## Slide Screenshot
-![096.png](../../images/pitfalls_and_best_practices101/096.png)
+![096.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/096.png)
 ___
 ## Slide Text
 - State Variables Initialized

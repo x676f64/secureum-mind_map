@@ -13,7 +13,7 @@ This library prevents that by requiring the `s` value to be in the lower half or
 
 ___
 ## Slide Screenshot
-![166.png](../../images/solidity201/166.png)
+![166.png](../../images/3.Solidity%20201/166.png)
 ___
 ## Slide Text
 - ECDSA Signatures

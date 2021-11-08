@@ -3,7 +3,7 @@ ERC777 tokens allow arbitrary callbacks via hooks that are called during token t
 
 ___
 ## Slide Screenshot
-![014.png](../../images/pitfalls_and_best_practices101/014.png)
+![014.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/014.png)
 ___
 ## Slide Text
 - ERC777 Token Standard

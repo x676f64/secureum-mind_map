@@ -3,7 +3,7 @@ Use of strict equalities with tokens/Ether can accidentally/maliciously cause un
 
 ___
 ## Slide Screenshot
-![028.png](../../images/pitfalls_and_best_practices101/028.png)
+![028.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/028.png)
 ___
 ## Slide Text
 - Strict Equalities -> Dangerous

@@ -9,7 +9,7 @@ Storage Layout & Structs/Arrays: 
 
 ___
 ## Slide Screenshot
-![117.png](../../images/solidity201/117.png)
+![117.png](../../images/3.Solidity%20201/117.png)
 ___
 ## Slide Text
 - Structs & Arrays [Storage](../1.%20Ethereum101/Storage.md) Rules

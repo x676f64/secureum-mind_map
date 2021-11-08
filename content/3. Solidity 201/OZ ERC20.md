@@ -48,7 +48,7 @@ The different extensions/presets are:
 	3. A pauser role that allows to stop all token transfers. This contract uses `AccessControl` contract to lock permissioned functions using the different roles. The account that deploys the contract will be granted the minter and pauser roles, as well as the default admin role, which will let it grant both minter and pauser roles to other accounts.
 ___
 ## Slide Screenshot
-![148.png](../../images/solidity201/148.png)
+![148.png](../../images/3.Solidity%20201/148.png)
 ___
 ## Slide Text
 - ERC20 Token Standard

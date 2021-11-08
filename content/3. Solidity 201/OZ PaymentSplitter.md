@@ -14,7 +14,7 @@ PaymentSplitter follows a pull payment model.
 This means that payments are not automatically forwarded to the accounts but kept in this contract, and the actual transfer is triggered as a separate step by calling the release function.
 ___
 ## Slide Screenshot
-![181.png](../../images/solidity201/181.png)
+![181.png](../../images/3.Solidity%20201/181.png)
 ___
 ## Slide Text
 - Split Ether Payments -> Group of Accounts

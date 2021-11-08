@@ -6,7 +6,7 @@ Most [EVM](EVM.md) [instructions](Instruction%20Set.md) operate with the stack (
 
 ___
 ## Slide Screenshot
-![060.png](../../images/ethereum101/060.png)
+![060.png](../../images/1.Ethereum%20101/060.png)
 ___
 ## Slide Text
 - 1024 Elements 256-Bits

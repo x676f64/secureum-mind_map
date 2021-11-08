@@ -27,7 +27,7 @@
 
 ___
 ## Slide Screenshot
-![099.png](../../images/solidity101/099.png)
+![099.png](../../images/2.Solidity%20101/099.png)
 ___
 ## Slide Deck
 - Whitespace in Expressions

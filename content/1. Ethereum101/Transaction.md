@@ -4,7 +4,7 @@ Transactions are signed messages originated by an externally owned account ([EOA
 
 ___
 ## Slide Screenshot
-![031.png](../../images/ethereum101/031.png)
+![031.png](../../images/1.Ethereum%20101/031.png)
 ___
 ## Slide Text
 - Signed Messages

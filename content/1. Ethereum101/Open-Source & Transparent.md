@@ -9,7 +9,7 @@ Open-source & Transparent: Given the emphasis on trust-minimization, [Web3](Web3
 3. Furthermore, transactions that are still “in flight” and are yet to be confirmed on the blockchain are also publicly visible in pending transaction queues (i.e. mempools) and lend to front-running attacks.
 ___
 ## Slide Screenshot
-![091.png](../../images/ethereum101/091.png)
+![091.png](../../images/1.Ethereum%20101/091.png)
 ___
 ## Slide Text
 - Expected to be open source

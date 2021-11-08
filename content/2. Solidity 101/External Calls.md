@@ -12,7 +12,7 @@ The functions `abi.encode`, `abi.encodePacked`, `abi.encodeWithSelector` and `ab
 
 ___
 ## Slide Screenshot
-![049.png](../../images/solidity101/049.png)
+![049.png](../../images/2.Solidity%20101/049.png)
 ___
 ## Slide Deck
 - call, delegatecall, staticcall

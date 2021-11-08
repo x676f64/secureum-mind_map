@@ -6,7 +6,7 @@ Compared to regular [State Variables](State%20Variables.md), the gas costs of co
 2. Immutable variables are evaluated once at construction time and their value is copied to all the places in the code where they are accessed. For these values, 32 bytes are reserved, even if they would fit in fewer bytes. Due to this, constant values can sometimes be cheaper than immutable values.
 ___
 ## Slide Screenshot
-![018.png](../../images/solidity101/018.png)
+![018.png](../../images/2.Solidity%20101/018.png)
 ___
 ## Slide Deck
 - [State Mutability](State%20Mutability.md)

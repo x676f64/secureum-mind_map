@@ -2,7 +2,7 @@
 Malicious proxy contracts may exploit function ID collision to invoke unintended proxy functions instead of delegating to implementation functions. Check for function ID collisions. (see [here](https://github.com/crytic/slither/wiki/Upgradeability-Checks#functions-ids-collisions) and [here](https://forum.openzeppelin.com/t/beware-of-the-proxy-learn-how-to-exploit-function-clashing/1070))
 ___
 ## Slide Screenshot
-![0100.png](../../images/pitfalls_and_best_practices101/100.png)
+![0100.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/100.png)
 ___
 ## Slide Text
 - Function ID Collision

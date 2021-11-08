@@ -14,7 +14,7 @@ When used with inheritance, manual care must be taken to not invoke a parent ini
 This is not verified automatically as constructors are by Solidity.
 ___
 ## Slide Screenshot
-![192.png](../../images/solidity201/192.png)
+![192.png](../../images/3.Solidity%20201/192.png)
 ___
 ## Slide Text
 - Proxy -> Impl
