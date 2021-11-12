@@ -15,7 +15,9 @@ ___
 
 Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0. 
 
-This is a set of contracts that demonstrate the topics covered with exceptional documentation. This is meant to be placed in the Contracts folder on [remix.ethereum.org](https://remix.ethereum.org): [Link to patrickd's gist](<https://remix.ethereum.org): https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54>).
+This is a set of contracts that demonstrate the topics covered with exceptional documentation. This is meant to be placed in the Contracts folder on [remix.ethereum.org](https://remix.ethereum.org): 
+
+[Link](https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54).
 
 
 ___
