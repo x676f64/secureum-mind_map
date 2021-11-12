@@ -20,7 +20,7 @@ This is a set of contracts that demonstrate the topics covered with exceptional 
 
 ___
 ___
-# ***Week 1*** - [Ethereum101](1.%20Ethereum%20101.md)
+# ***Slot 1*** - [Ethereum101](1.%20Ethereum%20101.md)
 ___
 ### Blog Article
 #### [Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
@@ -40,13 +40,13 @@ ___
 5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
 ___
 ### Quiz
-- [Week 1 quiz](quizzes/1.%20Ethereum101%20Quiz.md)
+- [Slot 1 quiz](quizzes/1.%20Ethereum101%20Quiz.md)
   
 ### Quiz Writeups
 - [https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz](https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz)
 ___
 ___
-# ***Week 2*** - [Solidity101](2.%20Solidity%20101.md)
+# ***Slot 2*** - [Solidity101](2.%20Solidity%20101.md)
 ### Blog Article
 #### [Article on "Solidity 101"](https://secureum.substack.com/p/solidity-101)
 ___
@@ -65,7 +65,7 @@ ___
 5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
 ___
 ___
-# Week 3 - [Solidity201](3.%20Solidity%20201.md)
+# Slot 3 - [Solidity201](3.%20Solidity%20201.md)
 ___
 ### Blog
 #### [Article on "Solidity 201"](https://secureum.substack.com/p/solidity-201)
@@ -84,12 +84,12 @@ ___
 5. Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
 ### Quiz
 ___
-- Week 3 quiz
+- Slot 3 quiz
 
 ### Quiz Writeups
 ___
 ___
-# Week 4 - [Pitfalls and Best Practices 101](4.%20Pitfalls%20and%20Best%20Practices%20101.md)
+# Slot 4 - [Pitfalls and Best Practices 101](4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 ### Blog
 #### [Article on "Security Pitfalls & Best Practices 101"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 ### Youtube Videos
@@ -107,13 +107,13 @@ ___
 ___
 ### Quiz
 ___
-- Week 4 quiz
+- Slot 4 quiz
 
 ### Quiz Writeups
 - 
 ___
 ___
-# Week 5 - [Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
+# Slot 5 - [Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 ___
 ### Blog
 #### [Article on "Security Pitfalls & Best Practices 201"](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
@@ -134,13 +134,13 @@ ___
 ___
 ### Quiz
 ___
-- Week 5 quiz
+- Slot 5 quiz
 
 ### Quiz Writeups
 - 
 ___
 ___
-# Week 6 - Audit Techniques & Tools 101
+# Slot 6 - Audit Techniques & Tools 101
 ### Blog
 #### [Article on "Audit Techniques & Tools 101"](https://secureum.substack.com/p/audit-techniques-and-tools-101)
 ### Youtube Videos
@@ -161,13 +161,13 @@ ___
 ___
 ### Quiz
 ___
-- Week 6 quiz
+- Slot 6 quiz
 
 ### Quiz Writeups
 - 
 ___
 ___
-# Week 7
+# Slot 7
 ### Blog
 - 
 ### Youtube Videos
@@ -180,13 +180,13 @@ ___
 ___
 ### Quiz
 ___
-- Week 7 quiz
+- Slot 7 quiz
 
 ### Quiz Writeups
 - 
 ___
 ___
-# Week 8
+# Slot 8
 ### Blog
 - 
 ### Youtube Videos
@@ -199,7 +199,7 @@ ___
 ___
 ### Quiz
 ___
-- Week 8 quiz
+- Slot 8 quiz
 
 ### Quiz Writeups
 - 
