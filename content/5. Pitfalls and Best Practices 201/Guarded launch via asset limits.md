@@ -5,9 +5,15 @@ ___
 ![0128.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/128.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Asset Limits
+- Launch -> Low # Assets
+- Over Time -> Increase
+- Launch Time
+- Higher Risk -> Exploits
+- Risk Mitigation
+- Gradually Increase Asset Limits
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=436)
 ___
 ## Tags

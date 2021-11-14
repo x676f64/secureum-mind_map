@@ -5,9 +5,13 @@ ___
 ![0167.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/167.png)
 ___
 ## Slide Text
-- 
+- Lack/Incorrect Cleanup -> Security Issues
+- Contract State
+- Slate State -> Old Values
+- Incorrect Reads/Writes
+- Cleanup -> Gas Refunds + Better Security
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=426)
 ___
 ## Tags

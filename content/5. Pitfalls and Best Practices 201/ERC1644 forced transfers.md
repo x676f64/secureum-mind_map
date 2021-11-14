@@ -5,9 +5,15 @@ ___
 ![0124.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/124.png)
 ___
 ## Slide Text
-- 
+- ERC1644 Forced Transfers
+- Controller Role
+- Part of ERC1400
+- Controller -> Arbitrary
+- Transfers -> Steal Funds
+- Controller Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=229)
 ___
 ## Tags

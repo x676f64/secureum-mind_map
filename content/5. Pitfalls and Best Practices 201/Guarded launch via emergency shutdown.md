@@ -5,9 +5,15 @@ ___
 ![0135.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/135.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Emergency Shutdown
+- Emergency -> Shutdown
+- Reset -> Restart
+- First -> Capability
+- Later -> Remove
+- Risk Mitigation
+- Emergency Shutdown
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=1125)
 ___
 ## Tags

@@ -5,9 +5,16 @@ ___
 ![0160.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/160.png)
 ___
 ## Slide Text
-- 
+- Ssytem Actors
+- Users/Admins/Roles
+- Trusted Vs Untrusted
+- Use <-> Abuse
+- Actors -> assets -> Actions
+- Specify & Implement & Evaluate
+- Actors -> Trust Vs Threat
+- Byzantine Threat Model
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1577)
 ___
 ## Tags

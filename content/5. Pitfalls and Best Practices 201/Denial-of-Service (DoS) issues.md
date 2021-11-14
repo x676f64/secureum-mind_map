@@ -5,9 +5,13 @@ ___
 ![0176.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/176.png)
 ___
 ## Slide Text
-- 
+- Denial of Service
+- CIA -> Availability
+- Users -> Access Affect Shared State -> DoS
+- Effects: Lock Funds, Lose Profit, Tx Inclusion, Griefing
+- Recognize & Minimize DoS Attributes
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=948)
 ___
 ## Tags

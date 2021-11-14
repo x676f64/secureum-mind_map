@@ -5,9 +5,14 @@ ___
 ![0117.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/117.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Ownership
+- Who Owns?
+- How Much?
+- Ownership -> Few <- Lot
+- Centralization Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=1263)
 ___
 ## Tags

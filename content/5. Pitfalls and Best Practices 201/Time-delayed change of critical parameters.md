@@ -9,9 +9,15 @@ ___
 ![0163.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/163.png)
 ___
 ## Slide Text
-- 
+- Delay Change -> Time Lock
+- Immediate Chagne -> Unfair
+- E.g.: Lower Rewards, Increase Fees
+- Event + Time-delay
+- Users -> Exit/Engage
+- Time-delayed Change
+- Less Surprise, More Fair
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=156)
 ___
 ## Tags

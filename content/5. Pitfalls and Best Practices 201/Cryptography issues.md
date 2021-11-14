@@ -5,9 +5,13 @@ ___
 ![0174.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/174.png)
 ___
 ## Slide Text
-- 
+- Cryptographic Primitives On-chain & Off-chain
+- Keys, Accounts, Hashes, Signatures, Randomness
+- ECDSA & KEccak-256
+- More: BLS, RANDAO, VDF, ZK
+- Fundamental -> Critical to Security
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=820)
 ___
 ## Tags

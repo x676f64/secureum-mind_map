@@ -5,9 +5,15 @@ ___
 ![0130.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/130.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch User Limits
+- Launch -> Few/Trusted Users
+- Over Time -> Increase
+- Launch Time
+- Higher Risk -> Exploits
+- Risk Mitigation
+- Gradually Increase Users
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=706)
 ___
 ## Tags

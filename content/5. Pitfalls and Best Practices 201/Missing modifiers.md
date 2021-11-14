@@ -5,9 +5,14 @@ ___
 ![0150.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/150.png)
 ___
 ## Slide Text
-- 
+- Access Control Modifiers -> Enforce
+- Modifiers -> Encapsualte
+- Repetitive Checks
+- Functions <-> Modifiers
+- Modularity Vs. Auditability
+- Present & Valid & Correct
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=790)
 ___
 ## Tags

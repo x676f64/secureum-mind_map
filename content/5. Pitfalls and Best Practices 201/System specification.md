@@ -5,9 +5,14 @@ ___
 ![0136.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/136.png)
 ___
 ## Slide Text
-- 
+- Requirements -> Specifications
+- Why & How
+- Spec <-> Requirements
+- No Spec -> No Baseline
+- Requirements -> Design
+- Specify -> Evaluate
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=1263)
 ___
 ## Tags

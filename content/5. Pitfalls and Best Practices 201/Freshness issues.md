@@ -5,9 +5,16 @@ ___
 ![0185.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/185.png)
 ___
 ## Slide Text
-- 
+- Freshness Issues
+- Fresh -> Not Stale
+- Tx Nonce -> Replay
+- Oracle -> Price
+- Lack of Timely Update
+- Lack of Availability
+- Fresh -> Stale
+- Security Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=200)
 ___
 ## Tags

@@ -5,9 +5,14 @@ ___
 ![0159.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/159.png)
 ___
 ## Slide Text
-- 
+- Token Handling Deposit/Withdraw/Transfer
+- Types of Tokens
+- Token Functions
+- Reetrancy/Locking/Access Control/Input Validation/Error Handling
+- Contract/Functions
+- Ensure Correct Token Handling
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1503)
 ___
 ## Tags

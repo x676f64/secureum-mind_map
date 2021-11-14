@@ -5,9 +5,15 @@ ___
 ![0122.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/122.png)
 ___
 ## Slide Text
-- 
+- ERC1400 Permissioned Addresses
+- PolyMath
+- Security Tokens
+- Block -> Transfers
+- To/From Addresses
+- DoS Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=72)
 ___
 ## Tags

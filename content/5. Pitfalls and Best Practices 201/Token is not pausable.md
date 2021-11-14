@@ -5,9 +5,13 @@ ___
 ![0114.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/114.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Pausing Guarded Launch
+- Owner -> Malicious or Compromised
+- Pause Contract -> Trap Funds
+- Not Pausable
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=931)
 ___
 ## Tags

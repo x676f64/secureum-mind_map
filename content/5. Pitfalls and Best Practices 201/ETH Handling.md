@@ -7,9 +7,13 @@ ___
 ![0158.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/158.png)
 ___
 ## Slide Text
-- 
+- ETH Handling Deposit/Withdraw/Transfer
+- msg.value/payable/withdraw/balance/transfer
+- Reentrancy/Locking/Access Control/Input Validation/Error Handling
+- Contracts/Functions
+- Ensure Correct ETH Handling
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1397)
 ___
 ## Tags

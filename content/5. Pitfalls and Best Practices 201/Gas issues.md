@@ -5,9 +5,16 @@ ___
 ![0182.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/182.png)
 ___
 ## Slide Text
-- 
+- Gas Issues
+- DoS -> Security
+- Turing Complete
+- Bound Computation
+- Loops, External Calls
+- OOG -> Lock/Fail
+- Gas Assumptions
+- Security Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=64)
 ___
 ## Tags

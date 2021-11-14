@@ -5,9 +5,15 @@ ___
 ![0133.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/133.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Escrowed Funds
+- High-value Tx -> Escrow
+- Timelock/Gov -> Revert
+- First -> Escrow
+- Later -> No Escrow
+- Risk Mitigation
+- Initially Escrow
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=998)
 ___
 ## Tags

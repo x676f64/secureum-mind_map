@@ -5,9 +5,16 @@ ___
 ![0177.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/177.png)
 ___
 ## Slide Text
-- 
+- Timing Issues
+- Security Impact
+- User/Contract/Blockchain
+- `block.timestamp`
+- Timing Assumptions
+- Functions -> Transitions
+- Actors -> Actions
+- Timing Attributes
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=1029)
 ___
 ## Tags

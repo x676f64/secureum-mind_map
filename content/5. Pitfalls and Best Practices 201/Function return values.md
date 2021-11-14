@@ -5,9 +5,15 @@ ___
 ![0142.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/142.png)
 ___
 ## Slide Text
-- 
+- Function Call -> Return
+- Return Values
+- Return Values
+- Correct & All Paths
+- Call Sites -> Use/Ignore
+- Return Values
+- Error Checking/Handling
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=101)
 ___
 ## Tags

@@ -5,9 +5,14 @@ ___
 ![0155.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/155.png)
 ___
 ## Slide Text
-- 
+- Software Testing Validation
+- Unit/Functional/IntegrationRegression E2E
+- Smoke/Stress/Perf/Security
+- Testnet Vs. Mainnet
+- Test Vs. Production
+- Sufficient Testing
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1194)
 ___
 ## Tags

@@ -5,9 +5,12 @@ ___
 ![0166.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/166.png)
 ___
 ## Slide Text
-- 
+- Lack/Incorrect Initialization -> Security Issues
+- Parameters, Addresses, Permissions, Roles
+- Default/Incorrect Values
+- Check Initialization
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=378)
 ___
 ## Tags

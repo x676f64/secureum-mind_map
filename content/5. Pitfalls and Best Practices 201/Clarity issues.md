@@ -5,9 +5,11 @@ ___
 ![0188.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/188.png)
 ___
 ## Slide Text
-- 
+- Clarity Issues
+- Assets/Actors/Actions
+- Spec, Implementation, Documentation, UI/UX
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=439)
 ___
 ## Tags

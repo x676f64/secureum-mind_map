@@ -5,9 +5,15 @@ ___
 ![0132.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/132.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Composability Limits
+- Launch -> Limited Composability
+- Over Time -> Increase
+- First -> Known Protocols
+- Later -> Others
+- Risk Mitigation
+- Gradually Increase
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=866)
 ___
 ## Tags

@@ -7,9 +7,12 @@ ___
 ![0110.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/110.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Contract
+- Token Functions Non-token Functions
+- No/Few Non-token Functions Complexity -> Bugs
+- Avoid Unnecessary Complexity
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=642)
 ___
 ## Tags

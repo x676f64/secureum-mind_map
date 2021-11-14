@@ -6,9 +6,13 @@ ___
 ![0112.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/112.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Upgradeability
+- Upgradeable -> Functionality Change
+- ERC20 Token Functions
+- Mint/Burn/Transfer Rules
+- Token Not Upgradeable
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=768)
 ___
 ## Tags

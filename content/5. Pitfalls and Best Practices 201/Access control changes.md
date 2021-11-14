@@ -5,9 +5,13 @@ ___
 ![0153.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/153.png)
 ___
 ## Slide Text
-- 
+- Access Control Correct Changes
+- Change -> Assets/Actors/Actions
+- Risk: Wrong/Timeliness
+- Impact: Loss/Lock Funds
+- Validate/Two-step/Log Capture Correct Changes
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1072)
 ___
 ## Tags

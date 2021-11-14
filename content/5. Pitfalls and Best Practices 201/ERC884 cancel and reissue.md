@@ -5,9 +5,13 @@ ___
 ![0126.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/126.png)
 ___
 ## Slide Text
-- 
+- ERC 884 Cancel & Reissue
+- Token Implementers -> Cancel Address
+- Move Tokens -> New Address
+- Token Holding Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=310)
 ___
 ## Tags

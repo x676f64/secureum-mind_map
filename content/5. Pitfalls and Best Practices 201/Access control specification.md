@@ -5,9 +5,12 @@ ___
 ![0148.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/148.png)
 ___
 ## Slide Text
-- 
+- Access Control -> Assets/Actors/Actions
+- Spec: Who/What/Why/When/How-Much
+- Trust/Threat Model & Assumptions
+- Spec -> Implement -> Enforce -> Evaluate
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=636)
 ___
 ## Tags

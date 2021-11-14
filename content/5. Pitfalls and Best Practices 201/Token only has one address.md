@@ -5,9 +5,12 @@ ___
 ![0111.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/111.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Address
+- Only One Address
+- Multiple Addresses -> Multiple Balances -> Bugs
+- Single Address
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=715)
 ___
 ## Tags

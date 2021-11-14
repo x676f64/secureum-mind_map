@@ -5,9 +5,14 @@ ___
 ![0194.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/194.png)
 ___
 ## Slide Text
-- 
+- Least Common Mechanism
+- Saltzer & Schroeder 1975
+- Minimize Sharing Code, Roles
+- Common Points of Failure
+- Common -> Separate
+- Weigh Pros & Cons
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=847)
 ___
 ## Tags

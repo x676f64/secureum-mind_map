@@ -5,9 +5,14 @@ ___
 ![0131.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/131.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Usage Limits
+- Launch -> Limited Usage
+- Over Time -> Increase
+- Tx Size, Tx Volume, Daily Limit, Rate Limiting
+- Risk Mitigation
+- Gradually Increase Usage
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=790)
 ___
 ## Tags

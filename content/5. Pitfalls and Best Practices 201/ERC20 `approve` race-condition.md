@@ -7,9 +7,14 @@ ___
 ![0105.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/105.png)
 ___
 ## Slide Text
-- 
+- ERC20 approve() -> Race-condition
+- approve(100) -> approve(50)
+- Allowance Decrease
+- Front-run -> Spend 150
+- increaseAllowance()
+- decreaseAllowance()
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=265)
 ___
 ## Tags

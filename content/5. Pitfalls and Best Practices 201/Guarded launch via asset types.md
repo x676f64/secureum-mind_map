@@ -5,9 +5,15 @@ ___
 ![0129.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/129.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Asset Types
+- Launch -> Few Types
+- Over Time -> Increase
+- First -> Known Assets
+- Later -> Others
+- Risk Mitigation
+- Gradually Increase Asset Types
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=603)
 ___
 ## Tags

@@ -5,9 +5,12 @@ ___
 ![0152.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/152.png)
 ___
 ## Slide Text
-- 
+- Modifiers Incorrect Use
+- Modifiers -> Which/Why/How/What/When/Where
+- Correct Functions & Modifiers & Parameters
+- Ensure Correct Usage
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1025)
 ___
 ## Tags

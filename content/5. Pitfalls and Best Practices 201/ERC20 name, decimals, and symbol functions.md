@@ -7,9 +7,12 @@ ___
 ![0103.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/103.png)
 ___
 ## Slide Text
-- 
+- ERC20 name, symbol, & decimals
+- Optional
+- Used -> Present
+- To Not Assume -> Check Presence
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=168)
 ___
 ## Tags

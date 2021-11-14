@@ -5,9 +5,14 @@ ___
 ![0190.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/190.png)
 ___
 ## Slide Text
-- 
+- Claiming Issues
+- Copy Code
+- Libraries, Contracts, Protocols
+- Context, Assumptions, Bugs, Fixes
+- Cloning Risks
+- Security Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=526)
 ___
 ## Tags

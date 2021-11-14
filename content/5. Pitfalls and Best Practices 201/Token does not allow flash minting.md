@@ -5,9 +5,13 @@ ___
 ![0121.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/121.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Flash Minting
+- Flash Minting Vs. Flash Loans
+- Overflows or Balance/Supply Assumptions
+- Manipulation Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU)
 ___
 ## Tags

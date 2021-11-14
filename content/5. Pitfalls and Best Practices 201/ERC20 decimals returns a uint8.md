@@ -7,9 +7,13 @@ ___
 ![0104.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/104.png)
 ___
 ## Slide Text
-- 
+- ERC20 decimals
+- Decimals in Tokne Typically 18
+- Return uint8
+- uint256 -> Incorrect
+- Return uint256 -> Check Value <= 255
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=206)
 ___
 ## Tags

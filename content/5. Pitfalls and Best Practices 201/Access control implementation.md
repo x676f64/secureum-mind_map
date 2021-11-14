@@ -5,9 +5,12 @@ ___
 ![0149.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/149.png)
 ___
 ## Slide Text
-- 
+- Access Control Spec -> Implement
+- Implement/Enforce Actors -> Assets
+- No Missing Actors/Assets/Flows/Conditions
+- Spec -> Implement -> Enforce -> Evaluate
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=739)
 ___
 ## Tags

@@ -5,9 +5,13 @@ ___
 ![0127.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/127.png)
 ___
 ## Slide Text
-- 
+- ERC 884 Whitelisting
+- Addresses -> Whitelisted
+- Token Transfer -> Only To Whitelisted Addresses
+- Token Transfer Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=373)
 ___
 ## Tags

@@ -5,9 +5,15 @@ ___
 ![0179.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/179.png)
 ___
 ## Slide Text
-- 
+- Undefined + Malicious -> Security
+- In Spec -> Defined
+- Not in Spec. -> Undefined
+- Undefined Behavior
+- Revert/Exploit
+- Defined Behavior
+- Spec + Implement + Doc
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=1139)
 ___
 ## Tags

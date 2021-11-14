@@ -5,9 +5,13 @@ ___
 ![0125.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/125.png)
 ___
 ## Slide Text
-- 
+- ERC 621 totalSupply Control
+- Trusted Actors -> Change totalSupply
+- increaseSupply & decreaseSupply
+- Token Supply Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=270)
 ___
 ## Tags

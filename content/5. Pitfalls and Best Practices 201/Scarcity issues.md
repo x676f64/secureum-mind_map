@@ -5,9 +5,16 @@ ___
 ![0186.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/186.png)
 ___
 ## Slide Text
-- 
+- Security Issues
+- Less -> Secure?
+- Assumptions
+- Funds/Tokens/Users
+- Flash Loans/Mints
+- Sybil Attacks
+- Scarcity -> Abundance
+- Security Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=273)
 ___
 ## Tags

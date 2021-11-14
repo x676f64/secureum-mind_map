@@ -5,9 +5,13 @@ ___
 ![0156.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/156.png)
 ___
 ## Slide Text
-- 
+- Unuse Constructs
+- Imports/Contracts/Functions/Variables/Events/Returns
+- Reduce Gas Improve Auditability/Maintainability
+- Missing Logic & Assumptions
+- Remove/Use Unused Constructs
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1289)
 ___
 ## Tags

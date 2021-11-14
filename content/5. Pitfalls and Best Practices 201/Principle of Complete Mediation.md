@@ -5,9 +5,14 @@ ___
 ![0196.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/196.png)
 ___
 ## Slide Text
-- 
+- Complete Mediation
+- Saltzer & Schroeder 1975
+- Access Control
+- All Assets/Actors/Actions
+- Missing Modifiers, Permissive Visibility, Missing auth Flows
+- Mediation -> Every Thing/One/Call
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=973)
 ___
 ## Tags

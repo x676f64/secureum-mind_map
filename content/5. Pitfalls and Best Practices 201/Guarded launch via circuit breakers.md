@@ -5,9 +5,15 @@ ___
 ![0134.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/134.png)
 ___
 ## Slide Text
-- 
+- Guarded Launch Circuit Breaker
+- Emergency -> Pause
+- Recover -> Unpause
+- First -> Pause/Unpause
+- Later -> No Circuit Breaker
+- Risk Mitigation
+- Initially Pause/Unpause
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=1041)
 ___
 ## Tags

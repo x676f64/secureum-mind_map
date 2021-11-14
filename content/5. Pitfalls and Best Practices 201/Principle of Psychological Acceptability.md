@@ -5,9 +5,16 @@ ___
 ![0199.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/199.png)
 ___
 ## Slide Text
-- 
+- Psychological Acceptability
+- Saltzer & Schroeder 1975
+- Human Interface
+- Ease of Use UI/UX
+- Humans -> Code/Use
+- Ease -> Apply Security
+- Design/Flow
+- More Intuitive & Less Risk
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=1113)
 ___
 ## Tags

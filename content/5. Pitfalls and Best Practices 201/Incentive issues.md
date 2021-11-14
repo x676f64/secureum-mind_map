@@ -5,9 +5,15 @@ ___
 ![0187.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/187.png)
 ___
 ## Slide Text
-- 
+- Incentive Issues
+- What? How Much?
+- Use <-> Abuse
+- Liquidity/Liquidations
+- DoS, Griefing
+- Incentive -> Yes/No
+- Security Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=366)
 ___
 ## Tags

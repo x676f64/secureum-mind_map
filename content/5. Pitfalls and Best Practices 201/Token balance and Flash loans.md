@@ -5,9 +5,13 @@ ___
 ![0120.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/120.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Balance
+- Logic -> Balance
+- Flash Loans or Whales
+- Manipulation Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=1465)
 ___
 ## Tags

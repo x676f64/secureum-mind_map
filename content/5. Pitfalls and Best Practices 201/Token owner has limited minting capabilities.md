@@ -5,9 +5,12 @@ ___
 ![0113.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/113.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Minting
+- Owner -> Capabilities
+- Malicious Owner -> Infinite Minting
+- Owner Minting Misuse or Abuse
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=851)
 ___
 ## Tags

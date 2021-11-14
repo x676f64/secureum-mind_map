@@ -5,9 +5,14 @@ ___
 ![0116.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/116.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Team
+- Team -> Public or Anonymous
+- Anonymous Team
+- Reputation & Risk
+- Team/Legal Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=1074)
 ___
 ## Tags

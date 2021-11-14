@@ -5,9 +5,13 @@ ___
 ![0115.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/115.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Blacklist
+- Owner -> Malicious or Compromised
+- Blacklist Contract -> Trap Funds
+- Cannot Blacklist
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=1003)
 ___
 ## Tags

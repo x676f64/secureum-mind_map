@@ -7,9 +7,13 @@ ___
 ![0157.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/157.png)
 ___
 ## Slide Text
-- 
+- Redundant Constructs
+- Code & Comments
+- Reduce Gas Improve Auditability/Maintainability
+- Missing Logic & Assumptions
+- Remove/Fix Redundant Constructs
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/pXoEIjHupXk?t=1338)
 ___
 ## Tags

@@ -5,9 +5,13 @@ ___
 ![0169.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/169.png)
 ___
 ## Slide Text
-- 
+- Validation Issues -> Security Issues
+- Untrusted Users & Tainted Data
+- Missed/Incorrect Validation
+- Sanity/Threshold Checks
+- Check Data Validation
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=535)
 ___
 ## Tags

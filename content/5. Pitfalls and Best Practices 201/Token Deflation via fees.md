@@ -6,9 +6,14 @@ ___
 ![0107.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/107.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Deflation
+- transfer/transferFrom -> Token Fee
+- Fee -> Deflation
+- Received < Sent
+- Check Deflation
+- Unexpected Behavior
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=393)
 ___
 ## Tags

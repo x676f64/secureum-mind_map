@@ -5,9 +5,13 @@ ___
 ![0119.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/119.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Listing
+- CEX Vs. DEX
+- Few CEXs -> Down/Hacked -> Liquidity/Volatility
+- Centralization Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=1393)
 ___
 ## Tags

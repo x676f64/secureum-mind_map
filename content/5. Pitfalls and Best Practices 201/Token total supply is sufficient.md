@@ -5,9 +5,13 @@ ___
 ![0118.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/118.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Supply
+- Token Supply -> Low or High
+- Low Supply -> Ownership & Liquidity & Volatility
+- Manipulation Risk
+- Risk Awareness
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=1324)
 ___
 ## Tags

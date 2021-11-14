@@ -7,9 +7,12 @@ ___
 ![0109.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/109.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Contract
+- Well-defined Spec Simple Contract
+- Complexity -> Bugs
+- Avoid Unnecessary Complexity
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=589)
 ___
 ## Tags

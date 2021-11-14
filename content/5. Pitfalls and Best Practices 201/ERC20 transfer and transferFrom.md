@@ -6,9 +6,12 @@ ___
 ![0102.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/102.png)
 ___
 ## Slide Text
-- 
+- ERC20 transfer() & transferFrom()
+- Should Return Boolean
+- No Boolean Return -> Cal Fail
+- Check Boolean Return
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=84)
 ___
 ## Tags

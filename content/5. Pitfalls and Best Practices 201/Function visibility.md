@@ -5,9 +5,13 @@ ___
 ![0140.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/140.png)
 ___
 ## Slide Text
-- 
+- Public -> External -> Internal -> Private
+- Strictest Visibility
+- Public/External -> Anyone
+- Use <-> Abuse
+- Byzantine Threat Model
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/HqHo1jKUnmU?t=1721)
 ___
 ## Tags

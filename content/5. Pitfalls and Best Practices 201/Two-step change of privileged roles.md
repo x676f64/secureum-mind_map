@@ -12,9 +12,15 @@ ___
 ![0162.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/162.png)
 ___
 ## Slide Text
-- 
+- Two-step Change
+- One-step -> Error-prone
+- Zero/Incorrect Address
+- Step 1: Old Approves New
+- Step 2: New Claims Ownership
+- Error Recovery in Step 1
+- Risk Mitigation
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=86)
 ___
 ## Tags

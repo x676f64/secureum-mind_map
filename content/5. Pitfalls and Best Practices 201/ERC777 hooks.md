@@ -7,9 +7,12 @@ ___
 ![0106.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/106.png)
 ___
 ## Slide Text
-- 
+- ERC777 Hooks
+- send/trasnfer/mint/burn/operatorSend
+- External Calls -> Reentrancy
+- Check Hooks -> External Calls
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=337)
 ___
 ## Tags

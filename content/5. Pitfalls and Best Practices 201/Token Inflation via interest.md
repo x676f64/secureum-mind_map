@@ -5,9 +5,13 @@ ___
 ![0108.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/108.png)
 ___
 ## Slide Text
-- 
+- ERC20 Token Inflation
+- transfer/transferFrom -> Token Interest
+- Interest -> Inflation Received > Sent
+- Check Inflation
+- Trapped in Contract
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/WGM1SF8twmw?t=499)
 ___
 ## Tags

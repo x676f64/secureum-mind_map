@@ -5,9 +5,15 @@ ___
 ![0195.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/195.png)
 ___
 ## Slide Text
-- 
+- Fail-safe Defaults
+- Saltzer & Schroeder 1975
+- Permission Vs Exclusion
+- Guarded Launch
+- Defaults: Visibility, Initializations, Permissions, Assets/Actors/Actions
+- Open Vs Closed
+- Weigh Pros & Cons
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=898)
 ___
 ## Tags

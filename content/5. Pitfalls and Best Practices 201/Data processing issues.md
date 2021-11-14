@@ -5,9 +5,14 @@ ___
 ![0168.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/168.png)
 ___
 ## Slide Text
-- 
+- Processing Issues -> Security Issues
+- Application Logic
+- Critical/Tainted Data
+- Missed/Incorrect Processing
+- Spec -> Implement
+- Check Data Processing
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IVbEIbIpWUY?t=494)
 ___
 ## Tags

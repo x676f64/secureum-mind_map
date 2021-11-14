@@ -5,9 +5,15 @@ ___
 ![0184.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/184.png)
 ___
 ## Slide Text
-- 
+- Constancy Issues
+- Constant -> Won't Change
+- Hardcoded Parameters
+- Hardcoded Assumptions
+- E.g.: Block Time, Addresses, Permissions, Roles
+- Constant -> Change 
+- Security Implications
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/QSsfkmcdbPw?t=156)
 ___
 ## Tags
