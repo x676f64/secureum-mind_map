@@ -22,6 +22,8 @@ ___
 ___
 # ***Slot 1*** - [Ethereum101](1.%20Ethereum%20101.md)
 ___
+### Topics
+
 ### Blog Article
 #### [Article on "Ethereum 101"](https://secureum.substack.com/p/ethereum-101)
 ___
@@ -140,7 +142,7 @@ ___
 - 
 ___
 ___
-# Slot 6 - Audit Techniques & Tools 101
+# Slot 6 - [Audit Techniques & Tools 101](6.%20Audit%20Techniques%20and%20Tools%20101.md)
 ### Blog
 #### [Article on "Audit Techniques & Tools 101"](https://secureum.substack.com/p/audit-techniques-and-tools-101)
 ### Youtube Videos
@@ -167,16 +169,22 @@ ___
 - 
 ___
 ___
-# Slot 7
+# Slot 7 - [Audit Findings 101](7.%20Audit%20Findings%20101.md)
 ### Blog
-- 
+#### [Article on "Audit Findings 101"](https://secureum.substack.com/p/audit-findings-101)
 ### Youtube Videos
-1.  [Block 1]()
-2.  [Block 2]()
-3.  [Block 3]()
-4.  [Block 4]()
-5.  [Block 5]()
+1.  [Block 1](https://youtu.be/SromSImIpHE)
+2.  [Block 2](https://youtu.be/KLBi3Uyg0dY)
+3.  [Block 3](https://youtu.be/RUyED_6mkqg)
+4.  [Block 4](https://youtu.be/D1Uz0NvrqeU)
+5.  [Block 5](https://youtu.be/GX8Z0kRRi_I)
+
 ### Assignment
+1. Read the audit report along with the smart contracts to understand all the reported findings for Fei Protocol: [https://consensys.net/diligence/audits/2021/01/fei-protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol) 
+2. Read the audit report along with the smart contracts to understand all the reported findings for Uniswap V3: [https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf](https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf)
+3. Read the audit report along with the smart contracts to understand all the reported findings for Chainlink: [https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf](https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf)
+4. Read the audit report along with the smart contracts to understand all the reported findings for Opyn Gamma protocol: [https://blog.openzeppelin.com/opyn-gamma-protocol-audit/](https://blog.openzeppelin.com/opyn-gamma-protocol-audit/)
+5. Watch: OpenZeppelin [@tinchoabbate's](https://twitter.com/tinchoabbate "https://twitter.com/tinchoabbate") “Secure Development Series”: [https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz](https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz)
 ___
 ### Quiz
 ___
