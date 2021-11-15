@@ -14,7 +14,7 @@ Evaluating assumptions Many security vulnerabilities result from faulty assumpti
 
 ___
 ## Slide Screenshot
-![097.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/097.png)
+![097.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/097.png)
 ___
 ## Slide Text
 - 

@@ -15,7 +15,7 @@ Starting with asset flow Assets are Ether or ERC20/ERC721/other tokens managed b
 
 ___
 ## Slide Screenshot
-![092.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/092.png)
+![092.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/092.png)
 ___
 ## Slide Text
 - 

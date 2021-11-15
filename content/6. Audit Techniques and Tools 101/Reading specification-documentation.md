@@ -14,7 +14,7 @@ Reading specification-documentation For projects that have a specification of th
 
 ___
 ## Slide Screenshot
-![081.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/081.png)
+![081.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/081.png)
 ___
 ## Slide Text
 - 

@@ -11,7 +11,7 @@ SWC Registry [SWC Registry](https://github.com/SmartContractSecurity/SWC-registr
 
 ___
 ## Slide Screenshot
-![071.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/071.png)
+![071.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/071.png)
 ___
 ## Slide Text
 - 

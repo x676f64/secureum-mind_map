@@ -11,7 +11,7 @@ Running deeper automated tools such as fuzzers e.g. Echidna, symbolic checkers s
 
 ___
 ## Slide Screenshot
-![084.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/084.png)
+![084.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/084.png)
 ___
 ## Slide Text
 - 

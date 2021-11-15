@@ -8,7 +8,7 @@ Audit Scope For Ethereum-based smart-contract projects, the scope is typically t
 
 ___
 ## Slide Screenshot
-![002.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/002.png)
+![002.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/002.png)
 ___
 ## Slide Text
 - 

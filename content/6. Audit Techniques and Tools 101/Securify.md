@@ -8,7 +8,7 @@ Securify [Securify](https://github.com/eth-sri/securify2): is a security scanner
 
 ___
 ## Slide Screenshot
-![072.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/072.png)
+![072.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/072.png)
 ___
 ## Slide Text
 - 

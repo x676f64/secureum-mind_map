@@ -14,7 +14,7 @@ Slither new detectors Slither’s plugin architecture lets you integrate new det
 
 ___
 ## Slide Screenshot
-![043.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/043.png)
+![043.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/043.png)
 ___
 ## Slide Text
 - 

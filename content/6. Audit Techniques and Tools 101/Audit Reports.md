@@ -8,7 +8,7 @@ Audit Reports include details of the scope, goals, effort, timeline, approach, t
 
 ___
 ## Slide Screenshot
-![013.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/013.png)
+![013.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/013.png)
 ___
 ## Slide Text
 - 

@@ -8,7 +8,7 @@ Echidna [Echidna](https://github.com/crytic/echidna) is `a Haskell program desig
 
 ___
 ## Slide Screenshot
-![045.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/045.png)
+![045.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/045.png)
 ___
 ## Slide Text
 - 

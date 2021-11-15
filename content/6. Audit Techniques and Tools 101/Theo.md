@@ -16,7 +16,7 @@ Theo [Theo](https://github.com/cleanunicorn/theo) is `an exploitation tool with 
 
 ___
 ## Slide Screenshot
-![068.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/068.png)
+![068.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/068.png)
 ___
 ## Slide Text
 - 

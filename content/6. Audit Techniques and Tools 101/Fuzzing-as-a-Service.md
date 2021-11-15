@@ -8,7 +8,7 @@ Fuzzing-as-a-Service [Fuzzing-as-a-Service](https://consensys.net/diligence/fuzz
 
 ___
 ## Slide Screenshot
-![066.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/066.png)
+![066.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/066.png)
 ___
 ## Slide Text
 - 

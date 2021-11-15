@@ -12,7 +12,7 @@ Audit Findings Likelihood-Difficulty Per [OWASP](https://owasp.org/www-community
 
 ___
 ## Slide Screenshot
-![015.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/015.png)
+![015.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/015.png)
 ___
 ## Slide Text
 - 

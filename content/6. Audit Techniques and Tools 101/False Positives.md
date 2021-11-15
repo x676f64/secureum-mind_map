@@ -11,7 +11,7 @@ False Positives are findings which indicate the presence of vulnerabilities but 
 
 ___
 ## Slide Screenshot
-![028.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/028.png)
+![028.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/028.png)
 ___
 ## Slide Text
 - 

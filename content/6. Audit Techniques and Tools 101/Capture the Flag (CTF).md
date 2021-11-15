@@ -12,7 +12,7 @@ Capture the Flag (CTF) are fun and educational challenges where participants hav
 
 ___
 ## Slide Screenshot
-![078.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/078.png)
+![078.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/078.png)
 ___
 ## Slide Text
 - 

@@ -26,7 +26,7 @@ Slither Printers Slither printers allow printing contract information with `--pr
 
 ___
 ## Slide Screenshot
-![036.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/036.png)
+![036.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/036.png)
 ___
 ## Slide Text
 - 

@@ -11,7 +11,7 @@ Audit Checklist For Projects Audit Checklist For Projects (See [here](https://bl
 
 ___
 ## Slide Screenshot
-![018.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/018.png)
+![018.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/018.png)
 ___
 ## Slide Text
 - 

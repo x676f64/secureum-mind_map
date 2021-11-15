@@ -12,7 +12,7 @@ MythX pricing
 
 ___
 ## Slide Screenshot
-![064.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/064.png)
+![064.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/064.png)
 ___
 ## Slide Text
 - 

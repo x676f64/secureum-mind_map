@@ -10,7 +10,7 @@ Brainstorming with other auditors [Linus’s law](https://en.wikipedia.org/wiki/
 
 ___
 ## Slide Screenshot
-![085.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/085.png)
+![085.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/085.png)
 ___
 ## Slide Text
 - 

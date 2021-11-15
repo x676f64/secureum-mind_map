@@ -17,7 +17,7 @@ Slither features
 
 ___
 ## Slide Screenshot
-![034.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/034.png)
+![034.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/034.png)
 ___
 ## Slide Text
 - 

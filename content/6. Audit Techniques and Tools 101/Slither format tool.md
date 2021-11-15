@@ -15,7 +15,7 @@ Slither format tool `slither-format` generates automatically patches. The patche
 
 ___
 ## Slide Screenshot
-![040.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/040.png)
+![040.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/040.png)
 ___
 ## Slide Text
 - 

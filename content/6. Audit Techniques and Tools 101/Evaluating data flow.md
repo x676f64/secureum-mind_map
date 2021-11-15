@@ -11,7 +11,7 @@ Evaluating data flow Data flow analyzes the transfer of data across and within s
 
 ___
 ## Slide Screenshot
-![094.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/094.png)
+![094.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/094.png)
 ___
 ## Slide Text
 - 

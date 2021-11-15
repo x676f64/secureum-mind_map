@@ -11,7 +11,7 @@ Solc-select [Solc-select](https://github.com/crytic/solc-select) is `a script to
 
 ___
 ## Slide Screenshot
-![054.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/054.png)
+![054.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/054.png)
 ___
 ## Slide Text
 - 

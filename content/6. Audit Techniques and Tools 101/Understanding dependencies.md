@@ -11,7 +11,7 @@ Understanding dependencies Dependencies exist when the correct compilation or fu
 
 ___
 ## Slide Screenshot
-![096.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/096.png)
+![096.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/096.png)
 ___
 ## Slide Text
 - 

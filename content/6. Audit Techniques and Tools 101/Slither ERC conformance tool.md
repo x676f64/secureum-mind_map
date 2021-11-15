@@ -15,7 +15,7 @@ Slither ERC conformance tool `slither-check-erc` checks the following for ERC's 
 
 ___
 ## Slide Screenshot
-![041.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/041.png)
+![041.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/041.png)
 ___
 ## Slide Text
 - 

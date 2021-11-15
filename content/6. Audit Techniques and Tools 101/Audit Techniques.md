@@ -17,7 +17,7 @@ One may also think of these as manual/semi-automated/fully-automated, where the 
 
 ___
 ## Slide Screenshot
-![019.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/019.png)
+![019.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/019.png)
 ___
 ## Slide Text
 - 

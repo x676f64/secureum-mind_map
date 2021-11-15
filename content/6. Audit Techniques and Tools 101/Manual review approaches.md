@@ -16,7 +16,7 @@ Manual review approaches Auditors have different approaches to manual reviewing 
 
 ___
 ## Slide Screenshot
-![090.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/090.png)
+![090.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/090.png)
 ___
 ## Slide Text
 - 

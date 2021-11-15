@@ -11,7 +11,7 @@ Mythx SaaS MythX is based on a SaaS (Security as a Service) platform based on th
 
 ___
 ## Slide Screenshot
-![060.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/060.png)
+![060.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/060.png)
 ___
 ## Slide Text
 - 

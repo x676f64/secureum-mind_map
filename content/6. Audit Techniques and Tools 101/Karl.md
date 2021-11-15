@@ -8,7 +8,7 @@ Karl [Karl](https://github.com/cleanunicorn/karl) is `a monitor for smart contra
 
 ___
 ## Slide Screenshot
-![067.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/067.png)
+![067.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/067.png)
 ___
 ## Slide Text
 - 

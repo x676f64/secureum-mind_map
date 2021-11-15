@@ -10,7 +10,7 @@ Fuzzing [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) or fuzz testing is an a
 
 ___
 ## Slide Screenshot
-![024.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/024.png)
+![024.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/024.png)
 ___
 ## Slide Text
 - 

@@ -14,7 +14,7 @@ Visual Auditor Visual Auditor is `a Visual Studio Code extension that provides s
 
 ___
 ## Slide Screenshot
-![069.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/069.png)
+![069.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/069.png)
 ___
 ## Slide Text
 - 

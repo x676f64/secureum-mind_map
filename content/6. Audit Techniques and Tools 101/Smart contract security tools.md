@@ -8,7 +8,7 @@ Smart contract security tools are critical in assisting smart contract developer
 
 ___
 ## Slide Screenshot
-![031.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/031.png)
+![031.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/031.png)
 ___
 ## Slide Text
 - 

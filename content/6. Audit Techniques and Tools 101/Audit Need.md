@@ -8,7 +8,7 @@ Audit Need Smart contract based projects  do not have sufficient in-house Ether
 
 ___
 ## Slide Screenshot
-![006.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/006.png)
+![006.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/006.png)
 ___
 ## Slide Text
 - 

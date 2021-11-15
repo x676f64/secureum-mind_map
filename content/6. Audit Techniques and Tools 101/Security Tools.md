@@ -8,7 +8,7 @@ Security Tools Smart contract security tools are useful in assisting auditors wh
 
 ___
 ## Slide Screenshot
-![079.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/079.png)
+![079.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/079.png)
 ___
 ## Slide Text
 - 

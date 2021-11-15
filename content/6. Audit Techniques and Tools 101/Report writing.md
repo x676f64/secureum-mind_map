@@ -11,7 +11,7 @@ Report writing The audit report is a final compilation of the entire assessment 
 
 ___
 ## Slide Screenshot
-![087.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/087.png)
+![087.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/087.png)
 ___
 ## Slide Text
 - 

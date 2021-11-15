@@ -11,7 +11,7 @@ Specification analysis Specification describes in detail what (and sometimes why
 
 ___
 ## Slide Screenshot
-![020.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/020.png)
+![020.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/020.png)
 ___
 ## Slide Text
 - 

@@ -8,7 +8,7 @@ VerX [VerX](https://verx.ch/): is a verifier that can automatically prove tempor
 
 ___
 ## Slide Screenshot
-![073.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/073.png)
+![073.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/073.png)
 ___
 ## Slide Text
 - 

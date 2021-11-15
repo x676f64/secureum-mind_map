@@ -11,7 +11,7 @@ Etheno [Etheno](https://github.com/crytic/etheno) is `the Ethereum testing Swiss
 
 ___
 ## Slide Screenshot
-![055.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/055.png)
+![055.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/055.png)
 ___
 ## Slide Text
 - 

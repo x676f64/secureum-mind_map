@@ -8,7 +8,7 @@ Audit Non-goal Audit is `not` a security guarantee of “bug-free” code by any
 
 ___
 ## Slide Screenshot
-![004.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/004.png)
+![004.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/004.png)
 ___
 ## Slide Text
 - 

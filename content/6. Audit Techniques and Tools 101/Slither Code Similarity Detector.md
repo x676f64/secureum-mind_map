@@ -11,7 +11,7 @@ Slither Code Similarity Detector Slither Code Similarity Detector (a research-or
 
 ___
 ## Slide Screenshot
-![038.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/038.png)
+![038.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/038.png)
 ___
 ## Slide Text
 - 

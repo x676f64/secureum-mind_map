@@ -10,7 +10,7 @@ Discussion with project team Having an open communication channel with the proje
 
 ___
 ## Slide Screenshot
-![086.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/086.png)
+![086.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/086.png)
 ___
 ## Slide Text
 - 

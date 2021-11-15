@@ -8,7 +8,7 @@ Slither `is a Solidity static analysis framework written in Python 3. It runs a 
 
 ___
 ## Slide Screenshot
-![033.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/033.png)
+![033.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/033.png)
 ___
 ## Slide Text
 - 

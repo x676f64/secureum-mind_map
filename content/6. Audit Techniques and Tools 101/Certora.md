@@ -11,7 +11,7 @@ Certora [Certora](https://www.certora.com/) [Prover](https://www.certora.com/pub
 
 ___
 ## Slide Screenshot
-![076.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/076.png)
+![076.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/076.png)
 ___
 ## Slide Text
 - 

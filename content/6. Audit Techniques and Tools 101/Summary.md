@@ -8,7 +8,7 @@ ___
 
 ## Slide Screenshot
 
-![101.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/101.png)
+![101.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/101.png)
 ___
 
 ## Slide Text

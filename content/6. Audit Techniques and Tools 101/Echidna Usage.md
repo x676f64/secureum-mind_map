@@ -11,7 +11,7 @@ Echidna Usage (see [tutorial](https://github.com/crytic/building-secure-contract
 
 ___
 ## Slide Screenshot
-![047.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/047.png)
+![047.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/047.png)
 ___
 ## Slide Text
 - 

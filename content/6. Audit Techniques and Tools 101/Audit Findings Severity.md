@@ -21,7 +21,7 @@ Audit Findings Severity Per OWASP, the Likelihood estimate and the Impact estima
 
 ___
 ## Slide Screenshot
-![017.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/017.png)
+![017.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/017.png)
 ___
 ## Slide Text
 - 

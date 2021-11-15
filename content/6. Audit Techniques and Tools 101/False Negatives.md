@@ -10,7 +10,7 @@ False Negatives are missed findings that should have indicated the presence of v
 
 ___
 ## Slide Screenshot
-![029.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/029.png)
+![029.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/029.png)
 ___
 ## Slide Text
 - 

@@ -11,7 +11,7 @@ Evaluating control flow Control flow analyzes the transfer of control, i.e. exec
 
 ___
 ## Slide Screenshot
-![093.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/093.png)
+![093.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/093.png)
 ___
 ## Slide Text
 - 

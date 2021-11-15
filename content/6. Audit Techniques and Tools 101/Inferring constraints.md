@@ -10,7 +10,7 @@ Inferring constraints Program constraints are basically rules that should be fol
 
 ___
 ## Slide Screenshot
-![095.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/095.png)
+![095.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/095.png)
 ___
 ## Slide Text
 - 

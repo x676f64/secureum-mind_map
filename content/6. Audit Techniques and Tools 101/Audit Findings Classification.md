@@ -21,7 +21,7 @@ Audit Findings Classification The vulnerabilities found during the audit are typ
 
 ___
 ## Slide Screenshot
-![014.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/014.png)
+![014.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/014.png)
 ___
 ## Slide Text
 - 

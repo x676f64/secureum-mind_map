@@ -11,7 +11,7 @@ Audit is an external security assessment of a project codebase, typically reques
 
 ___
 ## Slide Screenshot
-![001.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/001.png)
+![001.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/001.png)
 ___
 ## Slide Text
 - 

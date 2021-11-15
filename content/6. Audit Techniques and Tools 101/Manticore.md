@@ -13,7 +13,7 @@ Manticore [Manticore](https://github.com/trailofbits/manticore) is a symbolic ex
 
 ___
 ## Slide Screenshot
-![044.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/044.png)
+![044.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/044.png)
 ___
 ## Slide Text
 - 

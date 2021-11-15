@@ -14,7 +14,7 @@ Symbolic Checking is a technique of checking for program correctness, i.e. provi
 
 ___
 ## Slide Screenshot
-![025.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/025.png)
+![025.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/025.png)
 ___
 ## Slide Text
 - 

@@ -11,7 +11,7 @@ Manual analysis is complimentary to automated analysis using tools and serves a 
 
 ___
 ## Slide Screenshot
-![027.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/027.png)
+![027.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/027.png)
 ___
 ## Slide Text
 - 

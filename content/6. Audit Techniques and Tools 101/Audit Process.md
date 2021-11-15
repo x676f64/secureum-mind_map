@@ -18,7 +18,7 @@ Audit Process Audit Process could be thought of as a ten-step process as follows
 
 ___
 ## Slide Screenshot
-![080.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/080.png)
+![080.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/080.png)
 ___
 ## Slide Text
 - 

@@ -14,7 +14,7 @@ Eth-security-toolbox [Eth-security-toolbox](https://github.com/crytic/eth-securi
 
 ___
 ## Slide Screenshot
-![048.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/048.png)
+![048.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/048.png)
 ___
 ## Slide Text
 - 

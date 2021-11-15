@@ -8,7 +8,7 @@ DappHub’s Hevm [Hevm](http://dapp.tools/hevm/): is an implementation of the EV
 
 ___
 ## Slide Screenshot
-![077.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/077.png)
+![077.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/077.png)
 ___
 ## Slide Text
 - 

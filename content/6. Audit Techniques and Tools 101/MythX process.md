@@ -11,7 +11,7 @@ MythX process
 
 ___
 ## Slide Screenshot
-![057.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/057.png)
+![057.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/057.png)
 ___
 ## Slide Text
 - 

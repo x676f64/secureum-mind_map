@@ -11,7 +11,7 @@ MythX privacy guarantee for the smart contract code submitted using their SaaS A
 
 ___
 ## Slide Screenshot
-![061.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/061.png)
+![061.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/061.png)
 ___
 ## Slide Text
 - 

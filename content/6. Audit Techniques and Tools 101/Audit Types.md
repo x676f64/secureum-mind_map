@@ -13,7 +13,7 @@ Audit Types depend on the scope/nature/status of projects but generally fall int
 
 ___
 ## Slide Screenshot
-![007.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/007.png)
+![007.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/007.png)
 ___
 ## Slide Text
 - 

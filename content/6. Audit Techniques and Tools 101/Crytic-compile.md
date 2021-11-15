@@ -12,7 +12,7 @@ Crytic-compile[Crytic-compile](https://github.com/crytic/crytic-compile) is a sm
 
 ___
 ## Slide Screenshot
-![053.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/053.png)
+![053.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/053.png)
 ___
 ## Slide Text
 - 

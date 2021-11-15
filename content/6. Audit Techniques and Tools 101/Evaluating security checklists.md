@@ -11,7 +11,7 @@ Evaluating security checklists Checklists are lists of itemized points that can 
 
 ___
 ## Slide Screenshot
-![098.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/098.png)
+![098.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/098.png)
 ___
 ## Slide Text
 - 

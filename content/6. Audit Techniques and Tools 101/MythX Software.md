@@ -12,7 +12,7 @@ MythX Software MythX official integrations, tools and libraries include:
 
 ___
 ## Slide Screenshot
-![063.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/063.png)
+![063.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/063.png)
 ___
 ## Slide Text
 - 

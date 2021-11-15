@@ -8,7 +8,7 @@ SmartCheck [SmartCheck](https://github.com/smartdec/smartcheck): is an extensibl
 
 ___
 ## Slide Screenshot
-![074.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/074.png)
+![074.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/074.png)
 ___
 ## Slide Text
 - 

@@ -8,7 +8,7 @@ MythX [MythX](https://mythx.io/) is `a powerful security analysis service that f
 
 ___
 ## Slide Screenshot
-![056.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/056.png)
+![056.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/056.png)
 ___
 ## Slide Text
 - 

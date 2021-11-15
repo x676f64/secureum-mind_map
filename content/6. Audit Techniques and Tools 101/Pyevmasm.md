@@ -8,7 +8,7 @@ Pyevmasm [Pyevmasm](https://github.com/crytic/pyevmasm) is `an assembler and dis
 
 ___
 ## Slide Screenshot
-![050.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/050.png)
+![050.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/050.png)
 ___
 ## Slide Text
 - 

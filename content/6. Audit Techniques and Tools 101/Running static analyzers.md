@@ -11,7 +11,7 @@ Running static analyzers Automated tools such as linters or static analyzers hel
 
 ___
 ## Slide Screenshot
-![082.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/082.png)
+![082.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/082.png)
 ___
 ## Slide Text
 - 

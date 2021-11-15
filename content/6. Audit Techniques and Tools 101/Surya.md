@@ -10,7 +10,7 @@ Surya [Surya](https://github.com/ConsenSys/surya) `aids auditors in understandin
 
 ___
 ## Slide Screenshot
-![070.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/070.png)
+![070.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/070.png)
 ___
 ## Slide Text
 - 

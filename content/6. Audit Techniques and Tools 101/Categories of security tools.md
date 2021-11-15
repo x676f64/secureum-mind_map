@@ -8,7 +8,7 @@ Categories of security tools tools for testing, test coverage, linting, disassem
 
 ___
 ## Slide Screenshot
-![032.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/032.png)
+![032.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/032.png)
 ___
 ## Slide Text
 - 

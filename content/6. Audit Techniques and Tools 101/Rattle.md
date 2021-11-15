@@ -11,7 +11,7 @@ Rattle [Rattle](https://github.com/crytic/rattle) is `an EVM binary static analy
 
 ___
 ## Slide Screenshot
-![051.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/051.png)
+![051.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/051.png)
 ___
 ## Slide Text
 - 

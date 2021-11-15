@@ -12,7 +12,7 @@ Estimating the likelihood and impact Likelihood indicates the probability of a v
 
 ___
 ## Slide Screenshot
-![100.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/100.png)
+![100.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/100.png)
 ___
 ## Slide Text
 - 

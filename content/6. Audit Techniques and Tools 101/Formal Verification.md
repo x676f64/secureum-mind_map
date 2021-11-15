@@ -11,7 +11,7 @@ Formal Verification [Formal verification](https://en.wikipedia.org/wiki/Formal`v
 
 ___
 ## Slide Screenshot
-![026.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/026.png)
+![026.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/026.png)
 ___
 ## Slide Text
 - 

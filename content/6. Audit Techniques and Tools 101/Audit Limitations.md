@@ -11,7 +11,7 @@ Audit Limitations Audits are necessary (for now at least) but not sufficient:
 
 ___
 ## Slide Screenshot
-![012.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/012.png)
+![012.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/012.png)
 ___
 ## Slide Text
 - 

@@ -8,7 +8,7 @@ Audit Target Security companies execute audits for clients who pay for their ser
 
 ___
 ## Slide Screenshot
-![005.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/005.png)
+![005.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/005.png)
 ___
 ## Slide Text
 - 

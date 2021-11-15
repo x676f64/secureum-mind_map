@@ -11,7 +11,7 @@ Scribble [Scribble](https://github.com/consensys/scribble) is `a verification la
 
 ___
 ## Slide Screenshot
-![065.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/065.png)
+![065.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/065.png)
 ___
 ## Slide Text
 - 

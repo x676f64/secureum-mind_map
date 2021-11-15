@@ -11,7 +11,7 @@ Evaluating fixes Post audit, the project team may work on any required fixes for
 
 ___
 ## Slide Screenshot
-![089.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/089.png)
+![089.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/089.png)
 ___
 ## Slide Text
 - 

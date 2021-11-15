@@ -11,7 +11,7 @@ Manual code review is required to understand business logic and detect vulnerabi
 
 ___
 ## Slide Screenshot
-![083.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/083.png)
+![083.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/083.png)
 ___
 ## Slide Text
 - 

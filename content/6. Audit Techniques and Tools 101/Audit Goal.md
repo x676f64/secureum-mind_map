@@ -8,7 +8,7 @@ Audit Goal The goal of audits is to assess project code (with any associated spe
 
 ___
 ## Slide Screenshot
-![003.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/003.png)
+![003.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/003.png)
 ___
 ## Slide Text
 - 

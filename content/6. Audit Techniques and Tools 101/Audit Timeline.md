@@ -8,7 +8,7 @@ Audit Timeline depends on the scope/nature/status of the project to be assessed 
 
 ___
 ## Slide Screenshot
-![008.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/008.png)
+![008.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/008.png)
 ___
 ## Slide Text
 - 

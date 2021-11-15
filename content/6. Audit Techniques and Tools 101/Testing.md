@@ -14,7 +14,7 @@ Testing Software testing or validation is a well-known fundamental software engi
 
 ___
 ## Slide Screenshot
-![022.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/022.png)
+![022.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/022.png)
 ___
 ## Slide Text
 - 
