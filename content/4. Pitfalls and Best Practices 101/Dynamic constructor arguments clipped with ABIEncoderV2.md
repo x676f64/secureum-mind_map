@@ -5,7 +5,7 @@ This is due to a compiler bug introduced in `v0.4.16` and fixed in `v0.5.9`. (se
 
 ___
 ## Slide Screenshot
-![078.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/078.png)
+![078.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/078.png)
 ___
 ## Slide Text
 - Constructor Dynamic Arguments

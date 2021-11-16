@@ -20,7 +20,7 @@ This is a set of contracts that demonstrate the topics covered with exceptional 
 
 ___
 ___
-# ***Slot 1*** - [Ethereum101](1.%20Ethereum%20101.md)
+# ***Slot 1*** - [Ethereum101](inlined_content/1.%20Ethereum%20101.md)
 ___
 ### Topics
 
@@ -42,7 +42,7 @@ ___
 5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
 ___
 ### Quiz
-- [Slot 1 quiz](quizzes/1.%20Ethereum101%20Quiz.md)
+- [Slot 1 quiz](quizzes/1.%20Ethereum%20101.md)
   
 ### Quiz Writeups
 - [https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz](https://ventral.digital/posts/2021/10/17/secureum-bootcamp-ethereum-101-quiz)
@@ -65,6 +65,10 @@ ___
 3.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: [https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
 4.  Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access) and [https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security)
 5.  Experiment with the various Solidity concepts using [https://remix.ethereum.org/](https://remix.ethereum.org/)
+
+### Quiz
+___
+- [Slot 2 Quiz](quizzes/2.%20Solidity%20101.md)
 ___
 ___
 # Slot 3 - [Solidity201](3.%20Solidity%20201.md)
@@ -86,7 +90,7 @@ ___
 5. Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: [https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core](https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core "https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core")
 ### Quiz
 ___
-- Slot 3 quiz
+- [Slot 3 Quiz](quizzes/3.%20Solidity%20201.md)
 
 ### Quiz Writeups
 ___
@@ -109,7 +113,7 @@ ___
 ___
 ### Quiz
 ___
-- Slot 4 quiz
+- [Slot 4 quiz](quizzes/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 
 ### Quiz Writeups
 - 
@@ -136,7 +140,7 @@ ___
 ___
 ### Quiz
 ___
-- Slot 5 quiz
+- [Slot 5 quiz](quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 
 ### Quiz Writeups
 - 

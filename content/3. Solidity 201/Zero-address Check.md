@@ -7,7 +7,7 @@ Therefore zero addresses should be used with care and checks should be implement
 
 ___
 ## Slide Screenshot
-![144.png](../../images/3.Solidity%20201/144.png)
+![144.png](../../images/3.%20Solidity%20201/144.png)
 ___
 ## Slide Text
 - address(0) X -> Private Key

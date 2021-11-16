@@ -23,7 +23,7 @@ Yul parses comments, literals and identifiers in the same way as Solidity. Insid
 
 ___
 ## Slide Screenshot
-![134.png](../../images/3.Solidity%20201/134.png)
+![134.png](../../images/3.%20Solidity%20201/134.png)
 ___
 ## Slide Text
 - Literals & Calls

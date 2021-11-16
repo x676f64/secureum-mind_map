@@ -8,7 +8,7 @@
 4. Order: Transaction order is not guaranteed and depends on network congestion and gasPrice among other things. Miners determine order.
 ___
 ## Slide Screenshot
-![032.png](../../images/1.Ethereum%20101/032.png)
+![032.png](../../images/1.%20Ethereum%20101/032.png)
 ___
 ## Slide Text
 Transactions are:

@@ -8,7 +8,7 @@ Transaction receipt is a tuple of four items comprising: 
 
 ___
 ## Slide Screenshot
-![055.png](../../images/1.Ethereum%20101/055.png)
+![055.png](../../images/1.%20Ethereum%20101/055.png)
 ___
 ## Slide Text
 - Four Item Tuple (n, n, n, n)

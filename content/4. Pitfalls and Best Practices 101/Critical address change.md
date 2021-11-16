@@ -4,7 +4,7 @@ Changing critical addresses in contracts should be a two-step process where the 
 This gives an opportunity to recover from incorrect addresses mistakenly used in the first step. If not, contract functionality might become inaccessible. (see [here](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/1488) and [here](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/2369))
 ___
 ## Slide Screenshot
-![050.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/050.png)
+![050.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/050.png)
 ___
 ## Slide Text
 - Critical Addresses Change Value

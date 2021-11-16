@@ -8,7 +8,7 @@ Ethereum account contains four fields:
 
 ___
 ## Slide Screenshot
-![023.png](../../images/1.Ethereum%20101/023.png)
+![023.png](../../images/1.%20Ethereum%20101/023.png)
 ___
 ## Slide Text
 - Four Fields

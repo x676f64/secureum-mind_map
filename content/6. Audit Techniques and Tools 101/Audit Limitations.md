@@ -7,7 +7,7 @@ Audit Limitations Audits are necessary (for now at least) but not sufficient:
 3. Audits provide a project’s security snapshot over a brief (typically few weeks) period. However, smart contracts need to evolve over time to add new features, fix bugs or optimize. Relying on external audits after every change is impractical. 
 ___
 ## Slide Screenshot
-![012.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/012.png)
+![012.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/012.png)
 ___
 ## Slide Text
 - Residual Risk

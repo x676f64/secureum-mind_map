@@ -5,7 +5,7 @@ Contracts can inherit from other contracts
 
 ___
 ## Slide Screenshot
-![013.png](../../images/2.Solidity%20101/013.png)
+![013.png](../../images/2.%20Solidity%20101/013.png)
 ___
 ## Slide Deck
 - Contracts: Similar to Classes in OOP

@@ -9,7 +9,7 @@
 6. Views: Cockpit vs Outline
 ___
 ## Slide Screenshot
-![069.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/069.png)
+![069.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/069.png)
 ___
 ## Slide Text
 - Visual Studio Extension

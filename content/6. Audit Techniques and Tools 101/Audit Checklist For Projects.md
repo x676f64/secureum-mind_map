@@ -19,7 +19,7 @@ Audit Checklist For Projects Audit Checklist For Projects (See [here](https://bl
 	4. Document the deployment process and environment, including all the specific versions of external tools and libraries for this process.
 ___
 ## Slide Screenshot
-![018.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/018.png)
+![018.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/018.png)
 ___
 ## Slide Text
 - 

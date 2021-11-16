@@ -8,7 +8,7 @@ MythX is based on a SaaS (Security as a Service) platform based on the premise t
 3. Benefit from continuous improvements to our security analysis technology with new and improved security tests as the smart contract security landscape evolves.
 ___
 ## Slide Screenshot
-![060.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/060.png)
+![060.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/060.png)
 ___
 ## Slide Text
 - SaaS -> Security-as-a-Service

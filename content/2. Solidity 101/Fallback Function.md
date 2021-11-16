@@ -7,7 +7,7 @@ A contract can have at most one fallback function, declared using either `fallba
 
 ___
 ## Slide Screenshot
-![034.png](../../images/2.Solidity%20101/034.png)
+![034.png](../../images/2.%20Solidity%20101/034.png)
 ___
 ## Slide Deck
 - No Match, No Data & No `receive()` -> `fallback()`

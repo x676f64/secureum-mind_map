@@ -11,7 +11,7 @@ However, application-level constraints are rules that are implicit to the busine
 2. Program constraints can also be verified using a symbolic checker which generates counter-examples or witnesses along execution paths where such constraints do not hold.
 ___
 ## Slide Screenshot
-![095.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/095.png)
+![095.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/095.png)
 ___
 ## Slide Text
 - Program Constraints -> Rules/Properties

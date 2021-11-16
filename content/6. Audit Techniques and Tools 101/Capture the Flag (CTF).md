@@ -11,7 +11,7 @@ Popular ones include:
 4. [Paradigm CFT](https://ctf.paradigm.xyz/): is a set of seventeen [challenges](https://github.com/paradigm-operations/paradigm-ctf-2021) created by [samczsun](https://twitter.com/samczsun) at Paradigm.
 ___
 ## Slide Screenshot
-![078.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/078.png)
+![078.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/078.png)
 ___
 ## Slide Text
 - Capture The Flags

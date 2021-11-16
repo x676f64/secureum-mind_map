@@ -17,7 +17,7 @@ Inline Assembly Access to External Variables, Functions and Libraries: 
 
 ___
 ## Slide Screenshot
-![133.png](../../images/3.Solidity%20201/133.png)
+![133.png](../../images/3.%20Solidity%20201/133.png)
 ___
 ## Slide Text
 - External Variables, Functions & Libraries

@@ -9,7 +9,7 @@ Using this instead of `ECDSA.recover` in your contract will make them compatible
 
 ___
 ## Slide Screenshot
-![168.png](../../images/3.Solidity%20201/168.png)
+![168.png](../../images/3.%20Solidity%20201/168.png)
 ___
 ## Slide Text
 - ECDSA & ERC-1271 Signatures

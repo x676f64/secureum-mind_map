@@ -8,7 +8,7 @@ When you submit your code to the API it gets analyzed by multiple microservices 
 3. a greybox fuzzer that detects vulnerable execution paths
 ___
 ## Slide Screenshot
-![058.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/058.png)
+![058.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/058.png)
 ___
 ## Slide Text
 - Static Analysis -> Maru

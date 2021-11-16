@@ -9,7 +9,7 @@ Each pair of leaves and each pair of pre-images are assumed to be sorted.
 
 ___
 ## Slide Screenshot
-![167.png](../../images/3.Solidity%20201/167.png)
+![167.png](../../images/3.%20Solidity%20201/167.png)
 ___
 ## Slide Text
 - Merkle Tree Proof Verificiation

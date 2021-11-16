@@ -8,7 +8,7 @@ It will make available the modifiers `whenNotPaused` and `whenPaused`, which can
 Only the functions using the modifiers will be affected when the contract is paused or unpaused.
 ___
 ## Slide Screenshot
-![156.png](../../images/3.Solidity%20201/156.png)
+![156.png](../../images/3.%20Solidity%20201/156.png)
 ___
 ## Slide Text
 - Guarded Launch

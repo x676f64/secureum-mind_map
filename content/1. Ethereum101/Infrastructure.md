@@ -4,7 +4,7 @@ Ethereum is an open source, globally decentralized computing infrastructure that
 
 ___
 ## Slide Screenshot
-![003.png](../../images/1.Ethereum%20101/003.png)
+![003.png](../../images/1.%20Ethereum%20101/003.png)
 ___
 ## Slide Text
 - Open-source Protocol & Code 

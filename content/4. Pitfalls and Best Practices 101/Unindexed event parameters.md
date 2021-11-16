@@ -3,7 +3,7 @@ Parameters of certain events are expected to be indexed (e.g. ERC20 Transfer/App
 
 ___
 ## Slide Screenshot
-![046.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/046.png)
+![046.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/046.png)
 ___
 ## Slide Text
 - Event Parameters -> Not Indexed

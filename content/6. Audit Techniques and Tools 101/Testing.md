@@ -11,7 +11,7 @@ Testing Software testing or validation is a well-known fundamental software engi
 6. "Program testing can be used to show the presence of bugs, but never to show their absence!” - E.W. Dijkstra
 ___
 ## Slide Screenshot
-![022.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/022.png)
+![022.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/022.png)
 ___
 ## Slide Text
 - Software Engineering

@@ -3,7 +3,7 @@ Constant state variables should be declared constant to save gas. (see [here](ht
 
 ___
 ## Slide Screenshot
-![065.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/065.png)
+![065.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/065.png)
 ___
 ## Slide Text
 - Constant State Variables

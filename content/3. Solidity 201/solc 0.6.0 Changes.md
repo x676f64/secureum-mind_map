@@ -13,7 +13,7 @@ Solidity v0.6.0 Semantic and Syntactic Changes:
 
 ___
 ## Slide Screenshot
-![137.png](../../images/3.Solidity%20201/137.png)
+![137.png](../../images/3.%20Solidity%20201/137.png)
 ___
 ## Slide Text
 - external Fn X -> address

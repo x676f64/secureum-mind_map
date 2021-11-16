@@ -7,7 +7,7 @@ The directive `using A for B`; can be used to attach library functions (from the
 
 ___
 ## Slide Screenshot
-![104.png](../../images/3.Solidity%20201/104.png)
+![104.png](../../images/3.%20Solidity%20201/104.png)
 ___
 ## Slide Text
 - Directive using A for B

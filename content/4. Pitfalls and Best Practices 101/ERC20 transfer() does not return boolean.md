@@ -3,7 +3,7 @@ Contracts compiled with `solc >= 0.4.22` interacting with such functions will re
 
 ___
 ## Slide Screenshot
-![024.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/024.png)
+![024.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/024.png)
 ___
 ## Slide Text
 - ERC20 `transfer()`

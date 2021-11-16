@@ -3,7 +3,7 @@ The low-level functions `call`, `delegatecall` and `staticcall` return true as t
 
 ___
 ## Slide Screenshot
-![087.png](../../images/2.Solidity%20101/087.png)
+![087.png](../../images/2.%20Solidity%20101/087.png)
 ___
 ## Slide Deck
 - `call`/`staticcall`/`delegatecall`

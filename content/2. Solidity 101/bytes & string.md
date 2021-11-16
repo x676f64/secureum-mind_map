@@ -15,7 +15,7 @@ Variables of type `bytes` and `string` are special arrays
 
 ___
 ## Slide Screenshot
-![059.png](../../images/2.Solidity%20101/059.png)
+![059.png](../../images/2.%20Solidity%20101/059.png)
 ___
 ## Slide Deck
 - bytes -> bytes Data

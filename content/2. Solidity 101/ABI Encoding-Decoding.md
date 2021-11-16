@@ -13,7 +13,7 @@
 
 ___
 ## Slide Screenshot
-![077.png](../../images/2.Solidity%20101/077.png)
+![077.png](../../images/2.%20Solidity%20101/077.png)
 ___
 ## Slide Deck
 - `abi.encode(...)`

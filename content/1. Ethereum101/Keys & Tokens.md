@@ -10,7 +10,7 @@ Keys & Tokens: While “crypto” may indeed mean cryptocurrencies to some non-t
 
 ___
 ## Slide Screenshot
-![096.png](../../images/1.Ethereum%20101/096.png)
+![096.png](../../images/1.%20Ethereum%20101/096.png)
 ___
 ## Slide Text
 - Passwords vs Keys

@@ -12,7 +12,7 @@ If you import another file, the pragma from that file does not automatically app
 	1. SMTChecker
 ___
 ## Slide Screenshot
-![006.png](../../images/2.Solidity%20101/006.png)
+![006.png](../../images/2.%20Solidity%20101/006.png)
 ___
 ## Slide Deck
 - Pragma Keyword

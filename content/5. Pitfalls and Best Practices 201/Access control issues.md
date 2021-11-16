@@ -2,7 +2,7 @@
 Incorrect or insufficient access control or authorization related to system actors, roles, assets and permissions may lead to security issues.
 ___
 ## Slide Screenshot
-![0172.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/172.png)
+![0172.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/172.png)
 ___
 ## Slide Text
 - Access Control -> Authorization

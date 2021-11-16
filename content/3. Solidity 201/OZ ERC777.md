@@ -19,7 +19,7 @@ OpenZeppelin ERC777: Like ERC20, ERC777 is a standard for fungible tokens with i
 
 ___
 ## Slide Screenshot
-![152.png](../../images/3.Solidity%20201/152.png)
+![152.png](../../images/3.%20Solidity%20201/152.png)
 ___
 ## Slide Text
 - ERC777 Token Standard

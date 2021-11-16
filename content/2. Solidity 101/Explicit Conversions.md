@@ -11,7 +11,7 @@ If the compiler does not allow implicit conversion but you are confident a conve
 
 ___
 ## Slide Screenshot
-![069.png](../../images/2.Solidity%20101/069.png)
+![069.png](../../images/2.%20Solidity%20101/069.png)
 ___
 ## Slide Deck
 - Type Conversion Developer Applied

@@ -7,7 +7,7 @@ Dynamic arrays of dynamic arrays apply this rule recursively.
 
 ___
 ## Slide Screenshot
-![122.png](../../images/3.Solidity%20201/122.png)
+![122.png](../../images/3.%20Solidity%20201/122.png)
 ___
 ## Slide Text
 - Array -> Slot p

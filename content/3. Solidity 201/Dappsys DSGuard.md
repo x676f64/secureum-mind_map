@@ -8,7 +8,7 @@ The ACL is a mapping of `[src][dst][sig] => boolean` where an address src can be
 When used as an authority by DSAuth the `src` is considered to be the `msg.sender`, the `dst` is the including contract and `sig` is the function which invoked the auth modifier.
 ___
 ## Slide Screenshot
-![196.png](../../images/3.Solidity%20201/196.png)
+![196.png](../../images/3.%20Solidity%20201/196.png)
 ___
 ## Slide Text
 - ACL

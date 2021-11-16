@@ -6,7 +6,7 @@ An implicit type conversion is automatically applied by the compiler in some cas
 2. For example, `uint8` is convertible to uint16 and `int128` to `int256`, but `int8` is not convertible to `uint256`, because `uint256` cannot hold values such as `-1`
 ___
 ## Slide Screenshot
-![068.png](../../images/2.Solidity%20101/068.png)
+![068.png](../../images/2.%20Solidity%20101/068.png)
 ___
 ## Slide Deck
 - Type Conversion

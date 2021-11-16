@@ -5,7 +5,7 @@ While public state variables can override external functions, they themselves ca
 
 ___
 ## Slide Screenshot
-![109.png](../../images/3.Solidity%20201/109.png)
+![109.png](../../images/3.%20Solidity%20201/109.png)
 ___
 ## Slide Text
 - Public State Variables

@@ -7,7 +7,7 @@ Slither Detectors Slither bugs and optimizations detection can run on a Truffle/
 3. `--list-detectors` lists available detectors
 ___
 ## Slide Screenshot
-![035.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/035.png)
+![035.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/035.png)
 ___
 ## Slide Text
 - 75+ Detectors

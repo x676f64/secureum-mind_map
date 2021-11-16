@@ -14,7 +14,7 @@ Echidna Features:
 9. Support for a complex contract initialization with Etheno and Truffle
 ___
 ## Slide Screenshot
-![046.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/046.png)
+![046.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/046.png)
 ___
 ## Slide Text
 - Code Tailored Inputs

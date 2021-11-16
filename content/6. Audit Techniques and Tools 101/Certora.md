@@ -10,7 +10,7 @@ Each rule is checked on all possible transactions, though of course this is not 
 3. The Certora Prover takes as input the smart contract (either as EVM bytecode or Solidity source code) and a set of rules, written in Certora’s specification language. The Prover then automatically determines whether or not the contract satisfies all the rules using a combination of two computer science techniques: abstract interpretation and constraint solving
 ___
 ## Slide Screenshot
-![076.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/076.png)
+![076.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/076.png)
 ___
 ## Slide Text
 - Formal Verification

@@ -4,7 +4,7 @@ ERC777 tokens have the concept of a hook function that is called before any call
 
 ___
 ## Slide Screenshot
-![0106.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/106.png)
+![0106.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/106.png)
 ___
 ## Slide Text
 - ERC777 Hooks

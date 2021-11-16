@@ -9,7 +9,7 @@ Experimental [Pragma](Pragma.md): This can be used to enable features of the com
 
 ___
 ## Slide Screenshot
-![009.png](../../images/2.Solidity%20101/009.png)
+![009.png](../../images/2.%20Solidity%20101/009.png)
 ___
 ## Slide Deck
 - ABI Experimental

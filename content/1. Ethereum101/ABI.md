@@ -6,7 +6,7 @@ The Contract Application Binary Interface (ABI) is the standard way to interact 
 2. Contracts will have the interface definitions of any contracts they call available at compile-time.
 ___
 ## Slide Screenshot
-![081.png](../../images/1.Ethereum%20101/081.png)
+![081.png](../../images/1.%20Ethereum%20101/081.png)
 ___
 ## Slide Text
 - Applicaton Binary Interface

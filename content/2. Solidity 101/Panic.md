@@ -21,7 +21,7 @@ A Panic exception is generated in the following situations. The error code suppl
 
 ___
 ## Slide Screenshot
-![089.png](../../images/2.Solidity%20101/089.png)
+![089.png](../../images/2.%20Solidity%20101/089.png)
 ___
 ## Slide Deck
 - Panic Error Codes

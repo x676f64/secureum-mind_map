@@ -3,7 +3,7 @@ Race conditions can be forced on specific Ethereum transactions by monitoring th
 
 ___
 ## Slide Screenshot
-![021.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/021.png)
+![021.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/021.png)
 ___
 ## Slide Text
 - Transaction Order Dependence

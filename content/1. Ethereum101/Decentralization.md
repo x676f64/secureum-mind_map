@@ -4,7 +4,7 @@ Decentralization can be considered as three types
 
 ___
 ## Slide Screenshot
-![016.png](../../images/1.Ethereum%20101/016.png)
+![016.png](../../images/1.%20Ethereum%20101/016.png)
 ___
 ## Slide Text
 - Architectural decentralization -> Physical Comptuers (hardware)

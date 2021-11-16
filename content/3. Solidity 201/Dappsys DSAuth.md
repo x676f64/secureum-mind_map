@@ -10,7 +10,7 @@ The auth modifier provided by DSAuth triggers the internal `isAuthorized` functi
 3. Has been granted permission via a specified authority.
 ___
 ## Slide Screenshot
-![195.png](../../images/3.Solidity%20201/195.png)
+![195.png](../../images/3.%20Solidity%20201/195.png)
 ___
 ## Slide Text
 - Authorization

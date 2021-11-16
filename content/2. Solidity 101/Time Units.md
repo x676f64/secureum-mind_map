@@ -7,7 +7,7 @@ Suffixes like seconds, minutes, hours, days and weeks after literal numbers can 
 
 ___
 ## Slide Screenshot
-![072.png](../../images/2.Solidity%20101/072.png)
+![072.png](../../images/2.%20Solidity%20101/072.png)
 ___
 ## Slide Deck
 - Suffix -> Literal Number: seconds/minutes/hours/days/weeks

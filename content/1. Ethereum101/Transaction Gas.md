@@ -8,7 +8,7 @@ This is the transaction “fees” paid to the miner.
 
 ___
 ## Slide Screenshot
-![056.png](../../images/1.Ethereum%20101/056.png)
+![056.png](../../images/1.%20Ethereum%20101/056.png)
 ___
 ## Slide Text
 - Beneficiary & Refund

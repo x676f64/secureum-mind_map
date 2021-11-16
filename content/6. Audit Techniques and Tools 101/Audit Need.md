@@ -8,7 +8,7 @@ Even if projects have some expertise in-house, they would still benefit from an 
 
 ___
 ## Slide Screenshot
-![006.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/006.png)
+![006.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/006.png)
 ___
 ## Slide Text
 - In-house Expertise

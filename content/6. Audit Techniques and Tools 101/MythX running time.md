@@ -5,7 +5,7 @@ MythX Quick scan runs for 5 minutes, Standard scan runs for 30 minutes, and Deep
 
 ___
 ## Slide Screenshot
-![062.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/062.png)
+![062.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/062.png)
 ___
 ## Slide Text
 - Configurable Scans

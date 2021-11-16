@@ -7,7 +7,7 @@ Understanding dependencies Dependencies exist when the correct compilation or fu
 3. This is especially of interest/concern in DeFi protocols that rely on other related protocols for stablecoins, yield generation, borrowing/lending, derivatives, oracles etc.
 ___
 ## Slide Screenshot
-![096.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/096.png)
+![096.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/096.png)
 ___
 ## Slide Text
 - External Code/Data

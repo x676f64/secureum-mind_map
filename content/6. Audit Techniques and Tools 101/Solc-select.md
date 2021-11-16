@@ -7,7 +7,7 @@
 3. solc binaries are downloaded from https://binaries.soliditylang.org/ which contains official artifacts for many historical and modern solc versions for Linux and macOS
 ___
 ## Slide Screenshot
-![054.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/054.png)
+![054.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/054.png)
 ___
 ## Slide Text
 - 

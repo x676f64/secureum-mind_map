@@ -4,7 +4,7 @@ Ordering of storage variables and [struct](../2.%20Solidity%20101/Structs.md) me
 For example, declaring your storage variables in the order of `uint128`, `uint128`, `uint256` instead of `uint128`, `uint256`, `uint128`, as the former will only take up two slots of storage whereas the latter will take up three.
 ___
 ## Slide Screenshot
-![120.png](../../images/3.Solidity%20201/120.png)
+![120.png](../../images/3.%20Solidity%20201/120.png)
 ___
 ## Slide Text
 - State Vars Ordering

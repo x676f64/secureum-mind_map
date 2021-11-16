@@ -4,7 +4,7 @@ Transactions are grouped together into blocks. A blockchain contains a series of
 
 ___
 ## Slide Screenshot
-![044.png](../../images/1.Ethereum%20101/044.png)
+![044.png](../../images/1.%20Ethereum%20101/044.png)
 ___
 ## Slide Text
 - Transactions grouped together

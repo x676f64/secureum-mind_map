@@ -6,7 +6,7 @@ EVM is the runtime environment for smart contracts.
 
 ___
 ## Slide Screenshot
-![057.png](../../images/1.Ethereum%20101/057.png)
+![057.png](../../images/1.%20Ethereum%20101/057.png)
 ___
 ## Slide Text
 - Ethereum Virtual Machine

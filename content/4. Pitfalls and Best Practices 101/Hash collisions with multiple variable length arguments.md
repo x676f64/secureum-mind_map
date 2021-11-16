@@ -3,7 +3,7 @@ Using `abi.encodePacked()` with multiple variable length arguments can, in certa
 
 ___
 ## Slide Screenshot
-![060.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/060.png)
+![060.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/060.png)
 ___
 ## Slide Text
 - abi.encodePack() -> Variable Length Arguments

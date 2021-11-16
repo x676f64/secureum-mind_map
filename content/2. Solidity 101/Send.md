@@ -7,7 +7,7 @@ So the return value of `send` must be checked by the caller.
 
 ___
 ## Slide Screenshot
-![048.png](../../images/2.Solidity%20101/048.png)
+![048.png](../../images/2.%20Solidity%20101/048.png)
 ___
 ## Slide Text
 - Ether Transfer

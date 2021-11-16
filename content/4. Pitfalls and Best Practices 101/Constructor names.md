@@ -5,7 +5,7 @@
 
 ___
 ## Slide Screenshot
-![09.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/009.png)
+![09.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/009.png)
 ___
 ## Slide Text
 - Constructor Names

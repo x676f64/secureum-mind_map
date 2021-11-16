@@ -31,7 +31,7 @@ Block and Transaction Properties:
 
 ___
 ## Slide Screenshot
-![073.png](../../images/2.Solidity%20101/073.png)
+![073.png](../../images/2.%20Solidity%20101/073.png)
 ___
 ## Slide Deck
 - Block: Hash, ChainID, Number, Timestamp

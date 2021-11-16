@@ -2,7 +2,7 @@
 Malicious or compromised owners can trap contracts relying on tokens with a blacklist. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#owner-privileges))
 ___
 ## Slide Screenshot
-![0115.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/115.png)
+![0115.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/115.png)
 ___
 ## Slide Text
 - ERC20 Token Blacklist

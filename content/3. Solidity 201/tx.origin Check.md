@@ -7,7 +7,7 @@ In situations where contracts would like to determine if the `msg.sender` was a 
 
 ___
 ## Slide Screenshot
-![145.png](../../images/3.Solidity%20201/145.png)
+![145.png](../../images/3.%20Solidity%20201/145.png)
 ___
 ## Slide Text
 - Ethereum Accounts

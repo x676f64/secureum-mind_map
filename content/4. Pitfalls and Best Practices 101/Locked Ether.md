@@ -3,7 +3,7 @@ Contracts that accept Ether via `payable` functions but without withdrawal mecha
 
 ___
 ## Slide Screenshot
-![029.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/029.png)
+![029.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/029.png)
 ___
 ## Slide Text
 - Contract Balance -> Locaked Ether

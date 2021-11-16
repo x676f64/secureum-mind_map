@@ -8,7 +8,7 @@ Manual analysis is complimentary to automated analysis using tools and serves a 
 3. Manual analysis is however the only way today to infer and evaluate business logic and application-level constraints which is where a majority of the serious vulnerabilities are being found.
 ___
 ## Slide Screenshot
-![027.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/027.png)
+![027.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/027.png)
 ___
 ## Slide Text
 - Complementary to Automated Analysis

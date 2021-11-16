@@ -3,7 +3,7 @@ These keywords are reserved in Solidity. They might become part of the syntax in
 
 ___
 ## Slide Screenshot
-![131.png](../../images/3.Solidity%20201/131.png)
+![131.png](../../images/3.%20Solidity%20201/131.png)
 ___
 ## Slide Text
 - Keywords -> Reserved for Future

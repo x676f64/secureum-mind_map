@@ -10,7 +10,7 @@ Once a contract's code is deployed, it becomes immutable (with exceptions noted 
 
 ___
 ## Slide Screenshot
-![087.png](../../images/1.Ethereum%20101/087.png)
+![087.png](../../images/1.%20Ethereum%20101/087.png)
 ___
 ## Slide Text
 Immutable Contracts

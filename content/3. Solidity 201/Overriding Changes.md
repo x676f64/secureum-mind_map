@@ -9,7 +9,7 @@ The [mutability](../2.%20Solidity%20101/Function%20Mutability.md) may be changed
 
 ___
 ## Slide Screenshot
-![107.png](../../images/3.Solidity%20201/107.png)
+![107.png](../../images/3.%20Solidity%20201/107.png)
 ___
 ## Slide Text
 - Function Overriding virtual -> override

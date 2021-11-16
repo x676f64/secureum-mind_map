@@ -4,7 +4,7 @@ An Ethereum public key is a point on an elliptic curve calculated from the priva
 
 ___
 ## Slide Screenshot
-![021.png](../../images/1.Ethereum%20101/021.png)
+![021.png](../../images/1.%20Ethereum%20101/021.png)
 ___
 ## Slide Text
 - Not Secret -> Public 

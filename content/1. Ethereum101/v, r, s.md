@@ -6,7 +6,7 @@
 
 ___
 ## Slide Screenshot
-![040.png](../../images/1.Ethereum%20101/040.png)
+![040.png](../../images/1.%20Ethereum%20101/040.png)
 ___
 ## Slide Text
 - [ECDSA](ECDSA.md) Signature -> 65 Bytes

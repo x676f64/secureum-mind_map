@@ -17,7 +17,7 @@ Solidity v0.6.0 Explicitness Requirements:
 
 ___
 ## Slide Screenshot
-![136.png](../../images/3.Solidity%20201/136.png)
+![136.png](../../images/3.%20Solidity%20201/136.png)
 ___
 ## Slide Text
 - virtual -> override

@@ -11,7 +11,7 @@ Data Location & Assignment: Data locations are not only relevant for persistence
 
 ___
 ## Slide Screenshot
-![056.png](../../images/2.Solidity%20101/056.png)
+![056.png](../../images/2.%20Solidity%20101/056.png)
 ___
 ## Slide Deck
 - Data Location -> Persistency & Assignment Semantics

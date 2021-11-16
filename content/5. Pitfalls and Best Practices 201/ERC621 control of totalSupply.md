@@ -2,7 +2,7 @@
 totalSupply can be changed by trusted actors (See [here](https://gist.github.com/shayanb/cd495e23c7cf1a8b269f8ce7fd198538#file-token_checklist-md))
 ___
 ## Slide Screenshot
-![0125.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/125.png)
+![0125.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/125.png)
 ___
 ## Slide Text
 - ERC 621 totalSupply Control

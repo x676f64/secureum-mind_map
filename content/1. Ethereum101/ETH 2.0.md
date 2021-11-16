@@ -4,7 +4,7 @@ Eth2 or Ethereum 2.0: refers to a set of interconnected upgrades that will make 
 
 ___
 ## Slide Screenshot
-![086.png](../../images/1.Ethereum%20101/086.png)
+![086.png](../../images/1.%20Ethereum%20101/086.png)
 ___
 ## Slide Text
 Ethereum's Biggest Upgrade

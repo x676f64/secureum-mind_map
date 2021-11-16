@@ -9,7 +9,7 @@ This two-step change allows accidental proposals to be corrected instead of leav
 For e.g., in a single-step change, if the current admin accidentally changes the new admin to a zero-address or an incorrect address (where the private keys are not available), the system is left without an operational admin and will have to be redeployed.
 ___
 ## Slide Screenshot
-![0162.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/162.png)
+![0162.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/162.png)
 ___
 ## Slide Text
 - Two-step Change

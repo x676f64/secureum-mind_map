@@ -7,7 +7,7 @@ It can be used to monitor the Ethereum blockchain for newly deployed vulnerable 
 
 ___
 ## Slide Screenshot
-![067.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/067.png)
+![067.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/067.png)
 ___
 ## Slide Text
 - Security Tool

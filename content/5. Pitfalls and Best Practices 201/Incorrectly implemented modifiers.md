@@ -6,7 +6,7 @@ A system can have multiple roles with different privileges.
 Ensure that modifiers are implementing the expected checks on the correct roles/addresses with the right composition e.g. incorrect use of `||` instead of `&&` is a common vulnerability while composing access checks.
 ___
 ## Slide Screenshot
-![0151.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/151.png)
+![0151.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/151.png)
 ___
 ## Slide Text
 - Modifiers Incorrect Implementation

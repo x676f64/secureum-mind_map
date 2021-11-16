@@ -4,7 +4,7 @@
 Complexity typically leads to insecurity. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
-![0197.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/197.png)
+![0197.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/197.png)
 ___
 ## Slide Text
 - Economy of Mechanism 

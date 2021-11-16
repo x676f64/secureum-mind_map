@@ -17,7 +17,7 @@ Solidity v0.8.0 Breaking Semantic Changes - changes where existing code changes 
 
 ___
 ## Slide Screenshot
-![142.png](../../images/3.Solidity%20201/142.png)
+![142.png](../../images/3.%20Solidity%20201/142.png)
 ___
 ## Slide Text
 - Checked Arithmetic

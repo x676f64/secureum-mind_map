@@ -14,7 +14,7 @@ Audit Prerequisites should include
 10. Points of contact on both sides
 ___
 ## Slide Screenshot
-![011.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/011.png)
+![011.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/011.png)
 ___
 ## Slide Text
 - Clear Scope

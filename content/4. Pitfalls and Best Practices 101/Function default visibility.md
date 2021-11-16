@@ -7,7 +7,7 @@ This can lead to a vulnerability where a malicious user may make unauthorized st
 
 ___
 ## Slide Screenshot
-![054.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/054.png)
+![054.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/054.png)
 ___
 ## Slide Text
 - Function: public/external/internal/private

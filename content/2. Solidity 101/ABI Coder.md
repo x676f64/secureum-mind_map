@@ -9,7 +9,7 @@
 
 ___
 ## Slide Screenshot
-![008.png](../../images/2.Solidity%20101/008.png)
+![008.png](../../images/2.%20Solidity%20101/008.png)
 ___
 ## Slide Deck
 - ABI Coder Pragma Versions: v1 or v2

@@ -8,7 +8,7 @@ Specification analysis Specification describes in detail what (and sometimes why
 3. Very few smart contract projects have detailed specifications at their first audit stage. At best, they have some documentation about what is implemented. Auditors spend a lot of time inferring specification from documentation/implementation which leaves them with less time for vulnerability assessment.
 ___
 ## Slide Screenshot
-![020.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/020.png)
+![020.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/020.png)
 ___
 ## Slide Text
 - What/Why/Requirements/Design

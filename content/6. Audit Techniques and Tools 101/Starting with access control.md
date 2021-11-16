@@ -11,7 +11,7 @@ Starting with access control Access control is the most fundamental security pri
 
 ___
 ## Slide Screenshot
-![091.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/091.png)
+![091.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/091.png)
 ___
 ## Slide Text
 - Fundamental Security Primitive

@@ -12,7 +12,7 @@ See [tutorial](https://github.com/crytic/building-secure-contracts/tree/master/p
 5. Programmatic Interface: Manticore exposes programmatic access to its analysis engine via a Python API
 ___
 ## Slide Screenshot
-![044.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/044.png)
+![044.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/044.png)
 ___
 ## Slide Text
 - Symbolic Execution Tool

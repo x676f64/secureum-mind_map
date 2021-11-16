@@ -4,7 +4,7 @@ Languages: Web2 programming languages such as JavaScript, Go, Rust and Nim are u
 
 ___
 ## Slide Screenshot
-![089.png](../../images/1.Ethereum%20101/089.png)
+![089.png](../../images/1.%20Ethereum%20101/089.png)
 ___
 ## Slide Text
 - Web2 -> JavaScript, Go, Rust, Nim

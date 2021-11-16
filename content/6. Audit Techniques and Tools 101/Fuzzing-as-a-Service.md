@@ -9,7 +9,7 @@ Any violations from fuzzing are reported back from the service for the project t
 
 ___
 ## Slide Screenshot
-![066.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/066.png)
+![066.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/066.png)
 ___
 ## Slide Text
 - Fuzzing Service

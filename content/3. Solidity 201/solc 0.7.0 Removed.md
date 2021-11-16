@@ -21,7 +21,7 @@ Solidity v0.7.0 Removal of Unused or Unsafe Features
 
 ___
 ## Slide Screenshot
-![141.png](../../images/3.Solidity%20201/141.png)
+![141.png](../../images/3.%20Solidity%20201/141.png)
 ___
 ## Slide Text
 - Struct/Array -> Mapping

@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![082.png](../../images/2.Solidity%20101/082.png)
+![082.png](../../images/2.%20Solidity%20101/082.png)
 ___
 ## Slide Deck
 - Preculiarities

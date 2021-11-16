@@ -4,7 +4,7 @@ The price a transaction originator is willing to pay in exchange for gas. The pr
 
 ___
 ## Slide Screenshot
-![035.png](../../images/1.Ethereum%20101/035.png)
+![035.png](../../images/1.%20Ethereum%20101/035.png)
 ___
 ## Slide Text
 - Gas Price -> Originator Willing to Pay (EOA)

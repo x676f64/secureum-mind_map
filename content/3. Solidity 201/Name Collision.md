@@ -7,7 +7,7 @@ It is an error when any of the following pairs in a contract have the same name 
 
 ___
 ## Slide Screenshot
-![112.png](../../images/3.Solidity%20201/112.png)
+![112.png](../../images/3.%20Solidity%20201/112.png)
 ___
 ## Slide Text
 - Pairs -> Same Name

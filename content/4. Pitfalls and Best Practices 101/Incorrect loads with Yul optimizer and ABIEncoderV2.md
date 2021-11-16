@@ -3,7 +3,7 @@ The Yul optimizer incorrectly replaces `MLOAD` and `SLOAD` calls with values tha
 
 ___
 ## Slide Screenshot
-![082.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/082.png)
+![082.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/082.png)
 ___
 ## Slide Text
 - Incorrect Loads YUL Optimizer

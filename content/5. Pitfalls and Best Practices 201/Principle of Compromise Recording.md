@@ -4,7 +4,7 @@
 For e.g., critical operations in contracts should necessarily emit events to facilitate monitoring at runtime. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
-![0201.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/201.png)
+![0201.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/201.png)
 ___
 ## Slide Text
 - Compromise Recording

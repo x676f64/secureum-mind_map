@@ -11,7 +11,7 @@ This [function](Functions.md) cannot have arguments, cannot return anything and 
 
 ___
 ## Slide Screenshot
-![033.png](../../images/2.Solidity%20101/033.png)
+![033.png](../../images/2.%20Solidity%20101/033.png)
 ___
 ## Slide Deck
 - Ether Transfers: send/transfer

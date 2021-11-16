@@ -6,7 +6,7 @@ Audit Findings Impact Per OWASP, this estimates the magnitude of the technical a
 OWASP proposes three Impact levels of Low, Medium and High.
 ___
 ## Slide Screenshot
-![016.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/016.png)
+![016.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/016.png)
 ___
 ## Slide Text
 - OWASP

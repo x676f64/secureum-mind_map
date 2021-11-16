@@ -2,7 +2,7 @@
 The block hashes are not available for all blocks for scalability reasons. You can only access the hashes of the most recent 256 blocks, all other values will be zero.
 ___
 ## Slide Screenshot
-![076.png](../../images/2.Solidity%20101/076.png)
+![076.png](../../images/2.%20Solidity%20101/076.png)
 ___
 ## Slide Deck
 - blockhash(blockNumber)

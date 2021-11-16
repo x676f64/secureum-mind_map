@@ -9,7 +9,7 @@ An array literal is a comma-separated list of one or more expressions, enclosed 
 
 ___
 ## Slide Screenshot
-![061.png](../../images/2.Solidity%20101/061.png)
+![061.png](../../images/2.%20Solidity%20101/061.png)
 ___
 ## Slide Deck
 - Comma-separated List Within `[]`

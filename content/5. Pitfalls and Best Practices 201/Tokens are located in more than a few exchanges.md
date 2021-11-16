@@ -2,7 +2,7 @@
 If all the tokens are in one exchange, a compromise of the exchange can compromise the contract relying on the token. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#token-scarcity))
 ___
 ## Slide Screenshot
-![0119.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/119.png)
+![0119.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/119.png)
 ___
 ## Slide Text
 - ERC20 Token Listing

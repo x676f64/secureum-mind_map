@@ -6,7 +6,7 @@ While these are generally available via `msg.sender` and `msg.data`, they should
 This contract is only required for intermediate, library-like contracts.
 ___
 ## Slide Screenshot
-![161.png](../../images/3.Solidity%20201/161.png)
+![161.png](../../images/3.%20Solidity%20201/161.png)
 ___
 ## Slide Text
 - Current Execution Context

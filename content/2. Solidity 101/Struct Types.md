@@ -7,7 +7,7 @@ It is not possible for a [structs](Structs.md) to contain a member of its own ty
 
 ___
 ## Slide Screenshot
-![064.png](../../images/2.Solidity%20101/064.png)
+![064.png](../../images/2.%20Solidity%20101/064.png)
 ___
 ## Slide Deck
 - New Aggregate Type

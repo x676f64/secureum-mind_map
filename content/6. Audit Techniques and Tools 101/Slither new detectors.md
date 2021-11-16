@@ -10,7 +10,7 @@ Slither new detectors Slither’s plugin architecture lets you integrate new det
 6. __detect()_ is the function that implements the detector logic and needs to return a list of findings.
 ___
 ## Slide Screenshot
-![043.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/043.png)
+![043.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/043.png)
 ___
 ## Slide Text
 - 

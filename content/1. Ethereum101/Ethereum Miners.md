@@ -10,7 +10,7 @@ A miner also gets fees which is the ether spent on gas by all the transactions i
 
 ___
 ## Slide Screenshot
-![047.png](../../images/1.Ethereum%20101/047.png)
+![047.png](../../images/1.%20Ethereum%20101/047.png)
 ___
 ## Slide Text
 - Entities running ethereum nodes

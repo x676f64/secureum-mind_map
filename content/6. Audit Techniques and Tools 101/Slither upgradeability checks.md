@@ -22,7 +22,7 @@ Slither upgradeability checks Slither upgradeability checks helps review contrac
 17. initializer-missing: initializer() is missing
 ___
 ## Slide Screenshot
-![037.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/037.png)
+![037.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/037.png)
 ___
 ## Slide Text
 - Delegatecall Proxy/Implementation/V2

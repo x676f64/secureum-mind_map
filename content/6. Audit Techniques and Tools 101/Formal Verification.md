@@ -8,7 +8,7 @@ Formal Verification [Formal verification](https://en.wikipedia.org/wiki/Formal`v
 3. [Certora’s](https://www.certora.com/) Prover and ChainSecurity’s [VerX](http://verx.ch/) are examples of formal verification tools for smart contracts. [KEVM](https://github.com/kframework/evm-semantics) from Runtime Verification Inc is a formal verification framework that models EVM semantics.
 ___
 ## Slide Screenshot
-![026.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/026.png)
+![026.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/026.png)
 ___
 ## Slide Text
 - 

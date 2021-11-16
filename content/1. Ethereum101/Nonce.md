@@ -4,7 +4,7 @@ A scalar value equal to the number of transactions sent from the EOA account or,
 
 ___
 ## Slide Screenshot
-![034.png](../../images/1.Ethereum%20101/034.png)
+![034.png](../../images/1.%20Ethereum%20101/034.png)
 ___
 ## Slide Text
 - Nonce -> Number used only once

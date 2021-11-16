@@ -16,7 +16,7 @@ The beacon address is stored in storage slot `uint256(keccak256('eip1967.proxy.b
 
 ___
 ## Slide Screenshot
-![189.png](../../images/3.Solidity%20201/189.png)
+![189.png](../../images/3.%20Solidity%20201/189.png)
 ___
 ## Slide Text
 - Implementation Addr -> UpgradeableBeacon

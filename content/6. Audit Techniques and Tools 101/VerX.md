@@ -9,7 +9,7 @@ The verifier is based on a careful combination of three ideas:
 3. Delayed abstraction which approximates symbolic states at the end of transactions into abstract states. 
 ___
 ## Slide Screenshot
-![073.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/073.png)
+![073.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/073.png)
 ___
 ## Slide Text
 - Verification Tool

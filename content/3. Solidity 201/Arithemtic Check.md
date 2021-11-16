@@ -5,7 +5,7 @@ The recommended best-practice for such contracts is to use OpenZeppelin’s Safe
 
 ___
 ## Slide Screenshot
-![146.png](../../images/3.Solidity%20201/146.png)
+![146.png](../../images/3.%20Solidity%20201/146.png)
 ___
 ## Slide Text
 - Arithmetic Overflow/Underflow -> Wrapping

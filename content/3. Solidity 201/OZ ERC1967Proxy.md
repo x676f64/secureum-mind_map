@@ -8,7 +8,7 @@ OpenZeppelin ERC1967Proxy: implements an upgradeable proxy. It is upgradeable be
 3.  `_upgradeTo(address newImplementation)`: Upgrades the proxy to a new implementation. Emits an Upgraded event.
 ___
 ## Slide Screenshot
-![186.png](../../images/3.Solidity%20201/186.png)
+![186.png](../../images/3.%20Solidity%20201/186.png)
 ___
 ## Slide Text
 - Upgradeable Proxy 

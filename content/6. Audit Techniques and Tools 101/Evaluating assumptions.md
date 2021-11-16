@@ -10,7 +10,7 @@ Evaluating assumptions Many security vulnerabilities result from faulty assumpti
 6. Function calls will always be successful and so checking for return values is not required
 ___
 ## Slide Screenshot
-![097.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/097.png)
+![097.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/097.png)
 ___
 ## Slide Text
 - Incorrect Assumptions

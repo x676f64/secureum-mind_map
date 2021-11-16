@@ -31,7 +31,7 @@ This will avoid headaches due to sudden errors when trying to call a function fr
 8.  `_beforeFallback()`: Makes sure the admin cannot access the fallback function.
 ___
 ## Slide Screenshot
-![187.png](../../images/3.Solidity%20201/187.png)
+![187.png](../../images/3.%20Solidity%20201/187.png)
 ___
 ## Slide Text
 - Upgradeable -> Admin

@@ -5,7 +5,7 @@ Consider using OpenZeppelin’s [ECDSA library](https://github.com/OpenZeppelin/
 
 ___
 ## Slide Screenshot
-![023.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/023.png)
+![023.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/023.png)
 ___
 ## Slide Text
 - EVM ecrecover Signature Malleability

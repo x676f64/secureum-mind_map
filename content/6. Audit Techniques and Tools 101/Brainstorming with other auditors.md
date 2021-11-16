@@ -6,7 +6,7 @@ Brainstorming with other auditors [Linus’s law](https://en.wikipedia.org/wiki/
 2. A hybrid approach might be interesting where the audit team initially brainstorms to discuss the project’s goals, specification/documentation and implementation but later firewall themselves to independently pursue the assessments and finally come together to compile their findings.
 ___
 ## Slide Screenshot
-![085.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/085.png)
+![085.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/085.png)
 ___
 ## Slide Text
 - "Given enough eyeballs, all bugs are shallow"

@@ -8,7 +8,7 @@ This is referred to as "Nakamoto Consensus” and is adapted from Bitcoin.
 
 ___
 ## Slide Screenshot
-![050.png](../../images/1.Ethereum%20101/050.png)
+![050.png](../../images/1.%20Ethereum%20101/050.png)
 ___
 ## Slide Text
 - Nakamoto Consensus

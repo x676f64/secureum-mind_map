@@ -2,7 +2,7 @@
 Malicious or compromised owners can abuse minting capabilities. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#owner-privileges))
 ___
 ## Slide Screenshot
-![0113.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/113.png)
+![0113.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/113.png)
 ___
 ## Slide Text
 - ERC20 Token Minting

@@ -4,7 +4,7 @@ An Ethereum private key is a 256-bit random number that uniquely determines a si
 
 ___
 ## Slide Screenshot
-![020.png](../../images/1.Ethereum%20101/020.png)
+![020.png](../../images/1.%20Ethereum%20101/020.png)
 ___
 ## Slide Text
 - Secret -> 256-bit

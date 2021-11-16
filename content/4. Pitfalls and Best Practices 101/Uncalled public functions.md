@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![072.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/072.png)
+![072.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/072.png)
 ___
 ## Slide Text
 - Function Visibility

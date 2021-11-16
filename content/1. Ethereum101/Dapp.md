@@ -5,7 +5,7 @@ A Decentralized Application, abbreviated as ÐApp, is a web application that is 
 
 ___
 ## Slide Screenshot
-![013.png](../../images/1.Ethereum%20101/013.png)
+![013.png](../../images/1.%20Ethereum%20101/013.png)
 ___
 ## Slide Text
 - Decentralized Application

@@ -4,7 +4,7 @@ A transaction reverts for different exceptional conditions such as running out o
 
 ___
 ## Slide Screenshot
-![079.png](../../images/1.Ethereum%20101/079.png)
+![079.png](../../images/1.%20Ethereum%20101/079.png)
 ___
 ## Slide Text
 - Different Exception Conditions

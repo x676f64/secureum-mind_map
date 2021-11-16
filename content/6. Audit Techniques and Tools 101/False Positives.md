@@ -10,7 +10,7 @@ Such false positives could be due to incorrect assumptions or simplifications in
 3. True positives might sometimes be classified as false positives which leads to vulnerabilities being exploited instead of being fixed
 ___
 ## Slide Screenshot
-![028.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/028.png)
+![028.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/028.png)
 ___
 ## Slide Text
 - Incorrectly Flagged Vulnerabilities

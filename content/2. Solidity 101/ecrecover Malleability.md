@@ -2,7 +2,7 @@
 If you use `ecrecover`, be aware that a valid signature can be turned into a different valid signature without requiring knowledge of the corresponding private key. This is usually not a problem unless you require signatures to be unique or use them to identify items. OpenZeppelin has a ECDSA helper library that you can use as a wrapper for `ecrecover` without this issue.
 ___
 ## Slide Screenshot
-![080.png](../../images/2.Solidity%20101/080.png)
+![080.png](../../images/2.%20Solidity%20101/080.png)
 ___
 ## Slide Deck
 - Two Valid Signatures

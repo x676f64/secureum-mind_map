@@ -9,7 +9,7 @@
 
 ___
 ## Slide Screenshot
-![049.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/049.png)
+![049.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/049.png)
 ___
 ## Slide Text
 - Binary Ninja plugin

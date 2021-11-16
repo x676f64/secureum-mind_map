@@ -10,7 +10,7 @@ A Merkle tree or trie is a type of binary tree composed of a set of nodes with:
 ![](patricia-trie-1.png)[^1]
 ___
 ## Slide Screenshot
-![051.png](../../images/1.Ethereum%20101/051.png)
+![051.png](../../images/1.%20Ethereum%20101/051.png)
 ___
 ## Slide Text
 - Address -> Account State

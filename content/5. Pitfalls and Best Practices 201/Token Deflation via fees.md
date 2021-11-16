@@ -3,7 +3,7 @@
 Transfer and transferFrom should not take a fee. Deflationary tokens can lead to unexpected behavior. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#erc-conformity))
 ___
 ## Slide Screenshot
-![0107.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/107.png)
+![0107.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/107.png)
 ___
 ## Slide Text
 - ERC20 Token Deflation

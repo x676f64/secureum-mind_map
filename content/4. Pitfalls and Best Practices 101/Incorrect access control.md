@@ -5,7 +5,7 @@ Missing checks allow attackers to control critical logic. (see [here](https://do
 
 ___
 ## Slide Screenshot
-![04.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/004.png)
+![04.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/004.png)
 ___
 ## Slide Text
 - Access to Functions

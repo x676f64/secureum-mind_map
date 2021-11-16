@@ -14,7 +14,7 @@ These should be avoided to prevent unintended errors with newer compiler version
 
 ___
 ## Slide Screenshot
-![053.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/053.png)
+![053.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/053.png)
 ___
 ## Slide Text
 - Deprecated Keywords

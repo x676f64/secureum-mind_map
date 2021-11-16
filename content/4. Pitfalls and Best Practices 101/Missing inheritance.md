@@ -3,7 +3,7 @@ A contract might appear (based on name or functions implemented) to inherit from
 
 ___
 ## Slide Screenshot
-![056.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/056.png)
+![056.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/056.png)
 ___
 ## Slide Text
 - Missing Inheritance

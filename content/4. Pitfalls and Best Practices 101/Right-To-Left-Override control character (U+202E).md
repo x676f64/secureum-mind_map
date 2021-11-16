@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![064.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/064.png)
+![064.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/064.png)
 ___
 ## Slide Text
 - Right-to-Left-Override

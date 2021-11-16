@@ -6,7 +6,7 @@ Unit tests, functional tests and integration tests should have been performed to
 Any code or parameterisation used specifically for testing should be removed from production code.
 ___
 ## Slide Screenshot
-![0155.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/155.png)
+![0155.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/155.png)
 ___
 ## Slide Text
 - Software Testing Validation

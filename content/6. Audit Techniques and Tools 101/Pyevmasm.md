@@ -6,7 +6,7 @@
 It includes a command line utility and a Python API.
 ___
 ## Slide Screenshot
-![050.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/050.png)
+![050.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/050.png)
 ___
 ## Slide Text
 - Security Tool

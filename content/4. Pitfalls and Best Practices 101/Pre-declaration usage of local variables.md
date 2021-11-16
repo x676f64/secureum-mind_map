@@ -3,7 +3,7 @@ Usage of a variable before its declaration (either declared later or in another 
 
 ___
 ## Slide Screenshot
-![041.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/041.png)
+![041.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/041.png)
 ___
 ## Slide Text
 - Local Variables Pre-declaration Usage

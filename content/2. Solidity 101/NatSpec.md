@@ -23,7 +23,7 @@ It is recommended that Solidity contracts are fully annotated using NatSpec for 
 
 ___
 ## Slide Screenshot
-![012.png](../../images/2.Solidity%20101/012.png)
+![012.png](../../images/2.%20Solidity%20101/012.png)
 ___
 ## Slide Deck
 - Ethereum Natural Language Specification Format

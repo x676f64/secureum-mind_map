@@ -23,7 +23,7 @@ Slither Printers Slither printers allow printing contract information with `--pr
 18. vars-and-auth: Print the state variables written and the authorization of the functions
 ___
 ## Slide Screenshot
-![036.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/036.png)
+![036.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/036.png)
 ___
 ## Slide Text
 - Print Different Contract Information

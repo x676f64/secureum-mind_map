@@ -7,7 +7,7 @@ Manual code review is required to understand business logic and detect vulnerabi
 3. Auditors may need to infer business logic and their implied constraints directly from the code or from discussions with the project team and thereafter evaluate if those constraints/properties hold in all parts of the codebase.
 ___
 ## Slide Screenshot
-![083.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/083.png)
+![083.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/083.png)
 ___
 ## Slide Text
 - Missed Flagging Vulnerabilities

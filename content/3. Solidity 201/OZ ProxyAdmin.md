@@ -12,7 +12,7 @@ OpenZeppelin ProxyAdmin: This is an auxiliary contract meant to be assigned as t
 5.  `upgradeAndCall(contract TransparentUpgradeableProxy proxy, address implementation, bytes data)`: Upgrades proxy to implementation and calls a function on the new implementation. Requirements: This contract must be the admin of proxy.
 ___
 ## Slide Screenshot
-![188.png](../../images/3.Solidity%20201/188.png)
+![188.png](../../images/3.%20Solidity%20201/188.png)
 ___
 ## Slide Text
 - Admin Contract -> TransparentUpgradeableProxy

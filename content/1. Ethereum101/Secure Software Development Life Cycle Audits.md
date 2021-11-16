@@ -4,7 +4,7 @@ Audit-as-a-Silver-Bullet: Secure Software Development Lifecycle (SSDLC) processe
 
 ___
 ## Slide Screenshot
-![100.png](../../images/1.Ethereum%20101/100.png)
+![100.png](../../images/1.%20Ethereum%20101/100.png)
 ___
 ## Slide Text
 - Secure Software Development Life Cycle (SSDLC)

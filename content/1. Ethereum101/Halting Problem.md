@@ -8,7 +8,7 @@ Ethereum cannot predict if a smart contract will terminate, or how long it will 
 
 ___
 ## Slide Screenshot
-![010.png](../../images/1.Ethereum%20101/010.png)
+![010.png](../../images/1.%20Ethereum%20101/010.png)
 ___
 ## Slide Text
 - Turing Complete -> Halting Problem

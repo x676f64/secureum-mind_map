@@ -3,7 +3,7 @@ The `require` function either creates an error of type Error(string) or an error
 
 ___
 ## Slide Screenshot
-![090.png](../../images/2.Solidity%20101/090.png)
+![090.png](../../images/2.%20Solidity%20101/090.png)
 ___
 ## Slide Deck
 - require() -> Error([string])

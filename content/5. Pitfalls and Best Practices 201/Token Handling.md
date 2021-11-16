@@ -4,7 +4,7 @@ Contracts that accept/manage/transfer ERC tokens should ensure that functions ha
 Functions handling tokens should be checked extra carefully for access control, input validation and error handling.
 ___
 ## Slide Screenshot
-![0159.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/159.png)
+![0159.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/159.png)
 ___
 ## Slide Text
 - Token Handling Deposit/Withdraw/Transfer

@@ -3,7 +3,7 @@ Contracts inheriting from multiple contracts with identical functions should spe
 
 ___
 ## Slide Screenshot
-![055.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/055.png)
+![055.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/055.png)
 ___
 ## Slide Text
 - Inheritiance Order

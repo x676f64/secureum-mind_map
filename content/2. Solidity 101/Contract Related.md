@@ -7,7 +7,7 @@ Contract Related:
 
 ___
 ## Slide Screenshot
-![081.png](../../images/2.Solidity%20101/081.png)
+![081.png](../../images/2.%20Solidity%20101/081.png)
 ___
 ## Slide Deck
 - `this` -> Current Contract

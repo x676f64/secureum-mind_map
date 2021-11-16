@@ -2,7 +2,7 @@
 The declaration order/layout and type/mutability of state variables in such contracts should be preserved exactly while upgrading to prevent critical storage layout mismatch errors. (see [here](https://docs.openzeppelin.com/upgrades-plugins/1.x/writing-upgradeable#modifying-your-contracts))
 ___
 ## Slide Screenshot
-![099.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/099.png)
+![099.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/099.png)
 ___
 ## Slide Text
 - State Variables Order/Layout/Type/Mutability

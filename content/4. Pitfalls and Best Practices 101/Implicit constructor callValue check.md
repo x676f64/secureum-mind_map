@@ -11,7 +11,7 @@ In these cases it is possible to send value in a contract creation transaction o
 
 ___
 ## Slide Screenshot
-![011.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/011.png)
+![011.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/011.png)
 ___
 ## Slide Text
 - Implicit Constructor

@@ -5,7 +5,7 @@ All locations in memory are initialized as zero.
 
 ___
 ## Slide Screenshot
-![125.png](../../images/3.Solidity%20201/125.png)
+![125.png](../../images/3.%20Solidity%20201/125.png)
 ___
 ## Slide Text
 - EVM Memory

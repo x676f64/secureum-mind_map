@@ -4,7 +4,7 @@ Ethereum uses public key cryptography to create Public–[Private Key](Private%2
 
 ___
 ## Slide Screenshot
-![018.png](../../images/1.Ethereum%20101/018.png)
+![018.png](../../images/1.%20Ethereum%20101/018.png)
 ___
 ## Slide Text
 - Public Key Cryptography

@@ -5,7 +5,7 @@ Except for dynamically-sized arrays and mappings, data is stored contiguously it
 
 ___
 ## Slide Screenshot
-![115.png](../../images/3.Solidity%20201/115.png)
+![115.png](../../images/3.%20Solidity%20201/115.png)
 ___
 ## Slide Text
 - Storage Variables

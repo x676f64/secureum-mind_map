@@ -5,7 +5,7 @@ OpenZeppelin Multicall: Provides a function to batch together multiple calls in 
 
 ___
 ## Slide Screenshot
-![164.png](../../images/3.Solidity%20201/164.png)
+![164.png](../../images/3.%20Solidity%20201/164.png)
 ___
 ## Slide Text
 - Batch Calls

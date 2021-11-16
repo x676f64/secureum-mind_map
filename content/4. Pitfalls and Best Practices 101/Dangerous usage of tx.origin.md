@@ -3,7 +3,7 @@ Use of `tx.origin` for authorization may be abused by a MITM malicious contract 
 
 ___
 ## Slide Screenshot
-![030.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/030.png)
+![030.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/030.png)
 ___
 ## Slide Text
 - Use of `tx.origin` Dangerous

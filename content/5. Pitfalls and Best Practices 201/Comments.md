@@ -8,7 +8,7 @@ Stale comments should be removed. Discrepancies between code and comments should
 Any TODO’s indicated by comments should be addressed. Commented code should be removed.
 ___
 ## Slide Screenshot
-![0154.png](../../images/5.Pitfalls%20and%20Best%20Practices%20201/154.png)
+![0154.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/154.png)
 ___
 ## Slide Text
 - Code Comments Documentation

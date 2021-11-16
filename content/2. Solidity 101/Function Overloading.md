@@ -7,7 +7,7 @@ Function Overloading: A contract can have multiple [functions](Functions.md) of 
 
 ___
 ## Slide Screenshot
-![025.png](../../images/2.Solidity%20101/025.png)
+![025.png](../../images/2.%20Solidity%20101/025.png)
 ___
 ## Slide Deck
 - Multiple Functions

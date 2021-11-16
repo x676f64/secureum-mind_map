@@ -3,7 +3,7 @@ Uninitialized local storage variables can point to unexpected storage locations 
 
 ___
 ## Slide Screenshot
-![068.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/068.png)
+![068.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/068.png)
 ___
 ## Slide Text
 - Uninitialized Storage Pointers

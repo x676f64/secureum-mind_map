@@ -4,7 +4,7 @@ Ownership of ether by [EOA](EOA.md)s is established through private keys, Ethere
 
 ___
 ## Slide Screenshot
-![025.png](../../images/1.Ethereum%20101/025.png)
+![025.png](../../images/1.%20Ethereum%20101/025.png)
 ___
 ## Slide Text
 - EOA -> Externally Owned Account

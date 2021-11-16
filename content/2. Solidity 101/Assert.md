@@ -7,7 +7,7 @@ Properly functioning code should never create a Panic, not even on invalid exter
 
 ___
 ## Slide Screenshot
-![088.png](../../images/2.Solidity%20101/088.png)
+![088.png](../../images/2.%20Solidity%20101/088.png)
 ___
 ## Slide Deck
 - `assert()` -> `Panic(uint256)`

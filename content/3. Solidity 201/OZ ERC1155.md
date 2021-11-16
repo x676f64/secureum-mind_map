@@ -11,7 +11,7 @@ OpenZeppelin ERC1155: is a novel token standard that aims to take the best from 
 
 ___
 ## Slide Screenshot
-![153.png](../../images/3.Solidity%20201/153.png)
+![153.png](../../images/3.%20Solidity%20201/153.png)
 ___
 ## Slide Text
 - ERC1155 Token Standard

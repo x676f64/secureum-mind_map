@@ -23,7 +23,7 @@ Solidity v0.7.0 Changes to the Syntax - changes that might cause existing contra
 
 ___
 ## Slide Screenshot
-![140.png](../../images/3.Solidity%20201/140.png)
+![140.png](../../images/3.%20Solidity%20201/140.png)
 ___
 ## Slide Text
 - Calls -> gas & value

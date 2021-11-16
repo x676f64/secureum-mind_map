@@ -27,7 +27,7 @@ Solidity v0.8.0 New Restrictions - changes that might cause existing contracts t
 
 ___
 ## Slide Screenshot
-![143.png](../../images/3.Solidity%20201/143.png)
+![143.png](../../images/3.%20Solidity%20201/143.png)
 ___
 ## Slide Text
 - Explicit Conversions

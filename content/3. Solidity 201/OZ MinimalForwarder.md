@@ -8,7 +8,7 @@ OpenZeppelin MinimalForwarder: provides a simple minimal forwarder (as described
 3. `execute(ForwardRequest calldata req, bytes calldata signature)` → `(success, returndata)`
 ___
 ## Slide Screenshot
-![184.png](../../images/3.Solidity%20201/184.png)
+![184.png](../../images/3.%20Solidity%20201/184.png)
 ___
 ## Slide Text
 - ERC-2771 Meta-transactions

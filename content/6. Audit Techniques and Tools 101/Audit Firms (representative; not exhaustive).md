@@ -6,7 +6,7 @@ Audit Firms (representative; not exhaustive) [ABDK](https://www.abdk.consulting/
 
 ___
 ## Slide Screenshot
-![030.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/030.png)
+![030.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/030.png)
 ___
 ## Slide Text
 - Security Expertise

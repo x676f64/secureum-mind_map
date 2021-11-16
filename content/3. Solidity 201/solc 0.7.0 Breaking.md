@@ -7,7 +7,7 @@ Previously, the operation was performed in the type of the shift amount / the ex
 
 ___
 ## Slide Screenshot
-![139.png](../../images/3.Solidity%20201/139.png)
+![139.png](../../images/3.%20Solidity%20201/139.png)
 ___
 ## Slide Text
 - Breaking Semantic Changes

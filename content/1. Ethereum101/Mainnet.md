@@ -12,7 +12,7 @@ Mainnet: Short for "main network," this is the main public Ethereum blockchain. 
 
 ___
 ## Slide Screenshot
-![084.png](../../images/1.Ethereum%20101/084.png)
+![084.png](../../images/1.%20Ethereum%20101/084.png)
 ___
 ## Slide Text
 - Live Production Ethereum Network

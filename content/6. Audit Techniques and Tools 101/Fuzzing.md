@@ -6,7 +6,7 @@
 2. [Echidna](https://github.com/crytic/echidna) and [Harvey](https://mariachris.github.io/Pubs/FSE-2020-Harvey.pdf) are two popular tools for smart contract fuzzing
 ___
 ## Slide Screenshot
-![024.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/024.png)
+![024.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/024.png)
 ___
 ## Slide Text
 - Software Testing

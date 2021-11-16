@@ -12,7 +12,7 @@ Depending on the implementation of those functions, the ether value is added to 
 
 ___
 ## Slide Screenshot
-![038.png](../../images/1.Ethereum%20101/038.png)
+![038.png](../../images/1.%20Ethereum%20101/038.png)
 ___
 ## Slide Text
 - Denominated in Ether

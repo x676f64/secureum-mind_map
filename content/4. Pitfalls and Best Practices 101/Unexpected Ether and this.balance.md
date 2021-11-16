@@ -3,7 +3,7 @@ A contract can receive Ether via `payable` functions, `selfdestruct(), coinbase`
 
 ___
 ## Slide Screenshot
-![026.png](../../images/4.Pitfalls%20and%20Best%20Practices%20101/026.png)
+![026.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/026.png)
 ___
 ## Slide Text
 - Unexpected Ether

@@ -2,7 +2,7 @@
 It is possible to call functions further up in the inheritance hierarchy internally by explicitly specifying the contract using `ContractName.functionName()` or using `super.functionName()` if you want to call the function one level higher up in the flattened inheritance hierarchy.
 ___
 ## Slide Screenshot
-![105.png](../../images/3.Solidity%20201/105.png)
+![105.png](../../images/3.%20Solidity%20201/105.png)
 ___
 ## Slide Text
 - Inheritance Hierachy

@@ -7,7 +7,7 @@ Evaluating security checklists Checklists are lists of itemized points that can 
 3. Smart contract security checklists (such as the articles in this series) help in navigating the vast number of key aspects to be remembered and applied. They help in going over the itemized features, concepts, pitfalls, best-practices and examples in a methodical manner without missing any items. Checklists are known to increase retention and have a faster recall. They also help in referencing specific items of interest e.g. #42 in Security Pitfalls & Best Practices 101 or #98 in Audit Techniques & Tools 101.
 ___
 ## Slide Screenshot
-![098.png](../../images/6.Audit%20Techniques%20and%20Tools%20101/098.png)
+![098.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/098.png)
 ___
 ## Slide Text
 - Itemized Lists
