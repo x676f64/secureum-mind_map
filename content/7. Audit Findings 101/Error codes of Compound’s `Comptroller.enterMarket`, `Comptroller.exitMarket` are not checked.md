@@ -4,8 +4,8 @@
 Error codes of Compound’s `Comptroller.enterMarket`, `Comptroller.exitMarket` are not checked Compound’s `enterMarket`/`exitMarket` functions return an error code instead of reverting in case of failure. DeFi Saver smart contracts never check for the error codes returned from Compound smart contracts.
 
 
-1.  Recommendation: Caller contract should revert in case the error code is not 0
-2.  Major severity finding from [Consensys Diligence Audit of Defi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#error-codes-of-compound-s-comptroller-entermarket-comptroller-exitmarket-are-not-checked)
+1. Recommendation: Caller contract should revert in case the error code is not 0
+2. Major severity finding from [Consensys Diligence Audit of Defi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#error-codes-of-compound-s-comptroller-entermarket-comptroller-exitmarket-are-not-checked)
 
 
 ___

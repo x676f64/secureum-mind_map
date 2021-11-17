@@ -14,21 +14,21 @@ These properties mean that the admin account can only be used for admin actions 
 
 This will avoid headaches due to sudden errors when trying to call a function from the proxy implementation.
 
-1.  `constructor(address _logic, address _admin, bytes _data)`: Initializes an upgradeable proxy managed by `_admin`, backed by the implementation at `_logic`, and optionally initialized with `_data`.
+1. `constructor(address _logic, address _admin, bytes _data)`: Initializes an upgradeable proxy managed by `_admin`, backed by the implementation at `_logic`, and optionally initialized with `_data`.
     
-2.  `admin()` → `address admin_`: Returns the current admin.
+2. `admin()` → `address admin_`: Returns the current admin.
     
-3.  `implementation()` → `address implementation_`: Returns the current implementation.
+3. `implementation()` → `address implementation_`: Returns the current implementation.
     
-4.  `changeAdmin(address newAdmin)`: Changes the admin of the proxy. Emits an AdminChanged event.
+4. `changeAdmin(address newAdmin)`: Changes the admin of the proxy. Emits an AdminChanged event.
     
-5.  `upgradeTo(address newImplementation)`: Upgrade the implementation of the proxy.
+5. `upgradeTo(address newImplementation)`: Upgrade the implementation of the proxy.
     
-6.  `upgradeToAndCall(address newImplementation, bytes data)`: Upgrade the implementation of the proxy, and then call a function from the new implementation as specified by data, which should be an encoded function call. This is useful to initialize new storage variables in the proxied contract.
+6. `upgradeToAndCall(address newImplementation, bytes data)`: Upgrade the implementation of the proxy, and then call a function from the new implementation as specified by data, which should be an encoded function call. This is useful to initialize new storage variables in the proxied contract.
     
-7.  `_admin()` → `address adm`: Returns the current admin.
+7. `_admin()` → `address adm`: Returns the current admin.
     
-8.  `_beforeFallback()`: Makes sure the admin cannot access the fallback function.
+8. `_beforeFallback()`: Makes sure the admin cannot access the fallback function.
 ___
 ## Slide Screenshot
 ![187.png](../../images/3.%20Solidity%20201/187.png)

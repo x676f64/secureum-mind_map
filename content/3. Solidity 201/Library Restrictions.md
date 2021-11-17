@@ -1,12 +1,12 @@
 # 113 - [Library Restrictions](Library%20Restrictions.md)
 In comparison to contracts, libraries are restricted in the following ways:
 
-1.  They cannot have [state variables](State%20Variables.md)
-2.  They cannot inherit nor be inherited
-3.  They cannot receive Ether
-4.  They cannot be destroyed
-5.  It can only access state variables of the calling contract if they are explicitly supplied (it would have no way to name them, otherwise)
-6.  Library functions can only be called directly (i.e. without the use of DELEGATECALL) if they do not modify the state (i.e. if they are view or pure functions), because libraries are assumed to be stateless
+1. They cannot have [state variables](State%20Variables.md)
+2. They cannot inherit nor be inherited
+3. They cannot receive Ether
+4. They cannot be destroyed
+5. It can only access state variables of the calling contract if they are explicitly supplied (it would have no way to name them, otherwise)
+6. Library functions can only be called directly (i.e. without the use of DELEGATECALL) if they do not modify the state (i.e. if they are view or pure functions), because libraries are assumed to be stateless
 
 ___
 ## Slide Screenshot

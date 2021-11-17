@@ -7,13 +7,13 @@ The library includes functions to deploy a proxy using either create (traditiona
 
 It also includes functions to predict the addresses of clones deployed using the deterministic method.
 
-1.  `clone(address implementation)` → `address instance`: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create opcode, which should never revert.
+1. `clone(address implementation)` → `address instance`: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create opcode, which should never revert.
     
-2.  `cloneDeterministic(address implementation, bytes32 salt)` → `address instance`: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create2 opcode and a salt to deterministically deploy the clone. Using the same implementation and salt multiple times will revert, since the clones cannot be deployed twice at the same address.
+2. `cloneDeterministic(address implementation, bytes32 salt)` → `address instance`: Deploys and returns the address of a clone that mimics the behaviour of implementation. This function uses the create2 opcode and a salt to deterministically deploy the clone. Using the same implementation and salt multiple times will revert, since the clones cannot be deployed twice at the same address.
     
-3.  `predictDeterministicAddress(address implementation, bytes32 salt, address deployer)` → address predicted: Computes the address of a clone deployed using Clones.cloneDeterministic.
+3. `predictDeterministicAddress(address implementation, bytes32 salt, address deployer)` → address predicted: Computes the address of a clone deployed using Clones.cloneDeterministic.
     
-4.  `predictDeterministicAddress(address implementation, bytes32 salt)` → `address predicted`: Computes the address of a clone deployed using Clones.cloneDeterministic.
+4. `predictDeterministicAddress(address implementation, bytes32 salt)` → `address predicted`: Computes the address of a clone deployed using Clones.cloneDeterministic.
 ___
 ## Slide Screenshot
 ![191.png](../../images/3.%20Solidity%20201/191.png)

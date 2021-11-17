@@ -3,11 +3,11 @@ OpenZeppelin UpgradeableBeacon: is used in conjunction with one or more instance
 
 An owner is able to change the implementation the beacon points to, thus upgrading the proxies that use this beacon.
 
-1.  `constructor(address implementation`)`: Sets the address of the initial implementation, and the deployer account as the owner who can upgrade the beacon.
+1. `constructor(address implementation`)`: Sets the address of the initial implementation, and the deployer account as the owner who can upgrade the beacon.
     
-2.  `implementation()` → `address`: Returns the current implementation address.
+2. `implementation()` → `address`: Returns the current implementation address.
     
-3.  `upgradeTo(address newImplementation)`: Upgrades the beacon to a new implementation. Emits an Upgraded event. Requirements: 
+3. `upgradeTo(address newImplementation)`: Upgrades the beacon to a new implementation. Emits an Upgraded event. Requirements: 
   
   1. `msg.sender` must be the owner of the contract
   

@@ -14,7 +14,7 @@
 |         0x58          |          PC 0 1           | Get the value of the program counter prior to the increment corresponding to this instruction           |     2     |
 |         0x59          |         MSIZE 0 1         | Get the size of active memory in bytes                                                                  |     2     |
 |         0x5a          |          GAS 0 1          | Get the amount of available gas, including the corresponding reduction for the cost of this instruction |     2     |
-|         0x5b          | <nobr>JUMPDEST 0 0</nobr> | Mark a valid destination for jumps. This operation has no effect on machine state during execution.    |     1     |
+|         0x5b          | <nobr>JUMPDEST 0 0</nobr> | Mark a valid destination for jumps. This operation has no effect on machine state during execution.   |     1     |
 
 [^1]:(Mnemonic, Stack items placed, Stack items removed)
 [^2]: The base cost is shown but may vary based on the opcode arguments.

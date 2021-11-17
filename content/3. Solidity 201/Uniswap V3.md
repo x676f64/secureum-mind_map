@@ -1,11 +1,11 @@
 # 200 - [Uniswap V3](Uniswap%20V3.md)
 Uniswap V3: [Introduces](https://uniswap.org/blog/uniswap-v3/)
 
-1.  Concentrated liquidity: giving individual LPs granular control over what price ranges their capital is allocated to. Individual positions are aggregated together into a single pool, forming one combined curve for users to trade against
+1. Concentrated liquidity: giving individual LPs granular control over what price ranges their capital is allocated to. Individual positions are aggregated together into a single pool, forming one combined curve for users to trade against
     
-2.  Multiple fee tiers: allowing LPs to be appropriately compensated for taking on varying degrees of risk
+2. Multiple fee tiers: allowing LPs to be appropriately compensated for taking on varying degrees of risk
     
-3.  V3 oracles are capable of providing time-weighted average prices (TWAPs) on demand for any period within the last ~9 days. This removes the need for integrators to checkpoint historical values.
+3. V3 oracles are capable of providing time-weighted average prices (TWAPs) on demand for any period within the last ~9 days. This removes the need for integrators to checkpoint historical values.
 
 ___
 ## Slide Screenshot

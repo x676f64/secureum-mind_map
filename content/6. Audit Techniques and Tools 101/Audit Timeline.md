@@ -1,7 +1,9 @@
 
 # 8 - [Audit Timeline](./Audit%20Timeline.md)
 
-Audit Timeline depends on the scope/nature/status of the project to be assessed and the type of audit. This may vary from a few days for a fix/retainer audit to several weeks for a new/repeat/incident audit.
+Audit Timeline depends on the scope/nature/status of the project to be assessed and the type of audit. 
+
+This may vary from a few days for a fix/retainer audit to several weeks for a new/repeat/incident audit.
 
 
 ___

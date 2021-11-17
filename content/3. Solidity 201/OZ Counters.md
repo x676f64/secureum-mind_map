@@ -3,11 +3,11 @@ OpenZeppelin Counters: Provides counters that can only be incremented or decreme
 
 This can be used e.g. to track the number of elements in a mapping, issuing ERC721 ids, or counting request ids. Functions are:
 
-1.  `current(struct Counters.Counter counter)` → `uint256`
+1. `current(struct Counters.Counter counter)` → `uint256`
     
-2.  `increment(struct Counters.Counter counter)`
+2. `increment(struct Counters.Counter counter)`
     
-3.  `decrement(struct Counters.Counter counter)`
+3. `decrement(struct Counters.Counter counter)`
 ___
 ## Slide Screenshot
 ![162.png](../../images/3.%20Solidity%20201/162.png)

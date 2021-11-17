@@ -1,7 +1,7 @@
 # 164 - [OZ Multicall](OZ%20Multicall.md)
 OpenZeppelin Multicall: Provides a function to batch together multiple calls in a single external call
 
-1.  `multicall(bytes[] calldata data) external` → `bytes[]`: Receives and executes a batch of function calls on this contract
+1. `multicall(bytes[] calldata data) external` → `bytes[]`: Receives and executes a batch of function calls on this contract
 
 ___
 ## Slide Screenshot

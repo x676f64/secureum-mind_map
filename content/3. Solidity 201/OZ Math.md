@@ -1,11 +1,11 @@
 # 174 - [OZ Math](OZ%20Math.md)
 OpenZeppelin Math: Standard math utilities missing in the Solidity language:
 
-1.  `max(uint256 a, uint256 b)`: Returns the larger of two numbers
+1. `max(uint256 a, uint256 b)`: Returns the larger of two numbers
     
-2.  `min(uint256 a, uint256 b)`: Returns the smaller of two numbers
+2. `min(uint256 a, uint256 b)`: Returns the smaller of two numbers
     
-3.  `average(uint256 a, uint256 b)`: Returns the average of two numbers. The result is rounded towards zero.
+3. `average(uint256 a, uint256 b)`: Returns the average of two numbers. The result is rounded towards zero.
 ___
 ## Slide Screenshot
 ![174.png](../../images/3.%20Solidity%20201/174.png)
