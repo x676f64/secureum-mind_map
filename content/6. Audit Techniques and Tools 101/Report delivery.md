@@ -1,7 +1,7 @@
 
 # 88 - [Report delivery](./Report%20delivery.md)
 
-Report delivery The delivery of the report to the project team is a critical deliverable and milestone. 
+The delivery of the report to the project team is a critical deliverable and milestone. 
 
 Unless interim findings/status is shared, this will be the first time the project team will have access to the assessment details.
 

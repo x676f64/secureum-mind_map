@@ -2,7 +2,7 @@
 # 11 - [Audit Prerequisites should include](./Audit%20Prerequisites%20should%20include.md)
 
 Audit Prerequisites should include
-1. Clear definition of the scope of the project to be assessed typically in the form of a specific  commit hash of project files/folders on a github repository
+1. Clear definition of the scope of the project to be assessed typically in the form of a specific commit hash of project files/folders on a github repository
 2. Public/private repository
 3. Public/anonymous team
 4. Specification of the project’s design and architecture

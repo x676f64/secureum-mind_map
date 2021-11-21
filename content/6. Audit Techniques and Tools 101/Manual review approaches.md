@@ -1,7 +1,7 @@
 
 # 90 - [Manual review approaches](./Manual%20review%20approaches.md)
 
-Manual review approaches Auditors have different approaches to manual reviewing smart contract code for vulnerabilities.
+Auditors have different approaches to manual reviewing smart contract code for vulnerabilities.
 
 1. Starting with access control
 2. Starting with asset flow

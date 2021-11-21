@@ -1,7 +1,7 @@
 
 # 79 - [Security Tools](./Security%20Tools.md)
 
-Security Tools Smart contract security tools are useful in assisting auditors while reviewing smart contracts. 
+Smart contract security tools are useful in assisting auditors while reviewing smart contracts. 
 
 They automate many of the tasks that can be codified into rules with different levels of coverage, correctness and precision. 
 

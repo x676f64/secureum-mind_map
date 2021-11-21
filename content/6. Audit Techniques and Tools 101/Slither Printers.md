@@ -1,7 +1,7 @@
 
 # 36 - [Slither Printers](./Slither%20Printers.md)
 
-Slither Printers Slither printers allow printing contract information with `--print` and following options (with contract-summary, human-summary, and inheritance-graph for quick review, and others such as call-graph, cfg, function-summary and vars-and-auth for in-depth review):
+Slither printers allow printing contract information with `--print` and following options (with contract-summary, human-summary, and inheritance-graph for quick review, and others such as call-graph, cfg, function-summary and vars-and-auth for in-depth review):
 
 1. call-graph: Export the call-graph of the contracts to a dot file
 2. cfg: Export the CFG of each functions

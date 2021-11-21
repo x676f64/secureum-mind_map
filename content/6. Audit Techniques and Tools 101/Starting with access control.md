@@ -1,7 +1,7 @@
 
 # 91 - [Starting with access control](./Starting%20with%20access%20control.md)
 
-Starting with access control Access control is the most fundamental security primitive which addresses ‘who’ has authorised access to ‘what.’ 
+Access control is the most fundamental security primitive which addresses ‘who’ has authorised access to ‘what.’ 
 
 (In a formal access control model, the ‘who’ refers to subjects, ’what’ refers to objects and an access control matrix indicates the permissions between subjects and objects.)
 

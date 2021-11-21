@@ -1,7 +1,7 @@
 
 # 20 - [Specification analysis](./Specification%20analysis.md)
 
-Specification analysis Specification describes in detail what (and sometimes why) the project and its various components are supposed to do functionally as part of their design and architecture. 
+Specification describes in detail what (and sometimes why) the project and its various components are supposed to do functionally as part of their design and architecture. 
 
 1. From a security perspective, it specifies what the assets are, where they are held, who are the actors, privileges of actors, who is allowed to access what and when, trust relationships, threat model, potential attack vectors, scenarios and mitigations. 
 2. Analysing the specification of a project provides auditors with the above details and lets them evaluate the assumptions made and indicate any shortcomings

@@ -1,7 +1,7 @@
 
 # 73 - [VerX](./VerX.md)
 
-VerX [VerX](https://verx.ch/): is a verifier that can automatically prove temporal safety properties of Ethereum smart contracts. 
+[VerX](https://verx.ch/): is a verifier that can automatically prove temporal safety properties of Ethereum smart contracts. 
 
 The verifier is based on a careful combination of three ideas: 
 1. Reduction of temporal safety verification to reachability checking

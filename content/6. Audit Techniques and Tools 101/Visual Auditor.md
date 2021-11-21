@@ -1,5 +1,6 @@
 
-# 69 - [Visual Auditor](./Visual%20Auditor.md)Visual Auditor is a Visual Studio Code extension that provides security-aware syntax and semantic highlighting for [Solidity](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) and [Vyper](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-vyper).
+# 69 - [Visual Auditor](./Visual%20Auditor.md)
+Visual Auditor is a Visual Studio Code extension that provides security-aware syntax and semantic highlighting for [Solidity](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) and [Vyper](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-vyper).
 
 1. Syntax Highlighting: access modifiers (external, public, payable, …), security relevant built-ins, globals, methods and user/miner-tainted information, (`address.call()`, `tx.origin`, `msg.data`, `block.*`, `now`), storage access modifiers (`memory`, `storage`), developer notes in comments (TODO, FIXME, HACK, …), custom function modifiers, contract creation / event invocations, easily differentiate between arithmetics vs. logical operations, make Constructor and Fallback function more prominent
 2. Semantic Highlighting: highlights StateVars (constant, inherited), detects and alerts about StateVar shadowing, highlights function arguments in the function body

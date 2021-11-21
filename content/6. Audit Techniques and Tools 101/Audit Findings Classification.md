@@ -1,7 +1,7 @@
 
 # 14 - [Audit Findings Classification](./Audit%20Findings%20Classification.md)
 
-Audit Findings Classification The vulnerabilities found during the audit are typically classified into different categories which helps to understand the nature of the vulnerability, potential impact/severity, impacted project components/functionality and exploit scenarios. 
+The vulnerabilities found during the audit are typically classified into different categories which helps to understand the nature of the vulnerability, potential impact/severity, impacted project components/functionality and exploit scenarios. 
 
 Trail of Bits, for example, uses the below classification:
 1. Access Controls: Related to authorization of users and assessment of rights

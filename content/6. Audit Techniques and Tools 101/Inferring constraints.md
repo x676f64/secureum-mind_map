@@ -1,7 +1,7 @@
 
 # 95 - [Inferring constraints](./Inferring%20constraints.md)
 
-Inferring constraints Program constraints are basically rules that should be followed by the program. 
+Program constraints are basically rules that should be followed by the program. 
 
 Language-level and EVM-level security constraints are well-known because they are part of the language and EVM specification.
 

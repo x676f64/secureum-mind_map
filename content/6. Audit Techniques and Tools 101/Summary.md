@@ -1,6 +1,6 @@
 # 101 - [Summary](Summary.md) 
 
-Summary: Audits are a time, resource and expertise bound effort where trained experts evaluate smart contracts using a combination of automated and manual techniques to find as many vulnerabilities as possible. 
+Audits are a time, resource and expertise bound effort where trained experts evaluate smart contracts using a combination of automated and manual techniques to find as many vulnerabilities as possible. 
 
 Audits can show the presence of vulnerabilities but not their absence.
 ___

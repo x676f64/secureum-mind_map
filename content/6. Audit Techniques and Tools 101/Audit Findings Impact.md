@@ -1,7 +1,7 @@
 
 # 16 - [Audit Findings Impact](./Audit%20Findings%20Impact.md)
 
-Audit Findings Impact Per OWASP, this estimates the magnitude of the technical and business impact on the system if the vulnerability were to be exploited. 
+Per OWASP, this estimates the magnitude of the technical and business impact on the system if the vulnerability were to be exploited. 
 
 OWASP proposes three Impact levels of Low, Medium and High.
 ___

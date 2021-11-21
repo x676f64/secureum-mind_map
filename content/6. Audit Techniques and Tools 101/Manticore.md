@@ -1,7 +1,7 @@
 
 # 44 - [Manticore](./Manticore.md)
 
-Manticore [Manticore](https://github.com/trailofbits/manticore) is a symbolic execution tool for analysis of Ethereum smart contracts (besides Linux binaries & WASM modules). 
+[Manticore](https://github.com/trailofbits/manticore) is a symbolic execution tool for analysis of Ethereum smart contracts (besides Linux binaries & WASM modules). 
 
 See [tutorial](https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/manticore) for details. 
 

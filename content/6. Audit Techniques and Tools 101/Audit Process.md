@@ -1,7 +1,7 @@
 
 # 80 - [Audit Process](./Audit%20Process.md)
 
-Audit Process Audit Process could be thought of as a ten-step process as follows:
+Audit Process could be thought of as a ten-step process as follows:
 1. Read specification/documentation of the project to understand the requirements, design and architecture
 2. Run fast automated tools such as linters or static analyzers to investigate common Solidity pitfalls or missing smart contract best-practices 
 3. Manual code analysis to understand business logic and detect vulnerabilities in it

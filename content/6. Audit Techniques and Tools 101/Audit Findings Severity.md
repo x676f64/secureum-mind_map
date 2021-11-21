@@ -1,7 +1,7 @@
 
 # 17 - [Audit Findings Severity](./Audit%20Findings%20Severity.md)
 
-Audit Findings Severity Per OWASP, the Likelihood estimate and the Impact estimate are put together to calculate an overall Severity for this risk. 
+Per OWASP, the Likelihood estimate and the Impact estimate are put together to calculate an overall Severity for this risk. 
 
 This is done by figuring out whether the Likelihood is Low, Medium, or High and then do the same for impact.
 
@@ -11,8 +11,8 @@ This is done by figuring out whether the Likelihood is Low, Medium, or High and 
 |Likelhood|Impact|Severity|
 |:----:|:-----:|:---:|
 |Low|Low|Note|
-|Low|Med|Med|
-|Low|High|High|
+|Low|Med|Low|
+|Low|High|Medium|
 |Med|Low|Low|
 |Med|Med|Med|
 |Med|High|High|
@@ -39,8 +39,8 @@ ___
 |Likelhood|Impact|Severity|
 |:----:|:-----:|:---:|
 |Low|Low|Note|
-|Low|Med|Med|
-|Low|High|High|
+|Low|Med|Low|
+|Low|High|Medium|
 |Med|Low|Low|
 |Med|Med|Med|
 |Med|High|High|

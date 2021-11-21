@@ -1,7 +1,7 @@
 
 # 43 - [Slither new detectors](./Slither%20new%20detectors.md)
 
-Slither new detectors Slither’s plugin architecture lets you integrate new detectors that run from the command line. The skeleton for a detector has:
+Slither’s plugin architecture lets you integrate new detectors that run from the command line. The skeleton for a detector has:
 1. _ARGUMENT_: lets you run the detector from the command line
 2. _HELP_: is the information printed from the command line
 3. _IMPACT_: indicates the impact of the issue. Allowed values are INFORMATIONAL|LOW|MEDIUM|HIGH 

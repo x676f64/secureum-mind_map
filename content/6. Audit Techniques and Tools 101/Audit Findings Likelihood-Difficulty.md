@@ -1,9 +1,9 @@
 
 # 15 - [Audit Findings Likelihood-Difficulty](./Audit%20Findings%20Likelihood-Difficulty.md)
 
-Audit Findings Likelihood-Difficulty Per [OWASP](https://owasp.org/www-community/OWASP`Risk`Rating`Methodology), likelihood or difficulty is a rough measure of how likely or difficult this particular vulnerability is to be uncovered and exploited by an attacker. 
+Per [OWASP](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology), likelihood or difficulty is a rough measure of how likely or difficult this particular vulnerability is to be uncovered and exploited by an attacker. 
 
-OWASP proposes three Likelihood levels of Low, Medium and High. 
+OWASP proposes three Likelihood levels of Low, Medium, and High. 
 
 Trail of Bits, for example, classifies every finding into four difficulty levels:
 1. Undetermined: The difficulty of exploit was not determined during this engagement

@@ -1,7 +1,7 @@
 
 # 37 - [Slither upgradeability checks](./Slither%20upgradeability%20checks.md)
 
-Slither upgradeability checks Slither upgradeability checks helps review contracts that use the delegatecall proxy pattern using `slither-check-upgradeability` tool with following options:
+Slither upgradeability checks helps review contracts that use the delegatecall proxy pattern using `slither-check-upgradeability` tool with following options:
 
 1. became-constant: Variables that should not be constant
 2. function-id-collision: Functions ids collision

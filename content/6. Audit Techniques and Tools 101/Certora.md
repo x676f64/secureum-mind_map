@@ -1,7 +1,7 @@
 
 # 76 - [Certora](./Certora.md)
 
-[Certora](https://www.certora.com/) [Prover](https://www.certora.com/pubs/QuickGuide.pdf): checks that a smart contract satisfies a set of rules written in a language called Specify. 
+[Certora](https://www.certora.com/) [Prover](https://www.certora.com/pubs/QuickGuide.pdf) checks that a smart contract satisfies a set of rules written in a language called Specify. 
 
 Each rule is checked on all possible transactions, though of course this is not done by explicitly enumerating transactions, but rather through symbolic techniques.
 

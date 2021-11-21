@@ -1,7 +1,7 @@
 
 # 21 - [Documentation analysis](./Documentation%20analysis.md)
 
-Documentation analysis Documentation is a description of what has been implemented based on the design and architectural requirements.
+Documentation is a description of what has been implemented based on the design and architectural requirements.
 
 1. Documentation answers ‘how’ something has been designed/architected/implemented without necessarily addressing the ‘why’ and the design/requirement goals
 2. Documentation is typically in the form of Readme files in the Github repository describing individual contract functionality combined with functional NatSpec and individual code comments.

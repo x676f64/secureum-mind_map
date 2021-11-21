@@ -1,7 +1,7 @@
 
 # 100 - [Estimating the likelihood and impact](./Estimating%20the%20likelihood%20and%20impact.md)
 
-Estimating the likelihood and impact Likelihood indicates the probability of a vulnerability being discovered by malicious actors and triggered to successfully exploit the underlying weakness. 
+Likelihood indicates the probability of a vulnerability being discovered by malicious actors and triggered to successfully exploit the underlying weakness. 
 
 Impact indicates the magnitude of implications on the technical and business aspects of the system if the vulnerability were to be exploited. Estimating if likelihood/impact are low/medium/high is non-trivial in many cases.
 

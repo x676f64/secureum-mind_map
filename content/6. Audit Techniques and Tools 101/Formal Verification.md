@@ -1,7 +1,7 @@
 
 # 26 - [Formal Verification](./Formal%20Verification.md)
 
-Formal Verification [Formal verification](https://en.wikipedia.org/wiki/Formal`verification) is the act of proving or disproving the correctness of intended  algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics 
+[Formal verification](https://en.wikipedia.org/wiki/Formal`verification) is the act of proving or disproving the correctness of intended  algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics 
 
 1. Formal verification is effective at detecting complex bugs which are hard to detect manually or using simpler automated tools
 2. Formal verification needs a specification of the program being verified and techniques to translate/compare the specification with the actual implementation
