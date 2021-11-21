@@ -1,0 +1,21 @@
+
+# 128 - [Underflow if `TOKEN`DECIMALS` are greater than 18](./Underflow%20if%20`TOKEN`DECIMALS`%20are%20greater%20than%2018.md)
+
+Underflow if `TOKEN`DECIMALS` are greater than 18 In `latestAnswer()`, the assumption is made that `TOKEN`DECIMALS` is less than 18.
+
+
+1. Recommendation: Add a simple check to the constructor to ensure the added token has 18 decimals or less
+2. [ConsenSys's Audit of Aave CPM Price Provider](https://consensys.net/diligence/audits/2020/05/aave-cpm-price-provider/#underflow-if-token-decimals-are-greater-than-18)
+
+
+___
+## Slide Screenshot
+![128.png](../../images/8.%20Audit%20Findings%20201/128.png)
+___
+## Slide Text
+- 
+___
+## References
+- Youtube Reference
+___
+## Tags
