@@ -1,5 +1,5 @@
 
-# 128 - [Underflow if `TOKEN`DECIMALS` are greater than 18](./Underflow%20if%20`TOKEN`DECIMALS`%20are%20greater%20than%2018.md)
+# 128 - [Underflow if `TOKEN_DECIMALS` are greater than 18](Underflow%20if%20`TOKEN_DECIMALS`%20are%20greater%20than%2018.md)
 
 Underflow if `TOKEN`DECIMALS` are greater than 18 In `latestAnswer()`, the assumption is made that `TOKEN`DECIMALS` is less than 18.
 
