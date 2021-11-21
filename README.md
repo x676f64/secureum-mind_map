@@ -10,12 +10,10 @@ The impetus for this project was self-edification as well as providing better ac
 
 If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
-![](images/example.png.png)
+![](images/example.png)
 ___
 
-Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0. 
-
-This is a set of contracts that demonstrate the topics covered with exceptional documentation. This is meant to be placed in the Contracts folder on [remix.ethereum.org](https://remix.ethereum.org): [Link](https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54)
+Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0: [Link](https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54) (Place in the `contracts` folder on Remix)
 
 
 ___
@@ -192,26 +190,35 @@ ___
 ___
 ### Quiz
 ___
-- Slot 7 quiz
+- [Slot 7 Quiz](quizzes/7.%20Audit%20Fndings%20101.md)
 
 ### Quiz Writeups
 - 
 ___
 ___
-# Slot 8
+# Slot 8 [Audit Findings 201](8.%20Audit%20Findings%20201.md)
 ### Blog
-- 
+#### [Article on "Audit Findings 201"](https://secureum.substack.com/p/audit-findings-201)
 ### Youtube Videos
-1.  [Block 1]()
-2.  [Block 2]()
-3.  [Block 3]()
-4.  [Block 4]()
-5.  [Block 5]()
+1.  [Block 1](https://youtu.be/IXm6JAprhuw)
+2.  [Block 2](https://youtu.be/yphqu2N35X4)
+3.  [Block 3](https://youtu.be/zAzNDwu23UI)
+4.  [Block 4](https://youtu.be/poxzr4-srn0)
+5.  [Block 5](https://youtu.be/0J7KI4WGd0Q)
 ### Assignment
+1. Read the audit report along with the smart contracts to understand all the reported findings for 1inch Liquidity Protocol: [https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/ "https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/")
+2. Read the audit report along with the smart contracts to understand all the reported findings for Origin Dollar: [https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf](https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf "https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf") 
+3. Read the audit report along with the smart contracts to understand all the reported findings for Synthetix EtherCollateral: [https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf](https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf "https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf")
+4. Read the audit report along with the smart contracts to understand all the reported findings for Holdefi: [https://blog.openzeppelin.com/holdefi-audit](https://blog.openzeppelin.com/holdefi-audit "https://blog.openzeppelin.com/holdefi-audit")
+5. Stay updated with Ethereum security articles/news: 
+	1. WeekInEthereumNews (security section): [https://weekinethereumnews.com/](https://weekinethereumnews.com/ "https://weekinethereumnews.com/")
+	2. BlockThreat Newsletter: [https://www.blockthreat.io/](https://www.blockthreat.io/ "https://www.blockthreat.io/") 
+	3. Rekt: [https://rekt.news/](https://rekt.news/ "https://rekt.news/")
+	4. Secureum Newsletter: [https://secureum.substack.com/](https://secureum.substack.com/ "https://secureum.substack.com/")
 ___
 ### Quiz
 ___
-- Slot 8 quiz
+- [Slot 8 Quiz](quizzes/8.%20Audit%20Findings%20201.md)
 
 ### Quiz Writeups
 - 
