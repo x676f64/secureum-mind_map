@@ -1,7 +1,7 @@
 
 # 18 - [Audit Checklist For Projects](./Audit%20Checklist%20For%20Projects.md)
 
-Audit Checklist For Projects Audit Checklist For Projects (See [here](https://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/) for Trail of Bits recommendations):
+Audit Checklist For Projects (See [here](https://blog.trailofbits.com/2018/04/06/how-to-prepare-for-a-security-audit/) for Trail of Bits recommendations):
 
 1. Resolve the easy issues: 
 	1. Enable and address every last compiler warning 
@@ -22,7 +22,10 @@ ___
 ![018.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/018.png)
 ___
 ## Slide Text
-- 
+- Test
+- Internal Review
+- Document
+- Communicate
 ___
 ## References
 - [Youtube Reference](https://youtu.be/M0C7z3TE5Go?t=1834)
