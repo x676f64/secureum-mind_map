@@ -165,7 +165,7 @@ ___
 ___
 ### Quiz
 ___
-- Slot 6 quiz
+- [Slot 6 quiz](quizzes/6.%20Audit%20Techniques%20and%20Tools%20101.md) 
 
 ### Quiz Writeups
 - 
