@@ -13,9 +13,12 @@ ___
 ![103.png](../../images/8.%20Audit%20Findings%20201/103.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit Umbra Finding 5.3
+- Specification/Documnetation
+- Deflationary/Inflationary/Rebasing
+- Document Token Behavior Restrictions
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=176)
 ___
 ## Tags

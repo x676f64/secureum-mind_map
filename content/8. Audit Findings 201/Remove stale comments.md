@@ -6,16 +6,17 @@ Remove stale comments Remove inline comments that suggest the two uint256 values
 
 1. Recommendation: Remove stale comments
 2. [ConsenSys's Audit of DAOfi](https://consensys.net/diligence/audits/2021/02/daofi/#remove-stale-comments)
-
-
 ___
 ## Slide Screenshot
 ![108.png](../../images/8.%20Audit%20Findings%20201/108.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit DAOfi Finding 3.1
+- Documentation
+- Stale Comments about Storage Slots
+- Remove Stale Comments
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=551)
 ___
 ## Tags

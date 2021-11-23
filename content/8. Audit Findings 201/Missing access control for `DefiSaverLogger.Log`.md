@@ -13,9 +13,12 @@ ___
 ![107.png](../../images/8.%20Audit%20Findings%20201/107.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit Umbra Finding 5.11
+- Access Control & Logging
+- Missing Access Control for Logging Function 
+- Add Access Control
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=506)
 ___
 ## Tags

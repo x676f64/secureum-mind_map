@@ -13,9 +13,12 @@ ___
 ![110.png](../../images/8.%20Audit%20Findings%20201/110.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit DAfi Finding 3.2
+- Unnecessary Code/Logic
+- Getter Function for Immutable Address
+- Replace Function CAll w/ Variable Read
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=620)
 ___
 ## Tags

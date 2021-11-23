@@ -13,9 +13,13 @@ ___
 ![131.png](../../images/8.%20Audit%20Findings%20201/131.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit Balancer Finding 3.6
+- Code Refactoring
+- Repeated Checks
+- Error-prone
+- Repeated Checks -> Modifiers
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/yphqu2N35X4?t=597)
 ___
 ## Tags
