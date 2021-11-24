@@ -33,6 +33,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of ACO Protocol](https://blog.openzeppelin.com/aco-protocol-audit/)
+- Medium Risk severity finding from [OpenZeppelin’s Audit of ACO Protocol](https://blog.openzeppelin.com/aco-protocol-audit/)
 ___
 ## Tags

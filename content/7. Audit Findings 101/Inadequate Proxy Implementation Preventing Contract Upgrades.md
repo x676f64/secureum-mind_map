@@ -38,6 +38,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. Critical Risk severity finding from [Sigma Prime's Audit of InfiniGold](https://github.com/sigp/public-audits/raw/master/infinigold/review.pdf)
+- Critical Risk severity finding from [Sigma Prime's Audit of InfiniGold](https://github.com/sigp/public-audits/raw/master/infinigold/review.pdf)
 ___
 ## Tags

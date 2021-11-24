@@ -39,6 +39,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. High Risk severity finding from [Sigma Prime's Audit of Chainlink](https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf)
+- High Risk severity finding from [Sigma Prime's Audit of Chainlink](https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf)
 ___
 ## Tags

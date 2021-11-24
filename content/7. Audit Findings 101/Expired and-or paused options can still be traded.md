@@ -21,6 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of Primitive](https://blog.openzeppelin.com/primitive-audit/)
+- Medium Risk severity finding from [OpenZeppelin’s Audit of Primitive](https://blog.openzeppelin.com/primitive-audit/)
 ___
 ## Tags

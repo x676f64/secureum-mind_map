@@ -28,6 +28,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of 1inch Exchange Audit](https://blog.openzeppelin.com/1inch-exchange-audit/)
+- Medium Risk severity finding from [OpenZeppelin’s Audit of 1inch Exchange Audit](https://blog.openzeppelin.com/1inch-exchange-audit/)
 ___
 ## Tags

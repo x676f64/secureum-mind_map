@@ -21,6 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of Notional Protocol](https://blog.openzeppelin.com/notional-audit/)
+- Medium Risk severity finding from [OpenZeppelin’s Audit of Notional Protocol](https://blog.openzeppelin.com/notional-audit/)
 ___
 ## Tags

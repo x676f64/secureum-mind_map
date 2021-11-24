@@ -25,6 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. High Risk severity finding from [OpenZeppelin’s Audit of Endaoment](https://blog.openzeppelin.com/endaoment-audit/)
+- High Risk severity finding from [OpenZeppelin’s Audit of Endaoment](https://blog.openzeppelin.com/endaoment-audit/)
 ___
 ## Tags

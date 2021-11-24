@@ -24,6 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. High Risk severity finding from [OpenZeppelin’s Audit of Futureswap V2](https://blog.openzeppelin.com/futureswap-v2-audit/)
+- High Risk severity finding from [OpenZeppelin’s Audit of Futureswap V2](https://blog.openzeppelin.com/futureswap-v2-audit/)
 ___
 ## Tags

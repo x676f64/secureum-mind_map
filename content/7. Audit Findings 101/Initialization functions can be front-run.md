@@ -24,6 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. High Risk severity finding from [ToB’s Audit of Hermez](https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf)
+- High Risk severity finding from [ToB’s Audit of Hermez](https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf)
 ___
 ## Tags

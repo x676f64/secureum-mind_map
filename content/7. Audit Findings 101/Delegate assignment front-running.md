@@ -24,6 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. Medium severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
+- Medium severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
 ___
 ## Tags

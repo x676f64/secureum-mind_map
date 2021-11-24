@@ -29,6 +29,6 @@ ___
 ___
 ## References
 - Youtube Reference
-2. High Risk severity finding from [ToB’s Audit of Yield Protocol](https://github.com/trailofbits/publications/blob/master/reviews/YieldProtocol.pdf)
+- High Risk severity finding from [ToB’s Audit of Yield Protocol](https://github.com/trailofbits/publications/blob/master/reviews/YieldProtocol.pdf)
 ___
 ## Tags
