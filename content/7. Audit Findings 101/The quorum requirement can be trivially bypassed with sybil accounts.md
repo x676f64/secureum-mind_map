@@ -5,8 +5,8 @@ While the final vote on a proposal is determined via a token-weighted vote, the 
 
 Each of these sybil votes increases the `proposals[proposalId].numVotes` variable. This means anyone can make the quorum check pass.
 
-1. Recommendation: Consider measuring quorum size by the percentage of existing tokens that have voted, rather than the number of unique accounts that have voted.
-2. High Risk severity finding from [OpenZeppelin’s Audit of Audius](https://blog.openzeppelin.com/audius-contracts-audit/#high)
+### Recommendation:
+Consider measuring quorum size by the percentage of existing tokens that have voted, rather than the number of unique accounts that have voted.
 ___
 ## Slide Screenshot
 ![090.png](../../images/7.%20Audit%20Findings%20101/090.png)
@@ -21,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- High Risk severity finding from [OpenZeppelin’s Audit of Audius](https://blog.openzeppelin.com/audius-contracts-audit/#high)
 ___
 ## Tags

@@ -13,8 +13,8 @@ However, it is not updatable and not included in the signed data as part of the 
 
 As a result, if the chain forks after deployment, the signed message may be considered valid on both forks.
 
-1. Recommendation: Short term, include the `chainID` opcode in the permit schema. This will make replay attacks impossible in the event of a post-deployment hard fork. Long term, document and carefully review any signature schemas, including their robustness to replay on different wallets, contracts, and blockchains. Make sure users are aware of signing best practices and the danger of signing messages from untrusted sources.
-2. High Risk severity finding from [ToB’s Audit of Yield Protocol](https://github.com/trailofbits/publications/blob/master/reviews/YieldProtocol.pdf)
+### Recommendation:
+Short term, include the `chainID` opcode in the permit schema. This will make replay attacks impossible in the event of a post-deployment hard fork. Long term, document and carefully review any signature schemas, including their robustness to replay on different wallets, contracts, and blockchains. Make sure users are aware of signing best practices and the danger of signing messages from untrusted sources.
 ___
 ## Slide Screenshot
 ![043.png](../../images/7.%20Audit%20Findings%20101/043.png)
@@ -29,5 +29,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [ToB’s Audit of Yield Protocol](https://github.com/trailofbits/publications/blob/master/reviews/YieldProtocol.pdf)
 ___
 ## Tags

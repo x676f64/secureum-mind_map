@@ -11,8 +11,8 @@ Similarly, if the user’s signature is invalid, then the `userMessage.signer` o
 
 This can result in unintended behavior.
 
-1. Recommendation: Consider reverting if the output of the `ECDSA.recover` is ever `address(0)`
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of Futureswap V2](https://blog.openzeppelin.com/futureswap-v2-audit/)
+### Recommendation:
+Consider reverting if the output of the `ECDSA.recover` is ever `address(0)`
 ___
 ## Slide Screenshot
 ![082.png](../../images/7.%20Audit%20Findings%20101/082.png)
@@ -27,5 +27,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium Risk severity finding from [OpenZeppelin’s Audit of Futureswap V2](https://blog.openzeppelin.com/futureswap-v2-audit/)
 ___
 ## Tags

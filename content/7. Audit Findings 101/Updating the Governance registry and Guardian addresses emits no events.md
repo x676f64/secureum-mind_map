@@ -11,8 +11,8 @@ Note that these two functions update these sensitive addresses without logging a
 
 Stakers who monitor the Audius system would have to inspect all transactions to notice that one address they trust is replaced with an untrusted one.
 
-1. Recommendation: Consider emitting events when these addresses are updated. This will be more transparent, and it will make it easier for clients to subscribe to the events when they want to keep track of the status of the system.
-2. High Risk severity finding from [OpenZeppelin’s Audit of Audius](https://blog.openzeppelin.com/audius-contracts-audit/#high)
+### Recommendation:
+Consider emitting events when these addresses are updated. This will be more transparent, and it will make it easier for clients to subscribe to the events when they want to keep track of the status of the system.
 ___
 ## Slide Screenshot
 ![089.png](../../images/7.%20Audit%20Findings%20101/089.png)
@@ -28,5 +28,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- High Risk severity finding from [OpenZeppelin’s Audit of Audius](https://blog.openzeppelin.com/audius-contracts-audit/#high)
 ___
 ## Tags

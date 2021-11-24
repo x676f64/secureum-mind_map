@@ -10,9 +10,8 @@ It should be noted that even when a correctly implemented ERC20 contract is used
 
 These re-entrancy opportunities are unlikely to corrupt the internal state of the system, but they would affect the order and contents of emitted events, which could confuse external clients about the state of the system. 
 
-
-1. Recommendation: Consider always following the “Check-Effects-Interactions” pattern or use `ReentrancyGuard` contract is now used to protect those functions
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of MCDEX Mai Protocol](https://blog.openzeppelin.com/mcdex-mai-protocol-audit/)
+### Recommendation:
+Consider always following the “Check-Effects-Interactions” pattern or use `ReentrancyGuard` contract is now used to protect those functions
 ___
 ## Slide Screenshot
 ![099.png](../../images/7.%20Audit%20Findings%20101/099.png)
@@ -22,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium Risk severity finding from [OpenZeppelin’s Audit of MCDEX Mai Protocol](https://blog.openzeppelin.com/mcdex-mai-protocol-audit/)
 ___
 ## Tags

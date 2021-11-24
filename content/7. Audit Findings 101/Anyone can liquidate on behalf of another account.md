@@ -11,8 +11,8 @@ This means that any trader can unilaterally rearrange another account’s positi
 
 They could also liquidate on behalf of the Perpetual Proxy, which could break some of the Automated Market Maker invariants, such as the condition that it only holds LONG positions.
 
-1. Recommendation: Consider restricting `liquidateFrom` to internal visibility
-2. Critical Risk severity finding from [OpenZeppelin’s Audit of MCDEX Mai Protocol](https://blog.openzeppelin.com/mcdex-mai-protocol-audit/)
+### Recommendation:
+Consider restricting `liquidateFrom` to internal visibility
 ___
 ## Slide Screenshot
 ![097.png](../../images/7.%20Audit%20Findings%20101/097.png)
@@ -26,5 +26,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical Risk severity finding from [OpenZeppelin’s Audit of MCDEX Mai Protocol](https://blog.openzeppelin.com/mcdex-mai-protocol-audit/)
 ___
 ## Tags

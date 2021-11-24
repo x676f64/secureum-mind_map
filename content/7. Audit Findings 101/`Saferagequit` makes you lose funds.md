@@ -11,8 +11,8 @@ To be precise, the tokens are not completely lost, they will belong to the LAO a
 
 But that requires a lot of trust, coordination, time and anyone can steal some part of these tokens.
 
-1. Recommendation: Implementing pull pattern for token withdrawals should solve the issue. Users will be able to quit the LAO and burn their shares but still keep their tokens in the LAO’s contract for some time if they can’t withdraw them right now.
-2. Critical severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
+### Recommendation:
+Implementing pull pattern for token withdrawals should solve the issue. Users will be able to quit the LAO and burn their shares but still keep their tokens in the LAO’s contract for some time if they can’t withdraw them right now.
 ___
 ## Slide Screenshot
 ![026.png](../../images/7.%20Audit%20Findings%20101/026.png)
@@ -27,5 +27,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
 ___
 ## Tags

@@ -9,8 +9,8 @@ Setting the `votingPeriod` to zero would cause spurious proposals that cannot be
 
 Setting the quorum to zero is worse because it would allow proposals with 0 votes to be executed.
 
-1. Recommendation: Consider adding the validation to the setter functions
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of Audius](https://blog.openzeppelin.com/audius-contracts-audit/#medium)
+### Recommendation:
+Consider adding the validation to the setter functions
 ___
 ## Slide Screenshot
 ![092.png](../../images/7.%20Audit%20Findings%20101/092.png)
@@ -25,5 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium Risk severity finding from [OpenZeppelin’s Audit of Audius](https://blog.openzeppelin.com/audius-contracts-audit/#medium)
 ___
 ## Tags

@@ -18,11 +18,11 @@ Trail of Bits identified four distinct cases in which an incorrect owner is set:
 3. Passing an incorrect address to the constructor
 4. Passing an incorrect address to the `setOwner` function.
 
-1. Recommendation: Several improvements could prevent the four above mentioned cases: 
+### Recommendation:
+Several improvements could prevent the four above mentioned cases: 
 	1. Designate `msg.sender` as the initial owner, and transfer ownership to the chosen owner after deployment.
 	2. Implement a two-step ownership-change process through which the new owner needs to accept ownership.
 	3. If it needs to be possible to set the owner to `address(0)`, implement a `renounceOwnership` function.
-2. Medium Risk severity finding from [ToB’s Audit of Uniswap V3](https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf)
 ___
 ## Slide Screenshot
 ![049.png](../../images/7.%20Audit%20Findings%20101/049.png)
@@ -38,5 +38,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium Risk severity finding from [ToB’s Audit of Uniswap V3](https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf)
 ___
 ## Tags

@@ -9,8 +9,8 @@ There is also no way for the factory contract to redeploy a Mooniswap instance f
 
 Therefore, if a Mooniswap contract is ever shutdown/paused, it will not be possible for that pair of tokens to ever be traded on the Mooniswap platform again, unless a new factory contract is deployed.
 
-1. Recommendation: Consider providing a way for Mooniswap contracts to be unpaused.
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of 1inch Liquidity Protocol Audit](https://blog.openzeppelin.com/1inch-liquidity-protocol-audit/)
+### Recommendation:
+Consider providing a way for Mooniswap contracts to be unpaused.
 ___
 ## Slide Screenshot
 ![079.png](../../images/7.%20Audit%20Findings%20101/079.png)
@@ -25,5 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium Risk severity finding from [OpenZeppelin’s Audit of 1inch Liquidity Protocol Audit](https://blog.openzeppelin.com/1inch-liquidity-protocol-audit/)
 ___
 ## Tags

@@ -5,8 +5,8 @@ The `issueFeeRate` and `interestRate` variables can both be changed by the `Ethe
 
 As a result, the owner can control fees such as they equal/exceed the collateral for any given loan.
 
-1. Recommendation: While "dynamic" interest rates are common, we recommend considering the minting fee ( `issueFeeRate` ) to be a constant that cannot be changed by the owner.
-2. Medium Risk severity finding from [Sigma Prime's Audit of Synthetix EtherCollateral](https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf)
+### Recommendation:
+While "dynamic" interest rates are common, we recommend considering the minting fee ( `issueFeeRate` ) to be a constant that cannot be changed by the owner.
 ___
 ## Slide Screenshot
 ![069.png](../../images/7.%20Audit%20Findings%20101/069.png)
@@ -21,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium Risk severity finding from [Sigma Prime's Audit of Synthetix EtherCollateral](https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf)
 ___
 ## Tags

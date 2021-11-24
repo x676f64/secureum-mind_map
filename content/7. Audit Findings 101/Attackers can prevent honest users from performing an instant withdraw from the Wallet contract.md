@@ -7,8 +7,8 @@ The result is that the attacker’s instant withdraw will fail (so the user will
 
 As a result, the honest user’s transaction will revert because it will be attempting to use a `userInteractionNumber` that is no longer valid.
 
-1. Recommendation: Consider adding an access control mechanism to restrict who can submit `oracleMessages` on behalf of the user.
-2. High Risk severity finding from [OpenZeppelin’s Audit of Futureswap V2](https://blog.openzeppelin.com/futureswap-v2-audit/)
+### Recommendation:
+Consider adding an access control mechanism to restrict who can submit `oracleMessages` on behalf of the user.
 ___
 ## Slide Screenshot
 ![080.png](../../images/7.%20Audit%20Findings%20101/080.png)
@@ -24,5 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [OpenZeppelin’s Audit of Futureswap V2](https://blog.openzeppelin.com/futureswap-v2-audit/)
 ___
 ## Tags

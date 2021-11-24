@@ -7,8 +7,8 @@ Some implementations of `transfer` and `transferFrom` could return ‘false’ o
 
 It is safer to wrap such calls into `require()` statements to these failures.
 
-1. Recommendation: Check the return value and revert on 0/false or use OpenZeppelin’s `SafeERC20` wrapper functions
-2. Medium severity finding from [Consensys Diligence Audit of Aave Protocol V2](https://consensys.net/diligence/audits/2020/09/aave-protocol-v2/#unhandled-return-values-of-transfer-and-transferfrom)
+### Recommendation:
+Check the return value and revert on 0/false or use OpenZeppelin’s `SafeERC20` wrapper functions
 ___
 ## Slide Screenshot
 ![001.png](../../images/7.%20Audit%20Findings%20101/001.png)
@@ -22,5 +22,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium severity finding from [Consensys Diligence Audit of Aave Protocol V2](https://consensys.net/diligence/audits/2020/09/aave-protocol-v2/#unhandled-return-values-of-transfer-and-transferfrom)
 ___
 ## Tags

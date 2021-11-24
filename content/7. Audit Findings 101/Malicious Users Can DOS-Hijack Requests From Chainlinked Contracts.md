@@ -23,8 +23,8 @@ It could be such that the Oracle fulfils requests in the order in which they are
 
 In such cases, the malicious user could simply front-run the requests to be higher in the queue.
 
-1. Recommendation: This issue arises due to the fact that any request can specify its own arbitrary callback address. A restrictive solution would be where callback addresses are localised to the requester themselves.
-2. High Risk severity finding from [Sigma Prime's Audit of Chainlink](https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf)
+### Recommendation:
+This issue arises due to the fact that any request can specify its own arbitrary callback address. A restrictive solution would be where callback addresses are localised to the requester themselves.
 ___
 ## Slide Screenshot
 ![076.png](../../images/7.%20Audit%20Findings%20101/076.png)
@@ -39,5 +39,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [Sigma Prime's Audit of Chainlink](https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf)
 ___
 ## Tags

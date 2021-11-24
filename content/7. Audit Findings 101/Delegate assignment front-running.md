@@ -7,8 +7,8 @@ If you try to submit an address as your `delegateKey`, someone else can try to a
 
 While incentive of this action is unclear, it’s possible to block some address from being a delegate forever.
 
-1. Recommendation: Make it possible for a `delegateKey` to approve `delegateKey` assignment or cancel the current delegation. Commit-reveal methods can also be used to mitigate this attack.
-2. Medium severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
+### Recommendation:
+Make it possible for a `delegateKey` to approve `delegateKey` assignment or cancel the current delegation. Commit-reveal methods can also be used to mitigate this attack.
 ___
 ## Slide Screenshot
 ![033.png](../../images/7.%20Audit%20Findings%20101/033.png)
@@ -24,5 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
 ___
 ## Tags

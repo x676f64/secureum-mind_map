@@ -9,8 +9,8 @@ To do so, it saves the original `msg.value` sent with the operate function call 
 
 Nevertheless, if the user sends more than the necessary ETH for the batch of actions, the remaining ETH (stored in the ethLeft variable after the last iteration) will not be returned to the user and will be locked in the contract due to the lack of a `withdrawEth` function.
 
-1. Recommendation: Consider either returning all the remaining ETH to the user or creating a function that allows the user to collect the remaining ETH after performing a Call action type, taking into account that sending ETH with a push method may trigger the fallback function on the caller’s address.
-2. High Risk severity finding from [OpenZeppelin’s Audit of Opyn Gamma Protocol](https://blog.openzeppelin.com/opyn-gamma-protocol-audit/)
+### Recommendation:
+Consider either returning all the remaining ETH to the user or creating a function that allows the user to collect the remaining ETH after performing a Call action type, taking into account that sending ETH with a push method may trigger the fallback function on the caller’s address.
 ___
 ## Slide Screenshot
 ![086.png](../../images/7.%20Audit%20Findings%20101/086.png)
@@ -25,5 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [OpenZeppelin’s Audit of Opyn Gamma Protocol](https://blog.openzeppelin.com/opyn-gamma-protocol-audit/)
 ___
 ## Tags

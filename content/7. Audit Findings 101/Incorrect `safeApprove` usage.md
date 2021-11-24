@@ -11,8 +11,8 @@ This reintroduces the front-running attack and undermines the value of the `safe
 
 Consider introducing an `increaseAllowance` function to handle this case.
 
-1. Recommendation: `safeIncreaseAllowance` and `safeDecreaseAllowance` functions should be used
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of 1inch Exchange Audit](https://blog.openzeppelin.com/1inch-exchange-audit/)
+### Recommendation:
+`safeIncreaseAllowance` and `safeDecreaseAllowance` functions should be used
 ___
 ## Slide Screenshot
 ![085.png](../../images/7.%20Audit%20Findings%20101/085.png)
@@ -28,5 +28,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium Risk severity finding from [OpenZeppelin’s Audit of 1inch Exchange Audit](https://blog.openzeppelin.com/1inch-exchange-audit/)
 ___
 ## Tags

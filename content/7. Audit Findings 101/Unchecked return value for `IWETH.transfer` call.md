@@ -5,8 +5,8 @@ Unchecked return value for `IWETH.transfer` call In `EthUniswapPCVController`, t
 
 It is usually good to add a require-statement that checks the return value or to use something like `safeTransfer`; unless one is sure the given token reverts in case of a failure.
 
-1. Recommendation: Consider adding a require-statement or using `safeTransfer_
-2. Medium severity finding from [Consensys Diligence Audit of Fei Protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol/#unchecked-return-value-for-iweth-transfer-call)
+### Recommendation:
+Consider adding a require-statement or using `safeTransfer_
 ___
 ## Slide Screenshot
 ![015.png](../../images/7.%20Audit%20Findings%20101/015.png)
@@ -21,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium severity finding from [Consensys Diligence Audit of Fei Protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol/#unchecked-return-value-for-iweth-transfer-call)
 ___
 ## Tags

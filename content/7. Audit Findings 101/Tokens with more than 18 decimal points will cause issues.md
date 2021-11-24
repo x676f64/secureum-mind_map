@@ -5,8 +5,8 @@ Tokens with more than 18 decimal points will cause issues It is assumed that the
 
 This can result in broken code flow and unpredictable outcomes
 
-1. Recommendation: Make sure the code won’t fail in case the token’s decimals is more than 18
-2. Major severity finding from [Consensys Diligence Audit of Defi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#tokens-with-more-than-18-decimal-points-will-cause-issues)
+### Recommendation:
+Make sure the code won’t fail in case the token’s decimals is more than 18
 ___
 ## Slide Screenshot
 ![003.png](../../images/7.%20Audit%20Findings%20101/003.png)
@@ -20,5 +20,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Major severity finding from [Consensys Diligence Audit of Defi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#tokens-with-more-than-18-decimal-points-will-cause-issues)
 ___
 ## Tags

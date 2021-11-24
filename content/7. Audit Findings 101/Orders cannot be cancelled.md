@@ -5,8 +5,8 @@ When a user or broker calls `cancelOrder`, the cancelled mapping is updated, but
 
 In particular, `validateOrderParam` does not check if the order has been cancelled.
 
-1. Recommendation: Consider adding this check to the order validation to ensure cancelled orders cannot be filled.
-2. Critical Risk severity finding from [OpenZeppelin’s Audit of MCDEX Mai Protocol](https://blog.openzeppelin.com/mcdex-mai-protocol-audit/)
+### Recommendation:
+Consider adding this check to the order validation to ensure cancelled orders cannot be filled.
 ___
 ## Slide Screenshot
 ![098.png](../../images/7.%20Audit%20Findings%20101/098.png)
@@ -22,5 +22,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical Risk severity finding from [OpenZeppelin’s Audit of MCDEX Mai Protocol](https://blog.openzeppelin.com/mcdex-mai-protocol-audit/)
 ___
 ## Tags

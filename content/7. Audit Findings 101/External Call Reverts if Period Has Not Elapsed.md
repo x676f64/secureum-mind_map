@@ -9,8 +9,8 @@ A revert here would cause the external call to fail and thereby halt the mint pr
 
 `Synthetix.mint()` cannot be successfully called until enough time has elapsed for the period to finish.
 
-1. Recommendation: Consider handling the case where the reward period has not elapsed without reverting the call.
-2. High Risk severity finding from [Sigma Prime's Audit of Synthetix Unipool](https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf)
+### Recommendation:
+Consider handling the case where the reward period has not elapsed without reverting the call.
 ___
 ## Slide Screenshot
 ![074.png](../../images/7.%20Audit%20Findings%20101/074.png)
@@ -24,5 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [Sigma Prime's Audit of Synthetix Unipool](https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf)
 ___
 ## Tags

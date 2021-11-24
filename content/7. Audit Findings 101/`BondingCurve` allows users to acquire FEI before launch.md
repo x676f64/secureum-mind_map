@@ -5,8 +5,9 @@
 
 By force-sending the contract 1 wei, anyone can bypass the majority of checks and actions in allocate, and mint themselves FEI each time the timer expires.
 
-1. Recommendation: Prevent allocate from being called before genesis launch
-2. Medium severity finding from [Consensys Diligence Audit of Fei Protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol/#bondingcurve-allows-users-to-acquire-fei-before-launch)
+### Recommendation:
+Prevent allocate from being called before genesis launch
+
 ___
 ## Slide Screenshot
 ![012.png](../../images/7.%20Audit%20Findings%20101/012.png)
@@ -20,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium severity finding from [Consensys Diligence Audit of Fei Protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol/#bondingcurve-allows-users-to-acquire-fei-before-launch)
 ___
 ## Tags

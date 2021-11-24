@@ -7,8 +7,8 @@ However, these functions do not check if the value of y is 0.
 
 If that is the case, the call will revert due to the division by zero error.
 
-1. Recommendation: consider adding a `require` statement in the functions to ensure `y > 0_, or consider using the `div` functions provided in OpenZeppelin’s SafeMath libraries
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of GEB Protocol](https://blog.openzeppelin.com/geb-protocol-audit/)
+### Recommendation:
+consider adding a `require` statement in the functions to ensure `y > 0`, or consider using the `div` functions provided in OpenZeppelin’s SafeMath libraries
 ___
 ## Slide Screenshot
 ![084.png](../../images/7.%20Audit%20Findings%20101/084.png)
@@ -23,5 +23,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Medium Risk severity finding from [OpenZeppelin’s Audit of GEB Protocol](https://blog.openzeppelin.com/geb-protocol-audit/)
 ___
 ## Tags

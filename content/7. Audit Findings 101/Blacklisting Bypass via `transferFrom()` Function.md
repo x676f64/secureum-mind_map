@@ -5,8 +5,8 @@ Function The `transferFrom()` function in the `TokenImpl` contract does not veri
 
 As such, it is possible for a user to allow an account to spend a certain allowance regardless of their blacklisting status.
 
-1. Recommendation: At present the function `transferFrom()` uses the `notBlacklisted(address)` modifier twice, on the msg.sender and to addresses. The `notBlacklisted(address)` modifier should be used a third time against the from address.
-2. High Risk severity finding from [Sigma Prime's Audit of InfiniGold](https://github.com/sigp/public-audits/raw/master/infinigold/review.pdf)
+### Recommendation:
+At present the function `transferFrom()` uses the `notBlacklisted(address)` modifier twice, on the msg.sender and to addresses. The `notBlacklisted(address)` modifier should be used a third time against the from address.
 ___
 ## Slide Screenshot
 ![071.png](../../images/7.%20Audit%20Findings%20101/071.png)
@@ -21,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [Sigma Prime's Audit of InfiniGold](https://github.com/sigp/public-audits/raw/master/infinigold/review.pdf)
 ___
 ## Tags

@@ -5,8 +5,8 @@
 	1. `Timed.duration` is set in the constructor 
 	2. `Timed.startTime` is set when the method `_initTimed` is called. Before this second method is called, `isTimeEnded()` calculates remaining time using a `startTime` of 0, resulting in the method returning true for most values, even though the timer has not technically been started.
 
-1. Recommendation: If Timed has not been initialized, `isTimeEnded()` should return false, or revert
-2. Medium severity finding from [Consensys Diligence Audit of Fei Protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol/#timed-istimeended-returns-true-if-the-timer-has-not-been-initialized)
+### Recommendation:
+If Timed has not been initialized, `isTimeEnded()` should return false, or revert
 ___
 ## Slide Screenshot
 ![013.png](../../images/7.%20Audit%20Findings%20101/013.png)
@@ -20,5 +20,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium severity finding from [Consensys Diligence Audit of Fei Protocol](https://consensys.net/diligence/audits/2021/01/fei-protocol/#timed-istimeended-returns-true-if-the-timer-has-not-been-initialized)
 ___
 ## Tags

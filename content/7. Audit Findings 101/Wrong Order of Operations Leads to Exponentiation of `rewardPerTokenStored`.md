@@ -9,8 +9,8 @@ Individuals will therefore either be able to withdraw more funds than should be 
 
 This vulnerability makes the Unipool contract unusable.
 
-1. Recommendation: Adjust the function `rewardPerToken()` to represent the original functionality.
-2. Critical Risk severity finding from [Sigma Prime's Audit of Synthetix Unipool](https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf)
+### Recommendation:
+Adjust the function `rewardPerToken()` to represent the original functionality.
 ___
 ## Slide Screenshot
 ![072.png](../../images/7.%20Audit%20Findings%20101/072.png)
@@ -25,5 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
+-  Critical Risk severity finding from [Sigma Prime's Audit of Synthetix Unipool](https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf)
 ___
 ## Tags

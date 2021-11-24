@@ -13,8 +13,8 @@ Afterward, a require inside the swap function verifies that the correct amount o
 
 However, the check inside the require is incorrect. The operand used is >= instead of <=.
 
-1. Recommendation: Replace >= with <= in the require statement.
-2. High Risk severity finding from [ToB’s Audit of Uniswap V3](https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf)
+### Recommendation:
+Replace >= with <= in the require statement.
 __
 ## Slide Screenshot
 ![050.png](../../images/7.%20Audit%20Findings%20101/050.png)
@@ -30,5 +30,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [ToB’s Audit of Uniswap V3](https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf)
 ___
 ## Tags

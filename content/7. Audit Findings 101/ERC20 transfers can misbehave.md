@@ -17,8 +17,8 @@ Such tokens have the potential to lead to protocol insolvency when they are used
 
 In the case of `_transferERC20`, similar issues can occur, and could cause users to receive less than expected when collateral is transferred or when exercise assets are transferred.
 
-1. Recommendation: Consider thoroughly vetting each token used within an ACO options pair, ensuring that failing `transferFrom` and `transfer` calls will cause reverts within `ACOToken.sol_`. Additionally, consider implementing some sort of sanity check which enforces that the balance of the ACOToken contract increases by the desired amount when calling `transferFromERC20`. 
-2. Medium Risk severity finding from [OpenZeppelin’s Audit of ACO Protocol](https://blog.openzeppelin.com/aco-protocol-audit/)
+### Recommendation:
+Consider thoroughly vetting each token used within an ACO options pair, ensuring that failing `transferFrom` and `transfer` calls will cause reverts within `ACOToken.sol_`. Additionally, consider implementing some sort of sanity check which enforces that the balance of the ACOToken contract increases by the desired amount when calling `transferFromERC20`. 
 ___
 ## Slide Screenshot
 ![095.png](../../images/7.%20Audit%20Findings%20101/095.png)
@@ -33,5 +33,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium Risk severity finding from [OpenZeppelin’s Audit of ACO Protocol](https://blog.openzeppelin.com/aco-protocol-audit/)
 ___
 ## Tags

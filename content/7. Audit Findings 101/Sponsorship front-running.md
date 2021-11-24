@@ -5,8 +5,8 @@ If proposal submission and sponsorship are done in 2 different transactions, it�
 
 The incentive to do that is to be able to block the proposal afterwards.
 
-1. Recommendation: Pull pattern for token transfers will solve the issue. Front-running will still be possible but it doesn’t affect anything.
-2. Major severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
+### Recommendation:
+Pull pattern for token transfers will solve the issue. Front-running will still be possible but it doesn’t affect anything.
 ___
 ## Slide Screenshot
 ![032.png](../../images/7.%20Audit%20Findings%20101/032.png)
@@ -21,5 +21,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- Major severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
 ___
 ## Tags

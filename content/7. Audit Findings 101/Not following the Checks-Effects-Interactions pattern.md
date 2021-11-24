@@ -9,8 +9,8 @@ The `finalizeGrant` function can be used to conduct a reentrancy attack, where t
 
 In this way the `grant.recipient` can receive less than expected and the contract funds can be drained unexpectedly leading to an unwanted loss of funds.
 
-1. Recommendation: Consider always following the “Check-Effects-Interactions” pattern, thus modifying the contract’s state before making any external call to other contracts.
-2. High Risk severity finding from [OpenZeppelin’s Audit of Endaoment](https://blog.openzeppelin.com/endaoment-audit/)
+### Recommendation:
+Consider always following the “Check-Effects-Interactions” pattern, thus modifying the contract’s state before making any external call to other contracts.
 ___
 ## Slide Screenshot
 ![088.png](../../images/7.%20Audit%20Findings%20101/088.png)
@@ -25,5 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [OpenZeppelin’s Audit of Endaoment](https://blog.openzeppelin.com/endaoment-audit/)
 ___
 ## Tags

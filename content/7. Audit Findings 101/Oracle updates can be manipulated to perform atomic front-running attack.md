@@ -15,8 +15,8 @@ The second transaction, which is sent at a slightly lower gas price than the tra
 
 The attacker can obtain liquidity for step 2 using a flash loan. The attack will deplete the reserves of the pool.
 
-1. Recommendation: Do not allow users to trade at a stale Oracle rate and trigger an Oracle price update in the same transaction.
-2. Critical severity finding from [Consensys Diligence Audit of Bancor v2 AMM](https://consensys.net/diligence/audits/2020/06/bancor-v2-amm-security-audit/#oracle-updates-can-be-manipulated-to-perform-atomic-front-running-attack)
+### Recommendation:
+Do not allow users to trade at a stale Oracle rate and trigger an Oracle price update in the same transaction.
 ___
 ## Slide Screenshot
 ![022.png](../../images/7.%20Audit%20Findings%20101/022.png)
@@ -30,5 +30,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical severity finding from [Consensys Diligence Audit of Bancor v2 AMM](https://consensys.net/diligence/audits/2020/06/bancor-v2-amm-security-audit/#oracle-updates-can-be-manipulated-to-perform-atomic-front-running-attack)
 ___
 ## Tags

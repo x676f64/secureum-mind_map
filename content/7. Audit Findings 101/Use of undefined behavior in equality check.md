@@ -11,8 +11,8 @@ It is only guaranteed that statements are executed in order and short-circuiting
 
 As such, the behavior of this code is not specified and could change in a future release of Solidity.
 
-1. Recommendation: Short term, rewrite the if statement such that it does not use and assign the same variable in an equality check. Long term, ensure that the codebase does not contain undefined Solidity or EVM behavior.
-2. High Risk severity finding from [ToB’s Audit of DFX Finance](https://github.com/dfx-finance/protocol/blob/main/audits/2021-05-03-Trail_of_Bits.pdf)
+### Recommendation:
+Short term, rewrite the if statement such that it does not use and assign the same variable in an equality check. Long term, ensure that the codebase does not contain undefined Solidity or EVM behavior.
 ___
 ## Slide Screenshot
 ![055.png](../../images/7.%20Audit%20Findings%20101/055.png)
@@ -28,5 +28,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- High Risk severity finding from [ToB’s Audit of DFX Finance](https://github.com/dfx-finance/protocol/blob/main/audits/2021-05-03-Trail_of_Bits.pdf)
 ___
 ## Tags

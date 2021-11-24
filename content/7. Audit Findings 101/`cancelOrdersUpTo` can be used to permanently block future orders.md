@@ -9,8 +9,8 @@ his function uses a parameter to discard any order with salt less than the input
 
 However, `cancelOrdersUpTo` can cancel future orders if it is called with a very large value (e.g., `MAX_UINT256` - This operation will cancel future orders, except for the one with salt equal to `MAX_UINT256`.
 
-1. Recommendation: Properly document this behavior to warn users about the permanent effects of `cancelOrderUpTo` on future orders. Alternatively, disallow the cancelation of future orders.
-2. High Risk severity finding from [ToB’s Audit of 0x Protocol](https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf)
+### Recommendation:
+Properly document this behavior to warn users about the permanent effects of `cancelOrderUpTo` on future orders. Alternatively, disallow the cancelation of future orders.
 ___
 ## Slide Screenshot
 ![059.png](../../images/7.%20Audit%20Findings%20101/059.png)
@@ -25,5 +25,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. High Risk severity finding from [ToB’s Audit of 0x Protocol](https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf)
 ___
 ## Tags

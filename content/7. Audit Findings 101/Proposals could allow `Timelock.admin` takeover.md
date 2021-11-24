@@ -7,8 +7,8 @@ However, a regular Proposal is also allowed to contain a transaction to change t
 
 This poses an unnecessary risk in that an attacker could create a Proposal to change the `Timelock.admin`.
 
-1. Recommendation: Short term, add a check that prevents `setPendingAdmin` to be included in a Proposal
-2. High Risk severity finding from [ToB’s Audit of Origin Dollar](https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf)
+### Recommendation:
+Short term, add a check that prevents `setPendingAdmin` to be included in a Proposal
 ___
 ## Slide Screenshot
 ![036.png](../../images/7.%20Audit%20Findings%20101/036.png)
@@ -23,5 +23,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- High Risk severity finding from [ToB’s Audit of Origin Dollar](https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf)
 ___
 ## Tags

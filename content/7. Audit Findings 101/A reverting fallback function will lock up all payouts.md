@@ -7,10 +7,10 @@ The `_payment()` function processes a list of transfers to settle the transactio
 
 If any of the recipients of an ETH transfer is a smart contract that reverts, then the entire payout will fail and will be unrecoverable.
 
-1. Recommendation: 
+### Recommendation:
+
 	1. Implement a queuing mechanism to allow buyers/sellers to initiate the withdrawal on their own using a ‘pull-over-push pattern.’
 	2. Ignore a failed transfer and leave the responsibility up to users to receive them properly.
-2. Critical severity finding from [Consensys Diligence Audit of Lien Protocol](https://consensys.net/diligence/audits/2020/05/lien-protocol/#a-reverting-fallback-function-will-lock-up-all-payouts)
 ___
 ## Slide Screenshot
 ![025.png](../../images/7.%20Audit%20Findings%20101/025.png)
@@ -26,5 +26,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical severity finding from [Consensys Diligence Audit of Lien Protocol](https://consensys.net/diligence/audits/2020/05/lien-protocol/#a-reverting-fallback-function-will-lock-up-all-payouts)
 ___
 ## Tags

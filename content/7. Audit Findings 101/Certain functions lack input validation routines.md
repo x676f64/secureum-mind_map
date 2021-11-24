@@ -8,8 +8,8 @@ The functions should first check if the passed arguments are valid first. These 
 4. length of arrays should match if more arrays are sent as arguments
 5. addresses should not be 0x0
 
-1. Recommendation: Add tests that check if all of the arguments have been validated. Consider checking arguments as an important part of writing code and developing the system.
-2. Major severity finding from [Consensys Diligence Audit of Shell Protocol](https://consensys.net/diligence/audits/2020/06/shell-protocol/#certain-functions-lack-input-validation-routines)
+### Recommendation:
+Add tests that check if all of the arguments have been validated. Consider checking arguments as an important part of writing code and developing the system.
 ___
 ## Slide Screenshot
 ![023.png](../../images/7.%20Audit%20Findings%20101/023.png)
@@ -24,5 +24,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Major severity finding from [Consensys Diligence Audit of Shell Protocol](https://consensys.net/diligence/audits/2020/06/shell-protocol/#certain-functions-lack-input-validation-routines)
 ___
 ## Tags

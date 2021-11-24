@@ -11,8 +11,8 @@ This means any adapter can overwrite the logic of another adapter, regardless of
 
 Users must fully trust every adapter because just one malicious adapter could change the logic of all other adapters.
 
-1. Recommendation: At a minimum, disallow modification of existing adapters. Instead, simply add new adapters and disable the old ones.
-2. Medium severity finding from [Consensys Diligence Audit of MetaSwap](https://consensys.net/diligence/audits/2020/08/metaswap/#owner-can-front-run-traders-by-updating-adapters)
+### Recommendation:
+At a minimum, disallow modification of existing adapters. Instead, simply add new adapters and disable the old ones.
 ___
 ## Slide Screenshot
 ![020.png](../../images/7.%20Audit%20Findings%20101/020.png)
@@ -27,5 +27,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium severity finding from [Consensys Diligence Audit of MetaSwap](https://consensys.net/diligence/audits/2020/08/metaswap/#owner-can-front-run-traders-by-updating-adapters)
 ___
 ## Tags

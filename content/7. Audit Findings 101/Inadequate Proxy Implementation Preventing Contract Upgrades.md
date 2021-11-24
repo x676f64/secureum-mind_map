@@ -17,12 +17,12 @@ This is equivalent to the owner being the 0x0 address.
 
 Without access to the implementation state variables, the proxy contract is rendered unusable.
 
-1. Recommendation: 
+### Recommendation:
+
 	1. Set fixed constant parameters as Solidity constants. The solidity compiler replaces all occurrences of a constant in the code and thus does not reserve state for them. Thus if the correct getters exist for the ERC20 interface, the proxy contract doesn’t need to initialise anything.
 	2. Create a constructor-like function that can only be called once within `TokenImpl`. This can be used to set the state variables as is currently done in the constructor, however if called by the proxy after deployment, the proxy will set its state variables.
 	3.  Create getter and setter functions that can only be called by the owner. Note that this strategy allows the owner to change various parameters of the contract after deployment.
 	4.  Predetermine the slots used by the required variables and set them in the constructor of the proxy. The storage slots used by a contract are deterministic and can be computed. Hence the variables Owner, name, symbol and decimals can be set directly by their slot in the proxy constructor.
-2. Critical Risk severity finding from [Sigma Prime's Audit of InfiniGold](https://github.com/sigp/public-audits/raw/master/infinigold/review.pdf)
 ___
 ## Slide Screenshot
 ![070.png](../../images/7.%20Audit%20Findings%20101/070.png)
@@ -38,5 +38,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical Risk severity finding from [Sigma Prime's Audit of InfiniGold](https://github.com/sigp/public-audits/raw/master/infinigold/review.pdf)
 ___
 ## Tags

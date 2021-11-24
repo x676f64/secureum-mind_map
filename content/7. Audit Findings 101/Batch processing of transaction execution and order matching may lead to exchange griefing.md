@@ -9,8 +9,8 @@ NoThrow variants of batch processing, which are available for filling orders, ar
 
 So if one transaction or order fails this way, the entire batch will revert and will have to be re-submitted after the reverting transaction is removed.
 
-1. Recommendation: Short term, implement NoThrow variants for batch processing of transaction execution and order matching. Long term, take into consideration the effect of malicious inputs when implementing functions that perform a batch of operations.
-2. Medium Risk severity finding from [ToB’s Audit of 0x Protocol](https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf)
+### Recommendation:
+Short term, implement NoThrow variants for batch processing of transaction execution and order matching. Long term, take into consideration the effect of malicious inputs when implementing functions that perform a batch of operations.
 ___
 ## Slide Screenshot
 ![064.png](../../images/7.%20Audit%20Findings%20101/064.png)
@@ -26,5 +26,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Medium Risk severity finding from [ToB’s Audit of 0x Protocol](https://github.com/trailofbits/publications/blob/master/reviews/0x-protocol.pdf)
 ___
 ## Tags

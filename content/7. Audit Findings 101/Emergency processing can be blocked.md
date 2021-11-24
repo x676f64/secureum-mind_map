@@ -11,8 +11,8 @@ The problem is that there is still a deposit transfer back to the sponsor and it
 
 If that happens, proposal can’t be processed and the LAO is blocked.
 
-1. Recommendation: Pull pattern for token transfers would solve the issue
-2. Critical severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
+### Recommendation:
+Pull pattern for token transfers would solve the issue
 ___
 ## Slide Screenshot
 ![028.png](../../images/7.%20Audit%20Findings%20101/028.png)
@@ -27,5 +27,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Critical severity finding from [Consensys Diligence Audit of The Lao](https://consensys.net/diligence/audits/2020/01/the-lao)
 ___
 ## Tags

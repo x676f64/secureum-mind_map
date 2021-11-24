@@ -11,8 +11,8 @@ However, it is present in the deprecated API reference.
 
 In the worst-case scenario, the deprecated contract could cease to report the latest values, which would very likely cause liquidity providers to incur losses.
 
-1. Recommendation: Use the latest stable versions of any external libraries or contracts leveraged by the codebase
-2. Undetermined Risk severity finding from [ToB’s Audit of DFX Finance](https://github.com/dfx-finance/protocol/blob/main/audits/2021-05-03-Trail_of_Bits.pdf)
+### Recommendation:
+Use the latest stable versions of any external libraries or contracts leveraged by the codebase
 ___
 ## Slide Screenshot
 ![058.png](../../images/7.%20Audit%20Findings%20101/058.png)
@@ -26,5 +26,6 @@ ___
 ___
 ## References
 - Youtube Reference
+2. Undetermined Risk severity finding from [ToB’s Audit of DFX Finance](https://github.com/dfx-finance/protocol/blob/main/audits/2021-05-03-Trail_of_Bits.pdf)
 ___
 ## Tags
