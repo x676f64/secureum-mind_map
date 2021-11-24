@@ -13,8 +13,6 @@ The address of a contract to be deployed can be determined by knowing the addres
 
 1. Recommendation: Short term, check for contract existence in `_safeTransferFrom`. Add a similar check for any low-level calls, including in `WithdrawalDelayer`. This will prevent an attacker from listing and depositing tokens in a contract that is not yet deployed. Long term, carefully review the Solidity documentation, especially the Warnings section. The Solidity documentation warns: The low-level call, `delegatecall` and `callcode` will return success if the called account is non-existent, as part of the design of EVM. Existence must be checked prior to calling if desired.
 2. High Risk severity finding from [ToB’s Audit of Hermez](https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf)
-
-
 ___
 ## Slide Screenshot
 ![044.png](../../images/7.%20Audit%20Findings%20101/044.png)
