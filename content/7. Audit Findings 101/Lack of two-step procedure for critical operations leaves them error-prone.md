@@ -12,7 +12,9 @@ If the address is incorrect, the new address will take on the functionality of t
 However, a two-step process is similar to the approve-transferFrom functionality: The contract approves the new address for a new role, and the new address acquires the role by calling the contract.
 
 ### Recommendation:
-Short term, use a two-step procedure for all non-recoverable critical operations to prevent irrecoverable mistakes. Long term, identify and document all possible actions and their associated risks for privileged accounts. Identifying the risks will assist codebase review and prevent future mistakes.
+Short term, use a two-step procedure for all non-recoverable critical operations to prevent irrecoverable mistakes. Long term, identify and document all possible actions and their associated risks for privileged accounts. 
+
+Identifying the risks will assist codebase review and prevent future mistakes.
 ___
 ## Slide Screenshot
 ![047.png](../../images/7.%20Audit%20Findings%20101/047.png)

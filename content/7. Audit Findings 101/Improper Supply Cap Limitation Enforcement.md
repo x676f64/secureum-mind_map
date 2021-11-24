@@ -1,7 +1,7 @@
 
 # 67 - [Improper Supply Cap Limitation Enforcement](./Improper%20Supply%20Cap%20Limitation%20Enforcement.md)
 
-Improper Supply Cap Limitation Enforcement The `openLoan()` function does not check if the loan to be issued will result in the supply cap being exceeded. 
+The `openLoan()` function does not check if the loan to be issued will result in the supply cap being exceeded. 
 
 It only enforces that the supply cap is not reached before the loan is opened. 
 

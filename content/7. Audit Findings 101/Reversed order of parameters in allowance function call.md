@@ -1,7 +1,7 @@
 
 # 5 - [Reversed order of parameters in allowance function call](./Reversed%20order%20of%20parameters%20in%20allowance%20function%20call.md)
 
-Reversed order of parameters in allowance function call the parameters that are used for the allowance function call are not in the same order that is used later in the call to `safeTransferFrom`.
+The parameters that are used for the allowance function call are not in the same order that is used later in the call to `safeTransferFrom`.
 
 ### Recommendation:
 Reverse the order of parameters in allowance function call to fit the order that is in the safeTransferFrom function call.

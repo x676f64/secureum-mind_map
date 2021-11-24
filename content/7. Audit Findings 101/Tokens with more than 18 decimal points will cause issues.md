@@ -1,7 +1,9 @@
 
 # 3 - [Tokens with more than 18 decimal points will cause issues](./Tokens%20with%20more%20than%2018%20decimal%20points%20will%20cause%20issues.md)
 
-Tokens with more than 18 decimal points will cause issues It is assumed that the maximum number of decimals for each token is 18. However uncommon, it is possible to have tokens with more than 18 decimals, as an example YAMv2 has 24 decimals. 
+It is assumed that the maximum number of decimals for each token is 18. 
+
+However uncommon, it is possible to have tokens with more than 18 decimals, as an example YAMv2 has 24 decimals. 
 
 This can result in broken code flow and unpredictable outcomes
 

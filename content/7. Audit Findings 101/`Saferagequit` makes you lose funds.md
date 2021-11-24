@@ -1,7 +1,7 @@
 
 # 26 - [`Saferagequit` makes you lose funds](./`Saferagequit`%20makes%20you%20lose%20funds.md)
 
-`Saferagequit` makes you lose funds `safeRagequit` and `ragequit` functions are used for withdrawing funds from the LAO. The difference between them is that ragequit function tries to withdraw all the allowed tokens and `safeRagequit` function withdraws only some subset of these tokens, defined by the user. 
+`safeRagequit` and `ragequit` functions are used for withdrawing funds from the LAO. The difference between them is that ragequit function tries to withdraw all the allowed tokens and `safeRagequit` function withdraws only some subset of these tokens, defined by the user. 
 
 It’s needed in case the user or `GuildBank` is blacklisted in some of the tokens and the transfer reverts. 
 

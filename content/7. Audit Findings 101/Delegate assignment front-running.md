@@ -14,7 +14,7 @@ ___
 ![033.png](../../images/7.%20Audit%20Findings%20101/033.png)
 ___
 ## Slide Text
-- ConsenSys Audit The Lao Finding 5.4
+- ConsenSys Audit The Lao Finding 5.8
 - Timing & DoS
 - Major Severity
 - Front-running

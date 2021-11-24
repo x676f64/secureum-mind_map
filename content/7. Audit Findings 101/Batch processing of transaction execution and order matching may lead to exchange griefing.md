@@ -16,7 +16,7 @@ ___
 ![064.png](../../images/7.%20Audit%20Findings%20101/064.png)
 ___
 ## Slide Text
-- ToB Audit Ox Protocol Finding 3
+- ToB Audit Ox Protocol Finding 6
 - DoS
 - Medium Severity
 - Batch tx Processing

@@ -1,7 +1,7 @@
 
 # 27 - [Creating proposal is not trustless](./Creating%20proposal%20is%20not%20trustless.md)
 
-Creating proposal is not trustless Usually, if someone submits a proposal and transfers some amount of tribute tokens, these tokens are transferred back if the proposal is rejected. 
+Usually, if someone submits a proposal and transfers some amount of tribute tokens, these tokens are transferred back if the proposal is rejected. 
 
 But if the proposal is not processed before the emergency processing, these tokens will not be transferred back to the proposer. 
 

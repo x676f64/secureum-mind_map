@@ -8,7 +8,11 @@ All these functions can be front-run by an attacker, allowing them to initialize
 ### Recommendation:
 Short term, either: 
 	1. Use a factory pattern that will prevent front-running of the initialization, or 
-	2. Ensure the deployment scripts are robust in case of a front-running attack. Carefully review the Solidity documentation, especially the Warnings section. Carefully review the pitfalls of using delegatecall proxy pattern.
+	2. Ensure the deployment scripts are robust in case of a front-running attack. 
+	
+Carefully review the Solidity documentation, especially the Warnings section. 
+
+Carefully review the pitfalls of using delegatecall proxy pattern.
 ___
 ## Slide Screenshot
 ![048.png](../../images/7.%20Audit%20Findings%20101/048.png)

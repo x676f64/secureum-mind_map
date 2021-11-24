@@ -7,7 +7,6 @@ By force-sending the contract 1 wei, anyone can bypass the majority of checks an
 
 ### Recommendation:
 Prevent allocate from being called before genesis launch
-
 ___
 ## Slide Screenshot
 ![012.png](../../images/7.%20Audit%20Findings%20101/012.png)

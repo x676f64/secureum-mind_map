@@ -1,7 +1,7 @@
 
 # 20 - [Owner can front-run traders by updating adapters](./Owner%20can%20front-run%20traders%20by%20updating%20adapters.md)
 
-Owner can front-run traders by updating adapters `MetaSwap` owners can front-run users to swap an adapter implementation. 
+`MetaSwap` owners can front-run users to swap an adapter implementation. 
 
 This could be used by a malicious or compromised owner to steal from users. 
 

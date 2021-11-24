@@ -1,7 +1,7 @@
 
 # 1 - [Unhandled return values of `transfer` and `transferFrom`](./Unhandled%20return%20values%20of%20`transfer`%20and%20`transferFrom`.md)
 
-Unhandled return values of `transfer` and `transferFrom` ERC20 implementations are not always consistent. 
+ERC20 implementations are not always consistent. 
 
 Some implementations of `transfer` and `transferFrom` could return ‘false’ on failure instead of reverting. 
 
