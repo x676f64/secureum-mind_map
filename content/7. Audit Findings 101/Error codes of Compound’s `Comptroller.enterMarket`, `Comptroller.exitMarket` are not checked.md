@@ -13,7 +13,13 @@ ___
 ![004.png](../../images/7.%20Audit%20Findings%20101/004.png)
 ___
 ## Slide Text
-- 
+- ConsenSys DeFi Save Finding 5.3
+- Error Handling
+- Major Severity
+- Function Return Values
+- Unchecked Error Codes
+- Check Error Code
+- Revert if Necessary
 ___
 ## References
 - Youtube Reference

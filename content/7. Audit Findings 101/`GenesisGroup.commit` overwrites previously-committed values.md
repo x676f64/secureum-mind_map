@@ -13,7 +13,11 @@ ___
 ![009.png](../../images/7.%20Audit%20Findings%20101/009.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit Fei Finding 3.1
+- Application Logic
+- Critical Severity
+- Overwrite Value Instead-of Adding Value
+- Add to Existing Value
 ___
 ## References
 - Youtube Reference

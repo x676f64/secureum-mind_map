@@ -13,7 +13,12 @@ ___
 ![007.png](../../images/7.%20Audit%20Findings%20101/007.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit DAOfi Finding 4.4
+- Error Handling
+- Major Severity
+- Incorrect Check
+- Swap Tokens
+- Use Correct Check
 ___
 ## References
 - Youtube Reference

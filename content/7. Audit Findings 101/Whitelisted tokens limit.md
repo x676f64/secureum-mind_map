@@ -13,7 +13,12 @@ ___
 ![030.png](../../images/7.%20Audit%20Findings%20101/030.png)
 ___
 ## Slide Text
-- 
+- ConsenSys Audit The Lao Finding 5.5
+- Denial-of-Service
+- Major Severity
+- Whitelist Token List
+- Gas Limit
+- Limit/Prune List
 ___
 ## References
 - Youtube Reference
