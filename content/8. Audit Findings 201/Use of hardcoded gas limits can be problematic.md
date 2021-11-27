@@ -1,10 +1,10 @@
 
 # 116 - [Use of hardcoded gas limits can be problematic](./Use%20of%20hardcoded%20gas%20limits%20can%20be%20problematic.md)
 
-Use of hardcoded gas limits can be problematic Hardcoded gas limits can be problematic as the past has shown that gas economics in ethereum have changed, and may change again potentially rendering the contract system unusable in the future.
+Hardcoded gas limits can be problematic as the past has shown that gas economics in Ethereum have changed, and may change again potentially rendering the contract system unusable in the future.
 
-1. Recommendation: Be conscious about this potential limitation and prepare for the case where gas prices might change in a way that negatively affects the contract system.
-2. [ConsenSys's Audit of 1inch Liquidity Protocol](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/#use-of-hardcoded-gas-limits-can-be-problematic)
+### Recommendation:
+Be conscious about this potential limitation and prepare for the case where gas prices might change in a way that negatively affects the contract system.
 ___
 ## Slide Screenshot
 ![116.png](../../images/8.%20Audit%20Findings%20201/116.png)
@@ -17,5 +17,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=1018)
+- [ConsenSys's Audit of 1inch Liquidity Protocol](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/#use-of-hardcoded-gas-limits-can-be-problematic)
 ___
 ## Tags

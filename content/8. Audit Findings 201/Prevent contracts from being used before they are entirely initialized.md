@@ -5,8 +5,8 @@ Prevent contracts from being used before they are entirely initialized Many cont
 
 Because these contracts allow interaction on semi-configured states, the number of configurations possible when interacting with the system makes it incredibly difficult to determine whether the contracts behave as expected in every scenario, or even what behavior is expected in the first place.
 
-1. Recommendation: Prevent contracts from being used before they are entirely initialized
-2. [ConsenSys's Audit of Growth DeFi](https://consensys.net/diligence/audits/2020/12/growth-defi-v1/#prevent-contracts-from-being-used-before-they-are-entirely-initialized)
+### Recommendation:
+Prevent contracts from being used before they are entirely initialized
 ___
 ## Slide Screenshot
 ![123.png](../../images/8.%20Audit%20Findings%20201/123.png)
@@ -19,5 +19,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/yphqu2N35X4?t=130)
+- [ConsenSys's Audit of Growth DeFi](https://consensys.net/diligence/audits/2020/12/growth-defi-v1/#prevent-contracts-from-being-used-before-they-are-entirely-initialized)
 ___
 ## Tags

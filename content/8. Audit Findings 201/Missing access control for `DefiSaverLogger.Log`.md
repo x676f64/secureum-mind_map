@@ -1,11 +1,11 @@
 
 # 107 - [Missing access control for `DefiSaverLogger.Log`](./Missing%20access%20control%20for%20`DefiSaverLogger.Log`.md)
 
-Missing access control for `DefiSaverLogger.Log` `DefiSaverLogger` is used as a logging aggregator within the entire dapp, but anyone can create logs.
+`DefiSaverLogger` is used as a logging aggregator within the entire dapp, but anyone can create logs.
 
 
-1. Recommendation: Add access control to all functions appropriately
-2. [Consensys Audit of DeFi Saver](about:blank)
+### Recommendation:
+Add access control to all functions appropriately
 
 
 ___
@@ -20,5 +20,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=506)
+- [Consensys Audit of DeFi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#missing-access-control-for-defisaverlogger-log)
 ___
 ## Tags

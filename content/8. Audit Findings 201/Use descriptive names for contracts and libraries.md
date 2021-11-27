@@ -7,8 +7,8 @@ In principle, this can be a good practice to avoid repeated use of similar code.
 
 However, with no descriptive naming conventions to signal which files would contain meaningful logic, codebase becomes difficult to navigate.
 
-1. Recommendation: Use descriptive names for contracts and libraries
-2. [ConsenSys's Audit of Growth DeFi](https://consensys.net/diligence/audits/2020/12/growth-defi-v1/#use-descriptive-names-for-contracts-and-libraries)
+### Recommendation:
+Use descriptive names for contracts and 
 ___
 ## Slide Screenshot
 ![122.png](../../images/8.%20Audit%20Findings%20201/122.png)
@@ -22,5 +22,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/yphqu2N35X4?t=62)
+- [ConsenSys's Audit of Growth DeFi](https://consensys.net/diligence/audits/2020/12/growth-defi-v1/#use-descriptive-names-for-contracts-and-libraries)
 ___
 ## Tags

@@ -9,8 +9,9 @@ Especially this helps with safer future development and upgrading each module.
 
 As we've seen in some smart contract incidents, a complete test suite can prevent issues that might be hard to find with manual reviews.
 
-1. Recommendation: Add a full coverage test suite.
-2. [ConsenSys's Audit of DeFi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#full-test-suite-is-recommended)
+### Recommendation:
+Add a full coverage test suite.
+
 ___
 ## Slide Screenshot
 ![104.png](../../images/8.%20Audit%20Findings%20201/104.png)
@@ -23,5 +24,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=334)
+- [ConsenSys's Audit of DeFi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#full-test-suite-is-recommended)
 ___
 ## Tags

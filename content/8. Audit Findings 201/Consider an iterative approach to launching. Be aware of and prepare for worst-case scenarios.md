@@ -3,8 +3,10 @@
 
 The system has many components with complex functionality and no apparent upgrade path.
 
-1. Recommendation: We recommend identifying which components are crucial for a minimum viable system, then focusing efforts on ensuring the security of those components first, and then moving on to the others. During the early life of the system, have a method for pausing and upgrading the system.
-2. [ConsenSys's Audit of Lien Protocol](https://consensys.net/diligence/audits/2020/05/lien-protocol/#consider-an-iterative-approach-to-launching)
+### Recommendation:
+We recommend identifying which components are crucial for a minimum viable system, then focusing efforts on ensuring the security of those components first, and then moving on to the others. 
+
+During the early life of the system, have a method for pausing and upgrading the system.
 ___
 ## Slide Screenshot
 ![130.png](../../images/8.%20Audit%20Findings%20201/130.png)
@@ -19,5 +21,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/yphqu2N35X4?t=534)
+- [ConsenSys's Audit of Lien Protocol](https://consensys.net/diligence/audits/2020/05/lien-protocol/#consider-an-iterative-approach-to-launching)
 ___
 ## Tags

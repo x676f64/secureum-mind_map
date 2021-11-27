@@ -5,8 +5,8 @@ Only whitelist validated assets Because some of the functionality relies on corr
 
 Problems can arise if a malicious token is whitelisted because it can block people from voting with that specific token or gain unfair advantage if the balance can be manipulated.
 
-1. Recommendation: Make sure to audit any new whitelisted asset.
-2. [ConsenSys's Audit of Aave Governance DAO](https://consensys.net/diligence/audits/2020/08/aave-governance-dao/#only-whitelist-validated-assets)
+### Recommendation:
+Make sure to audit any new whitelisted asset.
 ___
 ## Slide Screenshot
 ![127.png](../../images/8.%20Audit%20Findings%20201/127.png)
@@ -19,5 +19,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/yphqu2N35X4?t=375)
+- [ConsenSys's Audit of Aave Governance DAO](https://consensys.net/diligence/audits/2020/08/aave-governance-dao/#only-whitelist-validated-assets)
 ___
 ## Tags

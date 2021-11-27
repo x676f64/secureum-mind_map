@@ -9,8 +9,16 @@ Any token or ETH that belongs to the `ReferralFeeReceiver` is at risk and can be
 
 It should be noted that none of the functions in `ReferralFeeReceiver` verify that the user-provided mooniswap pool address was actually deployed by the linked MooniswapFactory.
 
-1. Recommendation: Enforce that the user-provided mooniswap contract was actually deployed by the linked factory. Other contracts cannot be trusted. Consider implementing token sorting and de-duplication (_tokenA!=tokenB_) in the pool contract constructor as well. Consider employing a reentrancy guard to safeguard the contract from reentrancy attacks. Improve testing. The methods mentioned here are not covered at all. Improve documentation and provide a specification that outlines how this contract is supposed to be used.
-2. Critical finding in [ConsenSys's Audit of 1inch Liquidity Protocol](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/#out-of-scope-referralfeereceiver-anyone-can-steal-all-the-funds-that-belong-to-referralfeereceiver)
+### Recommendation:
+Enforce that the user-provided mooniswap contract was actually deployed by the linked factory. 
+
+Other contracts cannot be trusted. Consider implementing token sorting and de-duplication (`tokenA!=tokenB`) in the pool contract constructor as well. 
+
+Consider employing a reentrancy guard to safeguard the contract from reentrancy attacks. Improve testing. 
+
+The methods mentioned here are not covered at all. 
+
+Improve documentation and provide a specification that outlines how this contract is supposed to be used.
 ___
 ## Slide Screenshot
 ![117.png](../../images/8.%20Audit%20Findings%20201/117.png)
@@ -23,5 +31,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://youtu.be/IXm6JAprhuw?t=1079)
+- Critical finding in [ConsenSys's Audit of 1inch Liquidity Protocol](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/#out-of-scope-referralfeereceiver-anyone-can-steal-all-the-funds-that-belong-to-referralfeereceiver)
 ___
 ## Tags

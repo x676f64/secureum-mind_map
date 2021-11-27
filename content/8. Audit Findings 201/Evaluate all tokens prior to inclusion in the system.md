@@ -5,8 +5,8 @@ Evaluate all tokens prior to inclusion in the system Review current and future t
 
 Particularly dangerous functionality to look for includes a callback (ie. ERC777) which would enable an attacker to execute potentially arbitrary code during the transaction, fees on transfers, or inflationary/deflationary tokens.
 
-1. Recommendation: Evaluate all tokens prior to inclusion in the system
-2. [ConsenSys's Audit of Growth DeFi](https://consensys.net/diligence/audits/2020/12/growth-defi-v1/#evaluate-all-tokens-prior-to-inclusion-in-the-system)
+### Recommendation:
+Evaluate all tokens prior to inclusion in the system
 ___
 ## Slide Screenshot
 ![121.png](../../images/8.%20Audit%20Findings%20201/121.png)
@@ -19,5 +19,6 @@ ___
 ___
 ## References
 - [Youtube Reference](https://www.youtube.com/watch?v=yphqu2N35X4)
+- [ConsenSys's Audit of Growth DeFi](https://consensys.net/diligence/audits/2020/12/growth-defi-v1/#evaluate-all-tokens-prior-to-inclusion-in-the-system)
 ___
 ## Tags
