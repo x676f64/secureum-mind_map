@@ -21,7 +21,9 @@ ___
 - Revert if Necessary
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/SromSImIpHE?t=408)
 - Major severity finding from [Consensys Diligence Audit of Defi Saver](https://consensys.net/diligence/audits/2021/03/defi-saver/#error-codes-of-compound-s-comptroller-entermarket-comptroller-exitmarket-are-not-checked)
 ___
 ## Tags
+- 142 Security_Pitfalls.201
+- 175 Security_Pitfalls.201
