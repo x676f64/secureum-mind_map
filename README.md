@@ -2,7 +2,7 @@
 ___
 Information I would like to add (my wish list): 
 - [ ] Links to the relevant topic on youtube at that specific point in the video. -- This is now complete in all sections except for Ethereum 101
-- [ ] Text to speech of what is said for each topic by Rajeev in the videos
+- [ ] "Speech to text" of what is said for each topic by Rajeev in the videos
 - [ ] Solidity example where applicable
 - [ ] Add dapptool examples for relevant topics
 ___
