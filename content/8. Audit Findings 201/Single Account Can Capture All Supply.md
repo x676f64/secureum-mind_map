@@ -1,7 +1,7 @@
 
 # 168 - [Single Account Can Capture All Supply](./Single%20Account%20Can%20Capture%20All%20Supply.md)
 
-Single Account Can Capture All Supply The `EtherCollateral` smart contract does not rely on a `maxLoanSize` to limit the amount of ETH that can be locked for a loan. 
+The `EtherCollateral` smart contract does not rely on a `maxLoanSize` to limit the amount of ETH that can be locked for a loan. 
 
 As a result, a single account can issue a loan that will reach the total minting supply.
 

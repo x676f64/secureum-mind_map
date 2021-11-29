@@ -1,7 +1,7 @@
 
 # 127 - [Only whitelist validated assets](./Only%20whitelist%20validated%20assets.md)
 
-Only whitelist validated assets Because some of the functionality relies on correct token behavior, any whitelisted token should be audited in the context of this system. 
+Because some of the functionality relies on correct token behavior, any whitelisted token should be audited in the context of this system. 
 
 Problems can arise if a malicious token is whitelisted because it can block people from voting with that specific token or gain unfair advantage if the balance can be manipulated.
 

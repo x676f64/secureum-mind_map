@@ -9,8 +9,8 @@ If any of the recipients of an ETH transfer is a smart contract that reverts, th
 
 ### Recommendation:
 
-	1. Implement a queuing mechanism to allow buyers/sellers to initiate the withdrawal on their own using a ‘pull-over-push pattern.’
-	2. Ignore a failed transfer and leave the responsibility up to users to receive them properly.
+1. Implement a queuing mechanism to allow buyers/sellers to initiate the withdrawal on their own using a 'pull-over-push pattern'.
+2. Ignore a failed transfer and leave the responsibility up to users to receive them properly.
 ___
 ## Slide Screenshot
 ![025.png](../../images/7.%20Audit%20Findings%20101/025.png)

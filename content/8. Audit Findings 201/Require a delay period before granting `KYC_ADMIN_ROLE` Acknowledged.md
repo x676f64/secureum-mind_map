@@ -1,7 +1,7 @@
 
 # 113 - [Require a delay period before granting `KYC_ADMIN_ROLE` Acknowledged](Require%20a%20delay%20period%20before%20granting%20`KYC_ADMIN_ROLE`%20Acknowledged.md)
 
-Acknowledged The KYC Admin has the ability to freeze the funds of any user at any time by revoking the `KYC_MEMBER_ROLE`. 
+The KYC Admin has the ability to freeze the funds of any user at any time by revoking the `KYC_MEMBER_ROLE`. 
 
 The trust requirements from users can be decreased slightly by implementing a delay on granting this ability to new addresses. 
 

@@ -1,7 +1,7 @@
 
 # 126 - [Potential manipulation of stable interest rates using flash loans](./Potential%20manipulation%20of%20stable%20interest%20rates%20using%20flash%20loans.md)
 
-Potential manipulation of stable interest rates using flash loans Flash loans allow users to borrow large amounts of liquidity from the protocol. 
+Flash loans allow users to borrow large amounts of liquidity from the protocol. 
 
 It is possible to adjust the stable rate up or down by momentarily removing or adding large amounts of liquidity to reserves.
 

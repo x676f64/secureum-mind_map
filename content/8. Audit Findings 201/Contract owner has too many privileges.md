@@ -1,7 +1,7 @@
 
 # 165 - [Contract owner has too many privileges](./Contract%20owner%20has%20too%20many%20privileges.md)
 
-Contract owner has too many privileges The owner of the contracts has too many privileges relative to standard users. 
+The owner of the contracts has too many privileges relative to standard users. 
 
 Users can lose all of their assets if a contract owner private key is compromised. 
 

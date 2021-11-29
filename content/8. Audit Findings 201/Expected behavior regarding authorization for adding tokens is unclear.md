@@ -1,7 +1,7 @@
 
 # 155 - [Expected behavior regarding authorization for adding tokens is unclear](./Expected%20behavior%20regarding%20authorization%20for%20adding%20tokens%20is%20unclear.md)
 
-Expected behavior regarding authorization for adding tokens is unclear `addToken` allows anyone to list a new token on Hermez. 
+`addToken` allows anyone to list a new token on Hermez. 
 
 This contradicts the online documentation, which implies that only the governance should have this authorization. 
 

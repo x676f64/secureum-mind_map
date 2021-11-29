@@ -1,7 +1,7 @@
 
 # 128 - [Underflow if `TOKEN_DECIMALS` are greater than 18](Underflow%20if%20`TOKEN_DECIMALS`%20are%20greater%20than%2018.md)
 
-Underflow if `TOKEN_DECIMALS` are greater than 18 In `latestAnswer()`, the assumption is made that `TOKEN_DECIMALS` is less than 18.
+In `latestAnswer()`, the assumption is made that `TOKEN_DECIMALS` is less than 18.
 
 ### Recommendation:
 Add a simple check to the constructor to ensure the added token has 18 decimals or less

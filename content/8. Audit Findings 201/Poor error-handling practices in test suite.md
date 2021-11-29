@@ -1,7 +1,7 @@
 
 # 166 - [Poor error-handling practices in test suite](./Poor%20error-handling%20practices%20in%20test%20suite.md)
 
-Poor error-handling practices in test suite The test suite does not properly test expected behavior, as the contracts run in production. 
+The test suite does not properly test expected behavior, as the contracts run in production. 
 
 Additionally, certain components lack error-handling methods. 
 

@@ -1,7 +1,7 @@
 
 # 114 - [Improve inline documentation and test coverage](./Improve%20inline%20documentation%20and%20test%20coverage.md)
 
-Improve inline documentation and test coverage The source-units hardly contain any inline documentation which makes it hard to reason about methods and how they are supposed to be used. 
+The source-units hardly contain any inline documentation which makes it hard to reason about methods and how they are supposed to be used. 
 
 Additionally, test-coverage seems to be limited. 
 

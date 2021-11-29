@@ -1,7 +1,7 @@
 
 # 146 - [Missing zero-address checks in `Curve.transferOwnership` and `Router.constructor`](./Missing%20zero-address%20checks%20in%20`Curve.transferOwnership`%20and%20`Router.constructor`.md)
 
-Missing zero-address checks in `Curve.transferOwnership` and `Router.constructor` Like other similar functions, `Curve.transfer` and `Orchestrator.includeAsset` perform zero-address checks. 
+Like other similar functions, `Curve.transfer` and `Orchestrator.includeAsset` perform zero-address checks. 
 
 However, `Curve.transferOwnership` and the Router constructor do not. 
 
