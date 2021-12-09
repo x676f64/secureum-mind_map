@@ -26,5 +26,5 @@ find "${topDir}" -type f -name \*.png -print0 | parallel --verbose -q0 convert -
 # Remove original png files
 find "${topDir}" -type f -name \*.png -print0 | parallel --verbose -q0 bash -c 'if [[ -e "{.}.jpg" ]]; then rm "{}"; fi'
 
-# Replace image links in *.md fiels by replacing '![x.png](x.png)' with '~[x.jpg](x.jpg)'
+# Replace image links in *.md files by replacing '![x.png](x.png)' with '~[x.jpg](x.jpg)'
 find "${topDir}" -type f -name "*.md" -print0 | parallel --verbose -q0 perl -i -pe 's/!\[(.+?)(\.png)?]\(([^ ]+?).png\)/![$1.jpg]($3.jpg)/g'
