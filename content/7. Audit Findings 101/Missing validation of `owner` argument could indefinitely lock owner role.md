@@ -25,7 +25,7 @@ Several improvements could prevent the four above mentioned cases:
 	3. If it needs to be possible to set the owner to `address(0)`, implement a `renounceOwnership` function.
 ___
 ## Slide Screenshot
-![049.png](../../images/7.%20Audit%20Findings%20101/049.png)
+![049.jpg](../../images/7.%20Audit%20Findings%20101/049.jpg)
 ___
 ## Slide Text
 - ToB Audit Uniswap V3 Finding 1

@@ -2,7 +2,7 @@
 Tokens with multiple entry points for balance updates can break internal bookkeeping based on the address (e.g. `balances[token_address][msg.sender]` might not reflect the actual balance). (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#contract-composition))
 ___
 ## Slide Screenshot
-![0111.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/111.png)
+![0111.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/111.jpg)
 ___
 ## Slide Text
 - ERC20 Token Address

@@ -9,7 +9,7 @@ Indeed, this check is implemented in the `_transfer()` function in the `ERC20.so
 Consider removing the require statement for gas saving purposes.
 ___
 ## Slide Screenshot
-![174.png](../../images/8.%20Audit%20Findings%20201/174.png)
+![174.jpg](../../images/8.%20Audit%20Findings%20201/174.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit InfiniGold Finding INF-09

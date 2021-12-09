@@ -9,7 +9,7 @@ MythX official integrations, tools and libraries include:
 4. MythX VSCode: VSCode extension which allows you to scan smart-contracts and view results directly from your code editor.
 ___
 ## Slide Screenshot
-![063.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/063.png)
+![063.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/063.jpg)
 ___
 ## Slide Text
 - CLI: Unified Tool

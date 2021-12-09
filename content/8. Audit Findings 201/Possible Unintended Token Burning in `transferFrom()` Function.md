@@ -13,7 +13,7 @@ Prevent sending tokens to the burn address in the `transferFrom()` function.
 This can be achieved by adding a `require` within `transferFrom()` which disallows the to address to be the `burnAddress`.
 ___
 ## Slide Screenshot
-![171.png](../../images/8.%20Audit%20Findings%20201/171.png)
+![171.jpg](../../images/8.%20Audit%20Findings%20201/171.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit InfiniGold Finding INF-03

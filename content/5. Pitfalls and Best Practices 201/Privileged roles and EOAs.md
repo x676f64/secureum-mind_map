@@ -4,7 +4,7 @@ Trusted actors who have privileged roles with capabilities to deploy contracts, 
 They should not be controlled by private keys of EOAs but with Multisigs with a high threshold (e.g. 5-of-7, 9-of-11) and eventually by a DAO of token holders. EOA has a single point of failure.
 ___
 ## Slide Screenshot
-![0161.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/161.png)
+![0161.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/161.jpg)
 ___
 ## Slide Text
 - Privileged Roles/Actions

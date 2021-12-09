@@ -7,7 +7,7 @@ These side-effects may go unnoticed by developers/auditors because the modifier 
 
 ___
 ## Slide Screenshot
-![07.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/007.png)
+![07.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/007.jpg)
 ___
 ## Slide Text
 - Modifier Side-Effects

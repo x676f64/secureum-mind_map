@@ -3,7 +3,7 @@ Functions that modify state (in assembly or otherwise) but are labelled `constan
 
 ___
 ## Slide Screenshot
-![036.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/036.png)
+![036.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/036.jpg)
 ___
 ## Slide Text
 - Contract State Modifications

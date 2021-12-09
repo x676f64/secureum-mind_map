@@ -3,7 +3,7 @@ Storage is a key-value store that maps 256-bit words to 256-bit words and is acc
 
 ___
 ## Slide Screenshot
-![114.png](../../images/3.%20Solidity%20201/114.png)
+![114.jpg](../../images/3.%20Solidity%20201/114.jpg)
 ___
 ## Slide Text
 - Storage -> Key/Value Store

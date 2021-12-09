@@ -20,7 +20,7 @@ The first step merely broadcasts to users that a particular change is coming, an
 This allows users that do not accept the change to withdraw immediately.
 ___
 ## Slide Screenshot
-![118.png](../../images/8.%20Audit%20Findings%20201/118.png)
+![118.jpg](../../images/8.%20Audit%20Findings%20201/118.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit 1inch Finding 5.7

@@ -2,7 +2,7 @@
 Unused state/local variables may be indicative of programmer error, missing logic or potential optimization opportunity, which needs to be flagged for removal or addressed appropriately. (see [here](https://swcregistry.io/docs/SWC-131))
 ___
 ## Slide Screenshot
-![075.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/075.png)
+![075.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/075.jpg)
 ___
 ## Slide Text
 - State/Local Variables

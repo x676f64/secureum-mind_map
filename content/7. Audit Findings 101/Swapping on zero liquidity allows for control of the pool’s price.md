@@ -9,7 +9,7 @@ As a result, an attacker could set an arbitrary price at the pool’s initializa
 No straightforward way to prevent the issue. Ensure pools don’t end up in unexpected states. Warn users of potential risks.
 ___
 ## Slide Screenshot
-![053.png](../../images/7.%20Audit%20Findings%20101/053.png)
+![053.jpg](../../images/7.%20Audit%20Findings%20101/053.jpg)
 ___
 ## Slide Text
 - ToB Audit Uniswap V3 Finding 8

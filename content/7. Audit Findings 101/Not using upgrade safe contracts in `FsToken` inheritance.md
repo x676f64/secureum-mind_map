@@ -9,7 +9,7 @@ However, the contracts `ERC20Snapshot`, `ERC20Mintable` and `ERC20Burnable` in t
 Use the upgrades safe library in this case will ensure the inheritance from Initializable and the other contracts is always linearized as expected by the compiler.
 ___
 ## Slide Screenshot
-![081.png](../../images/7.%20Audit%20Findings%20101/081.png)
+![081.jpg](../../images/7.%20Audit%20Findings%20101/081.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Futureswap V2 Finding M01

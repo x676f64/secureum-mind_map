@@ -4,7 +4,7 @@ Are present if used. These functions are optional in the ERC20 standard and migh
 
 ___
 ## Slide Screenshot
-![0103.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/103.png)
+![0103.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/103.jpg)
 ___
 ## Slide Text
 - ERC20 name, symbol, & decimals

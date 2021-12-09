@@ -12,7 +12,7 @@
 
 ___
 ## Slide Screenshot
-![041.png](../../images/2.%20Solidity%20101/041.png)
+![041.jpg](../../images/2.%20Solidity%20101/041.jpg)
 ___
 ## Slide Deck
 - `bool` Keyword

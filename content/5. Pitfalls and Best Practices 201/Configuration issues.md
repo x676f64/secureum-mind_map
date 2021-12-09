@@ -2,7 +2,7 @@
 Misconfiguration of system components such contracts, parameters, addresses and permissions may lead to security issues.
 ___
 ## Slide Screenshot
-![0165.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/165.png)
+![0165.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/165.jpg)
 ___
 ## Slide Text
 - Misconfiguration -> Security Issues

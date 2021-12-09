@@ -12,7 +12,7 @@ While the management of private keys and admin access is outside the scope of th
 Use a `TimelockController` as the `KYC_DEFAULT_ADMIN` of the eRLC contract
 ___
 ## Slide Screenshot
-![113.png](../../images/8.%20Audit%20Findings%20201/113.png)
+![113.jpg](../../images/8.%20Audit%20Findings%20201/113.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit eRLC Finding 4.3

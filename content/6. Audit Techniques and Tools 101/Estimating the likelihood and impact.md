@@ -12,7 +12,7 @@ Impact indicates the magnitude of implications on the technical and business asp
 Estimating the severity: Severity, per OWASP, is a combination of likelihood and impact. With reasonable evaluations of those two, severity estimates from the OWASP matrix should be straightforward. 
 ___
 ## Slide Screenshot
-![100.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/100.png)
+![100.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/100.jpg)
 ___
 ## Slide Text
 - Likelihood: Probability & Difficulty

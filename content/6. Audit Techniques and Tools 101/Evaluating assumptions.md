@@ -10,7 +10,7 @@ Many security vulnerabilities result from faulty assumptions e.g. who can access
 6. Function calls will always be successful and so checking for return values is not required
 ___
 ## Slide Screenshot
-![097.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/097.png)
+![097.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/097.jpg)
 ___
 ## Slide Text
 - Incorrect Assumptions

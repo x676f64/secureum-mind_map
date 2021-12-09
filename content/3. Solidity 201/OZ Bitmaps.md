@@ -13,7 +13,7 @@ OpenZeppelin BitMaps: Library for managing `uint256` to `bool` mapping in a comp
 
 ___
 ## Slide Screenshot
-![180.png](../../images/3.%20Solidity%20201/180.png)
+![180.jpg](../../images/3.%20Solidity%20201/180.jpg)
 ___
 ## Slide Text
 - Managing Bitmaps

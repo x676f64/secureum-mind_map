@@ -4,7 +4,7 @@ Ethereum’s purpose is not primarily to be a digital currency payment network. 
 
 ___
 ## Slide Screenshot
-![005.png](../../images/1.%20Ethereum%20101/005.png)
+![005.jpg](../../images/1.%20Ethereum%20101/005.jpg)
 ___
 ## Slide Text
 - Not currency

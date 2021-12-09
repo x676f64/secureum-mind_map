@@ -17,7 +17,7 @@ However, the check inside the require is incorrect. The operand used is >= inste
 Replace >= with <= in the require statement.
 __
 ## Slide Screenshot
-![050.png](../../images/7.%20Audit%20Findings%20101/050.png)
+![050.jpg](../../images/7.%20Audit%20Findings%20101/050.jpg)
 ___
 ## Slide Text
 - ToB Audit Uniswap V3 Finding 5

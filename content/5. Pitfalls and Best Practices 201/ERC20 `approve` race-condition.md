@@ -4,7 +4,7 @@ The ERC20 standard has a known ERC20 race condition that must be mitigated to pr
 
 ___
 ## Slide Screenshot
-![0105.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/105.png)
+![0105.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/105.jpg)
 ___
 ## Slide Text
 - ERC20 approve() -> Race-condition

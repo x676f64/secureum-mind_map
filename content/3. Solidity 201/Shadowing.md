@@ -5,7 +5,7 @@ A derived contract can only declare a state variable x, if there is no visible s
 
 ___
 ## Slide Screenshot
-![106.png](../../images/3.%20Solidity%20201/106.png)
+![106.jpg](../../images/3.%20Solidity%20201/106.jpg)
 ___
 ## Slide Text
 - State Variable Shadowing

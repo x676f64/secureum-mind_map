@@ -9,7 +9,7 @@ Static analysis is a technique of analyzing program properties without actually 
 
 ___
 ## Slide Screenshot
-![023.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/023.png)
+![023.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/023.jpg)
 ___
 ## Slide Text
 - W/O Program Execution

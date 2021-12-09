@@ -7,7 +7,7 @@ Lack of event emission after sensitive actions The `_getLatestFundingRate` funct
 Consider emitting events after sensitive changes take place, to facilitate tracking and notify off-chain clients following the contract’s activity.
 ___
 ## Slide Screenshot
-![077.png](../../images/7.%20Audit%20Findings%20101/077.png)
+![077.jpg](../../images/7.%20Audit%20Findings%20101/077.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit UMA Finding M01

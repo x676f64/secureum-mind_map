@@ -10,7 +10,7 @@ In the worst case, changes to `SoloMargin` could make it impossible to execute t
 Reconsider or bound the loop
 ___
 ## Slide Screenshot
-![124.png](../../images/8.%20Audit%20Findings%20201/124.png)
+![124.jpg](../../images/8.%20Audit%20Findings%20201/124.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Growth DeFi Finding 6.2

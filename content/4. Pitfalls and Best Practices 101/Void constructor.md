@@ -3,7 +3,7 @@ Calls to base contract constructors that are unimplemented leads to misplaced as
 
 ___
 ## Slide Screenshot
-![010.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/010.png)
+![010.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/010.jpg)
 ___
 ## Slide Text
 - Base Constructor

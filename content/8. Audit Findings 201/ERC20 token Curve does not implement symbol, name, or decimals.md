@@ -11,7 +11,7 @@ Short term, implement `symbol`, `name`, and `decimals`  on Curve contracts.
 Long term, ensure that contracts conform to all required and recommended industry standards.
 ___
 ## Slide Screenshot
-![148.png](../../images/8.%20Audit%20Findings%20201/148.png)
+![148.jpg](../../images/8.%20Audit%20Findings%20201/148.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 9

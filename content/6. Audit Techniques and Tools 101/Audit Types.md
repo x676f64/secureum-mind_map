@@ -9,7 +9,7 @@ Audit Types depend on the scope/nature/status of projects but generally fall int
 5. Incident audit: for reviewing an exploit incident, root causing the incident, identifying the underlying vulnerabilities and proposing fixes.
 ___
 ## Slide Screenshot
-![007.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/007.png)
+![007.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/007.jpg)
 ___
 ## Slide Text
 - New/Repeat

@@ -15,7 +15,7 @@ Consider introducing an `increaseAllowance` function to handle this case.
 `safeIncreaseAllowance` and `safeDecreaseAllowance` functions should be used
 ___
 ## Slide Screenshot
-![085.png](../../images/7.%20Audit%20Findings%20101/085.png)
+![085.jpg](../../images/7.%20Audit%20Findings%20101/085.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit 1inch Finding M07

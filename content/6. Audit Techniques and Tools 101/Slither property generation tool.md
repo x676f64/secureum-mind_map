@@ -10,7 +10,7 @@ Slither property generation tool `slither-prop` generates code properties (e.g.,
 6. Burnable - Test the burn of tokens. Require the "burn(address) returns()" function
 ___
 ## Slide Screenshot
-![042.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/042.png)
+![042.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/042.jpg)
 ___
 ## Slide Text
 - Property Generation Tool

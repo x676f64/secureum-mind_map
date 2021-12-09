@@ -11,7 +11,7 @@ Short term, review all the loops mentioned above and either:
 	2. remove elements. Long term, subscribe to Crytic.io to review external calls in loops. Crytic catches bugs of this type.
 ___
 ## Slide Screenshot
-![039.png](../../images/7.%20Audit%20Findings%20101/039.png)
+![039.jpg](../../images/7.%20Audit%20Findings%20101/039.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 20

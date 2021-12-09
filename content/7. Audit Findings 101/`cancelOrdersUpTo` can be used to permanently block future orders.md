@@ -13,7 +13,7 @@ However, `cancelOrdersUpTo` can cancel future orders if it is called with a very
 Properly document this behavior to warn users about the permanent effects of `cancelOrderUpTo` on future orders. Alternatively, disallow the cancelation of future orders.
 ___
 ## Slide Screenshot
-![059.png](../../images/7.%20Audit%20Findings%20101/059.png)
+![059.jpg](../../images/7.%20Audit%20Findings%20101/059.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 3

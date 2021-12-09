@@ -7,7 +7,7 @@ In `latestAnswer()`, the assumption is made that `TOKEN_DECIMALS` is less than 1
 Add a simple check to the constructor to ensure the added token has 18 decimals or less
 ___
 ## Slide Screenshot
-![128.png](../../images/8.%20Audit%20Findings%20201/128.png)
+![128.jpg](../../images/8.%20Audit%20Findings%20201/128.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Aave CPM Finding 6.2

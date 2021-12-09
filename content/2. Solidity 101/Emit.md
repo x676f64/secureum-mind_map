@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![029.png](../../images/2.%20Solidity%20101/029.png)
+![029.jpg](../../images/2.%20Solidity%20101/029.jpg)
 ___
 ## Slide Deck
 - Events Declaraction -> Emit

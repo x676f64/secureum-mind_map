@@ -11,7 +11,7 @@ Improperly validated interactions with the `BancorFormula` contract are seen to 
 More validation of mathematical operations
 ___
 ## Slide Screenshot
-![111.png](../../images/8.%20Audit%20Findings%20201/111.png)
+![111.jpg](../../images/8.%20Audit%20Findings%20201/111.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAfi Finding 3.4

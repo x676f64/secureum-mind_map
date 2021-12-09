@@ -8,7 +8,7 @@ Running static analyzers Automated tools such as linters or static analyzers hel
 3. False positives are possible among some of the detector findings and need to be verified manually if they are true/false positives
 ___
 ## Slide Screenshot
-![082.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/082.png)
+![082.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/082.jpg)
 ___
 ## Slide Text
 - Linters, Static Analyzers

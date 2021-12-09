@@ -15,7 +15,7 @@ In the worst-case scenario, the deprecated contract could cease to report the la
 Use the latest stable versions of any external libraries or contracts leveraged by the codebase
 ___
 ## Slide Screenshot
-![058.png](../../images/7.%20Audit%20Findings%20101/058.png)
+![058.jpg](../../images/7.%20Audit%20Findings%20101/058.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finding 1

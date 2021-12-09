@@ -6,7 +6,7 @@ Byzantine Threat Model: The [Web3](Web3.md) threat model is based on byzantine f
 
 ___
 ## Slide Screenshot
-![095.png](../../images/1.%20Ethereum%20101/095.png)
+![095.jpg](../../images/1.%20Ethereum%20101/095.jpg)
 ___
 ## Slide Text
 - Web2 -> Insiders/Outsiders (Trusted/Untrusted)

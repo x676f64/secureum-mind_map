@@ -11,7 +11,7 @@ Function Visibility Specifiers: [Functions](Functions.md) have to be specified a
 
 ___
 ## Slide Screenshot
-![023.png](../../images/2.%20Solidity%20101/023.png)
+![023.jpg](../../images/2.%20Solidity%20101/023.jpg)
 ___
 ## Slide Deck
 - Function Visibility

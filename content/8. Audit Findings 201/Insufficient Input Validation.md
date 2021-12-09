@@ -12,7 +12,7 @@ Similarly, the effective interest rate can be equal to zero if `interestRate` is
 Consider introducing require statements to perform adequate input validation.
 ___
 ## Slide Screenshot
-![169.png](../../images/8.%20Audit%20Findings%20201/169.png)
+![169.jpg](../../images/8.%20Audit%20Findings%20201/169.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit Synthetix Finding SEC-06

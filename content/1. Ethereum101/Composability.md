@@ -12,7 +12,7 @@ Composability by Design: Permissionless innovation and censorship-resistance are
 
 ___
 ## Slide Screenshot
-![097.png](../../images/1.%20Ethereum%20101/097.png)
+![097.jpg](../../images/1.%20Ethereum%20101/097.jpg)
 ___
 ## Slide Text
 - Open/Composable by Design

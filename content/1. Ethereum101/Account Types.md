@@ -8,7 +8,7 @@ Ethereum has two different types of accounts:
 
 ___
 ## Slide Screenshot
-![024.png](../../images/1.%20Ethereum%20101/024.png)
+![024.jpg](../../images/1.%20Ethereum%20101/024.jpg)
 ___
 ## Slide Text
 - Two Types:

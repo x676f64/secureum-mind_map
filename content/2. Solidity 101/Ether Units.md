@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![071.png](../../images/2.%20Solidity%20101/071.png)
+![071.jpg](../../images/2.%20Solidity%20101/071.jpg)
 ___
 ## Slide Deck
 - Suffix -> Literal Number

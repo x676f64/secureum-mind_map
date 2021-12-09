@@ -8,7 +8,7 @@ It is a [paid API-based service](https://mythx.io/plans/) which uses [several to
 [Mythril](https://github.com/ConsenSys/mythril) is the open-source component of MythX.
 ___
 ## Slide Screenshot
-![056.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/056.png)
+![056.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/056.jpg)
 ___
 ## Slide Text
 - Security Service

@@ -19,7 +19,7 @@ Moreover, if another voter recognizes this has occurred during the commitment ph
 Consider including the voter address within the commitment to prevent votes from being duplicated. Additionally, as a matter of good practice, consider including the relevant timestamp, price identifier and round ID as well to limit the applicability (and reusability) of a commitment.
 ___
 ## Slide Screenshot
-![101.png](../../images/7.%20Audit%20Findings%20101/101.png)
+![101.jpg](../../images/7.%20Audit%20Findings%20101/101.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Uma Finding H06

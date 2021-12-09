@@ -11,7 +11,7 @@
 
 ___
 ## Slide Screenshot
-![094.png](../../images/2.%20Solidity%20101/094.png)
+![094.jpg](../../images/2.%20Solidity%20101/094.jpg)
 ___
 ## Slide Deck
 - `catch Error(string reason)`

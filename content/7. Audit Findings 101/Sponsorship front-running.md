@@ -9,7 +9,7 @@ The incentive to do that is to be able to block the proposal afterwards.
 Pull pattern for token transfers will solve the issue. Front-running will still be possible but it doesn’t affect anything.
 ___
 ## Slide Screenshot
-![032.png](../../images/7.%20Audit%20Findings%20101/032.png)
+![032.jpg](../../images/7.%20Audit%20Findings%20101/032.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.7

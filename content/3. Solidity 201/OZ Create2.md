@@ -15,7 +15,7 @@ OpenZeppelin Create2: makes usage of the `CREATE2` EVM opcode easier and safer.
 
 ___
 ## Slide Screenshot
-![163.png](../../images/3.%20Solidity%20201/163.png)
+![163.jpg](../../images/3.%20Solidity%20201/163.jpg)
 ___
 ## Slide Text
 - `CREATE2` EVM Opcode

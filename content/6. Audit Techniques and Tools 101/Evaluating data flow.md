@@ -8,7 +8,7 @@ Evaluating Data flow analyzes the transfer of data across and within smart contr
 3. Both intra and interprocedural data flow analysis help track the flow of global/local storage/memory changes in smart contracts
 ___
 ## Slide Screenshot
-![094.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/094.png)
+![094.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/094.jpg)
 ___
 ## Slide Text
 - Transfer of Data: Execution Context

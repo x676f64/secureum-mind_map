@@ -8,7 +8,7 @@ MythX process:
 3. Receive a detailed analysis report: MythX detects a majority of vulnerabilities listed in the SWC Registry. The report will return a listing of all the weaknesses found in your code, including the exact position of the issue and its SWC ID. Reports generated can be only accessed by you. MythX offers 3 scan modes, quick, standard and deep. You can see the differences here.
 ___
 ## Slide Screenshot
-![057.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/057.png)
+![057.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/057.jpg)
 ___
 ## Slide Text
 - API-based

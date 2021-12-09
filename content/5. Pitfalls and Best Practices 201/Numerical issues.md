@@ -2,7 +2,7 @@
 Incorrect numerical computation will cause unexpected behavior which may lead to security issues.
 ___
 ## Slide Screenshot
-![0170.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/170.png)
+![0170.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/170.jpg)
 ___
 ## Slide Text
 - Numerical Issues -> Security Issues

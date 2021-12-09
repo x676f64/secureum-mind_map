@@ -6,7 +6,7 @@ Audit Effort typically involves more than one auditor simultaneously for getting
 
 ___
 ## Slide Screenshot
-![009.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/009.png)
+![009.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/009.jpg)
 ___
 ## Slide Text
 - Number of Auditors

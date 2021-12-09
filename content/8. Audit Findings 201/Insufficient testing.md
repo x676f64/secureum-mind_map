@@ -9,7 +9,7 @@ Short term, ensure that the unit tests cover all public functions at least once,
 Long term, integrate coverage analysis tools into the development process and regularly review the coverage.
 ___
 ## Slide Screenshot
-![161.png](../../images/8.%20Audit%20Findings%20201/161.png)
+![161.jpg](../../images/8.%20Audit%20Findings%20201/161.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 5

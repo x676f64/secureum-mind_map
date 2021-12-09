@@ -3,7 +3,7 @@ Check that all precautions and subtleties of `fallback`/`receive` functions rela
 
 ___
 ## Slide Screenshot
-![027.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/027.png)
+![027.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/027.jpg)
 ___
 ## Slide Text
 - `fallback()` 

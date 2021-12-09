@@ -6,7 +6,7 @@ Smart contract security tools are critical in assisting smart contract developer
 None of these however replace the need for manual review/validation to evaluate contract-specific business logic and other complex control-flow, data-flow & value-flow aspects.
 ___
 ## Slide Screenshot
-![031.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/031.png)
+![031.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/031.jpg)
 ___
 ## Slide Text
 - Assist Developers & Auditors

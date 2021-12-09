@@ -15,7 +15,7 @@ Stakers who monitor the Audius system would have to inspect all transactions to 
 Consider emitting events when these addresses are updated. This will be more transparent, and it will make it easier for clients to subscribe to the events when they want to keep track of the status of the system.
 ___
 ## Slide Screenshot
-![089.png](../../images/7.%20Audit%20Findings%20101/089.png)
+![089.jpg](../../images/7.%20Audit%20Findings%20101/089.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Open Gamma Finding M07

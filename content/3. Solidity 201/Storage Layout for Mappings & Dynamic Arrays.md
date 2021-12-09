@@ -5,7 +5,7 @@ Instead, they are considered to occupy only 32 bytes with regards to the rules a
 
 ___
 ## Slide Screenshot
-![121.png](../../images/3.%20Solidity%20201/121.png)
+![121.jpg](../../images/3.%20Solidity%20201/121.jpg)
 ___
 ## Slide Text
 - Storage Layout

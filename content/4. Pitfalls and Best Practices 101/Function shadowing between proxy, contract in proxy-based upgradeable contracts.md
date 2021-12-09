@@ -2,7 +2,7 @@
 Shadow functions in proxy contract prevent functions in logic contract from being invoked. (see [here](https://github.com/crytic/slither/wiki/Upgradeability-Checks#functions-shadowing))
 ___
 ## Slide Screenshot
-![0101.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/101.png)
+![0101.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/101.jpg)
 ___
 ## Slide Text
 - Function Shadowing

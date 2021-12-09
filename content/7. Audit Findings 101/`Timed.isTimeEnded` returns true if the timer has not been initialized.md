@@ -11,7 +11,7 @@ Before this second method is called, `isTimeEnded()` calculates remaining time u
 If Timed has not been initialized, `isTimeEnded()` should return false, or revert
 ___
 ## Slide Screenshot
-![013.png](../../images/7.%20Audit%20Findings%20101/013.png)
+![013.jpg](../../images/7.%20Audit%20Findings%20101/013.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Finding 3.5

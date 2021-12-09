@@ -17,7 +17,7 @@ Short term, use a two-step procedure for all non-recoverable critical operations
 Identifying the risks will assist codebase review and prevent future mistakes.
 ___
 ## Slide Screenshot
-![047.png](../../images/7.%20Audit%20Findings%20101/047.png)
+![047.jpg](../../images/7.%20Audit%20Findings%20101/047.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Finding 6

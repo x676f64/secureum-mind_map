@@ -23,7 +23,7 @@ Testing will ensure that errors are never silenced, and the test suite will chec
 Long term, follow standard testing practices for smart contracts to minimize the number of issues during development.
 ___
 ## Slide Screenshot
-![166.png](../../images/8.%20Audit%20Findings%20201/166.png)
+![166.jpg](../../images/8.%20Audit%20Findings%20201/166.jpg)
 ___
 ## Slide Text
 - ToB Audit dForce Lending Finding 14

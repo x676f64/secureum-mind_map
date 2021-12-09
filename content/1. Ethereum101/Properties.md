@@ -4,7 +4,7 @@ The Ethereum platform enables developers to build powerful decentralized applica
 
 ___
 ## Slide Screenshot
-![004.png](../../images/1.%20Ethereum%20101/004.png)
+![004.jpg](../../images/1.%20Ethereum%20101/004.jpg)
 ___
 ## Slide Text
 - Permissionless Apps

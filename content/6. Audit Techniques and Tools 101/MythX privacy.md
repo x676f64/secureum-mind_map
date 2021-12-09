@@ -8,7 +8,7 @@ MythX privacy guarantee for the smart contract code submitted using their SaaS A
 3. It keeps the results of your analysis so you can retrieve them later, but the report can be accessed by you only.
 ___
 ## Slide Screenshot
-![061.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/061.png)
+![061.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/061.jpg)
 ___
 ## Slide Text
 - Contract Code -> SaaS APIs

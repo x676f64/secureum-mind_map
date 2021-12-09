@@ -24,7 +24,7 @@ Separately, you will be able to define rules for how accounts can be granted a r
 OpenZeppelin AccessControlEnumerable: Extension of AccessControl that allows enumerating the members of each role.
 ___
 ## Slide Screenshot
-![155.png](../../images/3.%20Solidity%20201/155.png)
+![155.jpg](../../images/3.%20Solidity%20201/155.jpg)
 ___
 ## Slide Text
 - Generalized RBAC

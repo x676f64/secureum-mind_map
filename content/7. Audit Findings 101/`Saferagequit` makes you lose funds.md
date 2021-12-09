@@ -15,7 +15,7 @@ But that requires a lot of trust, coordination, time and anyone can steal some p
 Implementing pull pattern for token withdrawals should solve the issue. Users will be able to quit the LAO and burn their shares but still keep their tokens in the LAO’s contract for some time if they can’t withdraw them right now.
 ___
 ## Slide Screenshot
-![026.png](../../images/7.%20Audit%20Findings%20101/026.png)
+![026.jpg](../../images/7.%20Audit%20Findings%20101/026.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.1

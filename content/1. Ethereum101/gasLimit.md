@@ -4,7 +4,7 @@ The maximum number of gas units the transaction originator is willing to pay in 
 
 ___
 ## Slide Screenshot
-![036.png](../../images/1.%20Ethereum%20101/036.png)
+![036.jpg](../../images/1.%20Ethereum%20101/036.jpg)
 ___
 ## Slide Text
 - Max Gas units- > Originator willing to pay (EOA)

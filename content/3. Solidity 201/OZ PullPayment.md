@@ -6,7 +6,7 @@ Pull-payments are often considered the best practice when it comes to sending Et
 It prevents recipients from blocking execution and eliminates reentrancy concerns.
 ___
 ## Slide Screenshot
-![158.png](../../images/3.%20Solidity%20201/158.png)
+![158.jpg](../../images/3.%20Solidity%20201/158.jpg)
 ___
 ## Slide Text
 - Payment: Pull Vs. Push

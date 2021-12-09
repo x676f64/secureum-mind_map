@@ -10,7 +10,7 @@ Anyone can force a call to a hook contract by transferring a small amount of tok
 Developers of these `UmbraHookReceiver` contracts should be sure to validate both the caller of the `tokensWithdrawn()` function and the function parameters.
 ___
 ## Slide Screenshot
-![102.png](../../images/8.%20Audit%20Findings%20201/102.png)
+![102.jpg](../../images/8.%20Audit%20Findings%20201/102.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Umbra Finding 5.2

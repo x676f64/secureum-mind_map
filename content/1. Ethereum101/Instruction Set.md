@@ -16,7 +16,7 @@ There are eleven Types of Instruction Categories:
 
 ___
 ## Slide Screenshot
-![066.png](../../images/1.%20Ethereum%20101/066.png)
+![066.jpg](../../images/1.%20Ethereum%20101/066.jpg)
 ___
 ## Slide Text
 There are eleven Types of Instruction Categories:

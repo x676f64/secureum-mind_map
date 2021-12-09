@@ -9,7 +9,7 @@ This would allow malicious option holders to sell paused/expired options that ca
 Should this be the system’s expected behavior, consider clearly documenting it in user-friendly documentation so as to raise awareness in option sellers and buyers. Alternatively, if the described behavior is not intended, consider implementing the necessary logic in the Option contract to prevent transfers of tokens during pause and after expiration.
 ___
 ## Slide Screenshot
-![094.png](../../images/7.%20Audit%20Findings%20101/094.png)
+![094.jpg](../../images/7.%20Audit%20Findings%20101/094.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Audius Finding M08

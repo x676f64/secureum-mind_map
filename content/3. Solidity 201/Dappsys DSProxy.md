@@ -9,7 +9,7 @@ It will then delegatecall the function and arguments specified in the calldata.
 
 ___
 ## Slide Screenshot
-![193.png](../../images/3.%20Solidity%20201/193.png)
+![193.jpg](../../images/3.%20Solidity%20201/193.jpg)
 ___
 ## Slide Text
 - Proxy -> Impl

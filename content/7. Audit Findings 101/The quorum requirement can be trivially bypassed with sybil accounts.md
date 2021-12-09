@@ -9,7 +9,7 @@ Each of these sybil votes increases the `proposals[proposalId].numVotes` variabl
 Consider measuring quorum size by the percentage of existing tokens that have voted, rather than the number of unique accounts that have voted.
 ___
 ## Slide Screenshot
-![090.png](../../images/7.%20Audit%20Findings%20101/090.png)
+![090.jpg](../../images/7.%20Audit%20Findings%20101/090.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Audius Finding H07

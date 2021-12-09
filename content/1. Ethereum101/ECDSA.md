@@ -4,7 +4,7 @@ Ethereum uses Elliptic Curve Digital Signature Algorithm (ECDSA) for digital sig
 
 ___
 ## Slide Screenshot
-![019.png](../../images/1.%20Ethereum%20101/019.png)
+![019.jpg](../../images/1.%20Ethereum%20101/019.jpg)
 ___
 ## Slide Text
 - Elliptic Curve Digital Signature Algorithm

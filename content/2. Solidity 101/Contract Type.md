@@ -3,7 +3,7 @@ Every contract defines its own type. Contracts can be explicitly converted to an
 
 ___
 ## Slide Screenshot
-![050.png](../../images/2.%20Solidity%20101/050.png)
+![050.jpg](../../images/2.%20Solidity%20101/050.jpg)
 ___
 ## Slide Deck
 - Every Contract -> Own Type

@@ -9,7 +9,7 @@ If that execution runs out of gas or fails in any way, the Ether transfer will b
 
 ___
 ## Slide Screenshot
-![047.png](../../images/2.%20Solidity%20101/047.png)
+![047.jpg](../../images/2.%20Solidity%20101/047.jpg)
 ___
 ## Slide Deck
 - Ether Transfer

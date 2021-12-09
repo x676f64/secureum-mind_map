@@ -25,7 +25,7 @@ Without access to the implementation state variables, the proxy contract is rend
 	4.  Predetermine the slots used by the required variables and set them in the constructor of the proxy. The storage slots used by a contract are deterministic and can be computed. Hence the variables Owner, name, symbol and decimals can be set directly by their slot in the proxy constructor.
 ___
 ## Slide Screenshot
-![070.png](../../images/7.%20Audit%20Findings%20101/070.png)
+![070.jpg](../../images/7.%20Audit%20Findings%20101/070.jpg)
 ___
 ## Slide Text
 - Sigma Prime Infinigold Finding 1

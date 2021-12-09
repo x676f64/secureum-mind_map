@@ -4,7 +4,7 @@ While Solidity has progressively adopted explicit declarations of intent for e.g
 Implicit requirements and assumptions should be flagged as dangerous.
 ___
 ## Slide Screenshot
-![0164.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/164.png)
+![0164.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/164.jpg)
 ___
 ## Slide Text
 - Favor Explicit Over Implicit

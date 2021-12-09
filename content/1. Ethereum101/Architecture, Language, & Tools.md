@@ -8,7 +8,7 @@ New Architecture, Language & Toolchains: Ethereum has a new virtual machine ([EV
 
 ___
 ## Slide Screenshot
-![094.png](../../images/1.%20Ethereum%20101/094.png)
+![094.jpg](../../images/1.%20Ethereum%20101/094.jpg)
 ___
 ## Slide Text
 - Ethereum & [EVM](EVM.md)

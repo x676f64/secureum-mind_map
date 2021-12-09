@@ -15,7 +15,7 @@ Long term, write a specification of each function and thoroughly test it with un
 Use symbolic execution for arithmetic invariants.
 ___
 ## Slide Screenshot
-![155.png](../../images/8.%20Audit%20Findings%20201/155.png)
+![155.jpg](../../images/8.%20Audit%20Findings%20201/155.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Network Finding 21

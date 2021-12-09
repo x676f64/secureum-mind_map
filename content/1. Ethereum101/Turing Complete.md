@@ -4,7 +4,7 @@ Ethereum is a blockchain with a built-in Turing-complete programming language, a
 
 ___
 ## Slide Screenshot
-![002.png](../../images/1.%20Ethereum%20101/002.png)
+![002.jpg](../../images/1.%20Ethereum%20101/002.jpg)
 ___
 ## Slide Text
 - Full expressive programming language

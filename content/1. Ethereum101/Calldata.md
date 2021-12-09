@@ -6,7 +6,7 @@ This is accessed with CALLDATASIZE/CALLDATALOAD/CALLDATACOPY instructions.
 
 ___
 ## Slide Screenshot
-![063.png](../../images/1.%20Ethereum%20101/063.png)
+![063.jpg](../../images/1.%20Ethereum%20101/063.jpg)
 ___
 ## Slide Text
 - Data Parameters

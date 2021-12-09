@@ -9,7 +9,7 @@ Additionally, signed types are allowed for the base of the exponentiation.
 
 ___
 ## Slide Screenshot
-![135.png](../../images/3.%20Solidity%20201/135.png)
+![135.jpg](../../images/3.%20Solidity%20201/135.jpg)
 ___
 ## Slide Text
 - Breaking Semantic Changes

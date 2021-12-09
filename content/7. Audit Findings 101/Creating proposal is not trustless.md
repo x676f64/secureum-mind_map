@@ -15,7 +15,7 @@ But that requires a lot of coordination and time and everyone who ragequits duri
 Pull pattern for token transfers would solve the issue
 ___
 ## Slide Screenshot
-![027.png](../../images/7.%20Audit%20Findings%20101/027.png)
+![027.jpg](../../images/7.%20Audit%20Findings%20101/027.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.2

@@ -9,7 +9,7 @@ An attacker could disrupt swap operations by forcing the loop to go through too 
 Bound the loops and document the bounds.
 ___
 ## Slide Screenshot
-![051.png](../../images/7.%20Audit%20Findings%20101/051.png)
+![051.jpg](../../images/7.%20Audit%20Findings%20101/051.jpg)
 ___
 ## Slide Text
 - ToB Audit Uniswap V3 Finding 6

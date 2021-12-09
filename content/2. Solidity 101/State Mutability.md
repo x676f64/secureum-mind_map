@@ -11,7 +11,7 @@ State Variables: Constant & Immutable
 
 ___
 ## Slide Screenshot
-![017.png](../../images/2.%20Solidity%20101/017.png)
+![017.jpg](../../images/2.%20Solidity%20101/017.jpg)
 ___
 ## Slide Deck
 - State Mutability: Specifiers

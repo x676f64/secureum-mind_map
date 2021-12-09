@@ -13,7 +13,7 @@ Initializing a pool with an incorrect price allows an attacker to generate profi
 	3. ensure that the documentation clearly warns users about incorrect initialization.
 ___
 ## Slide Screenshot
-![052.png](../../images/7.%20Audit%20Findings%20101/052.png)
+![052.jpg](../../images/7.%20Audit%20Findings%20101/052.jpg)
 ___
 ## Slide Text
 - ToB Audit Uniswap V3 Finding 7

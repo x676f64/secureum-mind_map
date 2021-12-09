@@ -11,7 +11,7 @@ Conversions between Literals and Elementary Types
 
 ___
 ## Slide Screenshot
-![070.png](../../images/2.%20Solidity%20101/070.png)
+![070.jpg](../../images/2.%20Solidity%20101/070.jpg)
 ___
 ## Slide Deck
 - [Literals](Literals.md) <> Elementary Types

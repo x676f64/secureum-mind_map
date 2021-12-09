@@ -4,7 +4,7 @@
 Therefore, the mitigation mechanisms must factor in the highest levels of risk. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
-![0200.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/200.png)
+![0200.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/200.jpg)
 ___
 ## Slide Text
 - Work Factor

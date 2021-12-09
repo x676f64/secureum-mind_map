@@ -3,7 +3,7 @@
 Calling uninitialized function pointers in constructors of contracts compiled with `solc` versions `0.4.5-0.4.26` and `0.5.0-0.5.7` lead to unexpected behavior because of a compiler bug. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#uninitialized-function-pointers-in-constructors))
 ___
 ## Slide Screenshot
-![069.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/069.png)
+![069.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/069.jpg)
 ___
 ## Slide Text
 - Uninitialized Function Pointers

@@ -12,7 +12,7 @@ Known deviations from "normal" ERC20 behavior should be explicitly noted as NOT 
 3. Rebasing tokens: A combination of the above cases, these are tokens in which an account's balance increases or decreases along with expansions or contractions in supply. The contract provides no mechanism to update its internal accounting in response to these unexpected balance adjustments, and funds may be lost as a result.
 ___
 ## Slide Screenshot
-![103.png](../../images/8.%20Audit%20Findings%20201/103.png)
+![103.jpg](../../images/8.%20Audit%20Findings%20201/103.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Umbra Finding 5.3

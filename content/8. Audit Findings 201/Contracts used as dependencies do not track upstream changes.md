@@ -18,7 +18,7 @@ Include the third-party sources as submodules in your Git repository so internal
 Long term, identify the areas in the code that are relying on external libraries and use an Ethereum development environment and NPM to manage packages as part of your project.
 ___
 ## Slide Screenshot
-![154.png](../../images/8.%20Audit%20Findings%20201/154.png)
+![154.jpg](../../images/8.%20Audit%20Findings%20201/154.jpg)
 ___
 ## Slide Text
 -  ToB Audit Hermez Network Finding 20

@@ -3,7 +3,7 @@ Events for critical state changes (e.g. owner and other critical parameters) sho
 
 ___
 ## Slide Screenshot
-![045.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/045.png)
+![045.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/045.jpg)
 ___
 ## Slide Text
 - Missing Events

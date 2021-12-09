@@ -3,7 +3,7 @@ Use of Boolean constants (`true`/`false`) in code (e.g. conditionals) is indicat
 
 ___
 ## Slide Screenshot
-![034.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/034.png)
+![034.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/034.jpg)
 ___
 ## Slide Text
 - Boolean Constants -> `true` or `false`

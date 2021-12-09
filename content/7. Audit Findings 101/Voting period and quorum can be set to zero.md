@@ -13,7 +13,7 @@ Setting the quorum to zero is worse because it would allow proposals with 0 vote
 Consider adding the validation to the setter functions
 ___
 ## Slide Screenshot
-![092.png](../../images/7.%20Audit%20Findings%20101/092.png)
+![092.jpg](../../images/7.%20Audit%20Findings%20101/092.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Audius Finding M06

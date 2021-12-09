@@ -9,7 +9,7 @@ This can lead to confusion and is detrimental to overall code readability.
 Consider removing commented out lines of code that are no longer needed.
 ___
 ## Slide Screenshot
-![184.png](../../images/8.%20Audit%20Findings%20201/184.png)
+![184.jpg](../../images/8.%20Audit%20Findings%20201/184.jpg)
 ___
 ## Slide Text
 - OpenZeppelin BarnBridge Finding N02

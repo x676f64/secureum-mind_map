@@ -9,7 +9,7 @@
 	2. Ensure `emergencyExit` cannot be called if launch has been called
 ___
 ## Slide Screenshot
-![016.png](../../images/7.%20Audit%20Findings%20101/016.png)
+![016.jpg](../../images/7.%20Audit%20Findings%20101/016.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Finding 3.8

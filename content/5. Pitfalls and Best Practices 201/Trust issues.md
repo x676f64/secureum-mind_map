@@ -2,7 +2,7 @@
 Incorrect or Insufficient trust assumption about/among system actors and external entities will lead to privilege escalation/abuse which may lead to security issues.
 ___
 ## Slide Screenshot
-![0181.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/181.png)
+![0181.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/181.jpg)
 ___
 ## Slide Text
 - Trust Minimization

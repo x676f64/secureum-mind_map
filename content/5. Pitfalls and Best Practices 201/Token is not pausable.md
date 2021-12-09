@@ -2,7 +2,7 @@
 Malicious or compromised owners can trap contracts relying on pausable tokens. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#owner-privileges))
 ___
 ## Slide Screenshot
-![0114.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/114.png)
+![0114.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/114.jpg)
 ___
 ## Slide Text
 - ERC20 Token Pausing Guarded Launch

@@ -14,7 +14,7 @@ Given that exploits target assets of value, it makes sense to start evaluating t
 7. How much: Assets, only in authorised/specified amounts, should be withdrawn/deposited as per application logic
 ___
 ## Slide Screenshot
-![092.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/092.png)
+![092.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/092.jpg)
 ___
 ## Slide Text
 - Assets: ETH or ERC20/ERC721 tokens

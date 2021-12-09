@@ -8,7 +8,7 @@ Multiple contracts are the implementation of their interfaces, but do not inheri
 Ensure contracts inherit from their interfaces
 ___
 ## Slide Screenshot
-![137.png](../../images/8.%20Audit%20Findings%20201/137.png)
+![137.jpg](../../images/8.%20Audit%20Findings%20201/137.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 18

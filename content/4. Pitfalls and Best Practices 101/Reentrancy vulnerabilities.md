@@ -3,7 +3,7 @@ Untrusted external contract calls could callback leading to unexpected results s
 
 ___
 ## Slide Screenshot
-![013.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/013.png)
+![013.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/013.jpg)
 ___
 ## Slide Text
 - External Contract Calls -> Reentrancy

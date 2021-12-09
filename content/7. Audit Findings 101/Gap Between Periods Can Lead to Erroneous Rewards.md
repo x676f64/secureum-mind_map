@@ -11,7 +11,7 @@ Therefore if all stakers call `getReward()` the contract will not have enough SN
 We recommend enforcing each period start exactly at the end of the previous period.
 ___
 ## Slide Screenshot
-![075.png](../../images/7.%20Audit%20Findings%20101/075.png)
+![075.jpg](../../images/7.%20Audit%20Findings%20101/075.jpg)
 ___
 ## Slide Text
 - Sigma Prime Unipool Finding 4

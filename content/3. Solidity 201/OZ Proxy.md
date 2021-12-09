@@ -20,7 +20,7 @@ The success and return data of the delegated call will be returned back to the c
 6. `_beforeFallback()`: Hook that is called before falling back to the implementation. Can happen as part of a manual `_fallback` call, or as part of the Solidity fallback or receive functions. If overridden, should call `super._beforeFallback()`.
 ___
 ## Slide Screenshot
-![185.png](../../images/3.%20Solidity%20201/185.png)
+![185.jpg](../../images/3.%20Solidity%20201/185.jpg)
 ___
 ## Slide Text
 - Proxy -> Implementation delegateCall

@@ -8,7 +8,7 @@ OpenZeppelin Math: Standard math utilities missing in the Solidity language:
 3. `average(uint256 a, uint256 b)`: Returns the average of two numbers. The result is rounded towards zero.
 ___
 ## Slide Screenshot
-![174.png](../../images/3.%20Solidity%20201/174.png)
+![174.jpg](../../images/3.%20Solidity%20201/174.jpg)
 ___
 ## Slide Text
 - Math Utilities Missing in Solidity

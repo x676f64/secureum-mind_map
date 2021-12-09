@@ -17,7 +17,7 @@ This will ensure log messages are only emitted when a delegate is activated or d
 Long term, review all operations and avoid emitting events in repeated calls to idempotent operations. This will help prevent bloated logs.
 ___
 ## Slide Screenshot
-![141.png](../../images/8.%20Audit%20Findings%20201/141.png)
+![141.jpg](../../images/8.%20Audit%20Findings%20201/141.jpg)
 ___
 ## Slide Text
 - ToB Audit Yield Finding 4

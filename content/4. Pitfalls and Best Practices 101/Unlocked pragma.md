@@ -7,7 +7,7 @@ Locking the pragma (for e.g. by not using `^` in `pragma solidity 0.5.10)` ensur
 
 ___
 ## Slide Screenshot
-![02.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/002.png)
+![02.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/002.jpg)
 ___
 ## Slide Text
 - Solidity Pragma

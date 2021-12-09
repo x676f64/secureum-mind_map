@@ -11,7 +11,7 @@ In some of the contracts, the initializer is not initializing all of the state v
 Consider setting all the required variables in the initializer. If there is a reason for leaving them uninitialized, consider documenting it, and adding checks on the functions that use those variables to ensure that they are not called before initialization.
 ___
 ## Slide Screenshot
-![093.png](../../images/7.%20Audit%20Findings%20101/093.png)
+![093.jpg](../../images/7.%20Audit%20Findings%20101/093.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Audius Finding M10

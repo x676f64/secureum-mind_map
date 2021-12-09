@@ -9,7 +9,7 @@ However, if there are duplicate users in the list, their balances will be counte
 Consider checking for duplicate users when calculating the amount to withdraw.
 ___
 ## Slide Screenshot
-![200.png](../../images/8.%20Audit%20Findings%20201/200.png)
+![200.jpg](../../images/8.%20Audit%20Findings%20201/200.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit PoolTogether V3 Finding C01

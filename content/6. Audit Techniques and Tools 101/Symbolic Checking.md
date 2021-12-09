@@ -10,7 +10,7 @@ Symbolic Checking is a technique of checking for program correctness, i.e. provi
 6. Symbolic algorithms avoid explicitly constructing the graph for the finite state machines (FSM); instead, they represent the graph implicitly using a formula in quantified propositional logic
 ___
 ## Slide Screenshot
-![025.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/025.png)
+![025.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/025.jpg)
 ___
 ## Slide Text
 - Symbolic Inputs

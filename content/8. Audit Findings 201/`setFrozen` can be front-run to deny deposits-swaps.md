@@ -11,7 +11,7 @@ Short term, consider rewriting `setFrozen` such that any contract freeze will no
 Alternatively, depending on the intended use of this function, consider implementing permanent freezes.
 ___
 ## Slide Screenshot
-![150.png](../../images/8.%20Audit%20Findings%20201/150.png)
+![150.jpg](../../images/8.%20Audit%20Findings%20201/150.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 16

@@ -8,7 +8,7 @@ Echidna Usage (see [tutorial](https://github.com/crytic/building-secure-contract
 3. Collecting and visualizing coverage: After finishing a campaign, Echidna can save a coverage maximizing corpus in a special directory specified with the corpusDir config option. This directory will contain two entries: (1) a directory named coverage with JSON files that can be replayed by Echidna and (2) a plain-text file named covered.txt, a copy of the source code with coverage annotations.
 ___
 ## Slide Screenshot
-![047.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/047.png)
+![047.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/047.jpg)
 ___
 ## Slide Text
 - Executing Test Runnger

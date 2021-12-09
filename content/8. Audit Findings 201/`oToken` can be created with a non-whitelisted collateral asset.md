@@ -8,7 +8,7 @@ A product consists of a set of assets and an option type. Each product has to be
 Consider validating if the assets involved in a product have been already whitelisted before allowing the creation of `oTokens`.
 ___
 ## Slide Screenshot
-![196.png](../../images/8.%20Audit%20Findings%20201/196.png)
+![196.jpg](../../images/8.%20Audit%20Findings%20201/196.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Opyn Gamma Finding M01

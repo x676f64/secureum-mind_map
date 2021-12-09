@@ -9,7 +9,7 @@ Applications can subscribe and listen to these events through the RPC interface 
 
 ___
 ## Slide Screenshot
-![027.png](../../images/2.%20Solidity%20101/027.png)
+![027.jpg](../../images/2.%20Solidity%20101/027.jpg)
 ___
 ## Slide Deck
 - [EVM](../1.%20Ethereum101/EVM.md) Logging Abstraction

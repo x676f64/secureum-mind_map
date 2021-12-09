@@ -16,7 +16,7 @@
 	3. Symbolic semantic annotations within unit tests
 ___
 ## Slide Screenshot
-![055.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/055.png)
+![055.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/055.jpg)
 ___
 ## Slide Text
 - Testing Tool

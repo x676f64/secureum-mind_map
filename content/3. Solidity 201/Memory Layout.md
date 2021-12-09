@@ -5,7 +5,7 @@ The free memory pointer points to `0x80` initially.
 
 ___
 ## Slide Screenshot
-![126.png](../../images/3.%20Solidity%20201/126.png)
+![126.jpg](../../images/3.%20Solidity%20201/126.jpg)
 ___
 ## Slide Text
 - New Memory Objects

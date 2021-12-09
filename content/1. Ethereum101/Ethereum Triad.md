@@ -4,7 +4,7 @@ Ethereum blockchain represents the decentralized compute part of Web 3.0. Swarm 
 
 ___
 ## Slide Screenshot
-![015.png](../../images/1.%20Ethereum%20101/015.png)
+![015.jpg](../../images/1.%20Ethereum%20101/015.jpg)
 ___
 ## Slide Text
 - Ethereum -> Compute

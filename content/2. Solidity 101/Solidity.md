@@ -5,7 +5,7 @@ Solidity was proposed in 2014 by [Gavin Wood](https://en.wikipedia.org/wiki/Gavi
 
 ___
 ## Slide Screenshot
-![001.png](../../images/2.%20Solidity%20101/001.png)
+![001.jpg](../../images/2.%20Solidity%20101/001.jpg)
 ___
 ## Slide Deck
 - High-level Language

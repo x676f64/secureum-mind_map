@@ -15,7 +15,7 @@ This can result in unintended behavior.
 Consider reverting if the output of the `ECDSA.recover` is ever `address(0)`
 ___
 ## Slide Screenshot
-![082.png](../../images/7.%20Audit%20Findings%20101/082.png)
+![082.jpg](../../images/7.%20Audit%20Findings%20101/082.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Futureswap V2 Finding M03

@@ -11,7 +11,7 @@ A `Error(string)` exception (or an exception without [data](../1.%20Ethereum101/
 
 ___
 ## Slide Screenshot
-![091.png](../../images/2.%20Solidity%20101/091.png)
+![091.jpg](../../images/2.%20Solidity%20101/091.jpg)
 ___
 ## Slide Deck
 - `Error(string)`

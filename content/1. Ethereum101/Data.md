@@ -4,7 +4,7 @@ The information (typically) sent to a contract account indicating the contractâ€
 
 ___
 ## Slide Screenshot
-![039.png](../../images/1.%20Ethereum%20101/039.png)
+![039.jpg](../../images/1.%20Ethereum%20101/039.jpg)
 ___
 ## Slide Text
 - Data: Sender -> [Recipient](Recipient.md)

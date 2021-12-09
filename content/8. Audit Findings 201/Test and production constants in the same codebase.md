@@ -9,7 +9,7 @@ This decreases legibility of production code, and makes the system's integral va
 Consider having different environments for production and testing, with different contracts.
 ___
 ## Slide Screenshot
-![187.png](../../images/8.%20Audit%20Findings%20201/187.png)
+![187.jpg](../../images/8.%20Audit%20Findings%20201/187.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Fei Protocol Finding N22

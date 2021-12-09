@@ -9,7 +9,7 @@ Without a return value check, the code is error-prone, which may lead to unexpec
 Short term, check the return value of all calls mentioned above. Long term, subscribe to Crytic.io to catch missing return checks. Crytic identifies this bug type automatically.
 ___
 ## Slide Screenshot
-![038.png](../../images/7.%20Audit%20Findings%20101/038.png)
+![038.jpg](../../images/7.%20Audit%20Findings%20101/038.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 19

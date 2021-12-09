@@ -2,7 +2,7 @@
 If a few users own most of the tokens, they can influence operations based on the token's repartition. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#token-scarcity))
 ___
 ## Slide Screenshot
-![0117.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/117.png)
+![0117.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/117.jpg)
 ___
 ## Slide Text
 - ERC20 Token Ownership

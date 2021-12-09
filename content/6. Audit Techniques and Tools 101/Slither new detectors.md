@@ -10,7 +10,7 @@ Slither’s plugin architecture lets you integrate new detectors that run from t
 6. __detect()_ is the function that implements the detector logic and needs to return a list of findings.
 ___
 ## Slide Screenshot
-![043.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/043.png)
+![043.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/043.jpg)
 ___
 ## Slide Text
 - 

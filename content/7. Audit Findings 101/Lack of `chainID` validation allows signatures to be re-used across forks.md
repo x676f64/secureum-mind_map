@@ -17,7 +17,7 @@ As a result, if the chain forks after deployment, the signed message may be cons
 Short term, include the `chainID` opcode in the permit schema. This will make replay attacks impossible in the event of a post-deployment hard fork. Long term, document and carefully review any signature schemas, including their robustness to replay on different wallets, contracts, and blockchains. Make sure users are aware of signing best practices and the danger of signing messages from untrusted sources.
 ___
 ## Slide Screenshot
-![043.png](../../images/7.%20Audit%20Findings%20101/043.png)
+![043.jpg](../../images/7.%20Audit%20Findings%20101/043.jpg)
 ___
 ## Slide Text
 - ToB Audit Yield Protocol Finding 8

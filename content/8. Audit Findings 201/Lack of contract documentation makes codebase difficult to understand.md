@@ -11,7 +11,7 @@ Short term, review and properly document the above mentioned aspects of the code
 Long term, consider writing a formal specification of the protocol.
 ___
 ## Slide Screenshot
-![163.png](../../images/8.%20Audit%20Findings%20201/163.png)
+![163.jpg](../../images/8.%20Audit%20Findings%20201/163.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 16

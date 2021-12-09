@@ -8,7 +8,7 @@ In that case, the `.transfer()` call here will revert even if the transfer is su
 Consider using OpenZeppelin’s SafeERC20
 ___
 ## Slide Screenshot
-![017.png](../../images/7.%20Audit%20Findings%20101/017.png)
+![017.jpg](../../images/7.%20Audit%20Findings%20101/017.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit bitbank Finding 5.1

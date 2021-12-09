@@ -11,7 +11,7 @@ Long term, do not include operations that allow any user to manipulate an arbitr
 This will prevent attackers from gaining leverage to manipulate the market and break internal invariants.
 ___
 ## Slide Screenshot
-![042.png](../../images/7.%20Audit%20Findings%20101/042.png)
+![042.jpg](../../images/7.%20Audit%20Findings%20101/042.jpg)
 ___
 ## Slide Text
 - ToB Audit Yield Protocol Finding 1

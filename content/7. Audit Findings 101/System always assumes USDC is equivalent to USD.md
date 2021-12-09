@@ -9,7 +9,7 @@ However, the `UsdcToUsdAssimilator`’s implementation of the `getRate` method d
 Short term, replace the hard-coded integer literal in the `UsdcToUsdAssimilator_’s `getRate` method with a call to the relevant Chainlink oracle, as is done in other assimilator contracts. Long term, ensure that the system is robust against a decrease in the price of any stablecoin.
 ___
 ## Slide Screenshot
-![057.png](../../images/7.%20Audit%20Findings%20101/057.png)
+![057.jpg](../../images/7.%20Audit%20Findings%20101/057.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finding 13

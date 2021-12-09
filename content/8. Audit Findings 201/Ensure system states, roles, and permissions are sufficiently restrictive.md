@@ -15,7 +15,7 @@ Monitor the usage of administrator permissions.
 Specify strict operation requirements for each contract.
 ___
 ## Slide Screenshot
-![120.png](../../images/8.%20Audit%20Findings%20201/120.png)
+![120.jpg](../../images/8.%20Audit%20Findings%20201/120.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Growth DeFi Finding 4.3

@@ -6,7 +6,7 @@ Instead of checking that the amount of tokens received from a swap is greater th
 Check the intended values
 ___
 ## Slide Screenshot
-![007.png](../../images/7.%20Audit%20Findings%20101/007.png)
+![007.jpg](../../images/7.%20Audit%20Findings%20101/007.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAOfi Finding 4.4

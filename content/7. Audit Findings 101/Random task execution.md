@@ -9,7 +9,7 @@ This execution permission is revoked only after the entire recipe execution is f
 A reentrancy guard (mutex) should be used to prevent such attack
 ___
 ## Slide Screenshot
-![002.png](../../images/7.%20Audit%20Findings%20101/002.png)
+![002.jpg](../../images/7.%20Audit%20Findings%20101/002.jpg)
 ___
 ## Slide Text
 - ConsenSys DeFi Saver Finding 5.1

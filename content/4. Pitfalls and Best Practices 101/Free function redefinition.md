@@ -3,7 +3,7 @@ The compiler does not flag an error when two or more free functions (functions o
 
 ___
 ## Slide Screenshot
-![094.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/094.png)
+![094.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/094.jpg)
 ___
 ## Slide Text
 - Free Functions Redefinition

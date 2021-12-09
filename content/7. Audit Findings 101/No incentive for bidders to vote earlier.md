@@ -19,7 +19,7 @@ An attacker can know exactly how much currency will be necessary to change the o
 Short term, explore ways to incentivize users to vote earlier. Consider a weighted bid, with a weight decreasing over time. While it won’t prevent users with unlimited resources from manipulating the vote at the last minute, it will make the attack more expensive and reduce the chance of vote manipulation. Long term, stay up to date with the latest research on blockchain-based online voting and bidding. Blockchain-based online voting is a known challenge. No perfect solution has been found yet.
 ___
 ## Slide Screenshot
-![045.png](../../images/7.%20Audit%20Findings%20101/045.png)
+![045.jpg](../../images/7.%20Audit%20Findings%20101/045.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Finding 2

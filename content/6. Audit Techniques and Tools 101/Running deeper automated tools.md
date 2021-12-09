@@ -8,7 +8,7 @@ Running deeper automated tools such as fuzzers e.g. Echidna, symbolic checkers s
 3. Evaluating false-positives is sometimes challenging with these tools but the true positives they discover are significant and extreme corner cases missed even by the best manual analyses
 ___
 ## Slide Screenshot
-![084.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/084.png)
+![084.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/084.jpg)
 ___
 ## Slide Text
 - Fuzzing/Symbolic Checking/Verification

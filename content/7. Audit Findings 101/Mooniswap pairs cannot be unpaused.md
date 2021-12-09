@@ -13,7 +13,7 @@ Therefore, if a Mooniswap contract is ever shutdown/paused, it will not be possi
 Consider providing a way for Mooniswap contracts to be unpaused.
 ___
 ## Slide Screenshot
-![079.png](../../images/7.%20Audit%20Findings%20101/079.png)
+![079.jpg](../../images/7.%20Audit%20Findings%20101/079.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit 1inch Finding

@@ -4,7 +4,7 @@ Several tokens incorrectly return a uint256. If this is the case, ensure the val
 
 ___
 ## Slide Screenshot
-![0104.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/104.png)
+![0104.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/104.jpg)
 ___
 ## Slide Text
 - ERC20 decimals

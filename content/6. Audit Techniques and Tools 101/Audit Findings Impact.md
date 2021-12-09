@@ -6,7 +6,7 @@ Per OWASP, this estimates the magnitude of the technical and business impact on 
 OWASP proposes three Impact levels of Low, Medium and High.
 ___
 ## Slide Screenshot
-![016.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/016.png)
+![016.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/016.jpg)
 ___
 ## Slide Text
 - OWASP

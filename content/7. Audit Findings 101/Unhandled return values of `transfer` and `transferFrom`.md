@@ -11,7 +11,7 @@ It is safer to wrap such calls into `require()` statements to these failures.
 Check the return value and revert on 0/false or use OpenZeppelin’s `SafeERC20` wrapper functions
 ___
 ## Slide Screenshot
-![001.png](../../images/7.%20Audit%20Findings%20101/001.png)
+![001.jpg](../../images/7.%20Audit%20Findings%20101/001.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Aave V2 Finding 5.4

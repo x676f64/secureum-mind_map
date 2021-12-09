@@ -3,7 +3,7 @@ Transaction relayers need to be trusted to provide enough gas for the transactio
 
 ___
 ## Slide Screenshot
-![057.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/057.png)
+![057.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/057.jpg)
 ___
 ## Slide Text
 - Transaction Relayers

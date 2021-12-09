@@ -7,7 +7,7 @@ They help in readability and maintainability.
 
 ___
 ## Slide Screenshot
-![011.png](../../images/2.%20Solidity%20101/011.png)
+![011.jpg](../../images/2.%20Solidity%20101/011.jpg)
 ___
 ## Slide Deck
 - Inline Comments

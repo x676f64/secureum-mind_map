@@ -6,7 +6,7 @@ Having overflow/underflow vulnerabilities is very common for smart contracts. It
 In our opinion, it is still safer to have these operations in a safe mode. So we recommend using SafeMath or solidity version ^0.8 compiler.
 ___
 ## Slide Screenshot
-![014.png](../../images/7.%20Audit%20Findings%20101/014.png)
+![014.jpg](../../images/7.%20Audit%20Findings%20101/014.jpg)
 ___
 ## Slide Text
 - 

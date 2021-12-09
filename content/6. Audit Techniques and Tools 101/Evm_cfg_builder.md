@@ -10,7 +10,7 @@
 5. Library API
 ___
 ## Slide Screenshot
-![052.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/052.png)
+![052.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/052.jpg)
 ___
 ## Slide Text
 - Security Tool

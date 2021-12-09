@@ -3,7 +3,7 @@ Function type variables should be carefully handled and avoided in assembly mani
 
 ___
 ## Slide Screenshot
-![059.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/059.png)
+![059.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/059.jpg)
 ___
 ## Slide Text
 - Function Type

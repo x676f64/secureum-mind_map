@@ -11,7 +11,7 @@ Short term, add events where appropriate for all critical operations.
 Long term, consider using a blockchain monitoring system to track any suspicious behavior in the contracts.
 ___
 ## Slide Screenshot
-![142.png](../../images/8.%20Audit%20Findings%20201/142.png)
+![142.jpg](../../images/8.%20Audit%20Findings%20201/142.jpg)
 ___
 ## Slide Text
 - ToB Audit 0x Protocol Finding 8

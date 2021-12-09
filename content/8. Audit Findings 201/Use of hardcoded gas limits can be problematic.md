@@ -7,7 +7,7 @@ Hardcoded gas limits can be problematic as the past has shown that gas economics
 Be conscious about this potential limitation and prepare for the case where gas prices might change in a way that negatively affects the contract system.
 ___
 ## Slide Screenshot
-![116.png](../../images/8.%20Audit%20Findings%20201/116.png)
+![116.jpg](../../images/8.%20Audit%20Findings%20201/116.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit 1inch Finding 4.7

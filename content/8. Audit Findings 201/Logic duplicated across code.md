@@ -14,7 +14,7 @@ Changes to one inherited contract will be applied to all files without requiring
 Long term, minimize the amount of manual copying and pasting required to apply changes made to one file to other files.
 ___
 ## Slide Screenshot
-![160.png](../../images/8.%20Audit%20Findings%20201/160.png)
+![160.jpg](../../images/8.%20Audit%20Findings%20201/160.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 4

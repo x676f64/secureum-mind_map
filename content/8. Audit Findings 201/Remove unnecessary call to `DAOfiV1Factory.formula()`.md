@@ -8,7 +8,7 @@ The formula address in the factory is set in the constructor and cannot be chang
 Remove unnecessary calls
 ___
 ## Slide Screenshot
-![110.png](../../images/8.%20Audit%20Findings%20201/110.png)
+![110.jpg](../../images/8.%20Audit%20Findings%20201/110.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAfi Finding 3.2

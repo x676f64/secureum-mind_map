@@ -3,7 +3,7 @@ Programming patterns such as looping over arrays of unknown size may lead to DoS
 
 ___
 ## Slide Screenshot
-![044.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/044.png)
+![044.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/044.jpg)
 ___
 ## Slide Text
 - Block Gas Limit -> 15M Currently

@@ -13,7 +13,7 @@ In this way the `grant.recipient` can receive less than expected and the contrac
 Consider always following the “Check-Effects-Interactions” pattern, thus modifying the contract’s state before making any external call to other contracts.
 ___
 ## Slide Screenshot
-![088.png](../../images/7.%20Audit%20Findings%20101/088.png)
+![088.jpg](../../images/7.%20Audit%20Findings%20101/088.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Open Gamma Finding M07

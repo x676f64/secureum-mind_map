@@ -18,7 +18,7 @@ Detectors supported with this tool are:
 7. constant-function
 ___
 ## Slide Screenshot
-![040.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/040.png)
+![040.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/040.jpg)
 ___
 ## Slide Text
 - Automatic Patch Generation

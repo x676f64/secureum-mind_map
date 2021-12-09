@@ -14,7 +14,7 @@ Slither features:
 9. Average execution time of less than 1 second per contract
 ___
 ## Slide Screenshot
-![034.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/034.png)
+![034.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/034.jpg)
 ___
 ## Slide Text
 - Vulnerability Detectors, Contract Info Printers

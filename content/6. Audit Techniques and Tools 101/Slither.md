@@ -11,7 +11,7 @@ It implements [74 detectors](https://github.com/crytic/slither#detectors) in the
 
 ___
 ## Slide Screenshot
-![033.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/033.png)
+![033.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/033.jpg)
 ___
 ## Slide Text
 - Static Analysis Tool

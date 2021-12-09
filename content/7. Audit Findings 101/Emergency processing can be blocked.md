@@ -15,7 +15,7 @@ If that happens, proposal can’t be processed and the LAO is blocked.
 Pull pattern for token transfers would solve the issue
 ___
 ## Slide Screenshot
-![028.png](../../images/7.%20Audit%20Findings%20101/028.png)
+![028.jpg](../../images/7.%20Audit%20Findings%20101/028.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.3

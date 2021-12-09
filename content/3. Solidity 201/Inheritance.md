@@ -11,7 +11,7 @@ Solidity supports multiple inheritance including polymorphism:
 
 ___
 ## Slide Screenshot
-![102.png](../../images/3.%20Solidity%20201/102.png)
+![102.jpg](../../images/3.%20Solidity%20201/102.jpg)
 ___
 ## Slide Text
 - Multiple Inheritance

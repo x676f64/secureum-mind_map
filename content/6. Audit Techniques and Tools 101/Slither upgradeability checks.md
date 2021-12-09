@@ -22,7 +22,7 @@ Slither upgradeability checks helps review contracts that use the delegatecall p
 17. initializer-missing: initializer() is missing
 ___
 ## Slide Screenshot
-![037.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/037.png)
+![037.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/037.jpg)
 ___
 ## Slide Text
 - Delegatecall Proxy/Implementation/V2

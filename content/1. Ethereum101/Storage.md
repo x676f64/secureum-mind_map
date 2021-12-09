@@ -10,7 +10,7 @@ This is accessed with SLOAD/SSTORE instructions.
 
 ___
 ## Slide Screenshot
-![062.png](../../images/1.%20Ethereum%20101/062.png)
+![062.jpg](../../images/1.%20Ethereum%20101/062.jpg)
 ___
 ## Slide Text
 - Non-Volatile (Persistent)

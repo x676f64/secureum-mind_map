@@ -7,7 +7,7 @@ A digital signature serves three purposes in Ethereum:
 
 ___
 ## Slide Screenshot
-![041.png](../../images/1.%20Ethereum%20101/041.png)
+![041.jpg](../../images/1.%20Ethereum%20101/041.jpg)
 ___
 ## Slide Text
 - 3 Purpose

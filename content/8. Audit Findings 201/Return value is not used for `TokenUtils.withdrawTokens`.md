@@ -7,7 +7,7 @@ The return value of `TokenUtils.withdrawTokens` which represents the actual amou
 The return value can be used to validate the withdrawal or used in the event emitted
 ___
 ## Slide Screenshot
-![106.png](../../images/8.%20Audit%20Findings%20201/106.png)
+![106.jpg](../../images/8.%20Audit%20Findings%20201/106.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DeFi Saver Finding 5.10

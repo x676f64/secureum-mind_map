@@ -23,7 +23,7 @@ Alternatively, the `gasleft()` Solidity special function could be used to make s
 Finally, the `reset()` could be changed to allow for removing an arbitrary number of nodes (by taking this number as a function parameter).
 ___
 ## Slide Screenshot
-![172.png](../../images/8.%20Audit%20Findings%20201/172.png)
+![172.jpg](../../images/8.%20Audit%20Findings%20201/172.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit InfiniGold Finding INF-06

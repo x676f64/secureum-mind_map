@@ -11,7 +11,7 @@ The plugin is used in Crytic tools, including:
 4. [Evm_cfg_builder](Evm_cfg_builder.md)
 ___
 ## Slide Screenshot
-![053.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/053.png)
+![053.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/053.jpg)
 ___
 ## Slide Text
 - Security Tool

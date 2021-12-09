@@ -7,7 +7,7 @@ Even after `GenesisGroup.launch` has successfully been executed, it is still pos
 Consider adding validation in `GenesisGroup.purchase` and `GenesisGroup.commit` to make sure that these functions cannot be called after the launch.
 ___
 ## Slide Screenshot
-![010.png](../../images/7.%20Audit%20Findings%20101/010.png)
+![010.jpg](../../images/7.%20Audit%20Findings%20101/010.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Finding 3.2

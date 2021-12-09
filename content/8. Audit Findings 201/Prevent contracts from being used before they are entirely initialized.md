@@ -9,7 +9,7 @@ Because these contracts allow interaction on semi-configured states, the number 
 Prevent contracts from being used before they are entirely initialized
 ___
 ## Slide Screenshot
-![123.png](../../images/8.%20Audit%20Findings%20201/123.png)
+![123.jpg](../../images/8.%20Audit%20Findings%20201/123.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Growth DeFi Finding 5.8

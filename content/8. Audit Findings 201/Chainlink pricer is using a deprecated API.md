@@ -9,7 +9,7 @@ These functions might suddenly stop working if Chainlink stopped supporting depr
 Consider refactoring these to use the latest Chainlink API.
 ___
 ## Slide Screenshot
-![199.png](../../images/8.%20Audit%20Findings%20201/199.png)
+![199.jpg](../../images/8.%20Audit%20Findings%20201/199.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Opyn Gamma Finding L11

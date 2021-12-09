@@ -15,7 +15,7 @@ Consider splitting these functions in separate getters and setters.
 Alternatively, consider renaming the functions to describe all the actions that they perform.
 ___
 ## Slide Screenshot
-![190.png](../../images/8.%20Audit%20Findings%20201/190.png)
+![190.jpg](../../images/8.%20Audit%20Findings%20201/190.jpg)
 ___
 ## Slide Text
 - OpenZeppelin UMA Protocol Finding M02

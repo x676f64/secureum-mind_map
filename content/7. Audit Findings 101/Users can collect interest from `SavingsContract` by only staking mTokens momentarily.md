@@ -12,7 +12,7 @@ As a result, it would be possible for users to benefit from interest payouts by 
 Remove the 30 minutes window such that every deposit also updates the exchange rate between credits and tokens.
 ___
 ## Slide Screenshot
-![021.png](../../images/7.%20Audit%20Findings%20101/021.png)
+![021.jpg](../../images/7.%20Audit%20Findings%20101/021.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit mstable-1.1 Finding 6.2

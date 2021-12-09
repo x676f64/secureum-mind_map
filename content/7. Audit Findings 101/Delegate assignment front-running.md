@@ -11,7 +11,7 @@ While incentive of this action is unclear, it’s possible to block some address
 Make it possible for a `delegateKey` to approve `delegateKey` assignment or cancel the current delegation. Commit-reveal methods can also be used to mitigate this attack.
 ___
 ## Slide Screenshot
-![033.png](../../images/7.%20Audit%20Findings%20101/033.png)
+![033.jpg](../../images/7.%20Audit%20Findings%20101/033.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.8

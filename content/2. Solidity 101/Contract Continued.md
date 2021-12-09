@@ -11,7 +11,7 @@ Contracts can contain declarations of:
 
 ___
 ## Slide Screenshot
-![014.png](../../images/2.%20Solidity%20101/014.png)
+![014.jpg](../../images/2.%20Solidity%20101/014.jpg)
 ___
 ## Slide Deck
 - Contracts: Components

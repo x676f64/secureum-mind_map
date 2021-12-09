@@ -11,7 +11,7 @@ The `delete` key better conveys the intention and is also more idiomatic.
 Consider replacing assignments of zero with `delete` statements.
 ___
 ## Slide Screenshot
-![201.png](../../images/8.%20Audit%20Findings%20201/201.png)
+![201.jpg](../../images/8.%20Audit%20Findings%20201/201.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Set Protocol Finding N09

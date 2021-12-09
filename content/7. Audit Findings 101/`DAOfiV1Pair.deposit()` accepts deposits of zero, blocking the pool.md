@@ -10,7 +10,7 @@ The `deposit()` function does not check for a nonzero deposit amount in either t
 Require a minimum deposit amount with non-zero checks
 ___
 ## Slide Screenshot
-![008.png](../../images/7.%20Audit%20Findings%20101/008.png)
+![008.jpg](../../images/7.%20Audit%20Findings%20101/008.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAOfi Finding 4.5

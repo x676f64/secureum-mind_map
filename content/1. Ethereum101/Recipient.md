@@ -8,7 +8,7 @@ The 20-byte Ethereum address of the transaction’s recipient which can be an [E
 
 ___
 ## Slide Screenshot
-![037.png](../../images/1.%20Ethereum%20101/037.png)
+![037.jpg](../../images/1.%20Ethereum%20101/037.jpg)
 ___
 ## Slide Text
 - Consists of 20-byte address for the tx recipient

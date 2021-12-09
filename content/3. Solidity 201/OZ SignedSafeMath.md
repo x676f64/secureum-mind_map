@@ -11,7 +11,7 @@ OpenZeppelin SignedSafeMath: provides the same mathematical functions as SafeMat
 
 ___
 ## Slide Screenshot
-![176.png](../../images/3.%20Solidity%20201/176.png)
+![176.jpg](../../images/3.%20Solidity%20201/176.jpg)
 ___
 ## Slide Text
 - Math Functions

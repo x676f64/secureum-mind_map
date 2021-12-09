@@ -18,7 +18,7 @@ One may also think of these as manual/semi-automated/fully-automated, where the 
 Fully-automated tools tend to be straightforward to use, while semi-automated tools require some human assistance and are therefore more resource-expensive.
 ___
 ## Slide Screenshot
-![019.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/019.png)
+![019.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/019.jpg)
 ___
 ## Slide Text
 - Manual/Automated

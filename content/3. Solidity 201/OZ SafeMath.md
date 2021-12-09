@@ -14,7 +14,7 @@ OpenZeppelin SafeMath: provides mathematical functions that protect your contrac
 The corresponding `try*` functions return results with an overflow flag instead of reverting.
 ___
 ## Slide Screenshot
-![175.png](../../images/3.%20Solidity%20201/175.png)
+![175.jpg](../../images/3.%20Solidity%20201/175.jpg)
 ___
 ## Slide Text
 - Math Functions

@@ -2,7 +2,7 @@
 Incorrect or insufficient emission of events will impact off-chain monitoring and incident response capabilities which may lead to security issues.
 ___
 ## Slide Screenshot
-![0173.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/173.png)
+![0173.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/173.jpg)
 ___
 ## Slide Text
 - Auditing & Logging -> Monitoring Security

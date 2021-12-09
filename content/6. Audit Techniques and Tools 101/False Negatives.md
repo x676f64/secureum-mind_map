@@ -6,7 +6,7 @@ False Negatives are missed findings that should have indicated the presence of v
 2. High number of false negatives lowers the confidence in the effectiveness of the earlier manual/automated analysis.
 ___
 ## Slide Screenshot
-![029.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/029.png)
+![029.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/029.jpg)
 ___
 ## Slide Text
 - Missed Flagging Vulnerabilities

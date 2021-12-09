@@ -2,7 +2,7 @@
 Lack of initialization, initializing with incorrect values or allowing untrusted actors to initialize system parameters may lead to security issues.
 ___
 ## Slide Screenshot
-![0166.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/166.png)
+![0166.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/166.jpg)
 ___
 ## Slide Text
 - Lack/Incorrect Initialization -> Security Issues

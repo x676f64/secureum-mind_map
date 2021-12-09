@@ -17,7 +17,7 @@ Short term, consider adding zero-address checks to the Router's constructor and 
 Long term, review state variables which referencing contracts to ensure that the code that sets the state variables performs zero-address checks where necessary
 ___
 ## Slide Screenshot
-![146.png](../../images/8.%20Audit%20Findings%20201/146.png)
+![146.jpg](../../images/8.%20Audit%20Findings%20201/146.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 4

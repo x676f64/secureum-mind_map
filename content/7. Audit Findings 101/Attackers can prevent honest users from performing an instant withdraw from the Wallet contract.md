@@ -11,7 +11,7 @@ As a result, the honest user’s transaction will revert because it will be atte
 Consider adding an access control mechanism to restrict who can submit `oracleMessages` on behalf of the user.
 ___
 ## Slide Screenshot
-![080.png](../../images/7.%20Audit%20Findings%20101/080.png)
+![080.jpg](../../images/7.%20Audit%20Findings%20101/080.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Futureswap V2 Finding H01

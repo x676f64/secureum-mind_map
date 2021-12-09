@@ -9,7 +9,7 @@ As a result, a single account can issue a loan that will reach the total minting
 Make sure this behaviour is understood and consider introducing and enforcing a cap (`maxLoanSize`) on the size of the loans allowed to be opened.
 ___
 ## Slide Screenshot
-![168.png](../../images/8.%20Audit%20Findings%20201/168.png)
+![168.jpg](../../images/8.%20Audit%20Findings%20201/168.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit Synthetix Finding SEC-06

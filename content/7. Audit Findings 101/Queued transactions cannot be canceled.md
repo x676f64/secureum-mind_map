@@ -15,7 +15,7 @@ This makes it impossible for `Timelock.cancelTransaction` to ever be called.
 3. This would allow a lot of functions and code to be removed and significantly lower the complexity of these two contracts.
 ___
 ## Slide Screenshot
-![034.png](../../images/7.%20Audit%20Findings%20101/034.png)
+![034.jpg](../../images/7.%20Audit%20Findings%20101/034.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 6

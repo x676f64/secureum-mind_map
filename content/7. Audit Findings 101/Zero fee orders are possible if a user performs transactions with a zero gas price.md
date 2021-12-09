@@ -11,7 +11,7 @@ Since the user completely controls the gas price of their transaction and the pr
 Short term, select a reasonable minimum value for the protocol fee for each order or transaction. Long term, consider not depending on the gas price for the computation of protocol fees. This will avoid giving miners an economic advantage in the system.
 ___
 ## Slide Screenshot
-![065.png](../../images/7.%20Audit%20Findings%20101/065.png)
+![065.jpg](../../images/7.%20Audit%20Findings%20101/065.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 7

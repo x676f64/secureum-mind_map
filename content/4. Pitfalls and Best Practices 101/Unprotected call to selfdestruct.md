@@ -7,7 +7,7 @@ Protect access to such functions.
 
 ___
 ## Slide Screenshot
-![06.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/006.png)
+![06.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/006.jpg)
 ___
 ## Slide Text
 - `selfdestruct()` Unprotected

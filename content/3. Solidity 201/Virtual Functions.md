@@ -6,7 +6,7 @@ In interfaces, all functions are automatically considered virtual.
 Functions with private visibility cannot be virtual.
 ___
 ## Slide Screenshot
-![108.png](../../images/3.%20Solidity%20201/108.png)
+![108.jpg](../../images/3.%20Solidity%20201/108.jpg)
 ___
 ## Slide Text
 - Virtual Function Rules

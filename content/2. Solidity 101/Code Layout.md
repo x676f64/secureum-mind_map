@@ -17,7 +17,7 @@
 
 ___
 ## Slide Screenshot
-![098.png](../../images/2.%20Solidity%20101/098.png)
+![098.jpg](../../images/2.%20Solidity%20101/098.jpg)
 ___
 ## Slide Deck
 - Indentation -> 4 Spaces

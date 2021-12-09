@@ -8,7 +8,7 @@ This is accessed with MLOAD, MSTORE and MSTORE8 instructions.
 
 ___
 ## Slide Screenshot
-![061.png](../../images/1.%20Ethereum%20101/061.png)
+![061.jpg](../../images/1.%20Ethereum%20101/061.jpg)
 ___
 ## Slide Text
 - [EVM](EVM.md) Volatile Memory

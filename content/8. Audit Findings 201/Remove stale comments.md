@@ -8,7 +8,7 @@ Remove inline comments that suggest the two uint256 values `DAOfiV1Pair.reserveB
 Remove stale comments
 ___
 ## Slide Screenshot
-![108.png](../../images/8.%20Audit%20Findings%20201/108.png)
+![108.jpg](../../images/8.%20Audit%20Findings%20201/108.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAOfi Finding 3.1

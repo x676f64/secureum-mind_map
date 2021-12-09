@@ -3,7 +3,7 @@
 Upgradeable contracts might change their rules over time. (See [here](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/token_integration.md#owner-privileges))
 ___
 ## Slide Screenshot
-![0112.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/112.png)
+![0112.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/112.jpg)
 ___
 ## Slide Text
 - ERC20 Token Upgradeability

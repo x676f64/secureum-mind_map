@@ -21,7 +21,7 @@ The first element of the slice is `x[start]` and the last element is `x[end - 1]
 
 ___
 ## Slide Screenshot
-![063.png](../../images/2.%20Solidity%20101/063.png)
+![063.jpg](../../images/2.%20Solidity%20101/063.jpg)
 ___
 ## Slide Deck
 - View -> Contiguous Array Portion

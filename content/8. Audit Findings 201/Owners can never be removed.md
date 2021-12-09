@@ -9,7 +9,7 @@ owever, the `isOwner` mapping is never updated, which means any address that was
 In `setOwners()`, before adding new owners, loop through the current set of owners and clear their `isOwner` booleans
 ___
 ## Slide Screenshot
-![125.png](../../images/8.%20Audit%20Findings%20201/125.png)
+![125.jpg](../../images/8.%20Audit%20Findings%20201/125.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Paxos Finding 3.1

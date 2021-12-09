@@ -12,7 +12,7 @@ If that is the case, the call will revert due to the division by zero error.
 To prevent such unsafe calculations, consider adding a `require` statement in the functions to ensure `y > 0`, or consider using the `div` functions provided in OpenZeppelin's `SafeMath` libraries.
 ___
 ## Slide Screenshot
-![192.png](../../images/8.%20Audit%20Findings%20201/192.png)
+![192.jpg](../../images/8.%20Audit%20Findings%20201/192.jpg)
 ___
 ## Slide Text
 - OpenZeppelin GEB Protocol Finding L06

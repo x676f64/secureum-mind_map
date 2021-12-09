@@ -6,7 +6,7 @@ A good example of this is to require a multisig address (not EOA) for privileged
 The multisig address should be composed of entities that are different and mutually distrusting/verifying. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
-![0193.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/193.png)
+![0193.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/193.jpg)
 ___
 ## Slide Text
 - Separation of Privilege

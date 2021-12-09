@@ -6,7 +6,7 @@ Function names don't reflect their true functionalities, and the code uses some 
 ### Recommendation:
 Refactor the code to separate getting rate functionality with getSellRate and getBuyRate. Explicitly document any assumptions in the code (slippage, etc).
 ## Slide Screenshot
-![105.png](../../images/8.%20Audit%20Findings%20201/105.png)
+![105.jpg](../../images/8.%20Audit%20Findings%20201/105.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DeFi Saver Finding 5.6

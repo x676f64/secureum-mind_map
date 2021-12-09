@@ -9,7 +9,7 @@ As a result, the owner can control fees such as they equal/exceed the collateral
 While "dynamic" interest rates are common, we recommend considering the minting fee ( `issueFeeRate` ) to be a constant that cannot be changed by the owner.
 ___
 ## Slide Screenshot
-![069.png](../../images/7.%20Audit%20Findings%20101/069.png)
+![069.jpg](../../images/7.%20Audit%20Findings%20101/069.jpg)
 ___
 ## Slide Text
 - Sigma Prime EtherCollateral Finding 3

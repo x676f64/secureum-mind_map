@@ -7,7 +7,7 @@ Ethereum’s proof-of-work algorithm is called “Ethash” (previously known as
 
 ___
 ## Slide Screenshot
-![052.png](../../images/1.%20Ethereum%20101/052.png)
+![052.jpg](../../images/1.%20Ethereum%20101/052.jpg)
 ___
 ## Slide Text
 - Provides Sybil consensus resistance 

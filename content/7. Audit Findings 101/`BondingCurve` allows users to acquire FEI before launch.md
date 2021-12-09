@@ -9,7 +9,7 @@ By force-sending the contract 1 wei, anyone can bypass the majority of checks an
 Prevent allocate from being called before genesis launch
 ___
 ## Slide Screenshot
-![012.png](../../images/7.%20Audit%20Findings%20101/012.png)
+![012.jpg](../../images/7.%20Audit%20Findings%20101/012.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAOfi Finding 3.4

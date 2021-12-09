@@ -4,7 +4,7 @@ Redundant code and comments can be confusing and should be removed (or changed a
 This will not only reduce gas costs but improve readability and maintainability of the code.
 ___
 ## Slide Screenshot
-![0157.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/157.png)
+![0157.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/157.jpg)
 ___
 ## Slide Text
 - Redundant Constructs

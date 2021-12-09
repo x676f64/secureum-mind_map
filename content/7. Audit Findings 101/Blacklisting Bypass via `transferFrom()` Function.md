@@ -9,7 +9,7 @@ As such, it is possible for a user to allow an account to spend a certain allowa
 At present the function `transferFrom()` uses the `notBlacklisted(address)` modifier twice, on the msg.sender and to addresses. The `notBlacklisted(address)` modifier should be used a third time against the from address.
 ___
 ## Slide Screenshot
-![071.png](../../images/7.%20Audit%20Findings%20101/071.png)
+![071.jpg](../../images/7.%20Audit%20Findings%20101/071.jpg)
 ___
 ## Slide Text
 - Sigma Prime Infinigold Finding 2

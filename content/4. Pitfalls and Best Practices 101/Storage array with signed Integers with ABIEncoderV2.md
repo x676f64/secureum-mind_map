@@ -3,7 +3,7 @@ Assigning an array of signed integers to a storage array of different type can l
 
 ___
 ## Slide Screenshot
-![077.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/077.png)
+![077.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/077.jpg)
 ___
 ## Slide Text
 - Storage Array

@@ -11,7 +11,7 @@ Furthermore, since the `_recordLoanClosure()` function is only called via the `_
 2. Removing the if statement in line [357]
 ___
 ## Slide Screenshot
-![167.png](../../images/8.%20Audit%20Findings%20201/167.png)
+![167.jpg](../../images/8.%20Audit%20Findings%20201/167.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit Synthetix Finding SEC-04

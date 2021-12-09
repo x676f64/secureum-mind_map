@@ -10,7 +10,7 @@ Audits are `not` intended to alert potential project users of any inherent risk.
 
 ___
 ## Slide Screenshot
-![005.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/005.png)
+![005.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/005.jpg)
 ___
 ## Slide Text
 - Project Teams

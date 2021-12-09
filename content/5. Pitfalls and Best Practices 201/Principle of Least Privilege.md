@@ -4,7 +4,7 @@
 Granting excess privilege is prone to misuse/abuse when trusted actors misbehave or their access is hijacked by malicious entities. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
-![0192.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/192.png)
+![0192.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/192.jpg)
 ___
 ## Slide Text
 - Least Privilege

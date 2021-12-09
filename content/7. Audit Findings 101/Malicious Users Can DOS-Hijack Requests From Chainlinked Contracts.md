@@ -27,7 +27,7 @@ In such cases, the malicious user could simply front-run the requests to be high
 This issue arises due to the fact that any request can specify its own arbitrary callback address. A restrictive solution would be where callback addresses are localised to the requester themselves.
 ___
 ## Slide Screenshot
-![076.png](../../images/7.%20Audit%20Findings%20101/076.png)
+![076.jpg](../../images/7.%20Audit%20Findings%20101/076.jpg)
 ___
 ## Slide Text
 - Sigma Prime Chainlink Finding 2

@@ -13,7 +13,7 @@ Consider importing the OpenZeppelin contracts instead of reimplementing or copyi
 These contracts can be extended to add the extra functionalities required by Holdefi.
 ___
 ## Slide Screenshot
-![179.png](../../images/8.%20Audit%20Findings%20201/179.png)
+![179.jpg](../../images/8.%20Audit%20Findings%20201/179.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit HoldeFi Finding M09

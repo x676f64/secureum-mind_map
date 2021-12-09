@@ -9,7 +9,7 @@ However, in several interfaces there are functions from the counterpart contract
 Consider applying the necessary changes in the mentioned interfaces and contracts so that definitions and implementations fully match.
 ___
 ## Slide Screenshot
-![197.png](../../images/8.%20Audit%20Findings%20201/197.png)
+![197.jpg](../../images/8.%20Audit%20Findings%20201/197.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Opyn Gamma Finding L07

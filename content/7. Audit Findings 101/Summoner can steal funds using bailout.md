@@ -13,7 +13,7 @@ By implementing pull pattern for token transfers, kicked member won’t be able 
 There is no need to keep the `bailout` function.
 ___
 ## Slide Screenshot
-![031.png](../../images/7.%20Audit%20Findings%20101/031.png)
+![031.jpg](../../images/7.%20Audit%20Findings%20101/031.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.6

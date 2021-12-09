@@ -13,7 +13,7 @@ As Solidity is now under a fast release cycle, consider using a more recent vers
 In addition, to avoid unexpected behavior, consider specifying explicit Solidity versions in pragma statements.
 ___
 ## Slide Screenshot
-![186.png](../../images/8.%20Audit%20Findings%20201/186.png)
+![186.jpg](../../images/8.%20Audit%20Findings%20201/186.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Fei Protocol Finding L04

@@ -8,7 +8,7 @@ This will result in less code duplication in the given smart contract and adds s
 Use of modifiers for repeated checks
 ___
 ## Slide Screenshot
-![131.png](../../images/8.%20Audit%20Findings%20201/131.png)
+![131.jpg](../../images/8.%20Audit%20Findings%20201/131.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Balancer Finding 3.6

@@ -3,7 +3,7 @@ Boolean variables can be checked within conditionals directly without the use of
 
 ___
 ## Slide Screenshot
-![035.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/035.png)
+![035.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/035.jpg)
 ___
 ## Slide Text
 - Boolean Equality -> `true` or `false`

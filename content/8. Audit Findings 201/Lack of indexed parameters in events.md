@@ -7,7 +7,7 @@ Throughout the Holdefi's codebase, none of the parameters in the events defined 
 Consider indexing event parameters to avoid hindering the task of off-chain services searching and filtering for specific events.
 ___
 ## Slide Screenshot
-![180.png](../../images/8.%20Audit%20Findings%20201/180.png)
+![180.jpg](../../images/8.%20Audit%20Findings%20201/180.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit HoldeFi Finding L09

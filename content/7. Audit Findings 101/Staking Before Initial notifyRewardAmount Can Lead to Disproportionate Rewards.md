@@ -7,7 +7,7 @@ If a user successfully stakes an amount of UNI tokens before the function `notif
 We recommend preventing `stake()` from being called before `notifyRewardAmount()` is called for the first time.
 ___
 ## Slide Screenshot
-![073.png](../../images/7.%20Audit%20Findings%20101/073.png)
+![073.jpg](../../images/7.%20Audit%20Findings%20101/073.jpg)
 ___
 ## Slide Text
 - Sigma Prime Unipool Finding 2
