@@ -14,14 +14,16 @@ ___
 ___
 ## Slide Text
 - ConsenSys Audit DAOfi Finding 4.1
-- Input Validation
+- Input Validation Category
 - Critical Severity
 - No Address Validation
 - Token Transfer
 - From Address -> msg.sender
 ___
 ## References
-- Youtube Reference
+- [Youtube Reference](https://youtu.be/SromSImIpHE?t=527)
 - Critical severity finding from [Consensys Diligence Audit of DAOfi](https://consensys.net/diligence/audits/2021/02/daofi/#token-approvals-can-be-stolen-in-daofiv1router01-addliquidity)
 ___
 ## Tags
+- Access Control Checks 148 149 160 172 180 181 183 [Pitfalls.201]
+- Input Validation (function parameters tokens and addresses) 138 159 Pitfalls.201 [Pitfalls.201]
