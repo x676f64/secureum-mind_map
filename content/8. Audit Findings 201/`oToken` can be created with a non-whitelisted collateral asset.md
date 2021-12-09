@@ -1,7 +1,9 @@
 
 # 196 - [`oToken` can be created with a non-whitelisted collateral asset](./`oToken`%20can%20be%20created%20with%20a%20non-whitelisted%20collateral%20asset.md)
 
-A product consists of a set of assets and an option type. Each product has to be whitelisted by the admin using the `whitelistProduct` function from the Whitelist contract.
+A product consists of a set of assets and an option type. 
+
+Each product has to be whitelisted by the admin using the `whitelistProduct` function from the Whitelist contract.
 
 
 ### Recommendation:
