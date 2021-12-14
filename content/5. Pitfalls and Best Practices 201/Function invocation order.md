@@ -2,7 +2,7 @@
 Externally accessible functions (`external`/`public` visibility) may be called in any order (with respect to other defined functions). It is not safe to assume they will only be called in the specific order that makes sense to the system design or is implicitly assumed in the code. For e.g., initialization functions (used with upgradeable contracts that cannot use constructors) are meant to be called before other system functions can be called.
 ___
 ## Slide Screenshot
-![0145.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/145.png)
+![0145.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/145.jpg)
 ___
 ## Slide Text
 - Function Calls Order -> Which + When

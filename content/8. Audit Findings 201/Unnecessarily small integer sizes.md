@@ -9,7 +9,7 @@ This can be justified by savings in storage costs in some scenarios, however, th
 Consider using integers of size 256 bits to improve gas efficiency and mitigate function reverts.
 ___
 ## Slide Screenshot
-![188.png](../../images/8.%20Audit%20Findings%20201/188.png)
+![188.jpg](../../images/8.%20Audit%20Findings%20201/188.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Fei Protocol Finding N23

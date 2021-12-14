@@ -11,7 +11,7 @@ This type of manipulation is difficult to prevent especially when flash loans ar
 Aave should monitor the protocol at all times to make sure that interest rates are being rebalanced to sane values.
 ___
 ## Slide Screenshot
-![126.png](../../images/8.%20Audit%20Findings%20201/126.png)
+![126.jpg](../../images/8.%20Audit%20Findings%20201/126.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Aave V2 Finding 5.6

@@ -6,7 +6,7 @@ The amount stored in the recipient’s `committedFGEN` balance overwrites any pr
 Ensure the committed amount is added to the existing commitment.
 ___
 ## Slide Screenshot
-![009.png](../../images/7.%20Audit%20Findings%20101/009.png)
+![009.jpg](../../images/7.%20Audit%20Findings%20101/009.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Finding 3.1

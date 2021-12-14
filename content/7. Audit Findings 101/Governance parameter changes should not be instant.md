@@ -17,7 +17,7 @@ These are only examples; the complexity of the protocol, combined with unpredict
 Since these changes are occasionally needed, but can create risk for the users of the protocol, consider implementing a time-lock mechanism for such changes to take place. By having a delay between the signal of intent and the actual change, users will have time to remove their funds or close trades that would otherwise be at risk if the change happened instantly. 
 ___
 ## Slide Screenshot
-![100.png](../../images/7.%20Audit%20Findings%20101/100.png)
+![100.jpg](../../images/7.%20Audit%20Findings%20101/100.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit MCDEX Mai Finding M06

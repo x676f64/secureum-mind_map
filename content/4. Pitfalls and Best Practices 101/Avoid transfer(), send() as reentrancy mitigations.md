@@ -3,7 +3,7 @@ Although `transfer()` and `send()` have been recommended as a security best-prac
 
 ___
 ## Slide Screenshot
-![015.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/015.png)
+![015.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/015.jpg)
 ___
 ## Slide Text
 - ETH `transfer()` & `send()` Reentrancy Mitigations

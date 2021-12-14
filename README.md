@@ -10,7 +10,7 @@ The impetus for this project was self-edification as well as providing better ac
 
 If you open this in [Obsidian](https://obsidian.md) you can graph the notes.
 
-![](images/example.png)
+![example.jpg](images/example.jpg)
 ___
 
 Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who is in Epoch0: [Link](https://gist.github.com/patrickd-/5000fc1eb3e9d92f555a9ea2af94de54) (Place in the `contracts` folder on Remix)

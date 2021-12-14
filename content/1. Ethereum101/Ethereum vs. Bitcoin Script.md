@@ -4,7 +4,7 @@ Unlike Bitcoin, which has a very limited scripting language, Ethereum is designe
 
 ___
 ## Slide Screenshot
-![006.png](../../images/1.%20Ethereum%20101/006.png)
+![006.jpg](../../images/1.%20Ethereum%20101/006.jpg)
 ___
 ## Slide Text
 - Script -> Limited 

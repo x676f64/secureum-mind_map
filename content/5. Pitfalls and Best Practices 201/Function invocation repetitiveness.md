@@ -8,7 +8,7 @@ Function implementation should be robust enough to track, prevent, ignore or acc
 For e.g., initialization functions (used with upgradeable contracts that cannot use constructors) are meant to be called only once.
 ___
 ## Slide Screenshot
-![0144.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/144.png)
+![0144.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/144.jpg)
 ___
 ## Slide Text
 - Function Calls Repetitiveness -> How Many

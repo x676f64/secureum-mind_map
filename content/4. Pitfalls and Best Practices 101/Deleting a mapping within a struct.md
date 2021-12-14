@@ -3,7 +3,7 @@ Deleting a `struct` that contains a `mapping` will not delete the `mapping` cont
 
 ___
 ## Slide Screenshot
-![032.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/032.png)
+![032.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/032.jpg)
 ___
 ## Slide Text
 - delete Mapping within Struct

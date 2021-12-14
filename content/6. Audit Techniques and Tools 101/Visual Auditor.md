@@ -10,7 +10,7 @@ Visual Auditor is a Visual Studio Code extension that provides security-aware sy
 6. Views: Cockpit vs Outline
 ___
 ## Slide Screenshot
-![069.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/069.png)
+![069.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/069.jpg)
 ___
 ## Slide Text
 - Visual Studio Extension

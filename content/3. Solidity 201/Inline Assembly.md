@@ -11,7 +11,7 @@ You should only use it for tasks that need it, and only if you are confident wit
 
 ___
 ## Slide Screenshot
-![132.png](../../images/3.%20Solidity%20201/132.png)
+![132.jpg](../../images/3.%20Solidity%20201/132.jpg)
 ___
 ## Slide Text
 - Access EVM Low-level Features

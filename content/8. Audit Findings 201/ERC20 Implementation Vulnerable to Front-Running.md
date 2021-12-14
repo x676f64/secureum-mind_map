@@ -15,7 +15,7 @@ See the Open-Zeppelin [8] solution for an example.
 We note that modifying the ERC20 standard to address this issue may lead to backward incompatibilities with external third-party software.
 ___
 ## Slide Screenshot
-![173.png](../../images/8.%20Audit%20Findings%20201/173.png)
+![173.jpg](../../images/8.%20Audit%20Findings%20201/173.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit InfiniGold Finding INF-08

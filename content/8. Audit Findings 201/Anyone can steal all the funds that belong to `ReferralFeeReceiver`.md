@@ -21,7 +21,7 @@ The methods mentioned here are not covered at all.
 Improve documentation and provide a specification that outlines how this contract is supposed to be used.
 ___
 ## Slide Screenshot
-![117.png](../../images/8.%20Audit%20Findings%20201/117.png)
+![117.jpg](../../images/8.%20Audit%20Findings%20201/117.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit 1inch Finding 5.1

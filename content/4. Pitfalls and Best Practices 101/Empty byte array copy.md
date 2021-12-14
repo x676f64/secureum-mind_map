@@ -2,7 +2,7 @@
 Copying an empty byte array (or string) from memory or calldata to storage can result in data corruption if the target array's length is increased subsequently without storing new data. This is due to a compiler bug fixed in `v0.7.4`. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
 ___
 ## Slide Screenshot
-![091.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/091.png)
+![091.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/091.jpg)
 ___
 ## Slide Text
 - Empty Byte Array Copy

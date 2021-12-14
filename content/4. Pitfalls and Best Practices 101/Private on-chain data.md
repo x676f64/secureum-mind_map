@@ -3,7 +3,7 @@ Marking variables `private` does not mean that they cannot be read on-chain. Pri
 
 ___
 ## Slide Screenshot
-![016.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/016.png)
+![016.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/016.jpg)
 ___
 ## Slide Text
 - Privacy of On-chain Data

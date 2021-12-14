@@ -33,7 +33,7 @@ This is done by figuring out whether the Likelihood is Low, Medium, or High and 
 	4. Critical: issues are directly exploitable security vulnerabilities that need to be fixed.
 ___
 ## Slide Screenshot
-![017.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/017.png)
+![017.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/017.jpg)
 ___
 ## Slide Text
 |Likelhood|Impact|Severity|

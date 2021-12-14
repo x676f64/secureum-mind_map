@@ -10,7 +10,7 @@ Add access control to all functions appropriately
 
 ___
 ## Slide Screenshot
-![107.png](../../images/8.%20Audit%20Findings%20201/107.png)
+![107.jpg](../../images/8.%20Audit%20Findings%20201/107.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Umbra Finding 5.11

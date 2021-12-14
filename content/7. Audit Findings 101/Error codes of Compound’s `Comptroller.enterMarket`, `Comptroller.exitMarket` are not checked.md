@@ -9,7 +9,7 @@ DeFi Saver smart contracts never check for the error codes returned from Compoun
 Caller contract should revert in case the error code is not 0
 ___
 ## Slide Screenshot
-![004.png](../../images/7.%20Audit%20Findings%20101/004.png)
+![004.jpg](../../images/7.%20Audit%20Findings%20101/004.jpg)
 ___
 ## Slide Text
 - ConsenSys DeFi Save Finding 5.3

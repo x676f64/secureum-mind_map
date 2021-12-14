@@ -9,7 +9,7 @@ Particularly dangerous functionality to look for includes a callback (ie. ERC777
 Evaluate all tokens prior to inclusion in the system
 ___
 ## Slide Screenshot
-![121.png](../../images/8.%20Audit%20Findings%20201/121.png)
+![121.jpg](../../images/8.%20Audit%20Findings%20201/121.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Growth DeFi Finding 5.2

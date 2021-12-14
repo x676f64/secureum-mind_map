@@ -14,7 +14,7 @@ Add a full coverage test suite.
 
 ___
 ## Slide Screenshot
-![104.png](../../images/8.%20Audit%20Findings%20201/104.png)
+![104.jpg](../../images/8.%20Audit%20Findings%20201/104.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DeFi Saver Finding 5.5

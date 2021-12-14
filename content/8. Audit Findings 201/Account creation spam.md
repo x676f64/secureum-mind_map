@@ -22,7 +22,7 @@ This will prevent an attacker from spamming the system to prevent new accounts f
 Long term, when designing spam mitigation, consider that L1 gas cost can be avoided by Ethereum miners.
 ___
 ## Slide Screenshot
-![151.png](../../images/8.%20Audit%20Findings%20201/151.png)
+![151.jpg](../../images/8.%20Audit%20Findings%20201/151.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Network Finding 4

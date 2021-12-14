@@ -14,7 +14,7 @@
 
 ___
 ## Slide Screenshot
-![138.png](../../images/3.%20Solidity%20201/138.png)
+![138.jpg](../../images/3.%20Solidity%20201/138.jpg)
 ___
 ## Slide Text
 - try/catch

@@ -16,7 +16,7 @@ Short term, leverage OpenZeppelin's `safeApprove` function wherever possible.
 Long term, ensure that all low-level calls have accompanying contract existence checks and return value checks where appropriate.
 ___
 ## Slide Screenshot
-![147.png](../../images/8.%20Audit%20Findings%20201/147.png)
+![147.jpg](../../images/8.%20Audit%20Findings%20201/147.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 8

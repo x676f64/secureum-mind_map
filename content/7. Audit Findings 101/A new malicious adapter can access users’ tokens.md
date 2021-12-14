@@ -13,7 +13,7 @@ Even a user who has diligently checked all existing adapter code before interact
 Make `MetaSwap` contract the only contract that receives token approval. It then moves tokens to the Spender contract before that contract `DELEGATECALL`s to the appropriate adapter. In this model, newly added adapters shouldn’t be able to access users’ funds.
 ___
 ## Slide Screenshot
-![019.png](../../images/7.%20Audit%20Findings%20101/019.png)
+![019.jpg](../../images/7.%20Audit%20Findings%20101/019.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit MetaSwap Finding 4.2

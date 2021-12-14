@@ -13,7 +13,7 @@ This vulnerability makes the Unipool contract unusable.
 Adjust the function `rewardPerToken()` to represent the original functionality.
 ___
 ## Slide Screenshot
-![072.png](../../images/7.%20Audit%20Findings%20101/072.png)
+![072.jpg](../../images/7.%20Audit%20Findings%20101/072.jpg)
 ___
 ## Slide Text
 - Sigma Prime Unipool Finding 1

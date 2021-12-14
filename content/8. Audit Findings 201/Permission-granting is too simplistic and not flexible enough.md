@@ -16,7 +16,7 @@ Moreover, once an address is added, it cannot be deleted.
 Rewrite the authorization system to allow only certain addresses to access certain functions
 ___
 ## Slide Screenshot
-![139.png](../../images/8.%20Audit%20Findings%20201/139.png)
+![139.jpg](../../images/8.%20Audit%20Findings%20201/139.jpg)
 ___
 ## Slide Text
 - ToB Audit Yield Finding 2

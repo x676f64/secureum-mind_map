@@ -19,7 +19,7 @@ The attacker can obtain liquidity for step 2 using a flash loan. The attack will
 Do not allow users to trade at a stale Oracle rate and trigger an Oracle price update in the same transaction.
 ___
 ## Slide Screenshot
-![022.png](../../images/7.%20Audit%20Findings%20101/022.png)
+![022.jpg](../../images/7.%20Audit%20Findings%20101/022.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Bancor V2 Finding 5.1

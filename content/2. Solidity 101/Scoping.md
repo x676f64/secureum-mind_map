@@ -9,7 +9,7 @@ Scoping in Solidity follows the widespread scoping rules of C99
 
 ___
 ## Slide Screenshot
-![040.png](../../images/2.%20Solidity%20101/040.png)
+![040.jpg](../../images/2.%20Solidity%20101/040.jpg)
 ___
 ## Slide Deck
 - Variable Visibility

@@ -4,7 +4,7 @@ A contract account has code and associated storage and every time it receives a 
 
 ___
 ## Slide Screenshot
-![027.png](../../images/1.%20Ethereum%20101/027.png)
+![027.jpg](../../images/1.%20Ethereum%20101/027.jpg)
 ___
 ## Slide Text
 - Account -> [Nonce](Nonce.md), [Value](Value.md), Code, [Storage](Storage.md)

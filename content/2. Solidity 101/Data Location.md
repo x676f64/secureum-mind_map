@@ -8,7 +8,7 @@ Reference Types & Data Location: Every reference type has an additional annotati
 3. `calldata`: which is a non-modifiable, non-persistent area where function arguments are stored and behaves mostly like memory. It is required for parameters of external functions but can also be used for other variables.
 ___
 ## Slide Screenshot
-![055.png](../../images/2.%20Solidity%20101/055.png)
+![055.jpg](../../images/2.%20Solidity%20101/055.jpg)
 ___
 ## Slide Deck
 - Reference Types -> Data Location Annotation

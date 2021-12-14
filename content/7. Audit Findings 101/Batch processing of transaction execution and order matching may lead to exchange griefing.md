@@ -13,7 +13,7 @@ So if one transaction or order fails this way, the entire batch will revert and 
 Short term, implement NoThrow variants for batch processing of transaction execution and order matching. Long term, take into consideration the effect of malicious inputs when implementing functions that perform a batch of operations.
 ___
 ## Slide Screenshot
-![064.png](../../images/7.%20Audit%20Findings%20101/064.png)
+![064.jpg](../../images/7.%20Audit%20Findings%20101/064.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 6

@@ -4,7 +4,7 @@ Ethereum address of an [EOA](EOA.md) account is the last 20 bytes (least signifi
 
 ___
 ## Slide Screenshot
-![030.png](../../images/1.%20Ethereum%20101/030.png)
+![030.jpg](../../images/1.%20Ethereum%20101/030.jpg)
 ___
 ## Slide Text
 - Private Key derives Public Key

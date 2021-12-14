@@ -15,7 +15,7 @@ Users must fully trust every adapter because just one malicious adapter could ch
 At a minimum, disallow modification of existing adapters. Instead, simply add new adapters and disable the old ones.
 ___
 ## Slide Screenshot
-![020.png](../../images/7.%20Audit%20Findings%20101/020.png)
+![020.jpg](../../images/7.%20Audit%20Findings%20101/020.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit MetaSwap Finding 4.3

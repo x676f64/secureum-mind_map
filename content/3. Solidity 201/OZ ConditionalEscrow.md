@@ -3,7 +3,7 @@ OpenZeppelin ConditionalEscrow: Derived from Escrow and only allows withdrawal i
 
 ___
 ## Slide Screenshot
-![171.png](../../images/3.%20Solidity%20201/171.png)
+![171.jpg](../../images/3.%20Solidity%20201/171.jpg)
 ___
 ## Slide Text
 - Escrow Funds for Payee

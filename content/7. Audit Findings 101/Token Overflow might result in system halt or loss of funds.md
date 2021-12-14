@@ -9,7 +9,7 @@ The overflow could happen because the supply of the token was artificially infla
 We recommend to allow overflow for broken or malicious tokens. This is to prevent system halt or loss of funds. It should be noted that in case an overflow occurs, the balance of the token will be incorrect for all token holders in the system
 ___
 ## Slide Screenshot
-![029.png](../../images/7.%20Audit%20Findings%20101/029.png)
+![029.jpg](../../images/7.%20Audit%20Findings%20101/029.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.4

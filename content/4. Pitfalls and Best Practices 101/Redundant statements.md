@@ -3,7 +3,7 @@ Statements with no effects that do not produce code may be indicative of program
 
 ___
 ## Slide Screenshot
-![076.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/076.png)
+![076.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/076.jpg)
 ___
 ## Slide Text
 - Function Statements

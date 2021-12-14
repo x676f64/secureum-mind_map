@@ -11,7 +11,7 @@ However, with no descriptive naming conventions to signal which files would cont
 Use descriptive names for contracts and libraries
 ___
 ## Slide Screenshot
-![122.png](../../images/8.%20Audit%20Findings%20201/122.png)
+![122.jpg](../../images/8.%20Audit%20Findings%20201/122.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Growth DeFi Finding 5.6

@@ -6,7 +6,7 @@ Smart contract based projects do not have sufficient in-house Ethereum smart con
 Even if projects have some expertise in-house, they would still benefit from an unbiased external team with supplementary/complementary skill sets that can review the assumptions, design, specification and implementation of the project codebase.
 ___
 ## Slide Screenshot
-![006.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/006.png)
+![006.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/006.jpg)
 ___
 ## Slide Text
 - In-house Expertise

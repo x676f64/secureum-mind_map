@@ -2,7 +2,7 @@
 Accessing array slices of arrays with dynamically encoded base types (e.g. multi-dimensional arrays) can result in invalid data being read. This is due to a compiler bug introduced in `0.6.0` and fixed in `0.6.8`. (see [here](https://docs.soliditylang.org/en/v0.8.9/bugs.html))
 ___
 ## Slide Screenshot
-![083.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/083.png)
+![083.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/083.jpg)
 ___
 ## Slide Text
 - Array Slices

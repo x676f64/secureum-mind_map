@@ -28,7 +28,7 @@ Long term, document the risks associated with privileged users and single points
 Ensure that users are aware of all the risks associated with the system.
 ___
 ## Slide Screenshot
-![165.png](../../images/8.%20Audit%20Findings%20201/165.png)
+![165.jpg](../../images/8.%20Audit%20Findings%20201/165.jpg)
 ___
 ## Slide Text
 - ToB Audit dForce Lending Finding 10

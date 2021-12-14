@@ -5,7 +5,7 @@ Audits are a time, resource and expertise bound effort where trained experts eva
 Audits can show the presence of vulnerabilities but not their absence.
 ___
 ## Slide Screenshot
-![101.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/101.png)
+![101.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/101.jpg)
 ___
 ## Slide Text
 - Bounded Effort

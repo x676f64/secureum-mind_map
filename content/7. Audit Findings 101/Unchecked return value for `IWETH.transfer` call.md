@@ -9,7 +9,7 @@ It is usually good to add a require-statement that checks the return value or to
 Consider adding a require-statement or using `safeTransfer_
 ___
 ## Slide Screenshot
-![015.png](../../images/7.%20Audit%20Findings%20101/015.png)
+![015.jpg](../../images/7.%20Audit%20Findings%20101/015.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Finding 3.7

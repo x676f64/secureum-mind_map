@@ -8,7 +8,7 @@
 3. This repository is maintained by the team behind MythX and currently contains 37 entries
 ___
 ## Slide Screenshot
-![071.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/071.png)
+![071.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/071.jpg)
 ___
 ## Slide Text
 - Smart Contract Weakness Classification

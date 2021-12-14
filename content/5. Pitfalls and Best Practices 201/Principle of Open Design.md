@@ -6,7 +6,7 @@ Security by obscurity of code or underlying algorithms is not an option.
 Security should be derived from the strength of the design and implementation under the assumption that (byzantine) attackers will study their details and try to exploit them in arbitrary ways. (See [Saltzer and Schroeder's Secure Design Principles](https://en.wikipedia.org/wiki/Saltzer_and_Schroeder's_design_principles))
 ___
 ## Slide Screenshot
-![0198.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/198.png)
+![0198.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/198.jpg)
 ___
 ## Slide Text
 - Open Design

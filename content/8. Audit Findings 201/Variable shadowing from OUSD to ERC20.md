@@ -8,7 +8,7 @@ As a result, access to these variables can lead to returning different values.
 Remove the shadowed variables (`_allowances` and `_totalSupply`) in OUSD.
 ___
 ## Slide Screenshot
-![135.png](../../images/8.%20Audit%20Findings%20201/135.png)
+![135.jpg](../../images/8.%20Audit%20Findings%20201/135.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 16

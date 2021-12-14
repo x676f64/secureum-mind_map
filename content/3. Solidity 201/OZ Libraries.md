@@ -5,7 +5,7 @@ These include contracts for popular token standards, access control, security, s
 
 ___
 ## Slide Screenshot
-![147.png](../../images/3.%20Solidity%20201/147.png)
+![147.jpg](../../images/3.%20Solidity%20201/147.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Smart Contract Libraries

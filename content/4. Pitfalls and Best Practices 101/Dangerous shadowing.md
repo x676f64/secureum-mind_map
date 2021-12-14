@@ -2,7 +2,7 @@
 Local variables, state variables, functions, modifiers, or events with names that shadow (i.e. `override`) builtin Solidity symbols e.g. `now` or other declarations from the current scope are misleading and may lead to unexpected usages and behavior. (see [here](https://github.com/crytic/slither/wiki/Detector-Documentation#builtin-symbol-shadowing))
 ___
 ## Slide Screenshot
-![039.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/039.png)
+![039.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/039.jpg)
 ___
 ## Slide Text
 - Solidity Built-in Shadowing

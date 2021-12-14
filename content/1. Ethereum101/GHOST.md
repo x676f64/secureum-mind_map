@@ -16,7 +16,7 @@ Stale blocks are called uncles or ommers.
 
 ___
 ## Slide Screenshot
-![049.png](../../images/1.%20Ethereum%20101/049.png)
+![049.jpg](../../images/1.%20Ethereum%20101/049.jpg)
 ___
 ## Slide Text
 - Miners -> Blocks

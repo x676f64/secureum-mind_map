@@ -19,7 +19,7 @@ Long term, always perform validation of parameters passed to contract constructo
 This will help detect and prevent errors during deployment.
 ___
 ## Slide Screenshot
-![140.png](../../images/8.%20Audit%20Findings%20201/140.png)
+![140.jpg](../../images/8.%20Audit%20Findings%20201/140.jpg)
 ___
 ## Slide Text
 - ToB Audit Yield Finding 4

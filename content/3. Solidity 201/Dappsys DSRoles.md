@@ -9,7 +9,7 @@ DSRoles provides 3 different ways of permitting/forbidding function call access 
 3. Role Capabilities: capabilities which are associated with a particular role. Role capabilities are only checked if the user does not have root access and the capability is not public.
 ___
 ## Slide Screenshot
-![197.png](../../images/3.%20Solidity%20201/197.png)
+![197.jpg](../../images/3.%20Solidity%20201/197.jpg)
 ___
 ## Slide Text
 - RBAC

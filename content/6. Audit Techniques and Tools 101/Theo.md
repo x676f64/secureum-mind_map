@@ -15,7 +15,7 @@ Features:
 8. Disabling gas estimation will send transactions with a fixed gas quantity.
 ___
 ## Slide Screenshot
-![068.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/068.png)
+![068.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/068.jpg)
 ___
 ## Slide Text
 - Security Tool

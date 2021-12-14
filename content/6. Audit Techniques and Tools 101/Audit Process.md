@@ -14,7 +14,7 @@ Audit Process could be thought of as a ten-step process as follows:
 10. Evaluate fixes from the project team and verify that they indeed remove the vulnerabilities identified in findings.
 ___
 ## Slide Screenshot
-![080.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/080.png)
+![080.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/080.jpg)
 ___
 ## Slide Text
 - Read Spec/Docs

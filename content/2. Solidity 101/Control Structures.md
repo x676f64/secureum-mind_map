@@ -7,7 +7,7 @@
 
 ___
 ## Slide Screenshot
-![085.png](../../images/2.%20Solidity%20101/085.png)
+![085.jpg](../../images/2.%20Solidity%20101/085.jpg)
 ___
 ## Slide Deck
 - Control Flow

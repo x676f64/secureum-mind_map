@@ -12,7 +12,7 @@ Using a custom error instance will usually be much cheaper than a string descrip
 A longer description can be supplied via [NatSpec](NatSpec.md) which does not incur any costs.
 ___
 ## Slide Screenshot
-![092.png](../../images/2.%20Solidity%20101/092.png)
+![092.jpg](../../images/2.%20Solidity%20101/092.jpg)
 ___
 ## Slide Deck
 - `revert CustomErrors(arg1,..)`

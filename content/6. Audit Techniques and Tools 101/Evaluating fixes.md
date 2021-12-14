@@ -7,7 +7,7 @@ Post audit, the project team may work on any required fixes for reported finding
 2. Audit firms may evaluate the specific fixes applied and confirm/deny their risk mitigation. Unless it is a fix/retainer type audit, this phase typically takes not more than a day because it would usually be outside the agreed upon duration of the audit.
 ___
 ## Slide Screenshot
-![089.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/089.png)
+![089.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/089.jpg)
 ___
 ## Slide Text
 - Findings: Accept/Acknowledge/Deny

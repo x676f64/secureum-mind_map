@@ -11,7 +11,7 @@ Access control is the most fundamental security primitive which addresses ‘who
 
 ___
 ## Slide Screenshot
-![091.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/091.png)
+![091.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/091.jpg)
 ___
 ## Slide Text
 - Fundamental Security Primitive

@@ -7,7 +7,7 @@ Across the codebase, there are hundreds of instances of `uint`, as opposed to `u
 In favor of explicitness, consider replacing all instances of `uint` with `uint256`.
 ___
 ## Slide Screenshot
-![189.png](../../images/8.%20Audit%20Findings%20201/189.png)
+![189.jpg](../../images/8.%20Audit%20Findings%20201/189.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Fei Protocol Finding N28

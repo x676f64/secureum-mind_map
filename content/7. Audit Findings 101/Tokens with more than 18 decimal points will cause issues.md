@@ -11,7 +11,7 @@ This can result in broken code flow and unpredictable outcomes
 Make sure the code won’t fail in case the token’s decimals is more than 18
 ___
 ## Slide Screenshot
-![003.png](../../images/7.%20Audit%20Findings%20101/003.png)
+![003.jpg](../../images/7.%20Audit%20Findings%20101/003.jpg)
 ___
 ## Slide Text
 - ConsenSys DeFi Save Finding 5.2

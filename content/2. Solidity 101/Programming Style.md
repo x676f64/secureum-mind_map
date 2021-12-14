@@ -16,7 +16,7 @@ Programming style affects readability and maintainability, both of which affect 
 
 ___
 ## Slide Screenshot
-![097.png](../../images/2.%20Solidity%20101/097.png)
+![097.jpg](../../images/2.%20Solidity%20101/097.jpg)
 ___
 ## Slide Deck
 - Coding Convention

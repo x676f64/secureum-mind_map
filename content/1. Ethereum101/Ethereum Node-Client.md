@@ -10,7 +10,7 @@ Ethereum transactions are sent to Ethereum nodes to be broadcast across the peer
 
 ___
 ## Slide Screenshot
-![046.png](../../images/1.%20Ethereum%20101/046.png)
+![046.jpg](../../images/1.%20Ethereum%20101/046.jpg)
 ___
 ## Slide Text
 - Node -> Protocol Implementation Ethereum Specification

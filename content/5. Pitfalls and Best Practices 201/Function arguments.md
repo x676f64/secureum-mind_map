@@ -2,7 +2,7 @@
 Ensure that the arguments to function calls at the caller sites are the correct ones and in the right order as expected by the function definition.
 ___
 ## Slide Screenshot
-![0139.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/139.png)
+![0139.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/139.jpg)
 ___
 ## Slide Text
 - Function Arguments

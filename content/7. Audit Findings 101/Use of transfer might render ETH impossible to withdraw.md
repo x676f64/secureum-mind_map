@@ -17,7 +17,7 @@ Specifically, the withdrawal will inevitably fail when:
 Risks of reentrancy stemming from the use of this function can be mitigated by tightly following the “Check-effects-interactions” pattern and using OpenZeppelin Contract’s `ReentrancyGuard` contract.
 ___
 ## Slide Screenshot
-![087.png](../../images/7.%20Audit%20Findings%20101/087.png)
+![087.jpg](../../images/7.%20Audit%20Findings%20101/087.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Open Gamma Finding M07

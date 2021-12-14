@@ -11,7 +11,7 @@ Slither Code Similarity Detector (a research-oriented tool) uses state-of-the-ar
 	4. `info` - inspects the internal information of the pre-trained model or the assessed code
 ___
 ## Slide Screenshot
-![038.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/038.png)
+![038.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/038.jpg)
 ___
 ## Slide Text
 - Detect Similar Solidity Functions

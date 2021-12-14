@@ -14,7 +14,7 @@ These re-entrancy opportunities are unlikely to corrupt the internal state of th
 Consider always following the “Check-Effects-Interactions” pattern or use `ReentrancyGuard` contract is now used to protect those functions
 ___
 ## Slide Screenshot
-![099.png](../../images/7.%20Audit%20Findings%20101/099.png)
+![099.jpg](../../images/7.%20Audit%20Findings%20101/099.jpg)
 ___
 ## Slide Text
 - 

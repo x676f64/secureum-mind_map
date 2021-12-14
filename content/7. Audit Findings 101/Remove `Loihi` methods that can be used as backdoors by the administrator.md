@@ -13,7 +13,7 @@ In addition to these, the function `safeApprove` allows the administrator to mov
 Remove the `safeApprove` function and, instead, use a trustless escape-hatch mechanism. For the assimilator addition functions, our recommendation is that they are made completely internal, only callable in the constructor, at deploy time. Even though this is not a big structural change (in fact, it reduces the attack surface), it is, indeed, a feature loss. However, this is the only way to make each shell a time-invariant system. This would not only increase Shell’s security but also would greatly improve the trust the users have in the protocol since, after deployment, the code is now static and auditable.
 ___
 ## Slide Screenshot
-![024.png](../../images/7.%20Audit%20Findings%20101/024.png)
+![024.jpg](../../images/7.%20Audit%20Findings%20101/024.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Shell Protocol Finding 6.3

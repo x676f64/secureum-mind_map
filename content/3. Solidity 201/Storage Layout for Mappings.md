@@ -12,7 +12,7 @@ If the value is of [struct type](../2.%20Solidity%20101/Struct%20Types.md), for 
 
 ___
 ## Slide Screenshot
-![123.png](../../images/3.%20Solidity%20201/123.png)
+![123.jpg](../../images/3.%20Solidity%20201/123.jpg)
 ___
 ## Slide Text
 - Mapping -> Slot p

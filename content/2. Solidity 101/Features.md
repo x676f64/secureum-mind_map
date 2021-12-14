@@ -3,7 +3,7 @@ Solidity is statically typed, supports inheritance, libraries and complex user-d
 
 ___
 ## Slide Screenshot
-![003.png](../../images/2.%20Solidity%20101/003.png)
+![003.jpg](../../images/2.%20Solidity%20101/003.jpg)
 ___
 ## Slide Deck
 - Language Characteristics

@@ -3,7 +3,7 @@ Uninitialized state/local variables are assigned zero values by the compiler and
 
 ___
 ## Slide Screenshot
-![067.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/067.png)
+![067.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/067.jpg)
 ___
 ## Slide Text
 - Uninitialized State/Local Variables

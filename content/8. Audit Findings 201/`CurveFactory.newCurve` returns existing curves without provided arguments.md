@@ -16,7 +16,7 @@ Consider rewriting `newCurve` such that it reverts in the event that a base-and-
 A view function can be used to check for and retrieve existing Curves without any gas payment prior to an attempt at Curve creation.
 ___
 ## Slide Screenshot
-![145.png](../../images/8.%20Audit%20Findings%20201/145.png)
+![145.jpg](../../images/8.%20Audit%20Findings%20201/145.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 3

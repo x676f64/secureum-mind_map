@@ -7,7 +7,7 @@ Gas is purchased for the transaction, the computation is executed, and any unuse
 
 ___
 ## Slide Screenshot
-![012.png](../../images/1.%20Ethereum%20101/012.png)
+![012.jpg](../../images/1.%20Ethereum%20101/012.jpg)
 ___
 ## Slide Text
 - [Transaction](Transaction.md) -> Gas

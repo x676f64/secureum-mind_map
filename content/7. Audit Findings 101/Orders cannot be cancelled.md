@@ -9,7 +9,7 @@ In particular, `validateOrderParam` does not check if the order has been cancell
 Consider adding this check to the order validation to ensure cancelled orders cannot be filled.
 ___
 ## Slide Screenshot
-![098.png](../../images/7.%20Audit%20Findings%20101/098.png)
+![098.jpg](../../images/7.%20Audit%20Findings%20101/098.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit MCDEX Mai Finding C02

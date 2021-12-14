@@ -21,7 +21,7 @@ Long term, identify all incoming parameters in the system as well as the financi
 Additionally, use Echidna or Manticore to ensure that system invariants hold.
 ___
 ## Slide Screenshot
-![159.png](../../images/8.%20Audit%20Findings%20201/159.png)
+![159.jpg](../../images/8.%20Audit%20Findings%20201/159.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 25

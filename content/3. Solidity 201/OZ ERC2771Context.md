@@ -20,7 +20,7 @@ The entities are:
 4. Recipient - a contract that can securely accept meta-transactions through a Trusted Forwarder by being compliant with this standard.
 ___
 ## Slide Screenshot
-![183.png](../../images/3.%20Solidity%20201/183.png)
+![183.jpg](../../images/3.%20Solidity%20201/183.jpg)
 ___
 ## Slide Text
 - ERC-2771 Meta-transactions

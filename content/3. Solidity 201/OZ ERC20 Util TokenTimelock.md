@@ -5,7 +5,7 @@ Useful for simple vesting schedules like "advisors get all of their tokens after
 
 ___
 ## Slide Screenshot
-![150.png](../../images/3.%20Solidity%20201/150.png)
+![150.jpg](../../images/3.%20Solidity%20201/150.jpg)
 ___
 ## Slide Text
 - Token Holder Contract

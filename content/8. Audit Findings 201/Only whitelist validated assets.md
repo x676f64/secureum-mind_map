@@ -9,7 +9,7 @@ Problems can arise if a malicious token is whitelisted because it can block peop
 Make sure to audit any new whitelisted asset.
 ___
 ## Slide Screenshot
-![127.png](../../images/8.%20Audit%20Findings%20201/127.png)
+![127.jpg](../../images/8.%20Audit%20Findings%20201/127.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Aave Gov Finding 2.3

@@ -8,7 +8,7 @@ The reason for this can be accidental or malicious. Function implementation shou
 For e.g., initialization functions (used with upgradeable contracts that cannot use constructors) are meant to be called atomically along with contract deployment to prevent anyone else from initializing with arbitrary values.
 ___
 ## Slide Screenshot
-![0143.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/143.png)
+![0143.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/143.jpg)
 ___
 ## Slide Text
 - Function Calls Timeliness -> When

@@ -10,7 +10,7 @@ Etherum Improvement Proposals (EIPs) describe standards for the Ethereum platfor
 
 ___
 ## Slide Screenshot
-![085.png](../../images/1.%20Ethereum%20101/085.png)
+![085.jpg](../../images/1.%20Ethereum%20101/085.jpg)
 ___
 ## Slide Text
 Ethereum Imporvement Proposal (EIP)

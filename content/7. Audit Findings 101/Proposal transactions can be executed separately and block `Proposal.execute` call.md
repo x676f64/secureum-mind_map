@@ -7,7 +7,7 @@ Missing access controls in the `Timelock.executeTransaction` function allow Prop
 Short term, only allow the admin to call `Timelock.executeTransaction`
 ___
 ## Slide Screenshot
-![035.png](../../images/7.%20Audit%20Findings%20101/035.png)
+![035.jpg](../../images/7.%20Audit%20Findings%20101/035.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 8

@@ -11,7 +11,7 @@ Consider taking into account this issue and warning the users that such a scenar
 If the alteration of timestamps cannot affect the protocol in any way, consider documenting the reasoning and writing tests enforcing that these guarantees will be preserved even if the code changes in the future.
 ___
 ## Slide Screenshot
-![182.png](../../images/8.%20Audit%20Findings%20201/182.png)
+![182.jpg](../../images/8.%20Audit%20Findings%20201/182.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit HoldeFi Finding N07

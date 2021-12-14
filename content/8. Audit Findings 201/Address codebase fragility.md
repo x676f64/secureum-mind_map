@@ -12,7 +12,7 @@ In general, prioritize the following concepts:
 2. Reduce reliance on external systems
 ___
 ## Slide Screenshot
-![133.png](../../images/8.%20Audit%20Findings%20201/133.png)
+![133.jpg](../../images/8.%20Audit%20Findings%20201/133.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit MCDEX V2 Finding 2.3

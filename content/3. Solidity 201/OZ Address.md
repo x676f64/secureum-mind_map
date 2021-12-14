@@ -21,7 +21,7 @@ The above `functionCall*` functions have variants which pass an `errorMessage` p
 
 ___
 ## Slide Screenshot
-![159.png](../../images/3.%20Solidity%20201/159.png)
+![159.jpg](../../images/3.%20Solidity%20201/159.jpg)
 ___
 ## Slide Text
 - Address-related Functions

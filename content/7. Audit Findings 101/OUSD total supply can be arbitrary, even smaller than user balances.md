@@ -9,7 +9,7 @@ At that point, their exchange rate is “fixed”, and further rebases will not 
 Short term, we would advise making clear all common invariant violations for users and other stakeholders. Long term, we would recommend designing the system in such a way to preserve as many commonplace invariants as possible.
 ___
 ## Slide Screenshot
-![041.png](../../images/7.%20Audit%20Findings%20101/041.png)
+![041.jpg](../../images/7.%20Audit%20Findings%20101/041.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 23

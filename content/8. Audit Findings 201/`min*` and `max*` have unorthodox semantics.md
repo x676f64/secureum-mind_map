@@ -13,7 +13,7 @@ Alternatively, consider refactoring the variables or providing additional docume
 Long term, ensure that mathematical terms such as "minimum", "at least," and "at most" are used in the typical way-that is, to describe values inclusive of minimums or maximums (as relevant).
 ___
 ## Slide Screenshot
-![144.png](../../images/8.%20Audit%20Findings%20201/144.png)
+![144.jpg](../../images/8.%20Audit%20Findings%20201/144.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 2

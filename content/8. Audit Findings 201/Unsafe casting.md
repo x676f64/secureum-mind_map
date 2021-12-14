@@ -11,7 +11,7 @@ Consider verifying that the value of `coinBalance(receiver)` is within the accep
 Consider using OpenZeppelin's `SafeCast` contract, which provides functions for safely casting between types.
 ___
 ## Slide Screenshot
-![191.png](../../images/8.%20Audit%20Findings%20201/191.png)
+![191.jpg](../../images/8.%20Audit%20Findings%20201/191.jpg)
 ___
 ## Slide Text
 - OpenZeppelin GEB Protocol Finding M06

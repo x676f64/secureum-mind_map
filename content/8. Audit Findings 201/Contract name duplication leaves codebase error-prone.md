@@ -13,7 +13,7 @@ Short term, prevent the re-use of duplicate contract names or change the compila
 Long term, use Slither, which will help detect duplicate contract names.
 ___
 ## Slide Screenshot
-![156.png](../../images/8.%20Audit%20Findings%20201/156.png)
+![156.jpg](../../images/8.%20Audit%20Findings%20201/156.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Network Finding 22

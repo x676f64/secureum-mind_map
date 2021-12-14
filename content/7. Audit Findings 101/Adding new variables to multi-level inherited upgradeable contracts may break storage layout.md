@@ -11,7 +11,7 @@ Consider preventing these scenarios by defining a storage gap in each upgradeabl
 In such an implementation, the size of the gap would be intentionally decreased each time a new variable was introduced, thereby avoiding overwriting preexisting storage values.
 ___
 ## Slide Screenshot
-![083.png](../../images/7.%20Audit%20Findings%20101/083.png)
+![083.jpg](../../images/7.%20Audit%20Findings%20101/083.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit National Finding M02

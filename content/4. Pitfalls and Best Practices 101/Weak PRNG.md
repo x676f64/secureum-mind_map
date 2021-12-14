@@ -3,7 +3,7 @@ PRNG relying on `block.timestamp`, `now` or `blockhash` can be influenced by min
 
 ___
 ## Slide Screenshot
-![017.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/017.png)
+![017.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/017.jpg)
 ___
 ## Slide Text
 - PRNG in Contracts

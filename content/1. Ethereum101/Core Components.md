@@ -9,7 +9,7 @@ Ethereum’s core components:
 
 ___
 ## Slide Screenshot
-![008.png](../../images/1.%20Ethereum%20101/008.png)
+![008.jpg](../../images/1.%20Ethereum%20101/008.jpg)
 ___
 ## Slide Text
 - Transaction: Sender, [Recipient](Recipient.md), [Value](Value.md), [Data](Data.md)

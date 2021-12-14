@@ -13,7 +13,7 @@ Review all critical arithmetic to ensure that it accounts for underflows, overfl
 Consider using `SafeMath` and the safe functions of `ABDKMath64x64` where possible to prevent underflows and overflows.
 ___
 ## Slide Screenshot
-![149.png](../../images/8.%20Audit%20Findings%20201/149.png)
+![149.jpg](../../images/8.%20Audit%20Findings%20201/149.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finance Finding 11

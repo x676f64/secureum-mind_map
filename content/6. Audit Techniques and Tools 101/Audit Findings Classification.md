@@ -19,7 +19,7 @@ Trail of Bits, for example, uses the below classification:
 13. Undefined Behavior: Related to undefined behavior triggered by the program
 ___
 ## Slide Screenshot
-![014.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/014.png)
+![014.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/014.jpg)
 ___
 ## Slide Text
 - Access Contorl

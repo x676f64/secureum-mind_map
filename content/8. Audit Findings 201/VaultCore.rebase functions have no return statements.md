@@ -20,7 +20,7 @@ Add the missing return statement(s) or remove the return type in `VaultCore.reba
 Properly adjust the documentation as necessary.
 ___
 ## Slide Screenshot
-![136.png](../../images/8.%20Audit%20Findings%20201/136.png)
+![136.jpg](../../images/8.%20Audit%20Findings%20201/136.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 17

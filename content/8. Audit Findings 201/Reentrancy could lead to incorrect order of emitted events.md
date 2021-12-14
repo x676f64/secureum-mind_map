@@ -17,7 +17,7 @@ Any off-chain monitoring tools may now have an inconsistent view of on-chain sta
 Apply the checks-effects-interactions pattern and move the event emissions above the call to `_moveTokensAndETHfromAdjustment` to avoid the potential reentrancy.
 ___
 ## Slide Screenshot
-![134.png](../../images/8.%20Audit%20Findings%20201/134.png)
+![134.jpg](../../images/8.%20Audit%20Findings%20201/134.jpg)
 ___
 ## Slide Text
 - ToB Audit Liquidity Finding 6

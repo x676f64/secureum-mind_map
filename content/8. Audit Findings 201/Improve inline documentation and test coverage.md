@@ -15,7 +15,7 @@ Consider adding natspec-format compliant inline code documentation, describe fun
 Document function or source-unit specific assumptions. Increase test coverage.
 ___
 ## Slide Screenshot
-![114.png](../../images/8.%20Audit%20Findings%20201/114.png)
+![114.jpg](../../images/8.%20Audit%20Findings%20201/114.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit 1inch Finding 4.1

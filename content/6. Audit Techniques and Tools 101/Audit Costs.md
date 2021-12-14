@@ -6,7 +6,7 @@ Audit Costs depends on the type/scope of audit but typically costs upwards of US
 
 ___
 ## Slide Screenshot
-![010.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/010.png)
+![010.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/010.jpg)
 ___
 ## Slide Text
 - Type/Scope/Nature

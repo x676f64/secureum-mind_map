@@ -15,7 +15,7 @@ Carefully review the Solidity documentation, especially the Warnings section.
 Carefully review the pitfalls of using delegatecall proxy pattern.
 ___
 ## Slide Screenshot
-![048.png](../../images/7.%20Audit%20Findings%20101/048.png)
+![048.jpg](../../images/7.%20Audit%20Findings%20101/048.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Finding 12

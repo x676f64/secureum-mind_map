@@ -7,7 +7,7 @@ The `popDebtFromQueue` function of the `AccountingEngine` contract is emitting a
 To simplify the code and prevent wastage of gas, avoid emitting unnecessary events.
 ___
 ## Slide Screenshot
-![195.png](../../images/8.%20Audit%20Findings%20201/195.png)
+![195.jpg](../../images/8.%20Audit%20Findings%20201/195.jpg)
 ___
 ## Slide Text
 - OpenZeppelin GEB Protocol Finding N11

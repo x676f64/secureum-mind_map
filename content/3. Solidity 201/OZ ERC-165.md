@@ -6,7 +6,7 @@ ERC165 is a standard that helps do runtime interface detection using a lookup ta
 You can register interfaces using `_registerInterface(bytes4)` and `supportsInterface(bytes4 interfaceId)` returns a bool indicating if that interface is supported or not.
 ___
 ## Slide Screenshot
-![173.png](../../images/3.%20Solidity%20201/173.png)
+![173.jpg](../../images/3.%20Solidity%20201/173.jpg)
 ___
 ## Slide Text
 - Contract -> Interface Determine Support

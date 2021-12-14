@@ -24,7 +24,7 @@ As of v3.0.0, only maps of type `uint256` → `address(UintToAddressMap)` are su
 
 ___
 ## Slide Screenshot
-![178.png](../../images/3.%20Solidity%20201/178.png)
+![178.jpg](../../images/3.%20Solidity%20201/178.jpg)
 ___
 ## Slide Text
 - Mapping -> Enumerable

@@ -19,7 +19,7 @@ Consider adding more targeted tests for these scenarios to better understand the
 Also consider communicating the potential risks to the users if needed.
 ___
 ## Slide Screenshot
-![178.png](../../images/8.%20Audit%20Findings%20201/178.png)
+![178.jpg](../../images/8.%20Audit%20Findings%20201/178.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit HoldeFi Finding M06

@@ -10,7 +10,7 @@ By default, arithmetic is always “checked”, which means that if the result o
 You can switch to “unchecked” mode using `unchecked { ... }`. This was introduced in compiler version 0.8.0.
 ___
 ## Slide Screenshot
-![043.png](../../images/2.%20Solidity%20101/043.png)
+![043.jpg](../../images/2.%20Solidity%20101/043.jpg)
 ___
 ## Slide Deck
 - E.g.: `uint256`

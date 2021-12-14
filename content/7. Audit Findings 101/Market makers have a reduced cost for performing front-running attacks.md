@@ -7,7 +7,7 @@ Market makers receive a portion of the protocol fee for each order filled, and t
 Short term, properly document this issue to make sure users are aware of this risk. Establish a reasonable cap for the protocolFeeMultiplier to mitigate this issue. Long term, consider using an alternative fee that does not depend on the tx.gasprice to avoid reducing the cost of performing front-running attacks.
 ___
 ## Slide Screenshot
-![062.png](../../images/7.%20Audit%20Findings%20101/062.png)
+![062.jpg](../../images/7.%20Audit%20Findings%20101/062.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 2

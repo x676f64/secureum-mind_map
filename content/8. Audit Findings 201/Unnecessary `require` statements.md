@@ -11,7 +11,7 @@ This is unnecessary since the same condition is already checked in the `require`
 To simplify the code and prevent wastage of gas, consider removing the unnecessary checks.
 ___
 ## Slide Screenshot
-![194.png](../../images/8.%20Audit%20Findings%20201/194.png)
+![194.jpg](../../images/8.%20Audit%20Findings%20201/194.jpg)
 ___
 ## Slide Text
 - OpenZeppelin GEB Protocol Finding N03

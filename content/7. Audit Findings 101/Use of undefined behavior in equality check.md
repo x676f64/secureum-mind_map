@@ -15,7 +15,7 @@ As such, the behavior of this code is not specified and could change in a future
 Short term, rewrite the if statement such that it does not use and assign the same variable in an equality check. Long term, ensure that the codebase does not contain undefined Solidity or EVM behavior.
 ___
 ## Slide Screenshot
-![055.png](../../images/7.%20Audit%20Findings%20101/055.png)
+![055.jpg](../../images/7.%20Audit%20Findings%20101/055.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finding 10

@@ -3,7 +3,7 @@ Fixed-size Byte Arrays: The value types `bytes1, bytes2, bytes3, …, bytes32` h
 
 ___
 ## Slide Screenshot
-![051.png](../../images/2.%20Solidity%20101/051.png)
+![051.jpg](../../images/2.%20Solidity%20101/051.jpg)
 ___
 ## Slide Deck
 - Fixed-size Byte Arrays

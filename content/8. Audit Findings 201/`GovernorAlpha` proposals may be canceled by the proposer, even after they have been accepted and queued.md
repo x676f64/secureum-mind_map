@@ -9,7 +9,7 @@ A proposer may cancel proposals in any of these states: Pending, Active, Cancele
 Prevent proposals from being canceled unless they are in the Pending or Active states.
 ___
 ## Slide Screenshot
-![112.png](../../images/8.%20Audit%20Findings%20201/112.png)
+![112.jpg](../../images/8.%20Audit%20Findings%20201/112.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Protocol Finding 3.10

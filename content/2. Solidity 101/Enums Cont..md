@@ -8,7 +8,7 @@ They cannot have more than 256 members.
 
 ___
 ## Slide Screenshot
-![053.png](../../images/2.%20Solidity%20101/053.png)
+![053.jpg](../../images/2.%20Solidity%20101/053.jpg)
 ___
 ## Slide Deck
 - User-defined Type

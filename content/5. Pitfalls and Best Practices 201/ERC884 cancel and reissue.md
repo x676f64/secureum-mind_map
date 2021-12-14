@@ -2,7 +2,7 @@
 Token implementers have the ability to cancel an address and move its tokens to a new address (See [here](https://gist.github.com/shayanb/cd495e23c7cf1a8b269f8ce7fd198538#file-token_checklist-md))
 ___
 ## Slide Screenshot
-![0126.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/126.png)
+![0126.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/126.jpg)
 ___
 ## Slide Text
 - ERC 884 Cancel & Reissue

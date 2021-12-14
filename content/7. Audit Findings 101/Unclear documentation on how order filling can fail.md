@@ -10,7 +10,7 @@ The 0x specification does not state clearly enough how fillable orders are deter
 Define a proper procedure to determine if an order is fillable and document it in the protocol specification. If necessary, warn the user about potential constraints on the orders.
 ___
 ## Slide Screenshot
-![061.png](../../images/7.%20Audit%20Findings%20101/061.png)
+![061.jpg](../../images/7.%20Audit%20Findings%20101/061.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 17

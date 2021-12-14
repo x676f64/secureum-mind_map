@@ -10,7 +10,7 @@ Interchanging raw and numeraire values will produce unwanted results and may res
 Recommendation: Short term, change the semantics of the three functions listed above in the CADC, XSGD, and EURS assimilators to return the numeraire balance. Long term, use unit tests and fuzzing to ensure that all calculations return the expected values. Additionally, ensure that changes to the Shell Protocol do not introduce bugs such as this one.
 ___
 ## Slide Screenshot
-![056.png](../../images/7.%20Audit%20Findings%20101/056.png)
+![056.jpg](../../images/7.%20Audit%20Findings%20101/056.jpg)
 ___
 ## Slide Text
 - ToB Audit DFX Finding 12

@@ -15,7 +15,7 @@ Mathematical and Cryptographic Functions:
 
 ___
 ## Slide Screenshot
-![079.png](../../images/2.%20Solidity%20101/079.png)
+![079.jpg](../../images/2.%20Solidity%20101/079.jpg)
 ___
 ## Slide Deck
 - `addmod()` & `mulmod()`

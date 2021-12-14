@@ -3,7 +3,7 @@ Proxy-based upgradeable contracts need to use `public` initializer functions ins
 
 ___
 ## Slide Screenshot
-![095.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/095.png)
+![095.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/095.jpg)
 ___
 ## Slide Text
 - Unprotected Initializers

@@ -9,7 +9,7 @@ CCertain parameters of the contracts can be configured to invalid values, causin
 Add proper validation checks on all parameters in `setParams`. If the validation procedure is unclear or too complex to implement on-chain, document the potential issues that could produce invalid values.
 ___
 ## Slide Screenshot
-![066.png](../../images/7.%20Audit%20Findings%20101/066.png)
+![066.jpg](../../images/7.%20Audit%20Findings%20101/066.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 21

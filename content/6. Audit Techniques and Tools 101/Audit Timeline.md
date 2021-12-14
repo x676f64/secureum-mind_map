@@ -8,7 +8,7 @@ This may vary from a few days for a fix/retainer audit to several weeks for a ne
 
 ___
 ## Slide Screenshot
-![008.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/008.png)
+![008.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/008.jpg)
 ___
 ## Slide Text
 - Type/Scope/Nature

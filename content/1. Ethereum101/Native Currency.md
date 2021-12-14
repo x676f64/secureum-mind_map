@@ -4,7 +4,7 @@ Ethereum’s currency unit is called ether or “ETH.” Ether is subdivided int
 
 ___
 ## Slide Screenshot
-![017.png](../../images/1.%20Ethereum%20101/017.png)
+![017.jpg](../../images/1.%20Ethereum%20101/017.jpg)
 ___
 ## Slide Text
 - Ether -> 18 decimals

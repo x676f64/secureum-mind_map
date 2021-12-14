@@ -13,7 +13,7 @@ If the intention is to invest in many new tokens over time, and it’s not an op
 For example, it’s possible to add a new type of proposal that is used to vote on token removal if the balance of this token is zero. Before voting for that, shareholders should sell all the balance of that token.
 ___
 ## Slide Screenshot
-![030.png](../../images/7.%20Audit%20Findings%20101/030.png)
+![030.jpg](../../images/7.%20Audit%20Findings%20101/030.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit The Lao Finding 5.5

@@ -11,7 +11,7 @@ This may have unintended consequences, like allowing a caller to mint tokens bef
 Ensure casts in `getBuyIncentive` and `getSellPenalty` do not overflow
 ___
 ## Slide Screenshot
-![011.png](../../images/7.%20Audit%20Findings%20101/011.png)
+![011.jpg](../../images/7.%20Audit%20Findings%20101/011.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Fei Finding 3.3

@@ -4,7 +4,7 @@ Incorrect assumptions about the incentives of system/external actors to perform 
 For e.g., incentive to liquidate positions, lack of incentive to DoS or grief system.
 ___
 ## Slide Screenshot
-![0187.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/187.png)
+![0187.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/187.jpg)
 ___
 ## Slide Text
 - Incentive Issues

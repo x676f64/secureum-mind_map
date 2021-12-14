@@ -3,7 +3,7 @@ Performing multiplication before division is generally better to avoid loss of p
 
 ___
 ## Slide Screenshot
-![020.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/020.png)
+![020.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/020.jpg)
 ___
 ## Slide Text
 - Integer Arithmetic

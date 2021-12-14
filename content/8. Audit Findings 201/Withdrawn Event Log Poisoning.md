@@ -11,7 +11,7 @@ This can lead to an event log poisoning situation where malicious external users
 Consider adding a `require` or `if` statement preventing the `withdraw()` function from emitting the Withdrawn event when the amount variable is zero.
 ___
 ## Slide Screenshot
-![176.png](../../images/8.%20Audit%20Findings%20201/176.png)
+![176.jpg](../../images/8.%20Audit%20Findings%20201/176.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit InfiniGold Finding INF-06

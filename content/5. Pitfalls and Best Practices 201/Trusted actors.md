@@ -6,7 +6,7 @@ However, in guarded launch scenarios, the goal is to start with trusted actors a
 For the trusted phase, all the trusted actors, their roles and capabilities should be clearly specified, implemented accordingly and documented for user information and examination.
 ___
 ## Slide Screenshot
-![0160.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/160.png)
+![0160.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/160.jpg)
 ___
 ## Slide Text
 - Ssytem Actors

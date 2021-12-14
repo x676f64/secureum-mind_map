@@ -11,7 +11,7 @@ Slither contract flattening tool `slither-flat` produces a flattened version of 
 3. Supports all the compilation platforms (Truffle, embark, buidler, etherlime, ...).
 ___
 ## Slide Screenshot
-![039.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/039.png)
+![039.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/039.jpg)
 ___
 ## Slide Text
 - Contract Flattening Tool

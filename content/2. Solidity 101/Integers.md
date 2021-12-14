@@ -14,7 +14,7 @@ Operators are: 
 
 ___
 ## Slide Screenshot
-![042.png](../../images/2.%20Solidity%20101/042.png)
+![042.jpg](../../images/2.%20Solidity%20101/042.jpg)
 ___
 ## Slide Deck
 - `uint`/`int` Keywords

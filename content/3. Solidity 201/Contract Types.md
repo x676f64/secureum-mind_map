@@ -11,7 +11,7 @@
 
 ___
 ## Slide Screenshot
-![103.png](../../images/3.%20Solidity%20201/103.png)
+![103.jpg](../../images/3.%20Solidity%20201/103.jpg)
 ___
 ## Slide Text
 - Base -> Derived

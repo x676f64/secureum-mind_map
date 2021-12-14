@@ -3,7 +3,7 @@ Tautologies (always `true`) or contradictions (always `false`) indicate potentia
 
 ___
 ## Slide Screenshot
-![033.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/033.png)
+![033.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/033.jpg)
 ___
 ## Slide Text
 - Tautology -> Always True

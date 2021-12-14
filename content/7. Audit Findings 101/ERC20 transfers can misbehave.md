@@ -21,7 +21,7 @@ In the case of `_transferERC20`, similar issues can occur, and could cause users
 Consider thoroughly vetting each token used within an ACO options pair, ensuring that failing `transferFrom` and `transfer` calls will cause reverts within `ACOToken.sol_`. Additionally, consider implementing some sort of sanity check which enforces that the balance of the ACOToken contract increases by the desired amount when calling `transferFromERC20`. 
 ___
 ## Slide Screenshot
-![095.png](../../images/7.%20Audit%20Findings%20101/095.png)
+![095.jpg](../../images/7.%20Audit%20Findings%20101/095.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Audius Finding M06

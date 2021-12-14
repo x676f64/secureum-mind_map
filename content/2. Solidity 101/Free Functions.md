@@ -2,7 +2,7 @@
 Functions that are defined outside of contracts are called “free functions” and always have implicit internal visibility. Their code is included in all contracts that call them, similar to internal library functions.
 ___
 ## Slide Screenshot
-![026.png](../../images/2.%20Solidity%20101/026.png)
+![026.jpg](../../images/2.%20Solidity%20101/026.jpg)
 ___
 ## Slide Deck
 - Function Defined -> Outside Contracts

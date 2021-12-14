@@ -13,7 +13,7 @@ There is no obvious difference between the functions to explain this difference,
 Consider calling `_requireIsInitialized` consistently in all the functions of the `InitializableV2` contracts. If there is a reason to not call it in some functions, consider documenting it. Alternatively, consider removing this check altogether and preparing a good deployment script that will ensure that all contracts are initialized in the same transaction that they are deployed. In this alternative, it would be required to check that contracts resulting from new proposals are also initialized before they are put in production.
 ___
 ## Slide Screenshot
-![091.png](../../images/7.%20Audit%20Findings%20101/091.png)
+![091.jpg](../../images/7.%20Audit%20Findings%20101/091.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Audius Finding M02

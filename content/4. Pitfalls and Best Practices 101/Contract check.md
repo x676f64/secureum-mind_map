@@ -3,7 +3,7 @@ Checking if a call was made from an Externally Owned Account (EOA) or a contract
 
 ___
 ## Slide Screenshot
-![031.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/031.png)
+![031.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/031.jpg)
 ___
 ## Slide Text
 - Contract vs EOA

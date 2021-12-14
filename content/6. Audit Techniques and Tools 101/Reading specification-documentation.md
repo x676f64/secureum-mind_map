@@ -10,7 +10,7 @@ For projects that have a specification of the design and architecture of their s
 6. In the absence of both specification and documentation, auditors are forced to infer goals, requirements, design and architecture from reading code and using tools such as Surya and Slither printers. This takes up a lot of time leaving less time for deeper/complex security analyses.
 ___
 ## Slide Screenshot
-![081.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/081.png)
+![081.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/081.jpg)
 ___
 ## Slide Text
 - Requirements/Design/Architecture

@@ -13,7 +13,7 @@ These side-effect actions are not clear in the name of the functions and are thu
 Consider splitting these functions in separate getters and setters. Alternatively, consider renaming the functions to describe all the actions that they perform.
 ___
 ## Slide Screenshot
-![078.png](../../images/7.%20Audit%20Findings%20101/078.png)
+![078.jpg](../../images/7.%20Audit%20Findings%20101/078.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit UMA Finding M02

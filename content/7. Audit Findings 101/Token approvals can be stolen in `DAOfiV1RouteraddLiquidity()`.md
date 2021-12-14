@@ -10,7 +10,7 @@ This could be used to add liquidity to a pair contract for which the attacker is
 Transfer tokens from msg.sender instead of lp.sender
 ___
 ## Slide Screenshot
-![006.png](../../images/7.%20Audit%20Findings%20101/006.png)
+![006.jpg](../../images/7.%20Audit%20Findings%20101/006.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit DAOfi Finding 4.1

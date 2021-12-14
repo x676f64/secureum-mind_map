@@ -9,7 +9,7 @@ The `MultiSigWalletWithTimeLock.sol` and `AssetProxyOwner.sol` contracts' timelo
 Short term, implement the necessary range checks to enforce the timelock described in the specification. Otherwise correct the specification to match the intended behavior. Long term, make sure implementation and specification are in sync. Use Echidna or Manticore to test that your code properly implements the specification.
 ___
 ## Slide Screenshot
-![060.png](../../images/7.%20Audit%20Findings%20101/060.png)
+![060.jpg](../../images/7.%20Audit%20Findings%20101/060.jpg)
 ___
 ## Slide Text
 - ToB Audit Ox Protocol Finding 13

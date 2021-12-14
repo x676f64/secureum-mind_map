@@ -9,7 +9,7 @@ Failing to do so can lead to inconsistent states in the system.
 Consider implementing an additional function that calls the `setAssetPricer`, `setLockingPeriod`, and `setDisputePeriod` functions, so that these actions can be executed atomically in a single transaction.
 ___
 ## Slide Screenshot
-![198.png](../../images/8.%20Audit%20Findings%20201/198.png)
+![198.jpg](../../images/8.%20Audit%20Findings%20201/198.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Opyn Gamma Finding L08

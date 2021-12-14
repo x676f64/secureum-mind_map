@@ -13,7 +13,7 @@ This means that you can distinguish a short array from a long array by checking 
 
 ___
 ## Slide Screenshot
-![124.png](../../images/3.%20Solidity%20201/124.png)
+![124.jpg](../../images/3.%20Solidity%20201/124.jpg)
 ___
 ## Slide Text
 - Storage Layout

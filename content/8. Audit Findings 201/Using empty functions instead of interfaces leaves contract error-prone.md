@@ -17,7 +17,7 @@ Long term, properly document the inheritance schema of the contracts.
 Use Slither's inheritance-graph printer to review the inheritance.
 ___
 ## Slide Screenshot
-![152.png](../../images/8.%20Audit%20Findings%20201/152.png)
+![152.jpg](../../images/8.%20Audit%20Findings%20201/152.jpg)
 ___
 ## Slide Text
 - ToB Audit Hermez Network Finding 11

@@ -9,7 +9,7 @@ Function-level scoping and var keyword were JavaScript influences early-on but t
 
 ___
 ## Slide Screenshot
-![002.png](../../images/2.%20Solidity%20101/002.png)
+![002.jpg](../../images/2.%20Solidity%20101/002.jpg)
 ___
 ## Slide Deck
 - Main: C++

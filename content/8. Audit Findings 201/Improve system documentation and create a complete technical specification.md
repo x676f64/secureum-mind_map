@@ -21,7 +21,7 @@ Currently, the only documentation for Growth DeFi is a single README file, as we
 Improve system documentation and create a complete technical specification.
 ___
 ## Slide Screenshot
-![119.png](../../images/8.%20Audit%20Findings%20201/119.png)
+![119.jpg](../../images/8.%20Audit%20Findings%20201/119.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Growth DeFi Finding 4.2

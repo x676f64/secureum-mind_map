@@ -3,7 +3,7 @@ They are custom defined types that can group several variables of same/different
 
 ___
 ## Slide Screenshot
-![030.png](../../images/2.%20Solidity%20101/030.png)
+![030.jpg](../../images/2.%20Solidity%20101/030.jpg)
 ___
 ## Slide Deck
 - Custom Data Structure

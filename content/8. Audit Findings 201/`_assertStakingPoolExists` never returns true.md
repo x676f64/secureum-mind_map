@@ -13,7 +13,7 @@ Add a return statement or remove the return type.
 Properly adjust the documentation, if needed.
 ___
 ## Slide Screenshot
-![143.png](../../images/8.%20Audit%20Findings%20201/143.png)
+![143.jpg](../../images/8.%20Audit%20Findings%20201/143.jpg)
 ___
 ## Slide Text
 - ToB Audit 0x Protocol Finding 20

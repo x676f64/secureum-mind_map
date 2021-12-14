@@ -16,7 +16,7 @@ It also includes functions to predict the addresses of clones deployed using the
 4. `predictDeterministicAddress(address implementation, bytes32 salt)` → `address predicted`: Computes the address of a clone deployed using Clones.cloneDeterministic.
 ___
 ## Slide Screenshot
-![191.png](../../images/3.%20Solidity%20201/191.png)
+![191.jpg](../../images/3.%20Solidity%20201/191.jpg)
 ___
 ## Slide Text
 - EIP-1167 Minimal Proxy Contracts

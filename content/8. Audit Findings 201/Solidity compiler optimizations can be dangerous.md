@@ -20,7 +20,7 @@ The fix for this bug was not reported in the Solidity CHANGELOG. Another high-se
 Short term, measure the gas savings from optimizations, and carefully weigh them against the possibility of an optimization-related bug. Long term, monitor the development and adoption of Solidity compiler optimizations to assess their maturity.
 ___
 ## Slide Screenshot
-![138.png](../../images/8.%20Audit%20Findings%20201/138.png)
+![138.jpg](../../images/8.%20Audit%20Findings%20201/138.jpg)
 ___
 ## Slide Text
 - ToB Audit Yield Finding 7

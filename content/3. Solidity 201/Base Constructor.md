@@ -4,7 +4,7 @@ The [constructors](../2.%20Solidity%20101/Constructor.md) of all the base [contr
 If the base constructors have arguments, derived contracts need to specify all of them either in the inheritance list or in the derived constructor.
 ___
 ## Slide Screenshot
-![111.png](../../images/3.%20Solidity%20201/111.png)
+![111.jpg](../../images/3.%20Solidity%20201/111.jpg)
 ___
 ## Slide Text
 - Base -> Derived Constructors

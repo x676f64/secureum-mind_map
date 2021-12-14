@@ -15,7 +15,7 @@ They could also liquidate on behalf of the Perpetual Proxy, which could break so
 Consider restricting `liquidateFrom` to internal visibility
 ___
 ## Slide Screenshot
-![097.png](../../images/7.%20Audit%20Findings%20101/097.png)
+![097.jpg](../../images/7.%20Audit%20Findings%20101/097.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit MCDEX Mai Finding C01

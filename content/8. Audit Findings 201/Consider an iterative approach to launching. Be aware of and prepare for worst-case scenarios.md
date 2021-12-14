@@ -9,7 +9,7 @@ We recommend identifying which components are crucial for a minimum viable syste
 During the early life of the system, have a method for pausing and upgrading the system.
 ___
 ## Slide Screenshot
-![130.png](../../images/8.%20Audit%20Findings%20201/130.png)
+![130.jpg](../../images/8.%20Audit%20Findings%20201/130.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Lien Protocol Finding 2.1

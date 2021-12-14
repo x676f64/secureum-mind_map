@@ -13,7 +13,7 @@ If any of the recipients of an ETH transfer is a smart contract that reverts, th
 2. Ignore a failed transfer and leave the responsibility up to users to receive them properly.
 ___
 ## Slide Screenshot
-![025.png](../../images/7.%20Audit%20Findings%20101/025.png)
+![025.jpg](../../images/7.%20Audit%20Findings%20101/025.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Lien Protocol Finding 3.1

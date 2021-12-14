@@ -19,7 +19,7 @@ Long term, consider integrating automated dependency auditing into the developme
 If dependencies cannot be updated when a vulnerability is disclosed, ensure that the codebase does not use and is not affected by the vulnerable functionality of the dependency.
 ___
 ## Slide Screenshot
-![162.png](../../images/8.%20Audit%20Findings%20201/162.png)
+![162.jpg](../../images/8.%20Audit%20Findings%20201/162.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 11

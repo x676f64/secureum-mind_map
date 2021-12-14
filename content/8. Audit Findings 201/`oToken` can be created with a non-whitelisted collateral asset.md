@@ -10,7 +10,7 @@ Each product has to be whitelisted by the admin using the `whitelistProduct` fun
 Consider validating if the assets involved in a product have been already whitelisted before allowing the creation of `oTokens`.
 ___
 ## Slide Screenshot
-![196.png](../../images/8.%20Audit%20Findings%20201/196.png)
+![196.jpg](../../images/8.%20Audit%20Findings%20201/196.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Opyn Gamma Finding M01

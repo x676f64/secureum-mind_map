@@ -9,7 +9,7 @@ OpenZeppelin Strings: String operations:
 
 ___
 ## Slide Screenshot
-![165.png](../../images/3.%20Solidity%20201/165.png)
+![165.jpg](../../images/3.%20Solidity%20201/165.jpg)
 ___
 ## Slide Text
 - String Operations

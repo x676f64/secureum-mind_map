@@ -17,7 +17,7 @@ Core concepts:
 
 ___
 ## Slide Screenshot
-![199.png](../../images/3.%20Solidity%20201/199.png)
+![199.jpg](../../images/3.%20Solidity%20201/199.jpg)
 ___
 ## Slide Text
 - AMM

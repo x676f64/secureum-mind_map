@@ -6,7 +6,7 @@ Where Bitcoin’s Script language is, intentionally, constrained to simple true/
 
 ___
 ## Slide Screenshot
-![007.png](../../images/1.%20Ethereum%20101/007.png)
+![007.jpg](../../images/1.%20Ethereum%20101/007.jpg)
 ___
 ## Slide Text
 - Bitcoin Blockchain

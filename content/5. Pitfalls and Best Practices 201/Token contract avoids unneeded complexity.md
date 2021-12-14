@@ -4,7 +4,7 @@ The token should be a simple contract; a token with complex code requires a high
 
 ___
 ## Slide Screenshot
-![0109.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/109.png)
+![0109.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/109.jpg)
 ___
 ## Slide Text
 - ERC20 Token Contract

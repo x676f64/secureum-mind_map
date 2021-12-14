@@ -7,7 +7,7 @@ It is the first executable specification of the EVM that completely passes offic
 
 ___
 ## Slide Screenshot
-![075.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/075.png)
+![075.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/075.jpg)
 ___
 ## Slide Text
 - Verification Framework Runtime Verification

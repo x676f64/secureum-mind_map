@@ -9,7 +9,7 @@ This issue seems to be caused by a rounding issue when the `creditsDeducted` is 
 Short term, make sure the balance is correctly checked before performing all the arithmetic operations. This will make sure it does not allow to transfer more than expected. Long term, use Echidna to write properties that ensure ERC20 transfers are transferring the expected amount.
 ___
 ## Slide Screenshot
-![040.png](../../images/7.%20Audit%20Findings%20101/040.png)
+![040.jpg](../../images/7.%20Audit%20Findings%20101/040.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 22

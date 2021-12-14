@@ -15,7 +15,7 @@ We highly recommend pinning a concrete compiler version (latest without security
 Rule of thumb: a flattened source-unit should have at least one non-floating concrete solidity compiler version pragma.
 ___
 ## Slide Screenshot
-![115.png](../../images/8.%20Audit%20Findings%20201/115.png)
+![115.jpg](../../images/8.%20Audit%20Findings%20201/115.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit 1inch Finding 4.6

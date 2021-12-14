@@ -2,7 +2,7 @@
 Externally accessible functions (`external`/`public` visibility) may be called with any possible arguments. Without complete and proper validation (e.g. zero address checks, bound checks, threshold checks etc.), they cannot be assumed to comply with any assumptions made about them in the code.
 ___
 ## Slide Screenshot
-![0146.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/146.png)
+![0146.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/146.jpg)
 ___
 ## Slide Text
 - Function Calls Inputs -> What

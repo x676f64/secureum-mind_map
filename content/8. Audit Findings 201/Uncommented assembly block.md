@@ -17,7 +17,7 @@ Note that the use of assembly discards several important safety features of Soli
 Consider implementing thorough tests to cover all potential use cases of these functions to ensure they behave as expected.
 ___
 ## Slide Screenshot
-![193.png](../../images/8.%20Audit%20Findings%20201/193.png)
+![193.jpg](../../images/8.%20Audit%20Findings%20201/193.jpg)
 ___
 ## Slide Text
 - OpenZeppelin GEB Protocol Finding L11

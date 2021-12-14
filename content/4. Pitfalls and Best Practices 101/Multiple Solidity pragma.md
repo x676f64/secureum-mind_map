@@ -3,7 +3,7 @@ It is better to use one Solidity compiler version across all contracts instead o
 
 ___
 ## Slide Screenshot
-![03.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/003.png)
+![03.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/003.jpg)
 ___
 ## Slide Text
 - Solidity Pragma

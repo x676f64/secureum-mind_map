@@ -11,7 +11,7 @@ If the end of the success block is reached, execution continues after the `catch
 
 ___
 ## Slide Screenshot
-![093.png](../../images/2.%20Solidity%20101/093.png)
+![093.jpg](../../images/2.%20Solidity%20101/093.jpg)
 ___
 ## Slide Deck
 - `try Expr [returns()] {..}`

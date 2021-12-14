@@ -4,7 +4,7 @@
 [Securify](https://github.com/eth-sri/securify2): is a security scanner for Ethereum smart contracts which Implements static analysis written in Datalog and supports 38 vulnerabilities
 ___
 ## Slide Screenshot
-![072.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/072.png)
+![072.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/072.jpg)
 ___
 ## Slide Text
 - Security Scanner 

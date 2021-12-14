@@ -9,7 +9,7 @@
 
 ___
 ## Slide Screenshot
-![051.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/051.png)
+![051.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/051.jpg)
 ___
 ## Slide Text
 - Security Tool

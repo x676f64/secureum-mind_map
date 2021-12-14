@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![012.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/012.png)
+![012.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/012.jpg)
 ___
 ## Slide Text
 - Controlled delegateCall -> User-controlled Address

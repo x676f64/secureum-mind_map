@@ -6,7 +6,7 @@ Documentation describes what (and how) the implementation of different component
 Without documentation, a system implementation cannot be evaluated against the specification for correctness and one will have to rely on analyzing the implementation itself.
 ___
 ## Slide Screenshot
-![0137.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/137.png)
+![0137.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/137.jpg)
 ___
 ## Slide Text
 - Implementation -> Documentation

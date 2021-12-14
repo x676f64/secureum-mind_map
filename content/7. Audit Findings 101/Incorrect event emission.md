@@ -9,7 +9,7 @@ In particular, as it is being emitted before relevant state changes are applied 
 Consider emitting the `UniswapWindowUpdate` event after changes are applied so that all logged data is up-to-date.
 ___
 ## Slide Screenshot
-![096.png](../../images/7.%20Audit%20Findings%20101/096.png)
+![096.jpg](../../images/7.%20Audit%20Findings%20101/096.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Compound Finding M04

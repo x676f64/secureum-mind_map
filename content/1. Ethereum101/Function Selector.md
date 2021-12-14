@@ -8,7 +8,7 @@ The first four bytes of the call [Data](Data.md) for a function call specifies t
 3. Function Arguments: The encoded arguments follow the function selector from the fifth byte onwards.
 ___
 ## Slide Screenshot
-![082.png](../../images/1.%20Ethereum%20101/082.png)
+![082.jpg](../../images/1.%20Ethereum%20101/082.jpg)
 ___
 ## Slide Text
 - Specifics the exact function that needs to be called

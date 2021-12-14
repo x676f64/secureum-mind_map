@@ -3,7 +3,7 @@ Invariants in `assert()` and `require()` statements should not modify the state 
 
 ___
 ## Slide Screenshot
-![051.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/051.png)
+![051.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/051.jpg)
 ___
 ## Slide Text
 - Use of `assert()`

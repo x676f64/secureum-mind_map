@@ -11,7 +11,7 @@ If that is the case, the call will revert due to the division by zero error.
 consider adding a `require` statement in the functions to ensure `y > 0`, or consider using the `div` functions provided in OpenZeppelin’s SafeMath libraries
 ___
 ## Slide Screenshot
-![084.png](../../images/7.%20Audit%20Findings%20101/084.png)
+![084.jpg](../../images/7.%20Audit%20Findings%20101/084.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit GEB V2 Finding M07

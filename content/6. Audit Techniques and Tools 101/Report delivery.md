@@ -10,7 +10,7 @@ Unless interim findings/status is shared, this will be the first time the projec
 3. Depending on the prior agreement, the project team and audit firm might release the audit report publicly (after all required fixes have been made) or the project may decide to keep it private for some reason
 ___
 ## Slide Screenshot
-![088.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/088.png)
+![088.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/088.jpg)
 ___
 ## Slide Text
 -  Publish & Present

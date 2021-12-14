@@ -13,7 +13,7 @@ Nevertheless, if the user sends more than the necessary ETH for the batch of act
 Consider either returning all the remaining ETH to the user or creating a function that allows the user to collect the remaining ETH after performing a Call action type, taking into account that sending ETH with a push method may trigger the fallback function on the caller’s address.
 ___
 ## Slide Screenshot
-![086.png](../../images/7.%20Audit%20Findings%20101/086.png)
+![086.jpg](../../images/7.%20Audit%20Findings%20101/086.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit Opyn Gamma Finding H01

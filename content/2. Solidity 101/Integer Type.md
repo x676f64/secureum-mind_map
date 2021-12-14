@@ -7,7 +7,7 @@ For an integer type `T`, the following type information is available:
 
 ___
 ## Slide Screenshot
-![084.png](../../images/2.%20Solidity%20101/084.png)
+![084.jpg](../../images/2.%20Solidity%20101/084.jpg)
 ___
 ## Slide Deck
 - `type(X)`

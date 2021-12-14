@@ -11,7 +11,7 @@ Documentation is a description of what has been implemented based on the design 
 6. Auditors are expected to encourage the project team to document thoroughly so that they do not need to waste their time inferring this by reading code
 ___
 ## Slide Screenshot
-![021.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/021.png)
+![021.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/021.jpg)
 ___
 ## Slide Text
 - What/How

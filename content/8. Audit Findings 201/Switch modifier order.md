@@ -7,7 +7,7 @@
 Place `_lock_` before other modifiers; ensuring it is the very first and very last thing to run when a function is called.
 ___
 ## Slide Screenshot
-![132.png](../../images/8.%20Audit%20Findings%20201/132.png)
+![132.jpg](../../images/8.%20Audit%20Findings%20201/132.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Balancer Finding 5.4

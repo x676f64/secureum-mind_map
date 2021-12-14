@@ -5,7 +5,7 @@ This is due to a compiler bug introduced in `v0.5.6` and fixed in `v0.5.11`. (se
 
 ___
 ## Slide Screenshot
-![080.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/080.png)
+![080.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/080.jpg)
 ___
 ## Slide Text
 - Calldata Structs

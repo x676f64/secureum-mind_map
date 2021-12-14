@@ -17,7 +17,7 @@ Beware of the rounding issues when calling the `notifyRewardAmount()` function.
 We also recommend some way of allowing the excess SNX reward from rounding to be claimed or withdrawn from the Unipool contract.
 ___
 ## Slide Screenshot
-![175.png](../../images/8.%20Audit%20Findings%20201/175.png)
+![175.jpg](../../images/8.%20Audit%20Findings%20201/175.jpg)
 ___
 ## Slide Text
 - Sigma Prime Audit InfiniGold Finding INF-05

@@ -7,7 +7,7 @@ Having an open communication channel with the project team is  useful to clarif
 2. If the audit spans multiple weeks, it may help to have a weekly sync up call. A counterpoint to this is to independently perform the entire assessment so as to not get biased by the project team’s inputs and opinions.
 ___
 ## Slide Screenshot
-![086.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/086.png)
+![086.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/086.jpg)
 ___
 ## Slide Text
 - Open Communication Channel

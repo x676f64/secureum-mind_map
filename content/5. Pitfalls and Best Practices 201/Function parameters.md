@@ -4,7 +4,7 @@ Ensure input validation for all function parameters especially if the visibility
 This is especially required for address parameters where maliciously/accidentally used incorrect/zero addresses can cause vulnerabilities or unexpected behavior.
 ___
 ## Slide Screenshot
-![0138.png](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/138.png)
+![0138.jpg](../../images/5.%20Pitfalls%20and%20Best%20Practices%20201/138.jpg)
 ___
 ## Slide Text
 - Function Parameters Input Validation

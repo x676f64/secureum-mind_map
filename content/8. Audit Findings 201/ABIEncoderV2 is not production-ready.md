@@ -19,7 +19,7 @@ Refactor the code such that structs do not need to be passed to or returned from
 Long term, integrate static analysis tools like Slither into your CI pipeline to detect unsafe pragmas.
 ___
 ## Slide Screenshot
-![164.png](../../images/8.%20Audit%20Findings%20201/164.png)
+![164.jpg](../../images/8.%20Audit%20Findings%20201/164.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 18

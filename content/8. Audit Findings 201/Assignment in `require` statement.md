@@ -9,7 +9,7 @@ This deviates from the standard usage and intention of `require` statements and 
 Consider moving the assignment to its own line before the `require` statement and then using the `require` statement solely for condition checking.
 ___
 ## Slide Screenshot
-![183.png](../../images/8.%20Audit%20Findings%20201/183.png)
+![183.jpg](../../images/8.%20Audit%20Findings%20201/183.jpg)
 ___
 ## Slide Text
 - OpenZeppelin BarnBridge Finding N01

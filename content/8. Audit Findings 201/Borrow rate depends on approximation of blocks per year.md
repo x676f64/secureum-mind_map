@@ -19,7 +19,7 @@ Short term, analyze the effects of a deviation from the actual number of blocks 
 Long term, identify all variables that are affected by external factors, and document the risks associated with deviations from their true values.
 ___
 ## Slide Screenshot
-![158.png](../../images/8.%20Audit%20Findings%20201/158.png)
+![158.jpg](../../images/8.%20Audit%20Findings%20201/158.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 22

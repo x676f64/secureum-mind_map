@@ -9,7 +9,7 @@ Time complexity `O(log n)` array is expected to be sorted in ascending order, an
 
 ___
 ## Slide Screenshot
-![160.png](../../images/3.%20Solidity%20201/160.png)
+![160.jpg](../../images/3.%20Solidity%20201/160.jpg)
 ___
 ## Slide Text
 - Array-related Functions

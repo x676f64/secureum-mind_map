@@ -5,7 +5,7 @@ There is a mismatch between what the code implements and what the corresponding 
 Update the code or the comment to be consistent
 ___
 ## Slide Screenshot
-![109.png](../../images/8.%20Audit%20Findings%20201/109.png)
+![109.jpg](../../images/8.%20Audit%20Findings%20201/109.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit MStable-1.1 Finding 6.14

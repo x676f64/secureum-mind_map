@@ -13,7 +13,7 @@ Buying discounted collateral assets could be considered as an incentive to the l
 Consider improving the incentive design to give the liquidators higher incentives to execute the liquidation process
 ___
 ## Slide Screenshot
-![177.png](../../images/8.%20Audit%20Findings%20201/177.png)
+![177.jpg](../../images/8.%20Audit%20Findings%20201/177.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit HoldeFi Finding M04

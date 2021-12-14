@@ -11,7 +11,7 @@ Consider not only fixing the specific issues mentioned, but also reviewing the e
 Furthermore, for consistency, consider reusing error messages when extremely similar conditions are checked.
 ___
 ## Slide Screenshot
-![185.png](../../images/8.%20Audit%20Findings%20201/185.png)
+![185.jpg](../../images/8.%20Audit%20Findings%20201/185.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Compound Finding N02

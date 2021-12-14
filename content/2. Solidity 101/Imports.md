@@ -3,7 +3,7 @@
 
 ___
 ## Slide Screenshot
-![010.png](../../images/2.%20Solidity%20101/010.png)
+![010.jpg](../../images/2.%20Solidity%20101/010.jpg)
 ___
 ## Slide Deck
 - Import Statements

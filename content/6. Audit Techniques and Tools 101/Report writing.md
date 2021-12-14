@@ -8,7 +8,7 @@ The audit report is a final compilation of the entire assessment and presents al
 3. It may also address subjective aspects of code quality, readability/auditability and other software-engineering best practices related to documentation, code structure, function/variable naming conventions, test coverage etc. that do not pose an imminent security risk but are indicators of anti-patterns and processes influencing the introduction and persistence of security vulnerabilities
 ___
 ## Slide Screenshot
-![087.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/087.png)
+![087.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/087.jpg)
 ___
 ## Slide Text
 - Summary & Details

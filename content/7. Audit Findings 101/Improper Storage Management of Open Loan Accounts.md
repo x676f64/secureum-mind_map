@@ -9,7 +9,7 @@ Additionally, it is possible for a malicious actor to create a denial of service
 Consider changing the `storeLoan` function to only push the account to the `accountsWithOpenLoans` array if the loan to be stored is the first one for that particular account ; 2) Introduce a limit to the number of loans each account can have.
 ___
 ## Slide Screenshot
-![068.png](../../images/7.%20Audit%20Findings%20101/068.png)
+![068.jpg](../../images/7.%20Audit%20Findings%20101/068.jpg)
 ___
 ## Slide Text
 - Sigma Prime EtherCollateral Finding 2

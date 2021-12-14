@@ -9,7 +9,7 @@ It also supports querying the function call graph in multiple ways to aid in the
 2. Commands: `graph`, `ftrace`, `flatten`, `describe`, `inheritance`, `dependencies`, `parse`, `mdreport`
 ___
 ## Slide Screenshot
-![070.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/070.png)
+![070.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/070.jpg)
 ___
 ## Slide Text
 - Visualization Tool

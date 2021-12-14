@@ -15,7 +15,7 @@ This practice will facilitate testing.
 Long term, to ensure that contracts can be tested and reused across networks, avoid using hard-coded parameters.
 ___
 ## Slide Screenshot
-![157.png](../../images/8.%20Audit%20Findings%20201/157.png)
+![157.jpg](../../images/8.%20Audit%20Findings%20201/157.jpg)
 ___
 ## Slide Text
 - ToB Audit Advanced Blockchain Finding 27

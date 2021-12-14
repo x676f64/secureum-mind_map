@@ -11,7 +11,7 @@ This poses an unnecessary risk in that an attacker could create a Proposal to ch
 Short term, add a check that prevents `setPendingAdmin` to be included in a Proposal
 ___
 ## Slide Screenshot
-![036.png](../../images/7.%20Audit%20Findings%20101/036.png)
+![036.jpg](../../images/7.%20Audit%20Findings%20101/036.jpg)
 ___
 ## Slide Text
 - ToB Audit Origin Dollar Finding 9

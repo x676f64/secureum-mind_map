@@ -9,7 +9,7 @@ Consider removing all named return variables, explicitly declaring them as local
 This should favor both explicitness and readability of the project.
 ___
 ## Slide Screenshot
-![181.png](../../images/8.%20Audit%20Findings%20201/181.png)
+![181.jpg](../../images/8.%20Audit%20Findings%20201/181.jpg)
 ___
 ## Slide Text
 - OpenZeppelin Audit HoldeFi Finding N06

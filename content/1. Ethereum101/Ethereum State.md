@@ -4,7 +4,7 @@ Ethereum state is made up of objects called "accounts", with each account having
 
 ___
 ## Slide Screenshot
-![022.png](../../images/1.%20Ethereum%20101/022.png)
+![022.jpg](../../images/1.%20Ethereum%20101/022.jpg)
 ___
 ## Slide Text
 - State -> Accounts

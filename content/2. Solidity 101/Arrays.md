@@ -10,7 +10,7 @@ Arrays can have a compile-time fixed size, or they can have a dynamic size
 4. Accessing an array past its end causes a failing assertion
 ___
 ## Slide Screenshot
-![057.png](../../images/2.%20Solidity%20101/057.png)
+![057.jpg](../../images/2.%20Solidity%20101/057.jpg)
 ___
 ## Slide Deck
 - Arrays: Static or Dynamic

@@ -2,7 +2,7 @@
 Ensure that return values of low-level calls (`call`/`callcode`/`delegatecall`/`send`/etc.) are checked to avoid unexpected failures. (see [here](https://swcregistry.io/docs/SWC-104))
 ___
 ## Slide Screenshot
-![037.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/037.png)
+![037.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/037.jpg)
 ___
 ## Slide Text
 - Function Return Values Low-Level Calls

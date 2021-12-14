@@ -12,7 +12,7 @@ The functions should first check if the passed arguments are valid first. These 
 Add tests that check if all of the arguments have been validated. Consider checking arguments as an important part of writing code and developing the system.
 ___
 ## Slide Screenshot
-![023.png](../../images/7.%20Audit%20Findings%20101/023.png)
+![023.jpg](../../images/7.%20Audit%20Findings%20101/023.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Shell Protocol Finding 6.2

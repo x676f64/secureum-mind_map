@@ -8,7 +8,7 @@ An optional ether amount in the [Value](Value.md) field will create the new cont
 
 ___
 ## Slide Screenshot
-![042.png](../../images/1.%20Ethereum%20101/042.png)
+![042.jpg](../../images/1.%20Ethereum%20101/042.jpg)
 ___
 ## Slide Text
 - Tx Result -> Creation [Transaction](Transaction.md)

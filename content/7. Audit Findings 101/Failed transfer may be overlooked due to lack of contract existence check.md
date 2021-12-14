@@ -11,7 +11,7 @@ As a result, if the tokens have not yet been deployed or have been destroyed, sa
 Short term, check the contract’s existence prior to the low-level call in `TransferHelper.safeTransfer_. Long term, avoid low-level calls.
 ___
 ## Slide Screenshot
-![054.png](../../images/7.%20Audit%20Findings%20101/054.png)
+![054.jpg](../../images/7.%20Audit%20Findings%20101/054.jpg)
 ___
 ## Slide Text
 - ToB Audit Uniswap V3 Finding 9

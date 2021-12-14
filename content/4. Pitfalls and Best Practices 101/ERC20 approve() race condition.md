@@ -3,7 +3,7 @@ Use `safeIncreaseAllowance()` and `safeDecreaseAllowance()` from OpenZeppelin’
 
 ___
 ## Slide Screenshot
-![022.png](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/022.png)
+![022.jpg](../../images/4.%20Pitfalls%20and%20Best%20Practices%20101/022.jpg)
 ___
 ## Slide Text
 - ERC20 `approve()` -> 	Race-condition

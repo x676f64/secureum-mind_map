@@ -11,7 +11,7 @@
 
 ___
 ## Slide Screenshot
-![058.png](../../images/2.%20Solidity%20101/058.png)
+![058.jpg](../../images/2.%20Solidity%20101/058.jpg)
 ___
 ## Slide Deck
 - `length`, `push`, `push(x)`, `pop`

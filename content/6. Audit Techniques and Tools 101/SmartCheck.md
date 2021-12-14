@@ -6,7 +6,7 @@
 It translates Solidity source code into an XML-based intermediate representation and checks it against XPath patterns.
 ___
 ## Slide Screenshot
-![074.png](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/074.png)
+![074.jpg](../../images/6.%20Audit%20Techniques%20and%20Tools%20101/074.jpg)
 ___
 ## Slide Text
 - Security Tool

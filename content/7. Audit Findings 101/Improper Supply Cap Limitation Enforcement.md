@@ -11,7 +11,7 @@ As a result, any account can create a loan that exceeds the maximum amount of sE
 Introduce a require statement in the `openLoan()` function to prevent the total cap from being exceeded by the loan to be opened.
 ___
 ## Slide Screenshot
-![067.png](../../images/7.%20Audit%20Findings%20101/067.png)
+![067.jpg](../../images/7.%20Audit%20Findings%20101/067.jpg)
 ___
 ## Slide Text
 - Sigma Prime EtherCollateral Finding 1

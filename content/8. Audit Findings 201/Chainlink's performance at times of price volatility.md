@@ -7,7 +7,7 @@ In order to understand the risk of the Chainlink oracle deviating significantly,
 Review Chainlink's performance at times of price volatility
 ___
 ## Slide Screenshot
-![129.png](../../images/8.%20Audit%20Findings%20201/129.png)
+![129.jpg](../../images/8.%20Audit%20Findings%20201/129.jpg)
 ___
 ## Slide Text
 - ConsenSys Audit Aave CPM Finding 5.1
