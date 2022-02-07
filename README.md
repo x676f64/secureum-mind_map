@@ -205,11 +205,9 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz Writeups
 
--
+- ***
 
----
-
----
+  ***
 
 # Slot 5 - [Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 
@@ -255,11 +253,9 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz Writeups
 
--
+- ***
 
----
-
----
+  ***
 
 # Slot 6 - [Audit Techniques & Tools 101](6.%20Audit%20Techniques%20and%20Tools%20101.md)
 
@@ -306,11 +302,9 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz Writeups
 
--
+- ***
 
----
-
----
+  ***
 
 # Slot 7 - [Audit Findings 101](7.%20Audit%20Findings%20101.md)
 
@@ -325,6 +319,12 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 3.  [Block 3](https://youtu.be/RUyED_6mkqg)
 4.  [Block 4](https://youtu.be/D1Uz0NvrqeU)
 5.  [Block 5](https://youtu.be/GX8Z0kRRi_I)
+
+### Participant Created Content
+
+- [Audit Findings 101 and 201 - D-Squared](https://youtu.be/b6zEWJwMcGc)
+
+---
 
 ### Assignment
 
@@ -344,11 +344,9 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz Writeups
 
--
+- ***
 
----
-
----
+  ***
 
 # Slot 8 [Audit Findings 201](8.%20Audit%20Findings%20201.md)
 
@@ -363,6 +361,12 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 3.  [Block 3](https://youtu.be/zAzNDwu23UI)
 4.  [Block 4](https://youtu.be/poxzr4-srn0)
 5.  [Block 5](https://youtu.be/0J7KI4WGd0Q)
+
+### Participant Created Content
+
+- [Audit Findings 101 and 201 - D-Squared](https://youtu.be/b6zEWJwMcGc)
+
+---
 
 ### Assignment
 
