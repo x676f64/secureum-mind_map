@@ -109,9 +109,11 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 2 Quiz](quizzes/2.%20Solidity%20101.md)
+
+### Quiz Writeups
+
+- [https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz](https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz)
 
 ---
 
@@ -153,11 +155,11 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 3 Quiz](quizzes/3.%20Solidity%20201.md)
 
 ### Quiz Writeups
+
+- [https://ventral.digital/posts/2021/10/30/secureum-bootcamp-solidity-201-quiz](https://ventral.digital/posts/2021/10/30/secureum-bootcamp-solidity-201-quiz)
 
 ---
 
@@ -199,15 +201,15 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 4 quiz](quizzes/4.%20Pitfalls%20and%20Best%20Practices%20101.md)
 
 ### Quiz Writeups
 
-- ***
+- [https://ventral.digital/posts/2021/11/7/secureum-bootcamp-security-pitfalls-amp-best-practices-101-quiz](https://ventral.digital/posts/2021/11/7/secureum-bootcamp-security-pitfalls-amp-best-practices-101-quiz)
 
-  ***
+---
+
+---
 
 # Slot 5 - [Pitfalls and Best Practices 201](5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 
@@ -247,15 +249,15 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 5 quiz](quizzes/5.%20Pitfalls%20and%20Best%20Practices%20201.md)
 
 ### Quiz Writeups
 
-- ***
+- [https://ventral.digital/posts/2021/11/14/secureum-bootcamp-security-pitfalls-amp-best-practices-201-quiz](https://ventral.digital/posts/2021/11/14/secureum-bootcamp-security-pitfalls-amp-best-practices-201-quiz)
 
-  ***
+---
+
+---
 
 # Slot 6 - [Audit Techniques & Tools 101](6.%20Audit%20Techniques%20and%20Tools%20101.md)
 
@@ -296,15 +298,15 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 6 quiz](quizzes/6.%20Audit%20Techniques%20and%20Tools%20101.md)
 
 ### Quiz Writeups
 
-- ***
+- [https://ventral.digital/posts/2021/11/21/secureum-bootcamp-audit-techniques-tools-101-quiz](https://ventral.digital/posts/2021/11/21/secureum-bootcamp-audit-techniques-tools-101-quiz)
 
-  ***
+---
+
+---
 
 # Slot 7 - [Audit Findings 101](7.%20Audit%20Findings%20101.md)
 
@@ -338,15 +340,15 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 7 Quiz](quizzes/7.%20Audit%20Fndings%20101.md)
 
 ### Quiz Writeups
 
-- ***
+- [https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-101-quiz](https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-101-quiz)
 
-  ***
+---
+
+---
 
 # Slot 8 [Audit Findings 201](8.%20Audit%20Findings%20201.md)
 
@@ -384,10 +386,18 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Quiz
 
----
-
 - [Slot 8 Quiz](quizzes/8.%20Audit%20Findings%20201.md)
 
 ### Quiz Writeups
 
--
+- [https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-201-quiz](https://ventral.digital/posts/2021/11/28/secureum-bootcamp-audit-findings-201-quiz)
+
+---
+
+---
+
+# Extras
+
+- [patrickd's CARE Report for Sushi's BentoBox Strategies](https://ventral.digital/posts/2022/2/10/secureum-bootcamp-care-audit-sushi-bentobox-strategies)
+- [Epoch∞ - February RACE #4 Quiz Writeup](https://ventral.digital/posts/2022/2/9/secureum-bootcamp-february-race-4)
+
