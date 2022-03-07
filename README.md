@@ -131,7 +131,7 @@ Here is an awesome resource from [patrickd](https://twitter.com/patrickd_de) who
 
 ### Youtube Videos
 
-1.  [Block 1](https://youtu.be/3bFgsmsQXr)
+1.  [Block 1](https://youtu.be/3bFgsmsQXrE)
 2.  [Block 2](https://youtu.be/TqMIbouwePE)
 3.  [Block 3](https://youtu.be/C0zBhTgppLQ)
 4.  [Block 4](https://youtu.be/L_9Fk6HRwpU)
