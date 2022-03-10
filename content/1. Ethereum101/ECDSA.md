@@ -13,4 +13,5 @@ ___
 - Elliptic Curves Finite Fields
 ___
 ## References
--   [Wikipedia - Elliptic Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography))
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=3765)
+- [Wikipedia - Elliptic Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography))

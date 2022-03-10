@@ -21,5 +21,9 @@
 [^1]: (Mnemonic, Stack items placed, Stack items removed)
 
 ___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=388)
+
+___
 ## Tags
 [Instruction Set](Instruction%20Set.md)

@@ -13,4 +13,7 @@ ___
 - Not enough Gas -> 00G Error (Out of gas error)
 - For each tx there is an estimated gas cost calculated
 - Excess gas -> sent back 
+___
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=1056)
 

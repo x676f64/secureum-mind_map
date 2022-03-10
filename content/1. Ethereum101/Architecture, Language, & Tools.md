@@ -15,8 +15,10 @@ ___
 - [Solidity](../2.%20Solidity%20101/Solidity.md), Vyper, & others
 - Hardhat, Truffle, Brownie, OpenZeppelin, Dapptools, etc
 - Slither, Mythril/MythX, Manticore 
-
+___
 ## Resources
 - [Slither](https://github.com/crytic/slither)
 - [Mythril](https://github.com/ConsenSys/mythril)
-
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=2517)

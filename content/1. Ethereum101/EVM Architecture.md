@@ -12,4 +12,6 @@ ___
 - Non-Volatile [Storage](Storage.md) Calldata
 - Word Size -> 256-bits
 - Helped facilitate Keccak256 & Elliptic Curve Cryptography 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=1640)

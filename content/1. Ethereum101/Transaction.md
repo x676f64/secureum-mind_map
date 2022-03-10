@@ -16,6 +16,7 @@ ___
 ___
 ## References 
 - [Ethereum Book: Chapter 06 - Transactions](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=562)
 ___
 ## Tags
 [Transaction Gas](Transaction%20Gas.md), [Transaction Data](Transaction%20Data.md), [Transaction Reverts](Transaction%20Reverts.md),[Transaction Receipt](Transaction%20Receipt.md), [Transaction Properties](Transaction%20Properties.md), [Transactions vs Messages](Transactions%20vs%20Messages.md), [ECDSA](ECDSA.md)

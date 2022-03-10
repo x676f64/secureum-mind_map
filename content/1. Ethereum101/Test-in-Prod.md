@@ -15,5 +15,8 @@ ___
 - Mechanism Design
 - Real-World Failure Modes -> Mainnet
 - Economic Exploits don't exist in dev networks
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=3935)
  
 

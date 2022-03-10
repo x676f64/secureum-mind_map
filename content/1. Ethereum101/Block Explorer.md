@@ -23,3 +23,6 @@ ___
 - [Bloxy.info](https://bloxy.info)
 - [BitQuery Explorer](https://explorer.bitquery.io)
 - [Ethtective](https://ethtective.com/)
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=349)

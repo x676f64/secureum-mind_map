@@ -15,5 +15,8 @@ ___
 - Untrusted by default
 - Users <-> abusers
 ___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=2885)
+___
  ## Tags
  [Web2 vs. Web3](Web2%20vs.%20Web3.md)

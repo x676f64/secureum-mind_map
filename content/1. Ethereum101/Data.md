@@ -10,3 +10,6 @@ ___
 - Data: Sender -> [Recipient](Recipient.md)
 - Recipient -> [Contract Account](Contract%20Account.md)
 - Data -> Contract Function and arguments
+___
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=1367)

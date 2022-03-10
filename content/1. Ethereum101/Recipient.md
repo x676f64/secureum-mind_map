@@ -18,7 +18,6 @@ ___
 - Target address
 - No from address
 - Can be derived from [v, r, s](v,%20r,%20s.md) -> pub key -> address 
-
-
-
-recipient
+___
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=1155)

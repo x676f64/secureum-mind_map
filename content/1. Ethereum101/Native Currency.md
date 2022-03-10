@@ -12,3 +12,6 @@ ___
 - 10\*\*18 Wei -> 1 Ether
 - 10\*\*3 Wei -> 1 Babbage
 - 10\*\*6 Wei -> 1 Lovelace
+___
+## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=3508)

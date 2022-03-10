@@ -44,8 +44,8 @@ ___
 - timestamp -> time block was mined
 
 ## References
-
-- https://ethereum.github.io/yellowpaper/paper.pdf
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=962)
+- [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
   
 

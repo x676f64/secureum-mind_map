@@ -19,4 +19,6 @@ ___
 - Codehash/StorageRoot can be empty (EOA)
 - codehash -> [Keccak256](Keccak256.md) of contract bytecode
 - storageRoot -> Root hash of merkle-patricia tree -> leaves represent Account Storage 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=1140)

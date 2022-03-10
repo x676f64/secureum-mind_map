@@ -25,7 +25,7 @@ ___
   - Rinkeby: PoA Geth
   - Ropsten: PoW
   - Small number of accounts that are approved
-
-
- 
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=468)
 

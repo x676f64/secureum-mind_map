@@ -29,3 +29,4 @@ ___
 ___
 ## References
 - [Ethereum Book: Chapter 06 - Transactions](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=829)

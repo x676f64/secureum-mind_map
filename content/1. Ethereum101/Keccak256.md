@@ -22,4 +22,5 @@ Get the Keccak256 hash for the value: `ethereum_string`
 ```
 ___
 ## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=372)
 - [Ethereum Book: Chapter 4 - Keys & Addresses](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc)

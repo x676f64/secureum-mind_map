@@ -13,5 +13,6 @@ ___
 - Any State/Rule -> Can do any [ÐApp](Dapp.md) without unknown constraints 
 ___
 ## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=289)
 - [Ethereum.org - Whitepaper](https://ethereum.org/en/whitepaper/)
 

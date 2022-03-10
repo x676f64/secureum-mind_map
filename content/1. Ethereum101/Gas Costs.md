@@ -14,4 +14,6 @@ ___
 ## Slide Text
 - Diff Instructions -> Diff costs
 - Depends on computational/storage load
-
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=1397)

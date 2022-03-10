@@ -11,3 +11,6 @@ ___
 - Swarm -> Storage
 - Whisper/Waku -> Network
 - Triad -> Ethereum, Swarm, and Whisper/Waku
+___
+## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=3278)

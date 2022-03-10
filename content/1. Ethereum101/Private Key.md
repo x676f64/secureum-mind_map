@@ -11,3 +11,6 @@ ___
 - Random Number
 - Private Key -> [Public Key](Public%20Key.md)
 - [Public Key](Public%20Key.md) -> Address
+___
+## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=3860)

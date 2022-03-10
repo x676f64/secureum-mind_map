@@ -11,6 +11,8 @@ ___
 - EVM uses Big-Endian
 - MSB -> Lowest Address
 - LSB -> Highest Address
-
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=213)
  
 

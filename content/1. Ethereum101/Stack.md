@@ -13,4 +13,6 @@ ___
 - Most EVM Operations -> Stack Elements
 - Stack-Based Architecture Top 16 Elements
 - Stack-specific Operations (PUSH/POP/SWAP/DUP) 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=1710)
