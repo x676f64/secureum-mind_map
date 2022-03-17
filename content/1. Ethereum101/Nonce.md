@@ -14,4 +14,4 @@ ___
 ___
 ## References
 - [Ethereum Book: Chapter 06 - Transactions (Transaction Nonce)](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc#the-transaction-nonce)
-
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=934)

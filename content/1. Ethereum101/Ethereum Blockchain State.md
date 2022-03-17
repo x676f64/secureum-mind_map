@@ -21,3 +21,6 @@ ___
 - Single Root Node -> Root Hash
 
 [^1]:https://thecryptoconundrum.net/ethereum_explained/developers_corner.html
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=748)

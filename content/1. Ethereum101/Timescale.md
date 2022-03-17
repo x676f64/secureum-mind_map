@@ -17,4 +17,6 @@ ___
 - Token Incentivized & Execution Speed
 - Security X -> Design & Dev
 - Vulns & Exploits 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=3741)

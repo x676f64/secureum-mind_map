@@ -12,3 +12,6 @@ ___
 - Higher -> Faster block inclusion by miner (higher order)
 - Price -> Demand
 - Block -> Limit 
+___
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=995)

@@ -14,5 +14,8 @@ Information about the Transaction's Block
 [^2]:Can have security implications if the block requested is not in the most recent 256 blocks because it can return 0.
 
 ___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=622)
+___
 ## Tags
 [Instruction Set](Instruction%20Set.md)

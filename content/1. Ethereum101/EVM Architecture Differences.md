@@ -15,3 +15,6 @@ ___
 - Together vs Separate 
 - EVM Code -> Virtual ROM 
 - Special Instruction 
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=174)

@@ -14,4 +14,6 @@ ___
 - Low-Level & Stack-based EVM Machine Code
 - Seies of Bytes -> Bytecode
 - One byte -> one operation
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=1608)

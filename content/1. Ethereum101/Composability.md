@@ -21,5 +21,8 @@ ___
 - Components, Configs, & Dependencies
 - Vulnerabilities, Exploits, & Attack Surface 
 ___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=3501)
+___
 ## Tags
 [Web2 vs. Web3](Web2%20vs.%20Web3.md)

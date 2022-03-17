@@ -16,4 +16,6 @@ ___
 - Tx -> Set of Logs
 - Logs -> Bloom Filter
 - Tx Status Code 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=1241)

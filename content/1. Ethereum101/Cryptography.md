@@ -12,5 +12,8 @@ ___
 - Private Key derives public key
 - Digital Signatures, Not Encryption
 ___
+## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=3617)
+___
 ## Tags
 [ECDSA](ECDSA.md), [Nonce](Nonce.md), [Private Key](Private%20Key.md), [Public Key](Public%20Key.md)

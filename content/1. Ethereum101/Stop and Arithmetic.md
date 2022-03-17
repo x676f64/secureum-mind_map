@@ -15,7 +15,10 @@
 |         0x09          |   MULMOD 3 1   | Modulo multiplication operation                  | 8       |
 |         0x0a         |    EXP 2 1     | Exponential operation                            | 10 [^2] |
 |         0x0b         | <nobr>SIGNEXTEND 2 1</nobr> | Extend length of two’s complement signed integer | 5       |
- 
+
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=287)
 ___
 ## Tags
 [Instruction Set](Instruction%20Set.md)

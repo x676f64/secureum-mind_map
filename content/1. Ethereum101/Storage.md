@@ -19,4 +19,6 @@ ___
 - Zero initialized
 - storageRoot -> stateRoot
 - SLOAD/SSTORE 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=46)

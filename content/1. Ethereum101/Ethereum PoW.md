@@ -17,4 +17,7 @@ ___
 - N: Nonce, Hd - Difficulty
 - m: Mix hash, d: data set
 - A certain amount of work is required before the miner can mine the block 
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=878)
 

@@ -22,3 +22,6 @@ ___
 - if sent to contract, what happens is dictated by [Calldata](Calldata.md)
 - calldata represents Contract Function and parameters
 - If no [Calldata](Calldata.md) sent in tx, but ether is sent receive/fallback exception are triggered
+___
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=1255)

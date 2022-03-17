@@ -10,3 +10,6 @@ ___
 - Private Key derives Public Key
 - Public Key is hashed with Keccak256
 - Last 20 bytes are used from public key as the address (least signficant bytes) (160 bits) 
+___
+## References
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=490)

@@ -15,4 +15,7 @@ ___
 - No single entity -> Can stop/change Dapp/Infra/Gov
 - Contract Owners-> Should not be able to change/stop/upgrade or kill
 - Harder -> Fixing vulnerabilities or incident response 
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=1970)
 

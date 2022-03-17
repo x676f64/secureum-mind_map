@@ -22,4 +22,6 @@ ___
 - Privacy & Anonymity
 - Web3 Principles & Practices
 - Paradigm Security Shift 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=1314)

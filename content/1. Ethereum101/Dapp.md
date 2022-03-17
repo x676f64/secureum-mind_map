@@ -12,7 +12,9 @@ ___
 - Web App + P2P infrastructure
 - P2P -> Compute, Storage, or Network
 - [ÐApp](Dapp.md) -> Web App + [Smart Contract](Smart%20Contracts.md)
-
+___
+## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=2830)
 ___
 ## Tags
 [Web3](Web3.md)

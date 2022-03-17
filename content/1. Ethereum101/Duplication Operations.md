@@ -10,5 +10,8 @@
 [^2]:DUP2, DUP3..DUP15 duplicate 2nd, 3rd..15th stack item respectively
 
 ___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=816)
+___
 ## Tags
 [Instruction Set](Instruction%20Set.md)

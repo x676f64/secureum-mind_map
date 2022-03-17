@@ -15,5 +15,7 @@ ___
 - Linear Byte-array/Byle-level addressable
 - Zero-initialized
 - MLOAD/MSTORE/MSTORE8
- 
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs)
 

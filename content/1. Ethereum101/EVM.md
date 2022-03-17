@@ -13,3 +13,6 @@ ___
 - [Smart Contracts](Smart%20Contracts.md) -> Runtime Environment
 - Quasi Turing Complete (finite computation)
 - [Turing Complete](Turing%20Complete.md) -> Gas Bounded Computation
+___
+## References
+- [Youtube Reference](https://youtu.be/ltvTIr4K63s?t=1452)

@@ -14,4 +14,6 @@ ___
 - Read-only
 - Byte-addressable
 - Three Instructions -> CALLDATASIZE, CALLDATALOAD, CALLDATACOPY 
-
+___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=131)

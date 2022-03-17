@@ -20,5 +20,8 @@ ___
 - Pending Tx's -> Mempool
 - No security by obscurity 
 ___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=1744)
+___
 ## Tags
 [Block Explorer](Block%20Explorer.md)

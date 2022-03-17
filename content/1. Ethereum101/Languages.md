@@ -13,6 +13,9 @@ ___
 - [Smart Contracts](Smart%20Contracts.md) -> Solidity, Vyper
 - Solidity -> Most popular
 ___
+## References
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=1449)
+___
 ## Tags
 [Web2 vs. Web3](Web2%20vs.%20Web3.md)
 

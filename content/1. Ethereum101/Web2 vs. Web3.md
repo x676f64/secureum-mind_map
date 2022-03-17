@@ -16,3 +16,6 @@ ___
 	- Storage
 	- Network
 - Decentralized Incentivized Participation
+___
+## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=2940)

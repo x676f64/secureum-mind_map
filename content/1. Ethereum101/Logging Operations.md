@@ -25,5 +25,8 @@ ___
 - Can be critical how contracts communicate some parts of state to off-chain tools 
 
 ___
+## References
+- [Youtube Reference](https://youtu.be/MFoxW07ICKs?t=872)
+___
 ## Tags
 - [Instruction Set](Instruction%20Set.md)

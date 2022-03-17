@@ -27,4 +27,5 @@ ethlive
 ```
 ___
 ## References
-[Ethereum Book: Chapter 06 - Transactions (Digital Signatures)](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc#digital-signatures))
+- [Youtube Reference](https://youtu.be/zIeBfuXxuWs?t=1395)
+- [Ethereum Book: Chapter 06 - Transactions (Digital Signatures)](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc#digital-signatures))

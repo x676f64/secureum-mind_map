@@ -14,4 +14,7 @@ Next Gen blockchain
 - Decentralized Application Platform ([Dapp](Dapp.md))
 ___
 ## References
-[Ethereum.org - Whitepaper](https://ethereum.org/en/whitepaper/)
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=193)
+- [Ethereum.org - Whitepaper](https://ethereum.org/en/whitepaper/) 
+
+

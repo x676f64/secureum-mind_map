@@ -27,4 +27,5 @@ ___
 
 ___
 ## References
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=2388)
 - [Ethereum Book: Chapter 01 - What is Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc)

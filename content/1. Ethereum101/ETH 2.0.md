@@ -19,3 +19,4 @@ Manifests three ways:
 ___
 ## References
 - [Ethereum.org - ETH2](https://ethereum.org/en/eth2/)
+- [Youtube Reference](https://youtu.be/I-TjCtjDs1M?t=791)

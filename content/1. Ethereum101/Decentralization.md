@@ -12,4 +12,5 @@ ___
 - Logical decentralizations -> Data structures (software)
 ___
 ## References
--[Vitalik Buterin - The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274):
+- [Youtube Reference](https://youtu.be/44qhIBMGMoM?t=3325)
+- [Vitalik Buterin - The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274):
