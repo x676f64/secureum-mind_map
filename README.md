@@ -1,4 +1,4 @@
-**All information was original created by** [0xRajeev](https://twitter.com/0xRajeev) that he has developed from other public sources. This content is for the Secureum Epoch0 Bootcamp for Smart Contract auditng. The plan is to grow this over time. Pull requests accepted.
+**All information was original created by** [0xRajeev](https://twitter.com/0xRajeev) that he has developed from other public sources. This content is for the Secureum Epoch0 Bootcamp for Smart Contract auditing. The plan is to grow this over time. Pull requests accepted.
 
 ---
 
