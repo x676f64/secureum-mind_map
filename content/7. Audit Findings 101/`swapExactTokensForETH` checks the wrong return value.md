@@ -20,4 +20,8 @@ ___
 - Youtube Reference
 - Major severity finding from [Consensys Diligence Audit of DAOfi](https://consensys.net/diligence/audits/2021/02/daofi/#the-swapexacttokensforeth-checks-the-wrong-return-value)
 ___
+## Audit Screenshot
+![image](https://user-images.githubusercontent.com/62179036/143719159-3983380d-ae7d-4a00-b855-fafeb8c9c40c.png)
+__
 ## Tags
+- Correctly checking function return values 142 175 [Pitfalls.201]
