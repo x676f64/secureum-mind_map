@@ -17,7 +17,7 @@ Solidity v0.8.0 New Restrictions - changes that might cause existing contracts t
     
 8. enum definitions cannot contain more than 256 members. This will make it safe to assume that the underlying type in the ABI is always uint8.
     
-9. Declarations with the name this, `super` and \` are disallowed, with the exception of public functions and events. 
+9. Declarations with the name `this`, `super` and `_` are disallowed, with the exception of public functions and events. 
     
 10. The global variables `tx.origin` and `msg.sender` have the type address instead of address payable. One can convert them into address payable by using an explicit conversion.
     
