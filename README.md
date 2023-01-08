@@ -4,12 +4,10 @@
 
 Information I would like to add (my wish list):
 
-- [X] Links to the relevant topic on youtube at that specific point in the video. -- This is now complete in all sections except for Ethereum 101
-- [ ] "Speech to text" of what is said for each topic by Rajeev in the videos
 - [ ] Solidity example where applicable
-- [ ] Add dapptool examples for relevant topics
 - [ ] Add Forge examples for relevant topics
 
+Please report any errors or rendering issues. Happy to accept PR's that improve upon the content.
 
 ---
 
