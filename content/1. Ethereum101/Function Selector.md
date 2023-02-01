@@ -11,7 +11,7 @@ ___
 ![082.jpg](../../images/1.%20Ethereum%20101/082.jpg)
 ___
 ## Slide Text
-- Specifics the exact function that needs to be called
+- Specifies the exact function that needs to be called
 - Selector -> Contract Function
 - First 4 bytes -> Keccak256(fn sig)
 - Function signature -> Name(param1type,param2type)
