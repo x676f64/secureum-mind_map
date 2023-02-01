@@ -12,7 +12,7 @@ ___
 ## Slide Text
 - 3 Purpose
 - Authorization -> Proves authority
-- Non-Reupdiation
+- Non-Repudiation
 - Auth -> Undeniable
 - Integrity
 - Tx Data X -> Proves can't be modified
