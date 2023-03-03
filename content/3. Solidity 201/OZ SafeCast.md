@@ -3,7 +3,7 @@ OpenZeppelin SafeCast: Wrappers over Solidity's uintXX/intXX casting operators w
 
 1. `toUint128(uint256 value) returns (uint128)`: Returns the downcasted `uint128` from `uint256`, reverting on overflow (when the input is greater than largest `uint128`). Similar functions are available for `toUint64(uint256 value)`, `toUint32(uint256 value)`, `toUint16(uint256 value)`, `toUint8(uint256 value)`
     
-2. `toInt128(int256 value) internal pure returns (uint256)`: Returns the downcasted int128 from `int256`, reverting on overflow (when the input is less than smallest `int128` or greater than largest `int128`). Similar functions are available for `toInt64(int256 value)`, `toInt32(int256 value)`, `toInt16(int256 value)`, `toInt8(int256 value)`.
+2. `toInt128(int256 value) internal pure returns (int256)`: Returns the downcasted int128 from `int256`, reverting on overflow (when the input is less than smallest `int128` or greater than largest `int128`). Similar functions are available for `toInt64(int256 value)`, `toInt32(int256 value)`, `toInt16(int256 value)`, `toInt8(int256 value)`.
     
 3. `function toInt256(uint256 value) returns (int256)`: Converts an unsigned `uint256` into a signed `int256`
     
