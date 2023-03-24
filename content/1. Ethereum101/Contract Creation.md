@@ -1,10 +1,12 @@
 # 42 - [Contract Creation](Contract%20Creation.md)
 
-Contract creation transactions are sent to a special destination address called the zero address i.e. `0x0`. 
+When creating a contract from an externally owned account (EOA), you set the "to" value to "null" or "0x0" or just leave it empty. This is to indicate that this transaction is not directed at a specific address but is instead a contract creation transaction.
 
 A contract creation transaction contains a data payload with the compiled bytecode to create the contract. 
 
 An optional ether amount in the [Value](Value.md) field will create the new contract with a starting balance.
+
+
 
 ___
 ## Slide Screenshot
@@ -12,7 +14,7 @@ ___
 ___
 ## Slide Text
 - Tx Result -> Creation [Transaction](Transaction.md)
-- Create tx -> Sent to special 0 address (0x0)
+- Create tx -> Sent to "null", "0x0" or empty
 - Data Payload -> Contract Bytecode
 - Value -> Optional Starting Contract Ether Balance
  ___
