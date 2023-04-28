@@ -31,5 +31,6 @@ ___
 ___
 ## References
 - Youtube Reference
+- High Risk severity finding from [OpenZeppelin's Audit of Uma](https://blog.openzeppelin.com/uma-audit-phase-1/)
 ___
 ## Tags
