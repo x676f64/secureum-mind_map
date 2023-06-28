@@ -21,7 +21,7 @@ ___
 - [Youtube Reference](https://youtu.be/6VIJpze1jbU?t=1075)
 ___
 ## Tags
-[Send](Send.
-Transfer](Transfer.md)
+[Send](Send.md)
+[Transfer](Transfer.md)
 
 
